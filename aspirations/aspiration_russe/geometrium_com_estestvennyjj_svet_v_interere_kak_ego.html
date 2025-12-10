@@ -1,0 +1,1936 @@
+<!DOCTYPE html>
+<html lang="ru-RU" id="lang-ru">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",t=>{this.persisted=t.persisted}),window.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(t){if(document.hidden){t._triggerListener();return}this.triggerEvents.forEach(e=>window.addEventListener(e,t.userEventHandler,{passive:!0})),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(t){t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))})}_waitForPendingClicks(){return new Promise(t=>{this._isClickPending?this._pendingClickFinished=t:t()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(t,e,r){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(r,event.target.getAttribute(e)),event.target.removeAttribute(e))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(e=>{if(e.hasAttribute("src")){let r=new URL(e.src).origin;r!==location.origin&&t.push({src:r,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this._batchInjectResourceHints(t,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(this),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _transformScript(t){return new Promise((await this._littleBreath(),navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)?e=>{let r=document.createElement("script");[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),r.setAttribute(e,t.nodeValue))}),t.text&&(r.text=t.text),r.hasAttribute("src")?(r.addEventListener("load",e),r.addEventListener("error",e)):(r.text=t.text,e());try{t.parentNode.replaceChild(r,t)}catch(i){e()}}:async e=>{function r(){t.setAttribute("data-rocket-status","failed"),e()}try{let i=t.getAttribute("data-rocket-type"),n=t.getAttribute("data-rocket-src");t.text,i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",function r(){t.setAttribute("data-rocket-status","executed"),e()}),t.addEventListener("error",r),n?(t.removeAttribute("data-rocket-src"),t.src=n):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}catch(s){r()}})}async _loadScriptsFromList(t){let e=t.shift();return e&&e.isConnected?(await this._transformScript(e),this._loadScriptsFromList(t)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(t,e){var r=document.createDocumentFragment();t.forEach(t=>{let i=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(i){let n=document.createElement("link");n.href=i,n.rel=e,"preconnect"!==e&&(n.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),r.appendChild(n),this.trash.push(n)}}),document.head.appendChild(r)}_delayEventListeners(t){let e={};function r(t,r){!function t(r){!e[r]&&(e[r]={originalFunctions:{add:r.addEventListener,remove:r.removeEventListener},eventsToRewrite:[]},r.addEventListener=function(){arguments[0]=i(arguments[0]),e[r].originalFunctions.add.apply(r,arguments)},r.removeEventListener=function(){arguments[0]=i(arguments[0]),e[r].originalFunctions.remove.apply(r,arguments)});function i(t){return e[r].eventsToRewrite.indexOf(t)>=0?"rocket-"+t:t}}(t),e[t].eventsToRewrite.push(r)}function i(t,e){let r=t[e];Object.defineProperty(t,e,{get:()=>r||function(){},set(i){t["rocket"+e]=r=i}})}r(document,"DOMContentLoaded"),r(window,"DOMContentLoaded"),r(window,"load"),r(window,"pageshow"),r(document,"readystatechange"),i(document,"onreadystatechange"),i(window,"onload"),i(window,"onpageshow")}_delayJQueryReady(t){let e;function r(r){if(r&&r.fn&&!t.allJQueries.includes(r)){r.fn.ready=r.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(r):document.addEventListener("rocket-DOMContentLoaded",()=>e.bind(document)(r)),r([])};let i=r.fn.on;r.fn.on=r.fn.init.prototype.on=function(){if(this[0]===window){function t(t){return t.split(" ").map(t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=t(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(e=>{delete Object.assign(arguments[0],{[t(e)]:arguments[0][e]})[e]})}return i.apply(this,arguments),this},t.allJQueries.push(r)}e=r}r(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){r(t)}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this._littleBreath();let t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){let t=new Map;document.write=document.writeln=function(e){let r=document.currentScript;r||console.error("WPRocket unable to document.write this: "+e);let i=document.createRange(),n=r.parentElement,s=t.get(r);void 0===s&&(s=r.nextSibling,t.set(r,s));let a=document.createDocumentFragment();i.setStart(a,0),a.appendChild(i.createContextualFragment(e)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}_emptyTrash(){this.trash.forEach(t=>t.remove())}static run(){let t=new RocketLazyLoadScripts;t._addUserInteractionListener(t)}}RocketLazyLoadScripts.run();</script>
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Свет в интерьере: роль естественного света в интерьер | Дизайн студия интерьера Geometrium </title>
+
+<link rel="stylesheet" href="https://geometrium.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.5" type="text/css" media="all" />
+    <link data-minify="1" rel="stylesheet" href="https://geometrium.com/wp-content/cache/min/1/wp-content/themes/Geometrium-template/css/critical-white.css?ver=1765354708">
+    <link data-minify="1" rel="stylesheet" href="https://geometrium.com/wp-content/cache/min/1/wp-content/themes/Geometrium-template/css/important_style.min.css?ver=1765354696">
+
+    <link rel="stylesheet" href="https://geometrium.com/wp-content/themes/Geometrium-template/css/aos_animation_show.min.css">
+
+
+            <link rel="stylesheet" href="https://geometrium.com/wp-content/themes/Geometrium-template/css/page-residential-design.min.css">
+       <!-- Programmatic.ru tag manager --> 
+    <script type="rocketlazyloadscript" async data-rocket-type='text/javascript' data-rocket-src='https://dmp.programmatic.ru/assets/ptm'></script> 
+    <!-- Programmatic.ru tag manager -->
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Свет в интерьере: какие варианты существуют в использовании света в дизайне интерьера. Студия дизайна в Москве GEOMETRIUM." />
+	<link rel="canonical" href="https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Свет в интерьере: роль естественного света в интерьер | Дизайн студия интерьера Geometrium" />
+	<meta property="og:description" content="Свет в интерьере: какие варианты существуют в использовании света в дизайне интерьера. Студия дизайна в Москве GEOMETRIUM." />
+	<meta property="og:url" content="https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/" />
+	<meta property="og:site_name" content="Дизайн студия интерьера Geometrium" />
+	<meta property="article:published_time" content="2014-08-28T20:55:33+00:00" />
+	<meta property="article:modified_time" content="2024-07-29T08:59:33+00:00" />
+	<meta property="og:image" content="https://geometrium.com/wp-content/uploads/2014/08/photo-1024x819.jpg" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="819" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="marketingGeometrium" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@ivanov7aleksey" />
+	<meta name="twitter:site" content="@ivanov7aleksey" />
+	<meta name="twitter:label1" content="Написано автором" />
+	<meta name="twitter:data1" content="marketingGeometrium" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#article","isPartOf":{"@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/"},"author":{"name":"Валерия Литвиненко","@id":"https://geometrium.com/#/schema/person/4e7662b95d21d9c38fdfd5e19f49607b"},"headline":"Естественный свет в интерьере: как его лучше использовать","datePublished":"2014-08-28T20:55:33+00:00","dateModified":"2024-07-29T08:59:33+00:00","mainEntityOfPage":{"@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/"},"wordCount":478,"commentCount":0,"publisher":{"@id":"https://geometrium.com/#organization"},"image":{"@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#primaryimage"},"thumbnailUrl":"https://geometrium.com/wp-content/uploads/2014/08/photo-1024x819.jpg","keywords":["АЛЕКСЕЙ ИВАНОВ"],"articleSection":["Статьи о дизайне интерьера"],"inLanguage":"ru-RU","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#respond"]}]},{"@type":"WebPage","@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/","url":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/","name":"Свет в интерьере: роль естественного света в интерьер | Дизайн студия интерьера Geometrium","isPartOf":{"@id":"https://geometrium.com/#website"},"primaryImageOfPage":{"@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#primaryimage"},"image":{"@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#primaryimage"},"thumbnailUrl":"https://geometrium.com/wp-content/uploads/2014/08/photo-1024x819.jpg","datePublished":"2014-08-28T20:55:33+00:00","dateModified":"2024-07-29T08:59:33+00:00","description":"Свет в интерьере: какие варианты существуют в использовании света в дизайне интерьера. Студия дизайна в Москве GEOMETRIUM.","breadcrumb":{"@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/"]}]},{"@type":"ImageObject","inLanguage":"ru-RU","@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#primaryimage","url":"https://geometrium.com/wp-content/uploads/2014/08/photo-1024x819.jpg","contentUrl":"https://geometrium.com/wp-content/uploads/2014/08/photo-1024x819.jpg","width":1024,"height":819},{"@type":"BreadcrumbList","@id":"https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница","item":"https://geometrium.com/"},{"@type":"ListItem","position":2,"name":"Естественный свет в интерьере: как его лучше использовать"}]},{"@type":"WebSite","@id":"https://geometrium.com/#website","url":"https://geometrium.com/","name":"Дизайн студия интерьера Geometrium","description":"Архитектурное и дизайн бюро разрабатывает проекты дизайна интерьера квартир, домов, гостиниц, кафе в современном стиле из натуральных материалов","publisher":{"@id":"https://geometrium.com/#organization"},"alternateName":"Студия дизайна интерьера и архитектурное бюро в Москве Geometrium. Дизайн проекты премиум сегмента и архитектурное проектирование для инвестиционной недвижимости.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://geometrium.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"Organization","@id":"https://geometrium.com/#organization","name":"Дизайн студия интерьера Geometrium - функциональные интерьеры в современном стиле с использованием натуральных и экологичных материалов","alternateName":"Студия дизайна интерьера и архитектурное бюро в Москве Geometrium. Дизайн проекты премиум сегмента и архитектурное проектирование для инвестиционной недвижимости.","url":"https://geometrium.com/","logo":{"@type":"ImageObject","inLanguage":"ru-RU","@id":"https://geometrium.com/#/schema/logo/image/","url":"https://geometrium.com/wp-content/uploads/2024/01/favicon.jpg","contentUrl":"https://geometrium.com/wp-content/uploads/2024/01/favicon.jpg","width":272,"height":272,"caption":"Дизайн студия интерьера Geometrium - функциональные интерьеры в современном стиле с использованием натуральных и экологичных материалов"},"image":{"@id":"https://geometrium.com/#/schema/logo/image/"},"sameAs":["https://x.com/ivanov7aleksey","https://www.youtube.com/channel/UCssuw4KHM9I7_whvaIjyU5g","https://www.instagram.com/geometrium","https://t.me/geometrium","https://vk.com/geometrium"]},{"@type":"Person","@id":"https://geometrium.com/#/schema/person/4e7662b95d21d9c38fdfd5e19f49607b","name":"Валерия Литвиненко","jobTitle":"Арт-директор интерьерного направления Geometrium","url":"https://geometrium.com/valeriya-litvinenko/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//google.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//calltouch.ru' />
+<link rel='dns-prefetch' href='//mod.calltouch.ru' />
+<link rel='dns-prefetch' href='//gstatic.com' />
+<link rel='dns-prefetch' href='//widget.yourgood.app' />
+<link rel="alternate" type="application/rss+xml" title="Дизайн студия интерьера Geometrium &raquo; Лента комментариев к &laquo;Естественный свет в интерьере: как его лучше использовать&raquo;" href="https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/feed/" />
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/geometrium.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel='stylesheet' id='contact-form-7-css' href='https://geometrium.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1765354696' type='text/css' media='all' />
+<link rel='stylesheet' id='blog-min-sk-css' href='https://geometrium.com/wp-content/themes/Geometrium-template/css/blog.min.css?ver=1765354890' type='text/css' media='' />
+<link rel='stylesheet' id='post-min-sk-css' href='https://geometrium.com/wp-content/themes/Geometrium-template/css/post.min.css?ver=1765354890' type='text/css' media='' />
+<link data-minify="1" rel='stylesheet' id='custom-sk-css' href='https://geometrium.com/wp-content/cache/min/1/wp-content/themes/Geometrium-template/css/custom.css?ver=1765354696' type='text/css' media='' />
+<link rel='stylesheet' id='fancybox-css' href='https://geometrium.com/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=6.4.7' type='text/css' media='screen' />
+<link rel="https://api.w.org/" href="https://geometrium.com/wp-json/" /><link rel="alternate" type="application/json" href="https://geometrium.com/wp-json/wp/v2/posts/957" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://geometrium.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.7" />
+<link rel='shortlink' href='https://geometrium.com/?p=957' />
+<link rel="alternate" type="application/json+oembed" href="https://geometrium.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeometrium.com%2Festestvennyjj-svet-v-interere-kak-ego%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://geometrium.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeometrium.com%2Festestvennyjj-svet-v-interere-kak-ego%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:3.1.5 stt:47,1;0" />
+
+<style type="text/css">#lang_sel_list a.lang_sel_sel, #lang_sel_list a.lang_sel_sel:visited{color:#444444;}#lang_sel_list a:hover, #lang_sel_list a.lang_sel_sel:hover{color:#000000;}#lang_sel_list a.lang_sel_sel, #lang_sel_list a.lang_sel_sel:visited{background-color:#000;}#lang_sel_list a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel_list ul a.lang_sel_other, #lang_sel_list ul a.lang_sel_other:visited{color:#444444;}#lang_sel_list ul a.lang_sel_other:hover{color:#000000;}#lang_sel_list ul a.lang_sel_other, #lang_sel li ul a:link, #lang_sel_list ul a.lang_sel_other:visited{background-color:#ffffff;}#lang_sel_list ul a.lang_sel_other:hover{background-color:#eeeeee;}#lang_sel_list a, #lang_sel_list a:visited{border-color:#cdcdcd;} #lang_sel_list  ul{border-top:1px solid #cdcdcd;}</style>
+
+<style type="text/css">																																																																																																			
+</style><meta name="yandex-verification" content="0d50afe90a379777" /><script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    //let button = document.querySelector('#klik-na-poluchit-raschet');
+    let button_services= document.querySelector('[href="#quiz-page"]');
+
+    if (button_services) {
+        button_services.addEventListener('click', function() {
+            ym(21624955, 'reachGoal', 'klik-na-poluchit-raschet');
+        });
+    }
+
+    let button = document.querySelector('[href="#quiz-index"]');
+
+    if (button) {
+        button.addEventListener('click', function() {
+            ym(21624955, 'reachGoal', 'klik-na-poluchit-raschet');
+        });
+    }
+
+
+    let takeDesignButton = document.querySelector('#poluchit-primer-proyekta');
+    if (takeDesignButton) {
+        takeDesignButton.addEventListener('click', function() {
+            ym(21624955,'reachGoal','poluchit-primer-proyekta');
+        });
+    }
+
+    let baliButton = document.querySelector('#vstrecha-na-bali');
+    if(baliButton){
+        baliButton.addEventListener('click', function() {
+            ym(21624955,'reachGoal','vstrecha-na-bali');
+        });
+    }
+
+    document.addEventListener( 'wpcf7mailsent', function( event ) {
+        ym(21624955,'reachGoal','form_submit');
+
+        // if (event.detail.contactFormId == 78065){
+        //     ym(21624955,'reachGoal','obsuzhdeniye-s-art-direktorom');
+        // }
+        if (event.detail.contactFormId == 78088){
+            ym(21624955,'reachGoal','poluchit-raschet-final');       
+        }
+        if(event.detail.contactFormId == 78092){
+            ym(21624955,'reachGoal','poluchit-primer-proyekta-final');
+        }
+        if(event.detail.contactFormId == 78082){
+            ym(21624955,'reachGoal','poluchit-prezentatsiyu');
+        }
+        if(event.detail.contactFormId == 77966){
+            ym(21624955,'reachGoal','vstrecha-na-bali-final');
+        }
+        if(event.detail.contactFormId == 78095){
+            //ym(21624955,'reachGoal','klik-na-obsudit-s-rukovoditelem');
+            ym(21624955,'reachGoal','naznachit-vstrechu-s-ekspertom');
+        }
+        if(event.detail.contactFormId == 78065){
+            ym(21624955,'reachGoal','naznachit-vstrechu-s-ekspertom');
+        }
+
+        ym(21624955,'reachGoal','otpr-formy')
+    }, false );
+
+    // document.addEventListener( 'wpcf7beforesubmit', function( event ) {
+    //     console.log("ID FORM " + event.detail.contactFormId);
+    // }, false );
+});
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(21624955, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/21624955" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script type="rocketlazyloadscript">(function(a,m,o,c,r,m){a[m]={id:"434681",hash:"98117a72def180a5ed21ede501d90f391a15b774837b9155ab6c9f44ac6d168b",locale:"ru",inline:false,setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,0,'amo_social_button'));</script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://geometrium.com/wp-content/uploads/2024/01/cropped-favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://geometrium.com/wp-content/uploads/2024/01/cropped-favicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://geometrium.com/wp-content/uploads/2024/01/cropped-favicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://geometrium.com/wp-content/uploads/2024/01/cropped-favicon-270x270.jpg" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+</head>
+
+
+<body>
+
+<div class="page-container">
+
+    <header class="header header--color-white" data-aos="fade-down">
+        <div class="header__container h_white">
+                            <a href="/" class="header__logo"><span>geometrium</span><span>studio</span></a>
+                        <div class="header__hamburger">
+                <span class="header__hamburger-line"></span>
+                <span class="header__hamburger-line"></span>
+                <span class="header__hamburger-line"></span>
+            </div>
+            <nav class="header__nav">
+                <div class="header__nav-container-links">
+                                                                        <div class="header__link--submenu">
+                                <a href="#" class="header__link link-line">
+                                    услуги                                </a>
+                                <div class="header__submenu-abs">
+                                                                            <a href="/dizajjn-zhilykh-intererov/" >
+                                            Жилые <br><br class="br-mob"> интерьеры                                        </a>
+                                                                            <a href="/architecture-for-developers/" >
+                                            Архитектура <br><br class="br-mob"> для девелоперов                                        </a>
+                                                                            <a href="#modal-2" data-fancybox data-options='{"touch" : false, "autoFocus" : false, "animated" : false }'>
+                                            Интерьер <br>для бизнеса <br><br class="br-mob"> и девелоперов                                        </a>
+                                                                            <a href="https://geometrium-school.com/kurs?utm_source=site&utm_medium=header&utm_campaign=studio" >
+                                            geometrium <br><br class="br-mob"> school                                        </a>
+                                                                    </div>
+                            </div>
+                                                                                                <a href="/portfolio/"  class="header__link link-line">
+                                портфолио                            </a>
+                                                                                                <div class="header__link--submenu">
+                                <a href="https://geometrium.com/#section-video" class="header__link link-line">
+                                    о компании                                </a>
+                                <div class="header__submenu-abs">
+                                                                            <a href="/#section-video" >
+                                            О компании                                        </a>
+                                                                            <a href="/#review" >
+                                            Отзывы                                        </a>
+                                                                            <a href="/blog-studii/" >
+                                            Блог                                        </a>
+                                                                            <a href="https://spb.hh.ru/employer/1342483?hhtmFrom=vacancy_search_list" >
+                                            Вакансии                                        </a>
+                                                                            <a href="https://geometrium.com/video/ " >
+                                            Видео                                        </a>
+                                                                    </div>
+                            </div>
+                                                                                                <a href="https://geometrium-school.ru/?utm_source=site&utm_medium=header&utm_campaign=studio "  class="header__link link-line">
+                                school                            </a>
+                                                                                                <a href="/kontakty/"  class="header__link link-line">
+                                контакты                            </a>
+                                                            </div>
+                <div class="header__nav-link-lang">
+                    <div class="header__nav-link-lang-container">
+                        
+            <div id="lang_sel_list" class="lang_sel_list_vertical">
+            <ul>
+                                <li class="icl-ru">
+									<a href="/" class="lang_sel_sel">
+										ru									</a>
+                </li>
+                                <li class="icl-en">
+									<a href="https://geometrium.com/en/" class="lang_sel_other">
+										en									</a>
+                </li>
+                            </ul>
+</div>
+                    </div>
+                </div>
+                <div class="header__nav-contact-info contact-company">
+                    <div class="common-checkbox">
+                        <label for="mask-phone-header-1" class="common-checkbox__el checkbox-tab-phone link-line">
+                                                            <input id="mask-phone-header-1" class="phone-val" type="radio" name="mask-phone-header-1" checked value="+7 (495) 374-99-52">
+                                <input class="whatsapp-val" type="radio" value="79629104003">
+                                <input class="telegram-val" type="radio" value="geometrium_sales">
+                            
+                            <span class="common-checkbox__oval"></span>
+                                                            <span class="common-checkbox__title">москва</span>
+                                                    </label>
+                        <label for="mask-phone-header-2" class="common-checkbox__el checkbox-tab-phone link-line">
+                                                            <input id="mask-phone-header-2" class="phone-val" type="radio" name="mask-phone-header-1" value="+6282340924472">
+                                <input class="telegram-val" type="radio" value="@kira7006">
+                                <input class="whatsapp-val" type="radio" value="6282340924472">
+                            
+                            <span class="common-checkbox__oval"></span>
+                                                            <span class="common-checkbox__title">бали</span>
+                                                    </label>
+                    </div>
+                    <a href="tel:+7 (495) 374-99-52" class="checkbox-active-mask-link ">
+                        +7 (495) 374-99-52                    </a>
+                                            <a href="https://t.me/geometrium_sales" class="header__link link-telegram black-border link-line">
+                            telegram
+                        </a>
+                        <a href="https://wa.me/79629104003" class="header__link link-whatsapp black-border link-line">
+                            whatsapp
+                        </a>
+                        <a href="#modal-1" data-fancybox data-options='{"touch" : false, "autoFocus" : false, "animated" : false }' class="header__link black-border link-line">
+                            заказать звонок
+                        </a>
+                    
+                </div>
+            </nav>
+        </div>
+                        <div class="header-block__contact">
+         <a href="tel:+7 (495) 374-99-52" class="checkbox-active-mask-link link-line">+7 (495) 374-99-52</a>
+         <a href="#modal-1" data-fancybox="" data-options="{'touch'; : false, 'autoFocus': false, 'animated': false }" class="link-line header_call">заказать звонок</a>
+                 </div>
+    </header>
+
+
+
+<div data-key-id-post="957" class="first-block first-block--post ">
+            <div class="first-block__bg-images" data-aos="fade" data-aos-offset="-100">
+            <picture class="first-block__bg-images-pc">
+                <img data-no-lazy="" fetchpriority="high" src="https://geometrium.com/wp-content/uploads/2024/04/dizayn-kommercheskikh-pomeshheniy-dlya-investicion-5.jpg" alt="">
+            </picture>
+            <picture class="first-block__bg-images-mob">
+                                    <img data-no-lazy="" fetchpriority="high" src="https://geometrium.com/wp-content/uploads/2024/04/3R5A3229-1.jpg" alt="">
+                            </picture>
+        </div>
+        <div class="common-container" >
+        <a href="/blog-studii/" class="first-block__btn-back" data-aos="fade-up" data-aos-delay="200">
+            <span class="first-block__btn-back-bg">
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                    <path d="M10.6224 14.9536L28 14.9536L28 17.9536L10.6202 17.9536L18.1213 25.4547L16 27.576L4.87868 16.4547L16 5.33337L18.1213 7.4547L10.6224 14.9536Z" fill="black"/>
+                </svg>
+            </span>
+            <span>
+                                    в блог
+                            </span>
+        </a>
+        <div class="first-block__center-bottom-content-block" data-aos="fade-up" data-aos-delay="300">
+            <h1 class="first-block__title-icon">
+                Естественный свет в интерьере: как его лучше использовать            </h1>
+            <div class="date-post">
+                <span>
+                    29 августа 2014                </span>
+                <span>
+                                                                <span>Статьи о дизайне интерьера</span>
+                                    </span>
+            </div>
+            <span class="common-icon-plus first-block__icon-plus-1"></span>
+            <span class="common-icon-plus first-block__icon-plus-2"></span>
+            <span class="common-icon-plus first-block__icon-plus-3"></span>
+            <span class="common-icon-plus first-block__icon-plus-4"></span>
+        </div>
+
+    </div>
+
+
+
+</div>
+<main class="post-constructor post-constructor--page-post">
+    <div class="post-constructor__container post-constructor__container--bg-grey">
+        <div class="common-container">
+            <div class="author-info-container">
+                <picture>
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/manager-6-big-ava.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/manager-6-big-ava.png" alt=""></noscript>
+                </picture>
+                <div class="author-details">
+                    <div class="author-name-wrapper">
+                        <div class="author-title autor-text-bg">Автор статьи</div>
+                        <div class="author-text-bg"><a href="/valeriya-litvinenko" class="author-name link-line">Валерия Литвиненко</a></div>
+                    </div>
+                    <div class="author-position autor-text-bg">Арт-директор интерьерного направления Geometrium</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="post-constructor__container post-constructor__container--bg-grey">
+        <div class="common-container">
+
+                            <div class="post-constructor__the_content_wp">
+                    <p><span style="color: #000000;">Попробуйте закрыть глаза на несколько минут и вы поймете насколько важную роль играет свет в нашей жизни. В темноте мы превращается в «слепых котят», которые ничего не могут сделать самостоятельно.</span><span id="more-957"></span></p>
+<p><span style="color: #000000;">При этом нам еще физиологически необходим солнечный свет, как и любым другим живым существам. Свет может влиять на наше настроение. Например, когда светит солнышко — нам хочется улыбаться и радоваться, а в дождливую погоду — нам часто хочется спать. С искусственным освещением тоже самое. Один свет нам удобен для работы, другой — для отдыха, но об искусственном свете мы поговорим в следующей статье. А в этой я собираюсь рассказать, как влияет на нас естественный свет и в каких зонах его лучше использовать в интерьере.</span></p>
+<h2 style="text-align: center;">Естественный свет в интерьере</h2>
+<p><span style="color: #000000;">Инсоляция — это облучение поверхности солнечным светом. Это облучение очень важно для человека.</span></p>
+<p><span style="color: #000000;">С точки зрения гигиены солнечные лучи дезинфицируют помещение. Также они очень благотворно влияют на здоровье человека: мобилизуют именную систему, влияют на выделение витамина D, регулируется биологические ритмы и многое другое.</span></p>
+<p><span style="color: #000000;">По этим же причинам в строительных нормах прописано, что в квартиру обязательно должен попадать солнечный свет несколько часов в день.</span></p>
+<p>Вас может также заинтересовать информация об<span style="color: #000000;"><strong> экологичном дизайне</strong></span> интерьеров.</p>
+<p><strong><span style="color: #000000;">Как же лучше располагать помещения и зоны в зависимости от естественного света?</span></strong></p>
+<p><span style="color: #000000;">Ну, во-первых, естественный свет должен попадать в каждое помещение, где проводит время человек. По возможности даже в коридоры и санузлы. Плюс это еще и существенно экономит электроэнергию.</span></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-958" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20334'%3E%3C/svg%3E" alt="bathroom-window" width="500" height="334" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2014/08/bathroom-window.png 1024w, https://geometrium.com/wp-content/uploads/2014/08/bathroom-window-300x200.png 300w, https://geometrium.com/wp-content/uploads/2014/08/bathroom-window-768x513.png 768w, https://geometrium.com/wp-content/uploads/2014/08/bathroom-window-700x468.png 700w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://geometrium.com/wp-content/uploads/2014/08/bathroom-window.png" /><noscript><img fetchpriority="high" decoding="async" class="aligncenter wp-image-958" src="https://geometrium.com/wp-content/uploads/2014/08/bathroom-window.png" alt="bathroom-window" width="500" height="334" srcset="https://geometrium.com/wp-content/uploads/2014/08/bathroom-window.png 1024w, https://geometrium.com/wp-content/uploads/2014/08/bathroom-window-300x200.png 300w, https://geometrium.com/wp-content/uploads/2014/08/bathroom-window-768x513.png 768w, https://geometrium.com/wp-content/uploads/2014/08/bathroom-window-700x468.png 700w" sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
+<p><span style="color: #000000;">Что же делать, если необходимо сделать две комнаты, а окно одно?</span><br />
+<span style="color: #000000;">В этом вам поможет стеклянная перегородка. А чтобы сделать пространство приватным на нее вы можете повесить шторку.</span></p>
+<p><img decoding="async" class="aligncenter wp-image-963" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20333'%3E%3C/svg%3E" alt="Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682" width="500" height="333" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682.jpg 1024w, https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682-300x200.jpg 300w, https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682-768x512.jpg 768w, https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682-700x466.jpg 700w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682.jpg" /><noscript><img decoding="async" class="aligncenter wp-image-963" src="https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682.jpg" alt="Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682" width="500" height="333" srcset="https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682.jpg 1024w, https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682-300x200.jpg 300w, https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682-768x512.jpg 768w, https://geometrium.com/wp-content/uploads/2014/08/Small-yet-Stylish-Flat-in-Stockholm-01-1150x766-1024x682-700x466.jpg 700w" sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
+<p><span style="color: #000000;">Спальную комнату лучше располагать на юго-востоке, чтобы солнышко будило вас каждое утро и придавало заряд бодрости на целый день. Подумайте, как приятно просыпаться, нежась в солнечных лучах. Но помните, что летом оно может не дать вам выспаться, поэтому обязательно предусмотрите шторы с полным затемнением или жалюзи.<br class="clear" /></span></p>
+<p><span style="color: #000000;">Рабочий стол, столик для make-up лучше располагать у окна в идеале слева (если вы правша) или перед окном, чтобы рука не давала тень, когда вы пишете или краситесь. Тоже самое с зоной для глажки.</span></p>
+<p><img decoding="async" class="aligncenter wp-image-959" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20334'%3E%3C/svg%3E" alt="desk" width="500" height="334" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2014/08/desk.png 844w, https://geometrium.com/wp-content/uploads/2014/08/desk-300x200.png 300w, https://geometrium.com/wp-content/uploads/2014/08/desk-768x513.png 768w, https://geometrium.com/wp-content/uploads/2014/08/desk-700x468.png 700w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://geometrium.com/wp-content/uploads/2014/08/desk.png" /><noscript><img decoding="async" class="aligncenter wp-image-959" src="https://geometrium.com/wp-content/uploads/2014/08/desk.png" alt="desk" width="500" height="334" srcset="https://geometrium.com/wp-content/uploads/2014/08/desk.png 844w, https://geometrium.com/wp-content/uploads/2014/08/desk-300x200.png 300w, https://geometrium.com/wp-content/uploads/2014/08/desk-768x513.png 768w, https://geometrium.com/wp-content/uploads/2014/08/desk-700x468.png 700w" sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
+<p><span style="color: #000000;">Телевизор лучше не ставить напротив окна, потому что днем он будет давать блики. Если вы хотите сделать домашний кинотеатр, то необходимо предусмотреть полное затемнение в помещении.</span></p>
+<p><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;">Мойка у окна — отличный вариант, т.к. все хорошо видно и хозяйки намного интереснее мыть посуду, смотря в окно, но, к сожалению, в России это встретишь не часто, но стереотипы рушатся.</span></p>
+<p><img decoding="async" class="aligncenter wp-image-961" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20174'%3E%3C/svg%3E" alt="mojka_naprotiv_okna" width="500" height="174" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna.png 989w, https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna-300x104.png 300w, https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna-768x267.png 768w, https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna-700x243.png 700w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna.png" /><noscript><img decoding="async" class="aligncenter wp-image-961" src="https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna.png" alt="mojka_naprotiv_okna" width="500" height="174" srcset="https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna.png 989w, https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna-300x104.png 300w, https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna-768x267.png 768w, https://geometrium.com/wp-content/uploads/2014/08/mojka_naprotiv_okna-700x243.png 700w" sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
+<p><span style="color: #000000;"><br class="clear" />Если у человека слабое зрение, то, чем больше дневного освещения, тем ему лучше. Ему будет хорошо видно предметы, и зрение не будет портиться.</span></p>
+<p><span style="color: #000000;">Также светлые стены лучше отражают свет, поэтому в северных странах так любят светлые тона. </span><span style="color: #000000;">Более подробно как располагать помещения по сторонам света смотрите на картинке ниже.</span></p>
+<p><img decoding="async" class="aligncenter wp-image-960" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="foto" width="500" height="500" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2014/08/foto.jpg 1024w, https://geometrium.com/wp-content/uploads/2014/08/foto-300x300.jpg 300w, https://geometrium.com/wp-content/uploads/2014/08/foto-150x150.jpg 150w, https://geometrium.com/wp-content/uploads/2014/08/foto-768x767.jpg 768w, https://geometrium.com/wp-content/uploads/2014/08/foto-400x400.jpg 400w, https://geometrium.com/wp-content/uploads/2014/08/foto-700x699.jpg 700w, https://geometrium.com/wp-content/uploads/2014/08/foto-100x100.jpg 100w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://geometrium.com/wp-content/uploads/2014/08/foto.jpg" /><noscript><img decoding="async" class="aligncenter wp-image-960" src="https://geometrium.com/wp-content/uploads/2014/08/foto.jpg" alt="foto" width="500" height="500" srcset="https://geometrium.com/wp-content/uploads/2014/08/foto.jpg 1024w, https://geometrium.com/wp-content/uploads/2014/08/foto-300x300.jpg 300w, https://geometrium.com/wp-content/uploads/2014/08/foto-150x150.jpg 150w, https://geometrium.com/wp-content/uploads/2014/08/foto-768x767.jpg 768w, https://geometrium.com/wp-content/uploads/2014/08/foto-400x400.jpg 400w, https://geometrium.com/wp-content/uploads/2014/08/foto-700x699.jpg 700w, https://geometrium.com/wp-content/uploads/2014/08/foto-100x100.jpg 100w" sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
+<p><span style="color: #000000;">Но необходимо помнить, что летом на солнечной стороне помещения могут превратиться в печь. Поэтому необходимо предусмотреть кондиционеры, жалюзи, тюль или шторы, чтобы не было перегрева.</span></p>
+<p><span style="color: #000000;">Надеюсь, эта статья была вам полезна.</span><span style="color: #000000;"> </span></p>
+                </div>
+            
+        </div>
+    </div>
+
+    <div class="post-constructor__like-btn" >
+                <div class="post-constructor__back-link-block-share">
+            <div class="common-container">
+                <a href="/blog-studii/" class="back-link">
+                    <span class="back-link__btn-back-bg">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                            <path d="M10.6224 14.9536L28 14.9536L28 17.9536L10.6202 17.9536L18.1213 25.4547L16 27.576L4.87868 16.4547L16 5.33337L18.1213 7.4547L10.6224 14.9536Z" fill="black"/>
+                        </svg>
+                    </span>
+                    <span>
+                        в блог
+                    </span>
+                </a>
+                                <div class="post-constructor__block-share">
+                    <span>поделиться</span>
+                    <a href="https://vk.com/share.php?url=https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/" target="_blank" class="link-line">vk</a>
+                    <a href="https://t.me/share/url?url=https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/" target="_blank" class="link-line">telegram</a>
+                    <a href="https://api.whatsapp.com/send?text=https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/" target="_blank" class="link-line">whatsapp</a>
+                    <a href="https://connect.ok.ru/offer?url=https://geometrium.com/estestvennyjj-svet-v-interere-kak-ego/" target="_blank" class="link-line">одноклассники</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</main>
+<section class="list-cart">
+	<div class="common-container">
+                    <h2>
+                Читайте другие наши статьи
+            </h2>
+        
+		<div class="list-cart__flex-row">
+			                    <div class="cart" data-key-id-post="88415">
+						<a href="https://geometrium.com/zolotoy-cvet-v-interere/"></a>
+						<div class="cart__images">
+							<div class="cart__like-btn-block">
+								<div class="cart__like-btn">
+									<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M6.87561 20.859C9.0489 23.4319 11.8824 25.2914 14.3405 26.9046C14.7164 27.1513 15.0835 27.3922 15.4381 27.629L16.0006 28.004L16.5631 27.629C16.9174 27.3924 17.2841 27.1518 17.6596 26.9054C20.1179 25.2919 22.952 23.432 25.1256 20.8572C27.7687 17.7322 29.0356 14.5247 29.0006 11.0447C28.9612 7.16278 25.8469 4.00403 22.0581 4.00403C20.395 4.00403 19.0401 4.53939 17.9834 5.23162C17.1296 5.79094 16.4704 6.45267 16.0006 7.01715C15.5308 6.45267 14.8716 5.79094 14.0178 5.23162C12.9611 4.53939 11.6062 4.00403 9.94311 4.00403C6.15436 4.00403 3.03998 7.16278 3.00061 11.0465C2.96811 14.5247 4.23498 17.734 6.87561 20.859ZM26.3341 11.0717C26.3615 13.8023 25.3962 16.4078 23.0896 19.1351L23.0879 19.137C21.1842 21.3921 18.707 23.0223 16.2306 24.6519C16.1539 24.7024 16.0773 24.7528 16.0006 24.8033C15.9235 24.7525 15.8464 24.7018 15.7692 24.651C13.2932 23.0217 10.8163 21.3917 8.91275 19.1382L8.91246 19.1379C6.6081 16.4108 5.6419 13.8026 5.66715 11.0725C5.69286 8.59003 7.67752 6.6707 9.94311 6.6707C11.8215 6.6707 13.1422 7.75125 13.9509 8.72301L16.0006 11.1858L18.0503 8.72301C18.859 7.75125 20.1797 6.6707 22.0581 6.6707C24.3244 6.6707 26.3088 8.59091 26.3341 11.0715" fill="black"/>
+									</svg>
+								</div>
+                                <div class="cart__like-btn-number" data-post-id="88415" data-field-name="number_like" data-field-value="1" data-bd-value="19">
+                                                                            <span class="cart__like-btn-number-cost">19</span>
+                                                                    </div>
+							</div>
+							<picture >
+								<img width="1999" height="1200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201999%201200'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2025/11/image3.jpg 1999w, https://geometrium.com/wp-content/uploads/2025/11/image3-600x360.jpg 600w, https://geometrium.com/wp-content/uploads/2025/11/image3-1280x768.jpg 1280w, https://geometrium.com/wp-content/uploads/2025/11/image3-150x90.jpg 150w, https://geometrium.com/wp-content/uploads/2025/11/image3-768x461.jpg 768w, https://geometrium.com/wp-content/uploads/2025/11/image3-1536x922.jpg 1536w" data-lazy-sizes="(max-width: 1999px) 100vw, 1999px" data-lazy-src="https://geometrium.com/wp-content/uploads/2025/11/image3.jpg" /><noscript><img width="1999" height="1200" src="https://geometrium.com/wp-content/uploads/2025/11/image3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://geometrium.com/wp-content/uploads/2025/11/image3.jpg 1999w, https://geometrium.com/wp-content/uploads/2025/11/image3-600x360.jpg 600w, https://geometrium.com/wp-content/uploads/2025/11/image3-1280x768.jpg 1280w, https://geometrium.com/wp-content/uploads/2025/11/image3-150x90.jpg 150w, https://geometrium.com/wp-content/uploads/2025/11/image3-768x461.jpg 768w, https://geometrium.com/wp-content/uploads/2025/11/image3-1536x922.jpg 1536w" sizes="(max-width: 1999px) 100vw, 1999px" /></noscript>							</picture>
+						</div>
+						<div class="cart__title">
+							Золотой цвет в интерьере						</div>
+						<div class="cart__info">
+							<span>
+								24 ноября 2025							</span>
+							<span>
+																Статьи о дизайне интерьера							</span>
+						</div>
+					</div>
+					                    <div class="cart" data-key-id-post="88464">
+						<a href="https://geometrium.com/cvet-sten-v-interere/"></a>
+						<div class="cart__images">
+							<div class="cart__like-btn-block">
+								<div class="cart__like-btn">
+									<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M6.87561 20.859C9.0489 23.4319 11.8824 25.2914 14.3405 26.9046C14.7164 27.1513 15.0835 27.3922 15.4381 27.629L16.0006 28.004L16.5631 27.629C16.9174 27.3924 17.2841 27.1518 17.6596 26.9054C20.1179 25.2919 22.952 23.432 25.1256 20.8572C27.7687 17.7322 29.0356 14.5247 29.0006 11.0447C28.9612 7.16278 25.8469 4.00403 22.0581 4.00403C20.395 4.00403 19.0401 4.53939 17.9834 5.23162C17.1296 5.79094 16.4704 6.45267 16.0006 7.01715C15.5308 6.45267 14.8716 5.79094 14.0178 5.23162C12.9611 4.53939 11.6062 4.00403 9.94311 4.00403C6.15436 4.00403 3.03998 7.16278 3.00061 11.0465C2.96811 14.5247 4.23498 17.734 6.87561 20.859ZM26.3341 11.0717C26.3615 13.8023 25.3962 16.4078 23.0896 19.1351L23.0879 19.137C21.1842 21.3921 18.707 23.0223 16.2306 24.6519C16.1539 24.7024 16.0773 24.7528 16.0006 24.8033C15.9235 24.7525 15.8464 24.7018 15.7692 24.651C13.2932 23.0217 10.8163 21.3917 8.91275 19.1382L8.91246 19.1379C6.6081 16.4108 5.6419 13.8026 5.66715 11.0725C5.69286 8.59003 7.67752 6.6707 9.94311 6.6707C11.8215 6.6707 13.1422 7.75125 13.9509 8.72301L16.0006 11.1858L18.0503 8.72301C18.859 7.75125 20.1797 6.6707 22.0581 6.6707C24.3244 6.6707 26.3088 8.59091 26.3341 11.0715" fill="black"/>
+									</svg>
+								</div>
+                                <div class="cart__like-btn-number" data-post-id="88464" data-field-name="number_like" data-field-value="1" data-bd-value="11">
+                                                                            <span class="cart__like-btn-number-cost">11</span>
+                                                                    </div>
+							</div>
+							<picture >
+								<img width="1999" height="1333" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201999%201333'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2025/11/image8-1.jpg 1999w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-600x400.jpg 600w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-1280x854.jpg 1280w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-150x100.jpg 150w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-768x512.jpg 768w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-1536x1024.jpg 1536w" data-lazy-sizes="(max-width: 1999px) 100vw, 1999px" data-lazy-src="https://geometrium.com/wp-content/uploads/2025/11/image8-1.jpg" /><noscript><img width="1999" height="1333" src="https://geometrium.com/wp-content/uploads/2025/11/image8-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://geometrium.com/wp-content/uploads/2025/11/image8-1.jpg 1999w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-600x400.jpg 600w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-1280x854.jpg 1280w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-150x100.jpg 150w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-768x512.jpg 768w, https://geometrium.com/wp-content/uploads/2025/11/image8-1-1536x1024.jpg 1536w" sizes="(max-width: 1999px) 100vw, 1999px" /></noscript>							</picture>
+						</div>
+						<div class="cart__title">
+							Цвет стен в интерьере						</div>
+						<div class="cart__info">
+							<span>
+								24 ноября 2025							</span>
+							<span>
+																Статьи о дизайне интерьера							</span>
+						</div>
+					</div>
+					                    <div class="cart" data-key-id-post="88450">
+						<a href="https://geometrium.com/cvet-pola-v-interere/"></a>
+						<div class="cart__images">
+							<div class="cart__like-btn-block">
+								<div class="cart__like-btn">
+									<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M6.87561 20.859C9.0489 23.4319 11.8824 25.2914 14.3405 26.9046C14.7164 27.1513 15.0835 27.3922 15.4381 27.629L16.0006 28.004L16.5631 27.629C16.9174 27.3924 17.2841 27.1518 17.6596 26.9054C20.1179 25.2919 22.952 23.432 25.1256 20.8572C27.7687 17.7322 29.0356 14.5247 29.0006 11.0447C28.9612 7.16278 25.8469 4.00403 22.0581 4.00403C20.395 4.00403 19.0401 4.53939 17.9834 5.23162C17.1296 5.79094 16.4704 6.45267 16.0006 7.01715C15.5308 6.45267 14.8716 5.79094 14.0178 5.23162C12.9611 4.53939 11.6062 4.00403 9.94311 4.00403C6.15436 4.00403 3.03998 7.16278 3.00061 11.0465C2.96811 14.5247 4.23498 17.734 6.87561 20.859ZM26.3341 11.0717C26.3615 13.8023 25.3962 16.4078 23.0896 19.1351L23.0879 19.137C21.1842 21.3921 18.707 23.0223 16.2306 24.6519C16.1539 24.7024 16.0773 24.7528 16.0006 24.8033C15.9235 24.7525 15.8464 24.7018 15.7692 24.651C13.2932 23.0217 10.8163 21.3917 8.91275 19.1382L8.91246 19.1379C6.6081 16.4108 5.6419 13.8026 5.66715 11.0725C5.69286 8.59003 7.67752 6.6707 9.94311 6.6707C11.8215 6.6707 13.1422 7.75125 13.9509 8.72301L16.0006 11.1858L18.0503 8.72301C18.859 7.75125 20.1797 6.6707 22.0581 6.6707C24.3244 6.6707 26.3088 8.59091 26.3341 11.0715" fill="black"/>
+									</svg>
+								</div>
+                                <div class="cart__like-btn-number" data-post-id="88450" data-field-name="number_like" data-field-value="1" data-bd-value="0">
+                                                                            <span class="cart__like-btn-number-cost">0</span>
+                                                                    </div>
+							</div>
+							<picture >
+								<img width="1999" height="1500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201999%201500'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" data-lazy-srcset="https://geometrium.com/wp-content/uploads/2025/11/image7-2.jpg 1999w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-600x450.jpg 600w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-1280x960.jpg 1280w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-150x113.jpg 150w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-768x576.jpg 768w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-1536x1153.jpg 1536w" data-lazy-sizes="(max-width: 1999px) 100vw, 1999px" data-lazy-src="https://geometrium.com/wp-content/uploads/2025/11/image7-2.jpg" /><noscript><img width="1999" height="1500" src="https://geometrium.com/wp-content/uploads/2025/11/image7-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://geometrium.com/wp-content/uploads/2025/11/image7-2.jpg 1999w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-600x450.jpg 600w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-1280x960.jpg 1280w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-150x113.jpg 150w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-768x576.jpg 768w, https://geometrium.com/wp-content/uploads/2025/11/image7-2-1536x1153.jpg 1536w" sizes="(max-width: 1999px) 100vw, 1999px" /></noscript>							</picture>
+						</div>
+						<div class="cart__title">
+							Цвет пола в интерьере						</div>
+						<div class="cart__info">
+							<span>
+								24 ноября 2025							</span>
+							<span>
+																Статьи о дизайне интерьера							</span>
+						</div>
+					</div>
+							</div>
+	</div>
+</section>
+
+<section class="common-container">
+	<div class="subscription subscription--mod">
+		<div class="subscription__row">
+                            <h2 class="subscription__title subscription__title--mod">
+                    Получите консультацию эксперта <br><br class="br-mob"> по вашему проекту
+                </h2>
+                <h3 class="subscription__subtitle">
+                    Свяжитесь с нами и расскажите<br class="br-mob"> о своей идее или задаче
+                </h3>
+                        <div class="subscription__info contact-company">
+                <div class="subscription__info-links post-constructor__icon">
+                    <h3>
+                                                    Напишите в мессенджерах
+                                            </h3>
+                                            <a href="https://t.me/geometrium_sales" class="link-telegram link-line">
+                            telegram
+                        </a>
+                        <a href="https://wa.me/79629104003" class="link-whatsapp link-line">
+                            whatsapp
+                        </a>
+                        <a href="#modal-1" data-fancybox data-options='{"touch" : false, "autoFocus" : false, "animated" : false }' class="link-line">
+                            заказать звонок
+                        </a>
+                                    </div>
+                <div class="subscription__info-phone">
+                                            <h3>
+                            Или позвоните по телефону
+                        </h3>
+                                        <div class="common-checkbox">
+                        <label for="mask-phone-3" class="common-checkbox__el checkbox-tab-phone link-line">
+                                                            <input id="mask-phone-3" class="phone-val" type="radio" name="mask-phone-2" checked value="+7 (495) 374-99-52">
+                                <input class="whatsapp-val" type="radio" value="79629104003">
+                                <input class="telegram-val" type="radio" value="geometrium_sales">
+                            
+                            <span class="common-checkbox__oval"></span>
+                                                            <span class="common-checkbox__title">москва</span>
+                                                    </label>
+                        <label for="mask-phone-4" class="common-checkbox__el checkbox-tab-phone link-line">
+                                                            <input id="mask-phone-4" class="phone-val" type="radio" name="mask-phone-2" value="+6282340924472">
+                                <input class="telegram-val" type="radio" value="@kira7006">
+                                <input class="whatsapp-val" type="radio" value="6282340924472">
+                            
+                            <span class="common-checkbox__oval"></span>
+                                                            <span class="common-checkbox__title">бали</span>
+                                                    </label>
+                    </div>
+                    <a href="tel:+7 (495) 374-99-52" class="checkbox-active-mask-link ">
+                        +7 (495) 374-99-52                    </a>
+                </div>
+                <div class="subscription__people">
+                    <div class="subscription__people-img">
+                        <picture >
+                            <source type="image/webp" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/manager-subscription-2.webp">
+                            <source type="image/png" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/manager-subscription-2.png">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/themes/Geometrium-template/img/manager-subscription-2.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/themes/Geometrium-template/img/manager-subscription-2.png" alt=""></noscript>
+                        </picture>
+                    </div>
+                                            <div class="subscription__people-name">
+                            Виктория Булатникова
+                        </div>
+                        <div class="subscription__people-job">
+                            Эксперт студии Geometrium
+                        </div>
+                    
+                </div>
+            </div>
+
+		</div>
+	</div>
+</section>
+
+        <section class="contact-form contact-form--modification-big-ava" style="margin-bottom: 50px;">
+            <div class="common-container contact-form__container">
+                <div class="contact-form__row-block">
+                    <div class="contact-form__info">
+                                                    <h2 class="contact-form__info-title">
+                                Обсудите свой <br class="br-mob"> проект <br class="only-medium">лично <br class="br-mob"> с арт-директором <br class="br-mob"> Geometrium                            </h2>
+                                                <h3 class="contact-form__info-subtitle">
+                                                            У которого за плечами опыт реализации более 100 проектов
+                                в дизайне интерьера и архитектурного проектирования
+                                                    </h3>
+                        <div class="contact-form__info-manager">
+                            <div class="contact-form__info-manager-contact">
+                                                                    <div class="contact-form__info-manager-contact-name">
+                                        Валерия Литвиненко                                    </div>
+                                    <div class="contact-form__info-manager-contact-job">
+                                        Арт-директор интерьерного направления                                    </div>
+                                                            </div>
+                            <div class="contact-form__info-manager-images contact-form__info-manager-images--big">
+                                                                    <picture>
+                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/manager-6-big-ava.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/manager-6-big-ava.png" alt=""></noscript>
+                                    </picture>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="contact-form__form form" data-sb="11">
+                        <svg class="contact-form__icon" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                            <rect x="17" y="9.30859" width="1" height="13" transform="rotate(90 17 9.30859)" fill="#6F6F6F" />
+                            <rect x="11" y="16.3086" width="1" height="13" transform="rotate(-180 11 16.3086)" fill="#6F6F6F" />
+                        </svg>
+                        <div class="contact-form__form-text-right">
+                                                            На онлайн-встрече вы расскажете <br class="only-medium">
+                                о своих пожеланиях, <br class="br-mob"> а специалист <br class="only-medium"> предложит варианты реализации
+                                                    </div>
+                        <div class="contact-form__info-manager-images-mini">
+                                                            <picture>
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/mini-manager-3.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/mini-manager-3.png" alt=""></noscript>
+                                </picture>
+                                                            <picture>
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/mini-manager-5.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/mini-manager-5.png" alt=""></noscript>
+                                </picture>
+                                                    </div>
+                        <div class="contact-form__form-text-after-images">
+                                                            Один из наших менеджеров свяжется <br class="only-medium">
+                                с вами и согласует дату и время встречи <br class="only-medium">
+                                с арт-директором студии
+                                                    </div>
+                                                    
+<div class="wpcf7 no-js" id="wpcf7-f78065-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/estestvennyjj-svet-v-interere-kak-ego/#wpcf7-f78065-o1" method="post" class="wpcf7-form init wpcf7-acceptance-as-validation" aria-label="Контактная форма" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="78065" />
+<input type="hidden" name="_wpcf7_version" value="5.9.3" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f78065-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<span class="wpcf7-form-control-wrap" data-name="data-sb"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input data-sb" aria-invalid="false" value="11" type="text" name="data-sb" /></span>
+<span class="wpcf7-form-control-wrap" data-name="data-radio-value"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input radio_value" aria-invalid="false" placeholder="звонок" value="" type="text" name="data-radio-value" /></span>
+
+<div class="field-croup">
+                                <label class="field-croup__label">
+                                    как к вам обращаться?
+                                </label>
+                                <span class="wpcf7-form-control-wrap" data-name="user-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required name field-croup__input text-mask" aria-required="true" aria-invalid="false" placeholder="Иван" value="" type="text" name="user-name" /></span>
+                            </div>
+                            <div class="field-croup">
+                                <div class="field-croup__row-block">
+                                    <label class="field-croup__label">
+                                        удобный способ для связи
+                                    </label>
+                                    <div class="common-checkbox">
+                                        <label class="common-checkbox__el link-line ">
+                                            <input type="radio" name="radio" value="whatsapp">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">whatsapp</span>
+                                        </label>
+                                        <label class="common-checkbox__el open-input-hidden link-line">
+                                            <input type="radio" name="radio" value="telegram">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">telegram</span>
+                                        </label>
+                                        <label class="common-checkbox__el link-line">
+                                            <input type="radio" name="radio" checked value="звонок">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">звонок</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <span class="wpcf7-form-control-wrap" data-name="tel-user"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel field-croup__input phone-mask" aria-invalid="false" placeholder="Телефон" value="" type="tel" name="tel-user" /></span>
+                            </div>
+                            <div class="field-croup field-croup--hide-input">
+<span class="wpcf7-form-control-wrap" data-name="telegram"><input size="40" class="wpcf7-form-control wpcf7-text telegram field-croup__input" aria-invalid="false" placeholder="@nickname" value="" type="text" name="telegram" /></span>
+                            </div>
+                            <button class="btn-animation">
+                                <span class="btn-animation__name">
+                                    Обсудить проект с арт-директором
+                                </span>
+                                            <span class="btn-animation__cube">
+                                    <span></span>
+                                </span>
+                                <span class="btn-animation__hover"></span>
+                            </button>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Отправить" />
+                            <div class="contact-form__form-subtext">
+                                <span class="wpcf7-form-control-wrap" data-name="acceptance-973"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-973" value="1" aria-invalid="false" /><span class="wpcf7-list-item-label">Нажимая на кнопку, вы даете согласие на обработку своих персональных данных <br> и соглашаетесь с <a href="/politika-konfidencialnosti-privacy-policy/">Политикой конфиденциальности</a></span></label></span></span></span>
+                           </div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+                                            </div>
+                </div>
+            </div>
+        </section>
+
+
+<footer itemscope itemtype="http://schema.org/WPFooter" class="footer " >
+        <div class="token_map" data-token="AIzaSyArALCOn22hlwWtipfl9yVVYs6Ug_JobTk"></div>
+    <div class="common-container">
+        <div class="footer__top footer__flex-row">
+            <div class="footer__row-col-1">
+                                    <a itemprop="copyrightHolder" href="/" class="footer__logo"><span>geometrium</span><span>studio</span></a>
+                            </div>
+            <div class="footer__row-col-2">
+                <div class="footer__name-category">
+                    design &
+                    architecture
+                </div>
+            </div>
+
+        </div>
+        <div class="footer__body footer__flex-row">
+            <div class="footer__row-col-1 footer__row-col-design">
+                <div class="footer__nav">
+                                                                        <div class="footer__submenu-open-link-wrapper">
+                                <div class="footer__submenu-open-link link-line link-flex">
+                                    <a href="/dizayn-proyekt-interera-kommercheskogo-pomescheniya/">Дизайн интерьера коммерческого помещения</a>                                    <span class="footer__nav-open-link-icon footer__submenu-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                            <path d="M18.75 6.81984L17.1802 5.25L12 10.4302L6.81984 5.25L5.25 6.81984L10.4302 12L5.25 17.1802L6.81984 18.75L12 13.5698L17.1802 18.75L18.75 17.1802L13.5698 12L18.75 6.81984Z" fill="black"/>
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="footer__link_submenu_block-wrapper">
+                                    <div class="footer__link_submenu_block">
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-ofisa/" class="link-line">
+                                                офис                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-restorana/" class="link-line">
+                                                ресторан                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-gostinits-i-oteley/" class="link-line">
+                                                гостиницы и отели                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-kafe/" class="link-line">
+                                                кафе                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-kofeyni/" class="link-line">
+                                                кофейня                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-magazina/" class="link-line">
+                                                магазин                                            </a>
+                                                                                    <a href="" class="link-line">
+                                                                                            </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                                                                                            <a href="/dizayn-proyekt-interera-zagorodnogo-doma-kottedzha/" class="link-line">
+                            Дизайн интерьера загородного дома                        </a>
+                                                                                                <div class="footer__submenu-open-link-wrapper">
+                                <div class="footer__submenu-open-link link-line link-flex">
+                                    <a href="/dizayn-proyekt-interera-kvartiry/">Дизайн интерьера квартиры</a>                                    <span class="footer__nav-open-link-icon footer__submenu-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                            <path d="M18.75 6.81984L17.1802 5.25L12 10.4302L6.81984 5.25L5.25 6.81984L10.4302 12L5.25 17.1802L6.81984 18.75L12 13.5698L17.1802 18.75L18.75 17.1802L13.5698 12L18.75 6.81984Z" fill="black"/>
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="footer__link_submenu_block-wrapper">
+                                    <div class="footer__link_submenu_block">
+                                                                                    <a href="/dizayn-proyekt-interera-odnokomnatnoy-kvartiry/" class="link-line">
+                                                однокомнатная                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-dvukhkomnatnoy-kvartiry/" class="link-line">
+                                                двухкомнатная                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-trekhkomnatnoy-kvartiry/" class="link-line">
+                                                трехкомнатная                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-chetyrekhkomnatnoy-kvartiry/" class="link-line">
+                                                четырехкомнатная                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-dvukhurovnevoy-kvartiry/" class="link-line">
+                                                двухуровневая                                            </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                                                                                            <a href="/dizayn-proyekt-interera-studii/" class="link-line">
+                            Дизайн интерьера студии                        </a>
+                                                                                            <a href="/dizayn-proyekt-interera-premium-klassa/" class="link-line">
+                            Дизайн интерьера премиум-класса                        </a>
+                                                                                                <div class="footer__submenu-open-link-wrapper">
+                                <div class="footer__submenu-open-link link-line link-flex">
+                                    Дизайн интерьера по помещению                                    <span class="footer__nav-open-link-icon footer__submenu-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                            <path d="M18.75 6.81984L17.1802 5.25L12 10.4302L6.81984 5.25L5.25 6.81984L10.4302 12L5.25 17.1802L6.81984 18.75L12 13.5698L17.1802 18.75L18.75 17.1802L13.5698 12L18.75 6.81984Z" fill="black"/>
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="footer__link_submenu_block-wrapper">
+                                    <div class="footer__link_submenu_block">
+                                                                                    <a href="/dizayn-proyekt-interera-spalni/" class="link-line">
+                                                спальни                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-kukhni/" class="link-line">
+                                                кухни                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-zala/" class="link-line">
+                                                зала                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-vannoy-komnaty/" class="link-line">
+                                                ванной                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-kholla/" class="link-line">
+                                                холла                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-gostinoy-komnaty/" class="link-line">
+                                                гостиной                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-garderobnoy/" class="link-line">
+                                                гардеробной                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-dushevoy/ " class="link-line">
+                                                душевой                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-basseyna/" class="link-line">
+                                                бассейна                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-prikhozhey/" class="link-line">
+                                                прихожей                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-detskoy-komnaty/" class="link-line">
+                                                детской                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-novostroyke/" class="link-line">
+                                                новостройки                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-pentkhausa/" class="link-line">
+                                                пентхауса                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-mansardy/" class="link-line">
+                                                мансарды                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-dupleksa/" class="link-line">
+                                                дуплекса                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-taunkhausa/" class="link-line">
+                                                таунхауса                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-kabineta/" class="link-line">
+                                                кабинета                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-komnaty-dlya-podrostka/" class="link-line">
+                                                для подростка                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-balkonov-i-lodzhiy/" class="link-line">
+                                                лоджий                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-komnaty-dlya-devochki/" class="link-line">
+                                                для девочки                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-komnaty-dlya-malchika/" class="link-line">
+                                                для мальчика                                            </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                                                                                                <div class="footer__submenu-open-link-wrapper">
+                                <div class="footer__submenu-open-link link-line link-flex">
+                                    Дизайн интерьера по стилю                                    <span class="footer__nav-open-link-icon footer__submenu-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                            <path d="M18.75 6.81984L17.1802 5.25L12 10.4302L6.81984 5.25L5.25 6.81984L10.4302 12L5.25 17.1802L6.81984 18.75L12 13.5698L17.1802 18.75L18.75 17.1802L13.5698 12L18.75 6.81984Z" fill="black"/>
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="footer__link_submenu_block-wrapper">
+                                    <div class="footer__link_submenu_block">
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-sovremennom-stile/" class="link-line">
+                                                современный                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-stile-eklektika/" class="link-line">
+                                                эклектика                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-stile-minimalizm/" class="link-line">
+                                                минимализм                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-skandinavskom-stile/" class="link-line">
+                                                скандинавский                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-stile-modern/" class="link-line">
+                                                модерн                                            </a>
+                                                                                    <a href="https://geometrium.com/izayn-proyekt-interera-v-svetlykh-tonakh/" class="link-line">
+                                                в светлых тонах                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-v-stile-khay-tek/" class="link-line">
+                                                хай-тек                                            </a>
+                                                                                    <a href="/dizayn-proyekt-interera-v-temnykh-tonakh/" class="link-line">
+                                                в темных тонах                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-stile-eko/" class="link-line">
+                                                эко                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-stile-neoklassika/" class="link-line">
+                                                неоклассика                                            </a>
+                                                                                    <a href="https://geometrium.com/dizayn-proyekt-interera-v-klassicheskom-stile/" class="link-line">
+                                                классический                                             </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                                                                                            <a href="/razrabotka-planirovochnogo-resheniya/" class="link-line">
+                            Разработка планировочного решения                        </a>
+                                                                                            <a href="/komplektatsiya-obyekta-dizayn-proyekta/" class="link-line">
+                            Комплектация дизайн-проекта                        </a>
+                                                                                                <div class="footer__submenu-open-link-wrapper">
+                                <div class="footer__submenu-open-link link-line link-flex">
+                                    <a href="/kompleksnoye-arkhitekturnoye-proyektirovaniye/">Комплексное архитектурное проектирование</a>                                    <span class="footer__nav-open-link-icon footer__submenu-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                            <path d="M18.75 6.81984L17.1802 5.25L12 10.4302L6.81984 5.25L5.25 6.81984L10.4302 12L5.25 17.1802L6.81984 18.75L12 13.5698L17.1802 18.75L18.75 17.1802L13.5698 12L18.75 6.81984Z" fill="black"/>
+                                        </svg>
+                                    </span>
+                                </div>
+                                <div class="footer__link_submenu_block-wrapper">
+                                    <div class="footer__link_submenu_block">
+                                                                                    <a href="https://geometrium.com/proyektirovaniye-gostevykh-domov/" class="link-line">
+                                                гостевого дома                                            </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                                                                                            <a href="https://geometrium.com/dekorirovanie-interera/" class="link-line">
+                            Декорирование интерьера                        </a>
+                                                                                            <a href="https://geometrium.com/avtorskiy-nadzor/" class="link-line">
+                            Авторский надзор                        </a>
+                                                                                            <a href="https://geometrium.com/3d-vizualizatsiya-dizayn-proyekta-interera/" class="link-line">
+                            3D-визуализация интерьера                        </a>
+                                                                                            <a href=" https://geometrium.com/otsenka-planirovochnykh-resheniy/" class="link-line">
+                            Экспертная оценка планировки                        </a>
+                                                            </div>
+            </div>
+            <div class="footer__row-col-1">
+                <div class="footer__nav" style="width: 25rem;">
+                                                                        <a href="#"  class="footer__nav-open-link link-line">
+                                услуги                                <span class="footer__nav-open-link-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                        <path d="M18.75 6.81984L17.1802 5.25L12 10.4302L6.81984 5.25L5.25 6.81984L10.4302 12L5.25 17.1802L6.81984 18.75L12 13.5698L17.1802 18.75L18.75 17.1802L13.5698 12L18.75 6.81984Z" fill="black"/>
+                                    </svg>
+                                </span>
+                            </a>
+                            <div class="footer__abs-container-submenu" >
+                                <div class="footer__abs-container-submenu-row">
+                                                                                                                        <div class="footer__abs-container-submenu-col">
+                                                <a href="/dizajjn-zhilykh-intererov/">Жилые <br><br class="br-mob"> интерьеры</a>
+                                            </div>
+                                                                                                                                                                <div class="footer__abs-container-submenu-col">
+                                                <a href="/architecture-for-developers/" >
+                                                    Архитектура <br><br class="br-mob"> для девелоперов                                                </a>
+                                                                                                                                                                <a href="#modal-2" data-fancybox data-options='{"touch" : false, "autoFocus" : false, "animated" : false }'>
+                                                Интерьер <br>для бизнеса <br><br class="br-mob"> и девелоперов                                            </a>
+                                            </div>
+                                                                                                                                                                                        </div>
+                            </div>
+                                                                                                <a href="/portfolio/"  class="link-line">
+                                портфолио                            </a>
+                                                                                                <a href="/#section-video"  class="link-line">
+                                о компании                            </a>
+                                                                                                <a href="https://geometrium-school.ru/?utm_source=site&utm_medium=header&utm_campaign=studio"  class="link-line">
+                                school                            </a>
+                                                                                                <a href="/kontakty/"  class="link-line">
+                                контакты                            </a>
+                                                                                                <a href="/#section-video"  class="link-line">
+                                о компании                            </a>
+                                                                                                <a href="/#review"  class="link-line">
+                                отзывы                            </a>
+                                                                                                <a href="/blog-studii/"  class="link-line">
+                                блог                            </a>
+                                                                                                <a href="https://spb.hh.ru/employer/1342483?hhtmFrom=vacancy_search_list"  class="link-line">
+                                вакансии                            </a>
+                                                                                                <a href="https://geometrium.com/video/"  class="link-line">
+                                видео                            </a>
+                                                            </div>
+            </div>
+            <div class="footer__row-col-1">
+                                    <div class="footer__row contact-company">
+                        <div class="footer__nav">
+                            <div class="footer__nav-label">
+                                контакты
+                            </div>
+                            <a href="https://t.me/geometrium_sales" class="link-telegram link-line">
+                                telegram
+                            </a>
+                            <a href="https://wa.me/79629104003" class="link-whatsapp link-line">
+                                whatsapp
+                            </a>
+                            <a href="mailto:office@geometrium.com" class="link-line">
+                                office@geometrium.com                            </a>
+                            <div class="common-checkbox">
+                                <label for="mask-phone-footer-1" class="common-checkbox__el checkbox-tab-phone">
+                                    <input id="mask-phone-footer-1" class="phone-val" type="radio" name="mask-phone-footer" checked value="+7 (495) 374-99-52">
+                                    <input class="whatsapp-val" type="radio" value="79629104003">
+                                    <input class="telegram-val" type="radio" value="geometrium_sales">
+                                    <span class="common-checkbox__title">москва</span>
+                                </label>
+                                <label for="mask-phone-footer-2" class="common-checkbox__el checkbox-tab-phone">
+                                    <input id="mask-phone-footer-2" class="phone-val" type="radio" name="mask-phone-footer" value="+6282340924472">
+                                    <input class="telegram-val" type="radio" value="@kira7006">
+                                    <input class="whatsapp-val" type="radio" value="6282340924472">
+                                    <span class="common-checkbox__title">бали</span>
+                                </label>
+                            </div>
+                            <a href="tel:+7 (495) 374-99-52" class="checkbox-active-mask-link link-line">
+                                +7 (495) 374-99-52                            </a>
+                            <a href="#modal-1" data-fancybox data-options='{"touch" : false, "autoFocus" : false, "animated" : false }' class="link-line footer__phone">
+                                заказать звонок
+                            </a>
+                        </div>
+                        <div class="footer__nav footer__nav--contact">
+                            <div class="footer__nav-label">
+                                адрес
+                            </div>
+                            <p>
+                                ул. Нижняя Сыромятническая, д. 10, корп. 8, эт. 2, офис 302
+                            </p>
+                            <span>
+                                Центр дизайна ARTPLAY <br><br class="br-mob">
+                                Москва, Россия
+                            </span>
+                        </div>
+                    </div>
+                            </div>
+            <div class="footer__row-col-1">
+                                    <div class="footer__row contact-company">
+                        <div class="footer__nav">
+                            <div class="footer__nav-label">
+                                соцсети
+                            </div>
+                            <a href="https://www.youtube.com/channel/UCssuw4KHM9I7_whvaIjyU5g" class="link-line">
+                                youtube
+                            </a>
+                            <a href="https://vk.com/geometrium" class="link-line">
+                                вконтакте
+                            </a>
+                            <a href="https://t.me/geometrium" class="link-line">
+                                telegram
+                            </a>
+                                                                                        <a href="https://www.instagram.com/geometrium" class="link-line">
+                                    instagram
+                                </a>
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+
+        <div class="footer__bottom footer__flex-row">
+            <div class="footer__row-col-1">
+                                <a href="/politika-konfidencialnosti-privacy-policy/" class="link-line">
+                    Политика конфиденциальности                </a>
+                            </div>
+            <div class="footer__row-col-2">
+
+                <div class="footer__logo-company">
+                    <span>made by</span>
+                    <div class="footer__logo-company-row">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+                            <mask id="mask0_3730_34861" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="14" height="14">
+                                <circle cx="7" cy="7" r="7" fill="url(#paint0_linear_3730_34861)"/>
+                            </mask>
+                            <g mask="url(#mask0_3730_34861)">
+                                <path d="M1.99947 11.9506H11.899L6.94922 7.0009L1.99947 11.9506Z" fill="#CCFE0F"/>
+                                <circle cx="7" cy="7" r="5.5" stroke="#CCFE0F" stroke-width="3"/>
+                            </g>
+                            <defs>
+                                <linearGradient id="paint0_linear_3730_34861" x1="7" y1="0" x2="7" y2="14" gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#FCCE02"/>
+                                    <stop offset="1" stop-color="#FCCE02"/>
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                        <p>ConversionArt</p>
+                    </div>
+                    <a href="http://conversionart.ru/" target="_blank"></a>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</footer>
+
+</div>
+
+<div class="modal modal--center modal--btn-fixed-container animation-modal-top-fade" id="modal-1">
+    <div class="modal__container modal__container--mid ">
+        <div class="contact-form contact-form--modal-form">
+            <div class="common-container contact-form__container">
+                <div class="contact-form__row-block">
+                                            <div class="contact-form__info">
+                            <h2 class="contact-form__info-title">
+                                Укажите контактные данные и удобное время для звонка
+                            </h2>
+                        </div>
+                        
+<div class="wpcf7 no-js" id="wpcf7-f77966-o2" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/estestvennyjj-svet-v-interere-kak-ego/#wpcf7-f77966-o2" method="post" class="wpcf7-form init wpcf7-acceptance-as-validation" aria-label="Контактная форма" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="77966" />
+<input type="hidden" name="_wpcf7_version" value="5.9.3" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f77966-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<span class="wpcf7-form-control-wrap" data-name="data-sb"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input" aria-invalid="false" value="11" type="text" name="data-sb" /></span>
+
+<div class="contact-form__form form" data-sb="11">
+                            <div class="field-croup">
+                                <label class="field-croup__label">
+                                    как к вам обращаться?
+                                </label>
+                                <span class="wpcf7-form-control-wrap" data-name="user-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required name field-croup__input text-mask" aria-required="true" aria-invalid="false" placeholder="Иван" value="" type="text" name="user-name" /></span>
+                            </div>
+                            <div class="field-croup">
+                                <label class="field-croup__label">
+                                    телефон для связи
+                                </label>
+                                <span class="wpcf7-form-control-wrap" data-name="tel-user"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel field-croup__input phone-mask" aria-required="true" aria-invalid="false" placeholder="Телефон" value="" type="tel" name="tel-user" /></span>
+                            </div>
+                            <div class="field-croup modal-pad-bot-0">
+                                <div class="field-croup__row-block">
+                                    <label for="phone-2" class="field-croup__label">
+                                        когда вам позвонить?
+                                    </label>
+                                    <div class="common-checkbox">
+                                        <label class="common-checkbox__el link-line ">
+                                            <input type="radio" name="radio" value="сейчас">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">сейчас</span>
+                                        </label>
+                                        <label class="common-checkbox__el open-input-hidden link-line">
+                                            <input type="radio" name="radio" checked value="по времени">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">по времени</span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field-croup field-croup--hide-input" style="display: block">
+                                <span class="wpcf7-form-control-wrap" data-name="data-time"><input size="40" class="wpcf7-form-control wpcf7-text field-croup__input" aria-invalid="false" placeholder="Например: 21 декабря в 14:00" value="" type="text" name="data-time" /></span>
+                            </div>
+
+                            <button class="btn-animation" >
+                            <span class="btn-animation__name">
+                                Перезвоните мне
+                            </span>
+                                <span class="btn-animation__flare">
+                                <span></span>
+                            </span>
+                                <span class="btn-animation__cube">
+                              <span></span>
+                            </span>
+                                <span class="btn-animation__hover"></span>
+                            </button>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Отправить" />
+                            <div class="contact-form__form-subtext">
+<span class="wpcf7-form-control-wrap" data-name="acceptance-55"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-55" value="1" aria-invalid="false" /><span class="wpcf7-list-item-label">Нажимая на кнопку, вы даете согласие на обработку своих персональных данных <br> и
+                                соглашаетесь с <a href="/politika-konfidencialnosti-privacy-policy/">Политикой конфиденциальности</a></span></label></span></span></span>
+                            </div>
+                        </div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+                    
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="modal modal--center modal--contact-form-manager modal--btn-fixed-container animation-modal-top-fade" id="modal-2">
+    <div class="modal__container modal__container--big ">
+        <div class="contact-form " >
+            <div class="common-container contact-form__container">
+                <div class="contact-form__row-block">
+                                            <div class="contact-form__info">
+                            <svg class="contact-form__icon" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                                <rect x="17" y="9.30859" width="1" height="13" transform="rotate(90 17 9.30859)" fill="#6F6F6F"/>
+                                <rect x="11" y="16.3086" width="1" height="13" transform="rotate(-180 11 16.3086)" fill="#6F6F6F"/>
+                            </svg>
+                            <h2 class="contact-form__info-title">
+                                Свяжитесь с нами <br class="only-medium"> <br class="br-mob">
+                                и расскажите <br class="br-mob"> о своей <br class="only-medium">
+                                идее или <br class="br-mob"> задаче
+                            </h2>
+                            <ul class="ut-ul-common">
+                                <li>
+                                    Расскажем, как мы можем реализовать вашу идею <br class="only-medium"> и как работаем с проектами
+                                </li>
+                                <li>
+                                    Сориентируем по срокам работ и бюджету
+                                    на реализацию вашего проекта, расскажем про финансовые затраты на каждом этапе проектирования
+                                </li>
+                                <li>
+                                    Поделимся нашим опытом ведения проектов, обсудим ключевые моменты,
+                                    о которых нужно знать до начала проектирования
+                                </li>
+                                <li>
+                                    Обсудим с вами дальнейшие действия
+                                </li>
+                            </ul>
+                                                            <div class="contact-form__info-manager">
+                                    <div class="contact-form__info-manager-contact">
+                                        <div class="contact-form__info-manager-contact-name">
+                                            Катерина Иртюго                                        </div>
+                                        <div class="contact-form__info-manager-contact-job">
+                                            Руководитель архитектурного направления <br class="only-medium"> Geometrium                                        </div>
+                                    </div>
+                                    <div class="contact-form__info-manager-images">
+                                        <picture >
+                                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/manager-4.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/manager-4.png" alt=""></noscript>
+                                        </picture>
+                                    </div>
+                                </div>
+                                                    </div>
+                        <div class="contact-form__form form" >
+                            <svg class="contact-form__icon" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                                <rect x="17" y="9.30859" width="1" height="13" transform="rotate(90 17 9.30859)" fill="#6F6F6F"/>
+                                <rect x="11" y="16.3086" width="1" height="13" transform="rotate(-180 11 16.3086)" fill="#6F6F6F"/>
+                            </svg>
+                            <div class="contact-form__info-manager-images-mini">
+                                <picture >
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/mini-manager-3.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/mini-manager-3.png" alt=""></noscript>
+                                </picture>
+                            </div>
+                            <div class="contact-form__form-text-right">
+                                Один из наших менеджеров свяжется с вами
+                                и согласует дату и время онлайн-встречи
+                            </div>
+                            
+<div class="wpcf7 no-js" id="wpcf7-f78095-o3" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/estestvennyjj-svet-v-interere-kak-ego/#wpcf7-f78095-o3" method="post" class="wpcf7-form init wpcf7-acceptance-as-validation" aria-label="Контактная форма" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="78095" />
+<input type="hidden" name="_wpcf7_version" value="5.9.3" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f78095-o3" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<span class="wpcf7-form-control-wrap" data-name="data-sb"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input" aria-invalid="false" value="1" type="text" name="data-sb" /></span>
+<span class="wpcf7-form-control-wrap" data-name="data-radio-value"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input radio_value" aria-invalid="false" placeholder="звонок" value="" type="text" name="data-radio-value" /></span>
+
+
+<div class="field-croup">
+                                <label class="field-croup__label">
+                                    как к вам обращаться?
+                                </label>
+                                <span class="wpcf7-form-control-wrap" data-name="user-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required name field-croup__input text-mask" aria-required="true" aria-invalid="false" placeholder="Иван" value="" type="text" name="user-name" /></span>
+                            </div>
+                            <div class="field-croup">
+                                <div class="field-croup__row-block">
+                                    <label class="field-croup__label">
+                                        удобный способ для связи
+                                    </label>
+                                    <div class="common-checkbox">
+                                        <label class="common-checkbox__el link-line ">
+                                            <input type="radio" name="radio" value="whatsapp">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">whatsapp</span>
+                                        </label>
+<label class="common-checkbox__el open-input-hidden link-line">
+                                            <input type="radio" name="radio" value="telegram">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">telegram</span>
+                                        </label>
+                                        <label class="common-checkbox__el link-line">
+                                            <input type="radio" name="radio" checked value="звонок">
+                                            <span class="common-checkbox__oval"></span>
+                                            <span class="common-checkbox__title">звонок</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <span class="wpcf7-form-control-wrap" data-name="tel-user"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel field-croup__input phone-mask" aria-invalid="false" placeholder="Телефон" value="" type="tel" name="tel-user" /></span>
+                            </div>
+<div class="field-croup field-croup--hide-input">
+                                  <span class="wpcf7-form-control-wrap" data-name="telegram"><input size="40" class="wpcf7-form-control wpcf7-text telegram field-croup__input" aria-invalid="false" placeholder="@nickname" value="" type="text" name="telegram" /></span>
+                            </div>
+<div class="field-croup">
+                                <div class="field-croup__label-open-input link-line">
+                                    опишите свою задачу
+                                </div>
+                                <div class="field-croup__textarea-hide">
+<span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea message field-croup__textarea" aria-invalid="false" placeholder="Напишите свои пожелания" name="message"></textarea></span>
+                                </div>
+                            </div>
+                            <button class="btn-animation">
+                                <span class="btn-animation__name">
+                                    Обсудить задачу с руководителем
+                                </span>
+                                <span class="btn-animation__cube">
+                                    <span></span>
+                                </span>
+                                <span class="btn-animation__hover"></span>
+                            </button>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Отправить" />
+                            <div class="contact-form__form-subtext">
+                              <span class="wpcf7-form-control-wrap" data-name="acceptance-646"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-646" value="1" aria-invalid="false" /><span class="wpcf7-list-item-label">Нажимая на кнопку, вы даете согласие на обработку своих персональных данных <br> и соглашаетесь с <a href="/politika-konfidencialnosti-privacy-policy/">Политикой конфиденциальности</a></span></label></span></span></span>
+                           </div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal--center modal--contact-form-info-text modal--btn-fixed-container animation-modal-top-fade" id="modal-3">
+    <div class="modal__container modal__container--small ">
+
+        <div class="contact-form " >
+            <div class="common-container contact-form__container">
+                <div class="contact-form__row-block">
+                                            <div class="contact-form__info">
+                            <svg class="contact-form__icon" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                                <rect x="17" y="9.30859" width="1" height="13" transform="rotate(90 17 9.30859)" fill="#6F6F6F"/>
+                                <rect x="11" y="16.3086" width="1" height="13" transform="rotate(-180 11 16.3086)" fill="#6F6F6F"/>
+                            </svg>
+                            <h2 class="contact-form__info-title">
+                                Все кандидаты проходят строгий <br class="only-medium">
+                                и долгий отбор
+                            </h2>
+                            <ul class="ut-ul-common">
+                                <li>
+                                    Мы тщательно изучаем портфолио и резюме.
+                                </li>
+                                <li>
+                                    Проводим собеседование, узнаем в каком сегменте работал кандидат, какие проекты
+                                    разрабатывал,<br class="only-medium">
+                                    с какими подрядчиками сотрудничал и т. д.
+                                </li>
+                                <li>
+                                    Задаем вопросы на знание технических моментов, в том числе норм согласования и
+                                    тестируем, чтобы проверить его профессиональный уровень.
+                                </li>
+                                <li>
+                                    Обучаем кандидата работе по нашим стандартам <br class="only-medium">
+                                    и организуем стажировку на базе нашей студии.
+                                </li>
+                                <li>
+                                    Допускаем кандидата к реальной работе под наставничеством только после прохождения
+                                    обучения, стажировки и аттестации.
+                                </li>
+                            </ul>
+                            <div class="ut-text-base">
+                                И только после того, как специалист проявил себя в работе, показал свои навыки и
+                                креативность, он начинает работать самостоятельно.
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal modal--center modal--contact-form-info-text modal--btn-fixed-container animation-modal-top-fade" id="modal-4">
+    <div class="modal__container modal__container--mid ">
+
+        <div class="contact-form " >
+            <div class="common-container contact-form__container">
+                                    <div class="contact-form__row-block">
+                        <div class="contact-form__info">
+                            <div class="ut-address">
+                                <span>Центр дизайна ARTPLAY</span>
+                                <span>
+                              ул. Нижняя Сыромятническая, д. 10, корп. 8, <br class="only-medium">
+                               эт. 2, офис 302 <span> (напротив Poliform)</span>
+                            </span>
+                            </div>
+                            <picture class="ut-images">
+                                <source type="image/webp" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/plan-images.webp">
+                                <source type="image/png" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/plan-images.png">
+                                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/themes/Geometrium-template/img/plan-images.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/themes/Geometrium-template/img/plan-images.png" alt=""></noscript>
+                            </picture>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<div class="modal modal--center modal--presentation modal--btn-fixed-container animation-modal-top-fade" id="modal-form-mini">
+    <div class="modal__container modal__container--big ">
+        <div class="contact-form " >
+            <div class="common-container contact-form__container">
+                <div class="contact-form__row-block">
+                                            <div class="contact-form__info">
+                            <picture >
+                                <source type="image/webp" media="(max-width: 768px)" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/modal-img-form-2.webp">
+                                <source type="image/jpg" media="(max-width: 768px)" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/modal-img-form-2.jpg">
+                                <source type="image/webp" media="(min-width: 768px)" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/modal-img-form-1.webp">
+                                <source type="image/jpg" media="(min-width: 768px)" data-lazy-srcset="https://geometrium.com/wp-content/themes/Geometrium-template/img/modal-img-form-1.jpg">
+                                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/themes/Geometrium-template/img/modal-img-form-1.jpg"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/themes/Geometrium-template/img/modal-img-form-1.jpg" alt=""></noscript>
+                            </picture>
+                        </div>
+                        <div class="contact-form__form form">
+                            <h2 class="contact-form__info-title">
+                                Получите <br class="only-medium"> реальный пример <br class="only-medium">
+                                дизайн-проекта
+                            </h2>
+                            
+<div class="wpcf7 no-js" id="wpcf7-f78092-o4" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/estestvennyjj-svet-v-interere-kak-ego/#wpcf7-f78092-o4" method="post" class="wpcf7-form init wpcf7-acceptance-as-validation" aria-label="Контактная форма" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="78092" />
+<input type="hidden" name="_wpcf7_version" value="5.9.3" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f78092-o4" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<span class="wpcf7-form-control-wrap" data-name="data-sb"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input" aria-invalid="false" value="5" type="text" name="data-sb" /></span>
+<span class="wpcf7-form-control-wrap" data-name="data-radio-value"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input radio_value" aria-invalid="false" placeholder="whatsapp" value="" type="text" name="data-radio-value" /></span>
+
+<div class="field-croup">
+                                    <div class="field-croup__row-block">
+                                        <label for="phone-section-2-2" class="field-croup__label">
+                                            выберите куда прислать пример дизайн-проекта
+                                        </label>
+                                        <div class="common-checkbox">
+                                            <label class="common-checkbox__el link-line ">
+                                                <input type="radio" name="radio" checked value="whatsapp">
+                                                <span class="common-checkbox__oval"></span>
+                                                <span class="common-checkbox__title">whatsapp</span>
+                                            </label>
+                                            <label class="common-checkbox__el open-input-hidden link-line">
+                                                <input type="radio" name="radio" value="telegram">
+                                                <span class="common-checkbox__oval"></span>
+                                                <span class="common-checkbox__title">telegram</span>
+                                            </label>
+                                        </div>
+                                    </div>
+<span class="wpcf7-form-control-wrap" data-name="tel-user"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel field-croup__input phone-mask" aria-invalid="false" placeholder="Телефон" value="" type="tel" name="tel-user" /></span>
+                                </div>
+                                <div class="field-croup field-croup--hide-input">
+<span class="wpcf7-form-control-wrap" data-name="telegram"><input size="40" class="wpcf7-form-control wpcf7-text telegram field-croup__input" aria-invalid="false" placeholder="@nickname" value="" type="text" name="telegram" /></span>
+                                </div>
+                                <button class="btn-animation">
+                                <span class="btn-animation__name">
+                                     Получить пример дизайн-проекта
+                                </span>
+                                    <span class="btn-animation__cube">
+                                    <span></span>
+                                </span>
+                                    <span class="btn-animation__hover"></span>
+                                </button>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Отправить" />
+                                <div class="contact-form__form-subtext">
+                                   <span class="wpcf7-form-control-wrap" data-name="acceptance-150"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-150" value="1" aria-invalid="false" /><span class="wpcf7-list-item-label">Нажимая на кнопку, вы даете согласие на обработку своих персональных данных и соглашаетесь с <a href="/politika-konfidencialnosti-privacy-policy/">Политикой конфиденциальности</a></span></label></span></span></span>
+                                </div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal modal--video modal--center modal--contact-form-info-text modal--btn-fixed-container animation-modal-top-fade" id="modal-video">
+    <div class="modal__container modal__container--mid ">
+        <!--<iframe loading="lazy" width="560" height="315" src="about:blank" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.youtube.com/embed/oooM0KDNpR0?si=nvWqgIkO13a34Oi8"></iframe><noscript><iframe width="560" height="315" src="https://www.youtube.com/embed/oooM0KDNpR0?si=nvWqgIkO13a34Oi8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></noscript>-->
+    </div>
+</div>
+
+
+    <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+        window.addEventListener("load", function() {
+                            $('#modal-form-mini .radio_value').val('звонок');
+                $('#modal-2 .radio_value').val('звонок');
+                    });
+        (function () { var widget = document.createElement('script'); widget.dataset.pfId = 'ad9ee12b-b699-41e1-8969-cc0e0f796db7'; widget.src = 'https://widget.yourgood.app/script/widget.js?id=ad9ee12b-b699-41e1-8969-cc0e0f796db7&now='+Date.now(); document.head.appendChild(widget); })()
+    });</script>
+    
+    <script data-minify="1" type="text/javascript" src="https://geometrium.com/wp-content/cache/min/1/wp-content/plugins/cf7-amocrm-lead-generation/resources/compiled/theme/js/app.js?ver=1765354696" id="cf7-amocrm-theme-js" defer></script>
+<script type="text/javascript" src="https://geometrium.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/geometrium.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script data-minify="1" type="text/javascript" src="https://geometrium.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1765354696" id="contact-form-7-js" defer></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?(.*)wp\\-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/geometrium.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdBU1MpAAAAAPZHdbSlNK4g2jpn4sDPmAI4gFyK&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://geometrium.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js" defer></script>
+<script type="text/javascript" src="https://geometrium.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js" defer></script>
+<script type="text/javascript" src="https://geometrium.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdBU1MpAAAAAPZHdbSlNK4g2jpn4sDPmAI4gFyK","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script data-minify="1" type="text/javascript" src="https://geometrium.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1765354696" id="wpcf7-recaptcha-js" defer></script>
+<script type="text/javascript" id="sitepress-js-extra">
+/* <![CDATA[ */
+var icl_vars = {"current_language":"ru","icl_home":"https:\/\/geometrium.com\/"};
+/* ]]> */
+</script>
+<script data-minify="1" type="text/javascript" src="https://geometrium.com/wp-content/cache/min/1/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=1765354696" id="sitepress-js" defer></script>
+        <!-- calltouch -->
+        <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+            (function(w,d,n,c){w.CalltouchDataObject=n;w[n]=function(){w[n]["callbacks"].push(arguments)};if(!w[n]["callbacks"]){w[n]["callbacks"]=[]}w[n]["loaded"]=false;if(typeof c!=="object"){c=[c]}w[n]["counters"]=c;for(var i=0;i<c.length;i+=1){p(c[i])}function p(cId){var a=d.getElementsByTagName("script")[0],s=d.createElement("script"),i=function(){a.parentNode.insertBefore(s,a)},m=typeof Array.prototype.find === 'function',n=m?"init-min.js":"init.js";s.type="text/javascript";s.async=true;s.src="https://mod.calltouch.ru/"+n+"?id="+cId;if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",i,false)}else{i()}}})(window,document,"ct","auli7xlw");
+        </script>
+        <!-- calltouch -->
+        <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://geometrium.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+
+<script src="https://geometrium.com/wp-content/themes/Geometrium-template/js/page-js/jquery.min.js" defer></script>
+<script defer src="https://geometrium.com/wp-content/themes/Geometrium-template/js/page-js/reusable-page-js.min.js"></script>
+
+<script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener( 'wpcf7mailsent', function( event ) {
+        let arr_value_input = event.detail.inputs;
+        let sb, name, telegram
+        $.each(arr_value_input, function(index, obj) {
+            if( obj.name == "data-sb" ){
+                sb = obj.value;
+            }
+            if( obj.name == "user-name" ){
+                name = obj.value;
+            }
+            if( obj.name == "telegram" ){
+                telegram = obj.value;
+            }
+        });
+                location = "/sb/?fio="+name+"&sb="+sb+"&telegram="+telegram;
+        
+    }, false );
+
+    $(document).ready(function () {
+
+        let active_video = false;
+        $('body').on("click", ".bg-click-active-video", function() {
+            if( active_video ){
+                $("#video-first")[0].muted = true;
+                $("#video-first")[0].pause();
+                $(".first-block__video-icon").removeClass('active-video');
+                active_video = false;
+            }else{
+                $(".first-block__video-icon").addClass('active-video');
+                $("#video-first")[0].muted = false;
+                $("#video-first")[0].play();
+                active_video = true;
+            }
+        });
+
+        $(".slider-do-after").removeClass("slider-do-after--not-initialized");
+        $('.slider-do-after').each(function(key, item) {
+
+            let slider_do_after = $(this),
+                slider_do_after_gallery = slider_do_after.find(".gallery").find(".items"),
+                slider_do_after_gallery_arrowPrev = slider_do_after.find(".ut-arrows").children(".prev"),
+                slider_do_after_gallery_arrowNext = slider_do_after.find(".ut-arrows").children(".next"),
+                slider_do_after_gallery_settings = {
+                    infinite: true,
+                    variableWidth: true,
+                    swipe: false,
+                    swipeToSlide: false,
+                    TouchMove: false,
+                    lazyLoad: "progressive",
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    focusOnSelect: false,
+                    speed: 800,
+                    arrows: true,
+                    prevArrow: slider_do_after_gallery_arrowPrev,
+                    nextArrow: slider_do_after_gallery_arrowNext,
+                    dots: false,
+                };
+
+            slider_do_after_gallery.slick(slider_do_after_gallery_settings);
+
+        });
+
+        $('.slider-do-after__label-do').click(function(){
+            $('.resize').css('width', '1.5%');
+            $('.handle').css('left', 15);
+        });
+
+        $('.slider-do-after .slick-arrow, .slider-do-after .slick-dots li').click(function(){
+            $('.name').removeClass('animation-info');
+            $('.sub-info__m2').removeClass('animation-info');
+            $('.sub-info__city').removeClass('animation-info');
+            $('.resize').css('width', '50%');
+            $('.handle').css('left', '50%' );
+        });
+
+        $('.slider-do-after__label-after').click(function(){
+            $('.resize').css('width', '98.5%');
+            $('.handle').css('left', '98.5%');
+        });
+
+        $('.ba-slider').each(function(){
+            var cur = $(this);
+            // Привязка событий перетаскивания
+            drags(cur.find('.handle'), cur.find('.resize'), cur);
+        });
+
+        $('.post-constructor__section-slider').each(function(key, item) {
+
+            var section_slider = $(this),
+                section_slider_gallery = section_slider.find(".gallery").find(".items"),
+                section_slider_gallery_arrowPrev = section_slider.find(".ut-arrows").children(".prev"),
+                section_slider_gallery_arrowNext = section_slider.find(".ut-arrows").children(".next"),
+                section_slider_gallery_pagination = section_slider.find(".ut-pag"),
+                section_slider_gallery_settings = {
+                    infinite: true,
+                    variableWidth: true,
+                    swipeToSlide: true,
+                    lazyLoad: "progressive",
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    focusOnSelect: true,
+                    speed: 600,
+                    arrows: true,
+                    prevArrow: section_slider_gallery_arrowPrev,
+                    nextArrow: section_slider_gallery_arrowNext,
+                    dots: true,
+                    appendDots: section_slider_gallery_pagination,
+                    customPaging: function () {
+                        return "";
+                    }
+                };
+
+            section_slider_gallery.slick(section_slider_gallery_settings);
+
+        });
+
+        let visible_likes = localStorage.getItem('likes'),
+            active_like = false,
+            likes = localStorage.getItem('likes'),
+            // Получаем значения полей
+            fieldname = $('.post-constructor__like-btn-icon').data('field-name'),
+            fieldvalue = $('.post-constructor__like-btn-icon').data('field-value'),
+            cost_bd_value = $('.post-constructor__like-btn-icon').data('bd-value'),
+            postid = $('.post-constructor__like-btn-icon').data('post-id'),
+            total;
+
+        let chek_likedPages = JSON.parse(localStorage.getItem('likedPages')) || [];
+        let current_Page = window.location.href;
+
+        if (chek_likedPages.includes(current_Page)) {
+            setTimeout(function () {
+                $(".post-constructor__like-number").removeClass('hidden-content');
+                $(".post-constructor__like-btn").addClass('active');
+            }, 1000);
+            likes = localStorage.setItem('likes', cost_bd_value );
+            //Лайк уже поставлен на текущей странице
+        } else {
+            likes = localStorage.setItem('likes', null );
+            //Лайк еще не поставлен на текущей странице
+        }
+
+        let key_id_post = $(".first-block").data('key-id-post');
+        // Проверка, проставлен ли лайк на товаре
+        function isLiked(itemId) {
+            var likedItems = localStorage.getItem('likedItems');
+
+            if (likedItems) {
+                likedItems = JSON.parse(likedItems);
+
+                // Проверка, проставлен ли лайк на конкретном товаре
+                if (likedItems.includes(itemId)) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        if( isLiked(key_id_post) ){
+            $(".post-constructor__like-number").removeClass('hidden-content');
+            $(".post-constructor__like-btn").addClass('active');
+        }
+
+        function setLike() {
+            const likedPages = JSON.parse(localStorage.getItem('likedPages')) || [];
+            const currentPage = window.location.href;
+
+            if (!likedPages.includes(currentPage)) {
+                likedPages.push(currentPage);
+                localStorage.setItem('likedPages', JSON.stringify(likedPages));
+                //Лайк добавлен на текущей странице
+            } else {
+                //Лайк уже был добавлен на текущей странице
+            }
+        }
+
+        function removeLike() {
+            const likedPages = JSON.parse(localStorage.getItem('likedPages')) || {};
+            const currentPage = window.location.href;
+
+            if (likedPages[currentPage]) {
+                delete likedPages[currentPage];
+                localStorage.setItem('likedPages', JSON.stringify(likedPages));
+                //Лайк удален на текущей странице
+            } else {
+                //Лайка нет на текущей странице
+            }
+        }
+
+        // Обработчик события для обновления поля ACF через AJAX
+        $('.post-constructor__like-btn-icon').on('click', function(e) {
+            e.preventDefault();
+
+            if( isLiked(key_id_post) ){
+            }else{
+                if ( !likes || active_like == false ) {
+                    // Если лайков еще нет, добавляем первый лайк
+                    if ( likes ) {
+                        total = Number(likes) + fieldvalue;
+                    }else{
+                        total = cost_bd_value + fieldvalue;
+                    }
+                    // Сохраняем обновленный массив лайков в LocalStorage
+                    localStorage.setItem('likes', total );
+                    active_like = true;
+                    setLike();
+
+                } else {
+                    // Если уже есть лайки, убираем новый лайк
+                    total = likes - fieldvalue;
+                    localStorage.setItem('likes', total );
+                    active_like = false;
+                    removeLike()
+                }
+
+                // Создаем AJAX-запрос
+                $.ajax({ //обращение к php
+                    url: '/wp-admin/admin-ajax.php' ,  //путь к обработчику
+                    type: 'POST', //тип передачи
+                    data: { //параметры
+                        action: 'update_acf_field',
+                        field_name: fieldname,
+                        field_value: total,
+                        post_id: postid
+                    },
+                    success: function( response ) {  //успешное получение ответа на запрос
+                        $(".post-constructor__like-number-new-like").html(total);
+                    }
+                });
+            }
+
+        });
+
+    });
+
+    function drags(dragElement, resizeElement, container) {
+
+        // Инициализируйте событие перетаскивания при нажатии мыши.
+        dragElement.on('mousedown touchstart', function(e) {
+
+            dragElement.addClass('ba-slider__draggable');
+            resizeElement.addClass('resizable');
+
+            // Проверяем, является ли это событием мыши или касания, и передаём правильное значение.
+            var startX = (e.pageX) ? e.pageX : e.originalEvent.touches[0].pageX;
+
+            // Получите исходное положение
+            var dragWidth = dragElement.outerWidth(),
+                posX = dragElement.offset().left + dragWidth - startX,
+                containerOffset = container.offset().left,
+                containerWidth = container.outerWidth();
+
+            // Установленный лимит
+            minLeft = containerOffset + 15;
+            maxLeft = containerOffset + containerWidth - dragWidth - 15;
+
+            // Рассчитываем расстояние перетаскивания при перемещении мыши.
+            dragElement.parents().on("mousemove touchmove", function(e) {
+
+                // Проверяем, является ли это событием мыши или касания, и передаём правильное значение.
+                var moveX = (e.pageX) ? e.pageX : e.originalEvent.touches[0].pageX;
+
+                leftValue = moveX + posX - dragWidth;
+
+                // Предотвратить выход за пределы
+                if ( leftValue < minLeft) {
+                    leftValue = minLeft;
+                } else if (leftValue > maxLeft) {
+                    leftValue = maxLeft;
+                }
+
+                // Переведите левое значение в ширину маскированных элементов div.
+                widthValue = (leftValue + dragWidth/2 - containerOffset)*100/containerWidth+'%';
+
+                // Установим новые значения для ползунка и маркера.
+                // Связываем события mouseup, чтобы остановить перетаскивание.
+                $('.ba-slider__draggable').css('left', widthValue).on('mouseup touchend touchcancel', function () {
+                    $(this).removeClass('ba-slider__draggable');
+                    resizeElement.removeClass('resizable');
+                });
+                $('.resizable').css('width', widthValue);
+
+            }).on('mouseup touchend touchcancel', function(){
+                dragElement.removeClass('ba-slider__draggable');
+                resizeElement.removeClass('resizable');
+            });
+            e.preventDefault();
+
+        }).on('mouseup touchend touchcancel', function(e){
+            dragElement.removeClass('ba-slider__draggable');
+            resizeElement.removeClass('resizable');
+        });
+
+
+    }
+
+});</script>
+
+    <script data-minify="1" src="https://geometrium.com/wp-content/cache/min/1/npm/js-cookie@3.0.5/dist/js.cookie.min.js?ver=1765354697" defer></script>
+<div class="overlay"></div>
+<div class="popup-info">
+    <div class="popup__close">X</div>
+    <div class="popup-info__text">Остались вопросы?<br>
+Оставьте контакты - мы вам перезвоним.</div>
+    <div class="contact-form__row-block">
+        <div class="contact-form__info">
+            <div class="contact-form__info-manager">
+                <div class="contact-form__info-manager-contact">
+                    <div class="contact-form__info-manager-contact-name">Валерия Литвиненко</div>
+                    <div class="contact-form__info-manager-contact-job">Арт-директор интерьерного направления</div>
+                </div>
+                <div class="contact-form__info-manager-images contact-form__info-manager-images--big">
+                    <picture>
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://geometrium.com/wp-content/uploads/2024/01/manager-6-big-ava.png"><noscript><img loading="lazy" src="https://geometrium.com/wp-content/uploads/2024/01/manager-6-big-ava.png" alt=""></noscript>
+                    </picture>
+                </div>
+            </div>
+        </div>
+        <div class="contact-form__form contact-form form" data-sb="85194">
+            
+<div class="wpcf7 no-js" id="wpcf7-f85194-o5" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/estestvennyjj-svet-v-interere-kak-ego/#wpcf7-f85194-o5" method="post" class="wpcf7-form init" aria-label="Контактная форма" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="85194" />
+<input type="hidden" name="_wpcf7_version" value="5.9.3" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f85194-o5" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<span class="wpcf7-form-control-wrap" data-name="data-sb"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input data-sb" aria-invalid="false" value="85194" type="text" name="data-sb" /></span>
+<span class="wpcf7-form-control-wrap" data-name="data-radio-value"><input size="40" class="wpcf7-form-control wpcf7-text hidden-input radio_value" aria-invalid="false" placeholder="звонок" value="" type="text" name="data-radio-value" /></span>
+<div class="field-croup">
+    <div class="field-croup__row-block">
+        <label class="field-croup__label">
+            удобный способ для связи
+        </label>
+        <div class="common-checkbox">
+            <label class="common-checkbox__el link-line ">
+                <input type="radio" name="radio" value="whatsapp">
+                <span class="common-checkbox__oval"></span>
+                <span class="common-checkbox__title">whatsapp</span>
+            </label>
+            <label class="common-checkbox__el open-input-hidden link-line">
+                <input type="radio" name="radio" value="telegram">
+                <span class="common-checkbox__oval"></span>
+                <span class="common-checkbox__title">telegram</span>
+            </label>
+            <label class="common-checkbox__el link-line">
+                <input type="radio" name="radio" checked value="звонок">
+                <span class="common-checkbox__oval"></span>
+                <span class="common-checkbox__title">звонок</span>
+            </label>
+        </div>
+    </div>
+    <span class="wpcf7-form-control-wrap" data-name="tel-user"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel field-croup__input phone-mask" aria-invalid="false" placeholder="Телефон" value="" type="tel" name="tel-user" /></span>
+</div>
+<div class="field-croup field-croup--hide-input">
+    <span class="wpcf7-form-control-wrap" data-name="telegram"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required telegram field-croup__input" aria-required="true" aria-invalid="false" placeholder="@nickname" value="" type="text" name="telegram" /></span>
+</div>
+<button class="btn-animation">
+    <span class="btn-animation__name">
+       Заказать звонок
+    </span>
+    <span class="btn-animation__cube">
+        <span></span>
+    </span>
+    <span class="btn-animation__hover"></span>
+</button>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Отправить" />
+<div class="contact-form__form-subtext">
+    Нажимая на кнопку, вы даете согласие на обработку своих персональных данных <br> и соглашаетесь с <a href="/politika-konfidencialnosti-privacy-policy/">Политикой конфиденциальности</a>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+        </div>
+    </div>
+</div>
+<script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if(event.detail.contactFormId=="85194"){
+            jQuery(".overlay").hide();
+            jQuery(".popup-info").hide();        
+            Cookies.set('popup-crash', '1');
+        }
+    }, 
+    false );
+    $(document).ready(function(){
+        $(".popup__close").on("click", function(){
+                      jQuery(".overlay").hide();
+            jQuery(".popup-info").hide();   
+            Cookies.set('popup-crash', '1');  
+        })
+    })
+    function initialBanner(){
+        let checkCookie = Cookies.get("popup-crash");
+        if(checkCookie!=1){
+            setTimeout(function(){
+                jQuery(".overlay").show();
+                jQuery(".popup-info").show();
+            },10000);
+        }
+    }
+    initialBanner();
+});</script>
+<div class="cookieWrapper">
+    <span>Этот сайт использует <a href="/cookie/">cookies</a> для сбора статистики и анализа работы сайта. Просим согласиться на сбор и обработку ваших метаданных или отключить cookies в настройках браузера. Подробнее вы можете ознакомиться в нашей <a href="/politika-konfidencialnosti-privacy-policy/">Политике конфиденциальности</a>.
+    </span>
+    <span>
+        <div class="cookieBtn" id="accept-cookies">Соглашаюсь</div>
+    </span>
+</div>
+<script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+    if(!Cookies.get("cookieAccept")){
+        $(".cookieWrapper").show();
+        $(".cookieWrapper").addClass("show");
+
+        $("#accept-cookies").click(function () {
+            Cookies.set('cookieAccept', 'Y', { expires: 365, path: '/' })
+            $(".cookieWrapper").hide()
+            $(".cookieWrapper").removeClass("show");
+        });
+    }
+});</script>
+
+</body>
+
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1765354891 -->
