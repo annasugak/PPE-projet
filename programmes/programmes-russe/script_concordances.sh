@@ -1,64 +1,44 @@
-#!/usr/bin/bash
+#!/bin/bash
 
-DOSSIER_TXT="/home/annasugak/Bureau/projet/PPE-projet/dumps-txt"
-DOSSIER_CONCORDANCES="/home/annasugak/Bureau/projet/PPE-projet/concordances"
-MOTIF_RECHERCHE="[Сс]вет(а|у|ом|е|ы|ов|ам|ами|ах)?"
-LARGEUR_CONTEXTE=80
+DOSSIER_SOURCE="/home/annasugak/Bureau/projet/PPE-projet/dumps-txt/dumps-txt-russe"
+DOSSIER_CIBLE="/home/annasugak/Bureau/projet/PPE-projet/concordances/concordances_russe"
+MOTIF="[Сс]вет"
 
-mkdir -p "$DOSSIER_CONCORDANCES"
+mkdir -p "$DOSSIER_CIBLE"
 
-for FICHIER_SOURCE in "$DOSSIER_TXT"/*.txt; do
+for fichier_txt in "$DOSSIER_SOURCE"/*.txt; do
+    [ -e "$fichier_txt" ] || continue
 
-    if [[ -f "$FICHIER_SOURCE" ]]; then
+    nom_base=$(basename "$fichier_txt" .txt)
+    fichier_html="$DOSSIER_CIBLE/concordance_${nom_base}.html"
 
-        NOM_FICHIER=$(basename "$FICHIER_SOURCE" .txt)
-        FICHIER_SORTIE="$DOSSIER_CONCORDANCES/concordance_$NOM_FICHIER.html"
+    echo "<html>
+<html lang=\"ru\">
+<head>
+    <meta charset=\"utf-8\" />
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+    <title>Concordance - $nom_base</title>
+</head>
+<body>
+    <h1 class=\"title\">Concordance : $nom_base</h1>
+    <table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">
+        <thead>
+            <tr>
+                <th class=\"has-text-right\">Contexte gauche</th>
+                <th class=\"has-text-centered\">Cible</th>
+                <th class=\"has-text-left\">Contexte droit</th>
+            </tr>
+        </thead>
+        <tbody>" > "$fichier_html"
 
-        echo "
-            <html>
-            <html lang=\"ru\">
-            <head>
-                <meta charset=\"utf-8\" />
-                <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
-                <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-                <title>Concordance - $NOM_FICHIER</title>
-            </head>
-            <body>
-                <h1 class=\"title\">Concordance du mot \"свет\" dans $NOM_FICHIER</h1>
-                <table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">
-                    <thead>
-                    <tr>
-                    <th class=\"has-text-right\">Contexte gauche</th>
-                    <th class=\"has-text-centered\">Cible</th>
-                    <th class=\"has-text-left\">Contexte droit</th>
-                    </tr>
-                    </thead>
-                    " > "$FICHIER_SORTIE"
+    grep -Pio ".{0,80}$MOTIF.{0,80}" "$fichier_txt" | while read -r line; do
 
-        TEXTE_NORMALISE=$(cat "$FICHIER_SOURCE" | tr '\n' ' ' | tr -s ' ')
+        echo "$line" | perl -C -pe "use utf8; s/^(.*?)($MOTIF)(.*)$/<tr><td class=\"has-text-right\">\$1<\/td><td class=\"has-text-danger has-text-centered\">\$2<\/td><td class=\"has-text-left\">\$3<\/td><\/tr>/" >> "$fichier_html"
+    done
 
-        perl -Mutf8 -CS -e '
-            my $content = shift;
-            my $largeur_contexte = 80;
-            my $regex_flexionnel = q|'$MOTIF_RECHERCHE'|;
-
-            my $regex = qr/(.{$largeur_contexte})($regex_flexionnel)(.{$largeur_contexte})/;
-
-            while ($content =~ /\$regex/g) {
-                my $gauche = $1;
-                my $cible = $2;
-                my $droite = $3;
-
-                $gauche =~ s/^\s+|\s+$//g;
-                $droite =~ s/^\s+|\s+$//g;
-
-                print "<tr><td class=\"has-text-right\">$gauche</td><td class=\"has-text-danger has-text-centered\">$cible</td><td class=\"has-text-left\">$droite</td></tr>\n";
-            }
-        ' "$TEXTE_NORMALISE" >> "$FICHIER_SORTIE"
-
-        echo "
-                </table>
-            </body>
-        </html>" >> "$FICHIER_SORTIE"
-    fi
+    echo "        </tbody>
+    </table>
+</body>
+</html>" >> "$fichier_html"
 done
