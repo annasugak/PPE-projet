@@ -1,7 +1,7 @@
 #!/bin/bash
 
 URL_FILE="/home/annasugak/Bureau/projet/PPE-projet/URLs/urls_russe.txt"
-OUTPUT_DIR="/home/annasugak/Bureau/projet/PPE-projet/dumps-txt"
+OUTPUT_DIR="/home/benoitcf/Documents/cours/projetdegroupe/PPE-projet/dumps-txt"
 TEMP_FILE="/tmp/temp_html_content.html"
 
 if [ ! -f "$URL_FILE" ]; then
