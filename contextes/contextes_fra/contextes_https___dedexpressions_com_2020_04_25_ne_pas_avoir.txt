@@ -1,0 +1,72 @@
+Ne pas avoir la lumière à tous les étages - Les Dédexpressions
+----------------------------
+{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#article","isPartOf":{"@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/"},"author":{"name":"Audrey L.","@id":"https://dedexpressions.com/#/schema/person/6d1ab8eb553710d267c5345b1fe89c5b"},"headline":"Ne pas avoir la lumière à tous les étages","datePublished":"2020-04-25T10:19:06+00:00","dateModified":"2023-04-29T17:12:42+00:00","mainEntityOfPage":{"@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/"},"wordCount":568,"commentCount":5,"publisher":{"@id":"https://dedexpressions.com/#/schema/person/6d1ab8eb553710d267c5345b1fe89c5b"},"image":{"@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/dedexpressions.com/wp-content/uploads/2020/04/ne-pas-avoir-la-lumiere-a-tous-les-etages-les-dedexpressions.jpg?fit=960%2C960&ssl=1","keywords":["lumière"],"articleSection":["Et en anglais ?","Expressions matérielles","Toutes les Dédexpressions"],"inLanguage":"fr-FR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#respond"]}]},{"@type":"WebPage","@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/","url":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/","name":"Ne pas avoir la lumière à
+----------------------------
+tous les étages - Les Dédexpressions","isPartOf":{"@id":"https://dedexpressions.com/#website"},"primaryImageOfPage":{"@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#primaryimage"},"image":{"@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/dedexpressions.com/wp-content/uploads/2020/04/ne-pas-avoir-la-lumiere-a-tous-les-etages-les-dedexpressions.jpg?fit=960%2C960&ssl=1","datePublished":"2020-04-25T10:19:06+00:00","dateModified":"2023-04-29T17:12:42+00:00","description":"Les Dédexpressions vous éclairent sur l'expression \"Ne pas avoir la lumière à tous les étages\", avec son origine et sa traduction en anglais.","breadcrumb":{"@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#primaryimage","url":"https://i0.wp.com/dedexpressions.com/wp-content/uploads/2020/04/ne-pas-avoir-la-lumiere-a-tous-les-etages-les-dedexpressions.jpg?fit=960%2C960&ssl=1","contentUrl":"https://i0.wp.com/dedexpressions.com/wp-content/uploads/2020/04/ne-pas-avoir-la-lumiere-a-tous-les-etages-les-dedexpressions.jpg?fit=960%2C960&ssl=1","width":960,"height":960,"caption":"definition expression ne pas
+----------------------------
+avoirt la lumiere a tous les etages"},{"@type":"BreadcrumbList","@id":"https://dedexpressions.com/2020/04/25/ne-pas-avoir-la-lumiere-a-tous-les-etages/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dedexpressions.com/"},{"@type":"ListItem","position":2,"name":"Ne pas avoir la lumière à tous les étages"}]},{"@type":"WebSite","@id":"https://dedexpressions.com/#website","url":"https://dedexpressions.com/","name":"Les Dédexpressions","description":"Expressions françaises imagées, illustrées au pied de la lettre et traduites
+----------------------------
+lumiere-a-tous-les-etages","post_title":"Ne pas avoir la lumi\u00e8re \u00e0 tous les \u00e9tages","post_type":"post","post_author":"66843401","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":678524562,"name":"Et en anglais ?","slug":"expressions-en-anglais","term_group":0,"term_taxonomy_id":258,"taxonomy":"category","description":"Expressions fran\u00e7aises
+----------------------------
+lumiere","term_group":0,"term_taxonomy_id":303,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"}]; _mmunch['postAuthor'] = {"name":"Audrey L.","ID":66843401};
+----------------------------
+lumiere"],"pagePostAuthor":"Audrey L."};
+----------------------------
+Toutes les Dédexpressions   Et en anglais ?  Ne pas avoir la lumière à tous les étages
+----------------------------
+Ne pas avoir la lumière à tous les étages
+----------------------------
+5 commentaires  sur Ne pas avoir la lumière à tous les étages
+----------------------------
+Ne pas avoir la lumière à tous les étages | Les Dédexpressions
+----------------------------
+Définition de l&rsquo;expression « Ne pas avoir la lumière à tous les étages »
+----------------------------
+On pourrait d&rsquo;abord rapprocher cette expression de « Ne pas être une lumière », datant du 19ème siècle en référence aux frères Lumière qui, eux, étaient incontestablement des
+----------------------------
+lumières pour avoir inventé le cinéma.
+----------------------------
+en société, et si elle « brille », c&rsquo;est par métaphore qu&rsquo;elle produit de la lumière. Si elle est intelligente, c&rsquo;est grâce à la lumière produite qu&rsquo;elle peut « éclairer »
+----------------------------
+Alors, dans cette première hypothèse, le terme « lumière » désignerait l&rsquo;intelligence, et les verbes « briller » et « éclairer » d&rsquo;usage à
+----------------------------
+lumières&rsquo; de quelqu&rsquo;un pour désigner ses hautes capacités intellectuelles.
+----------------------------
+Une autre explication probable pour « ne pas avoir la lumière à tous les étages » viendrait de la banalisation de la lumière produite par l&rsquo;électricité
+----------------------------
+« Ne pas avoir la lumière à tous les étages » est alors une métaphore descriptive de la simplicité et s&#8217;emploie
+----------------------------
+« The lights are on, but nobody&rsquo;s home » (Les lumières sont allumées mais y a personne à la maison)
+----------------------------
+He/she is not the brightest light on the Christmas tree » (Il/elle n&rsquo;est pas la lumière la plus brillante du sapin de Noël)
+----------------------------
+lumiere-a-tous-les-etages/?share=facebook"
+----------------------------
+lumiere-a-tous-les-etages/?share=pinterest"
+----------------------------
+lumiere-a-tous-les-etages/?share=twitter"
+----------------------------
+lumiere-a-tous-les-etages/?share=jetpack-whatsapp"
+----------------------------
+lumiere-a-tous-les-etages/?share=telegram"
+----------------------------
+lumiere-a-tous-les-etages/?share=reddit"
+----------------------------
+lumiere-a-tous-les-etages/?share=linkedin"
+----------------------------
+lumière
+----------------------------
+[&#8230;] Ne pas avoir la lumière à tous les étages [&#8230;]
+----------------------------
+[&#8230;] Ne pas avoir la lumière à tous les étages [&#8230;]
+----------------------------
+[&#8230;] Ne pas avoir la lumière à tous les étages [&#8230;]
+----------------------------
+case » pour que nous soyons considérés comme limités, ou bien qu&rsquo;on n&rsquo;ait pas la lumière à tous les étages &#8211; ce qui veut en soi dire [&#8230;]
+----------------------------
+lumiere-a-tous-les-etages%2F"
+----------------------------
+lumiere-a-tous-les-etages/":2346};
+----------------------------
+lumiere-a-tous-les-etages%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+----------------------------

@@ -1,0 +1,10 @@
+domaine visible. Ces couleurs sont celles que l'on observe lors de la dispersion de la lumière par un prisme ou un réseau de diffraction dans une chambre noire, et aussi, lavées
+----------------------------
+Lumière polychromatique
+----------------------------
+↑ Un écran d'ordinateur ne pouvant produire une lumière monochromatique, les cadres colorés donnent une référence approximative. Les tables des fonctions colorimétriques de la
+----------------------------
+CIE XYZ donnent la position trichromatique des lumières monochromatiques. Elles sont (1) converties en coordonnées (positives et négatives) linéaires par la matrice de
+----------------------------
+sRGB, (2) ramenées à des valeurs positives par l'ajout de la quantité juste suffisante de lumière achromatique (gris de luminosité égale à celle de la couleur), sauf dans le cas du
+----------------------------

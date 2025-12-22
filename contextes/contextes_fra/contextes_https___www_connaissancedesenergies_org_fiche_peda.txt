@@ -1,0 +1,36 @@
+(lm), exprime le pouvoir éclairant d’une lampe.Pour rappel, on qualifie de «&nbsp;lampe&nbsp;» la source de lumière artificielle. A strictement parler, le luminaire désignent le support de la lampe. L’ampoule est quant
+----------------------------
+familles de lampes commercialisées en France.Éclairage à incandescence halogèneLes lampes à incandescence halogène&nbsp;produisent de la lumière en portant un filament de tungstène(2)&nbsp;à incandescence.Elles se distinguent des lampes à incandescence classique par
+----------------------------
+tungstène et permet ainsi de le soumettre à des températures plus élevées. Cela apporte une lumière plus intense pour une même consommation électrique.Éclairage&nbsp;fluorescent compactLes lampes fluorescentes compactes (LFC) ou lampes fluocompactes,
+----------------------------
+qui produisent de la lumière en soumettant du mercure à l’état gazeux (enfermé dans l’ampoule, généralement un tube de verre)
+----------------------------
+à un courant électrique.Les atomes de mercure émettent alors de la lumière ultraviolette (UV) invisible qui est absorbée par de la poudre fluorescente présente à la surface
+----------------------------
+de l’ampoule. Les UV sont alors convertis en lumière blanche visible.Éclairage&nbsp;à diodes électroluminescentesLes lampes à diodes électroluminescentes ou lampes à LED (acronyme de «&nbsp;Light
+----------------------------
+Emitting Diode&nbsp;» en anglais), qui produisent de la lumière par électroluminescence lorsqu’un courant électrique les traverse. Les lampes à LED sont constituées de matériaux
+----------------------------
+semi-conducteurs. Elles ne laissent passer le courant électrique que dans un sens et émettent une lumière monochromatique. Une couche de luminophore (substance qui émet de la lumière lorsqu’elle subit une excitation)
+----------------------------
+permet de convertir la lumière monochromatique en une lumière au spectre plus large.Notons qu’il existe encore des lampes à incandescence classiques. Depuis fin 2012,
+----------------------------
+qu’une lampe de 15 W suffisait pour éclairer une table de nuit.Aujourd’hui, le flux de lumière produit par les différents types de lampe varie pour une puissance donnée. Il est donc
+----------------------------
+en lumens par watt (lm/W). Concrètement, plus il est important, plus la lampe émet de lumière pour une même consommation d’électricité.Notons qu’une autre unité pour mesurer l’éclairement est parfois employée&nbsp;: le
+----------------------------
+près de dix fois plus qu’une lampe halogène).Température de couleurChaque type de lampe produit une lumière à la «&nbsp;température de couleur&nbsp;» différente. Celle-ci peut être «&nbsp;froide&nbsp;» ou «&nbsp;chaude&nbsp;», ce qui peut
+----------------------------
+température de couleur est exprimée en Kelvin (K). Plus cette température est basse, plus la lumière émise tend vers les couleurs chaudes (&lt; 4&nbsp;000 K). Plus elle est haute (&gt; 5&nbsp;300
+----------------------------
+K), plus elle tend vers le bleu. Pour comparaison, la lumière du jour, très vive, a une température de couleur de 6&nbsp;400 K.Parmi les différents types
+----------------------------
+lumière du jour&nbsp;»)&nbsp;;les lampes à LED ont également des couleurs de températures variées allant du «&nbsp;blanc
+----------------------------
+d’énergieDes gestes pratiques de base peuvent permettre de réduire facilement la consommation d’éclairage&nbsp;: exploiter la lumière naturelle, éteindre l’éclairage hors présence humaine.&nbsp;C’est toutefois le choix des lampes en fonction des pièces
+----------------------------
+et des poudres toxiques présents dans l’ampoule&nbsp;;les modèles de lampes à LED émettant beaucoup de lumière bleue seraient susceptibles de perturber le sommeil.RecyclageLorsqu’une lampe ne fonctionne plus, des mesures particulières doivent
+----------------------------
+des actions d’efficacité énergétique peuvent être entreprises à différents niveaux.Pour émettre une même quantité de lumière, une lampe de classe A+ consomme 5 à 6 fois moins d’électricité qu’une lampe de
+----------------------------

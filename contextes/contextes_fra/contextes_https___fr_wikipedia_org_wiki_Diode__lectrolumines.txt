@@ -1,0 +1,54 @@
+lumière_quasi_monochromatique"
+----------------------------
+Source de lumière quasi monochromatique
+----------------------------
+l&#39;anglais&#160;: light-emitting diode) est un dispositif opto-électronique fait de matériau semi-conducteur, capable d'émettre de la lumière lorsqu'il est parcouru par un courant électrique. Une diode électroluminescente ne laisse passer le courant
+----------------------------
+Les premières LED commercialisées dès les années 1960 ont produit de la lumière infrarouge, rouge, puis verte et jaune&#91;1&#93;,&#91;2&#93;. Leur usage commercial restait limité à des applications de
+----------------------------
+La première émission de lumière par un semi-conducteur date de 1907 et est découverte par Henry Round, ingénieur chez Marconi.
+----------------------------
+une jonction P-N qui doit être polarisée en sens direct lorsqu'on veut émettre de la lumière. Le potentiel imposé aux bornes doit être supérieur à celui imposé par la jonction P-N.
+----------------------------
+La limite théorique d'une source qui transformerait intégralement toute l'énergie électrique en lumière visible est de 683&#160;lm/W&#91;16&#93;, mais il faudrait qu'elle possède un spectre monochromatique de longueur d'onde
+----------------------------
+lampes fluocompactes ou encore de certains modèles de lampes à décharge. Le spectre de la lumière émise est presque intégralement contenu dans le domaine du visible (les longueurs d'onde sont comprises
+----------------------------
+résine époxy (quelquefois teintée pour des raisons pratiques et non pour des raisons optiques), la lumière traverse les interfaces vers l'air à incidence proche de la normale ainsi que le permet
+----------------------------
+Ce composant peut être encapsulé dans divers boîtiers destinés à canaliser le flux de lumière émis de façon précise&#160;: cylindrique à bout arrondi en 3, 5, 8&#160;et 10&#160;mm de diamètre,
+----------------------------
+La couleur de la lumière d'une diode électroluminescente peut être produite de différentes manières&#91;26&#93;,&#91;27&#93;&#160;:
+----------------------------
+réduite que les lampes classiques, ce qui offre la possibilité de réaliser des sources de lumière très ponctuelles, de faible à très faible consommation électrique (quelques dizaines de milliwatts) et avec
+----------------------------
+fait de l'échauffement. En effet, une diode électroluminescente convertit environ 20&#160;% de l'énergie électrique en lumière, le reste étant dégagé sous forme de chaleur.
+----------------------------
+blanches sont généralement des LED bleues ou émettant dans l'UV, dont une partie de la lumière produite est transformée par fluorescence en lumière jaune au moyen d'un luminophore qui est souvent
+----------------------------
+lumineuses) pour ne plus produire en fin de vie que 20&#160;% de la quantité de lumière initiale, mais pour les LED les plus performantes du marché, la quantité de lumière produite
+----------------------------
+une diode électroluminescente quatre fois moins chère à produire et produisant trois fois plus de lumière&#91;40&#93;,&#91;41&#93;,&#91;42&#93;.
+----------------------------
+les infrarouges&#160;: l'énergie est émise hors du spectre de la lumière visible (au-delà de 700&#160;nm de longueur d'onde). Elles sont utilisées pour transmettre des signaux de
+----------------------------
+Source de lumière quasi monochromatique[modifier | modifier le code]
+----------------------------
+une longueur d'onde courte (dans le bleu) avec un luminophore jaune pour produire de la lumière blanche&#160;; la lumière bleue est particulièrement connue pour perturber l'horloge circadienne&#91;47&#93;,&#91;48&#93;.
+----------------------------
+auprès du grand public que les LED ne présentant pas de risque lié à la lumière bleue, ainsi qu'une mise à jour de la norme franco-européenne NF EN 62 471&#91;49&#93;,&#91;50&#93;,&#91;51&#93;.
+----------------------------
+les années 2000-2014 attire les papillons de nuit et certains autres insectes plus que la lumière jaune des ampoules à vapeur de sodium, en raison d'une sensibilité élevée de ces invertébrés
+----------------------------
+depuis qu'il a été introduit aux États-Unis et qui se montre très attiré par la lumière&#91;58&#93; (les auteurs pointent les ports où un éclairage LED pourrait directement attirer des ravageurs ou
+----------------------------
+concluent qu'il existe un besoin urgent de recherche collaborative entre écologues et ingénieurs de la lumière pour minimiser les conséquences potentiellement négatives des développements futurs de la technologie LED&#91;46&#93;. En amont,
+----------------------------
+N. Pousset, B. Rougié, S. Aubert et A. Razet, «&#160;LED de puissance blanches&#160;: sources de lumière de demain&#160;» &#91;PDF&#93;, sur nicolas.pousset.pagesperso-orange.fr/, 2009.
+----------------------------
+Libero Zuppiroli et Daniel Schlaepfer, Lumières du futur, Presses polytechniques et universitaires romandes, 2011  (ISBN&#160;9782880749422).
+----------------------------
+Plan lumière
+----------------------------
+Lumière noire
+----------------------------

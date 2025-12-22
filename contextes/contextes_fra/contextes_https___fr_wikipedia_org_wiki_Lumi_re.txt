@@ -1,0 +1,320 @@
+Lumière — Wikipédia
+----------------------------
+Lumière","wgTitle":"Lumière","wgCurRevisionId":228220959,"wgRevisionId":228220959,"wgArticleId":7676,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article manquant de références depuis juin 2018","Article manquant de références/Liste complète","Article à référence souhaitée","Article contenant un
+----------------------------
+Lumière","Biens communs"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Lumière","wgRelevantArticleId":7676,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"ccd26dec-6c86-4034-a704-e402435cd53c","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q9128","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+----------------------------
+lumière"
+----------------------------
+Description physique de la lumière
+----------------------------
+Afficher / masquer la sous-section Description physique de la lumière
+----------------------------
+lumière"
+----------------------------
+lumière
+----------------------------
+lumière"
+----------------------------
+Histoire de l'étude de la lumière
+----------------------------
+lumière"
+----------------------------
+Sources naturelles de lumière
+----------------------------
+lumière_artificielles"
+----------------------------
+Sources de lumière artificielles
+----------------------------
+Lumière
+----------------------------
+Pour les articles homonymes, voir Lumière (homonymie).
+----------------------------
+Rayons de lumière sortant des nuages.
+----------------------------
+Dans son sens le plus habituel, la lumière est le phénomène à l'origine d'une sensation visuelle. La physique montre qu'il s'agit d'ondes électromagnétiques.
+----------------------------
+L'optique est la discipline qui étudie la lumière. Comme les lois de la propagation de la lumière sont largement semblables à celles des
+----------------------------
+d'autres ondes électromagnétiques situées dans les domaines infrarouge et ultraviolet&#160;; c'est ainsi qu'on parle de lumière noire, de lumière ultraviolette ou de lumière infrarouge, ce qui pousse parfois à utiliser le
+----------------------------
+terme de lumière visible pour éviter toute ambiguïté. La lumière, y compris ces rayonnements invisibles, transporte une grande partie de l'énergie solaire jusqu'à la surface
+----------------------------
+Pour l’être humain, la lumière indispensable à la vision tient une part importante du bien-être et de la vie sociale.
+----------------------------
+qui fait l'objet de normes légales. L'optique physiologique étudie plus particulièrement la perception de la lumière par les êtres humains. La photométrie relie les mesures physiques des rayonnements électromagnétiques à la
+----------------------------
+La lumière a une forte valeur symbolique&#160;; permettant de percevoir les objets avant de les toucher, elle
+----------------------------
+La lumière se déplace en ligne droite dans le vide à une vitesse strictement fixe. Dans les
+----------------------------
+plus lente, peut dépendre de la longueur d'onde&#160;; on parle alors de milieu dispersif. La lumière est un peu plus lente dans l'air que dans le vide, et notablement plus lente
+----------------------------
+La lumière peut changer de trajectoire lors du passage d'un milieu à un autre. Le principe de
+----------------------------
+Fermat ou les lois de Descartes relient les changements de trajectoire de la lumière lorsqu'elle passe d'un milieu à l'autre à sa vitesse dans chacun des milieux. Quand le
+----------------------------
+La lumière n'est perçue par un récepteur que si elle va directement dans sa direction.
+----------------------------
+La perception de la lumière est qualitativement différente selon son intensité et son incidence sur l'œil. Quand la lumière est
+----------------------------
+ou leur fréquence. La longueur d'onde est égale au quotient de la vitesse de la lumière par la fréquence. La fréquence est invariable, mais la vitesse de la lumière, et par
+----------------------------
+conséquent la longueur d'onde, varie selon le milieu. Quand, pour la lumière, on parle de longueur d'onde sans autre précision, c'est dans le vide, où la vitesse
+----------------------------
+de la lumière est la plus grande. Dans l'air, elle est peu inférieure.
+----------------------------
+de 550&#160;nm (540&#160;THz) dans le domaine de vision diurne (vision photopique), 510&#160;nm (580&#160;THz) quand la lumière est faible (vision scotopique)&#91;1&#93;. Cette sensibilité varie selon les espèces, dont les relations avec leur
+----------------------------
+l'énergie est proportionnelle à la fréquence du rayonnement, lorsqu'on le considère comme une onde. La lumière visible se situe à une énergie autour de 2,2&#160;électron-volts. Cette énergie intéresse en particulier la
+----------------------------
+humaine, mais son développement historique en a dépendu étroitement. Avant que les physiciens considèrent la lumière comme une partie du rayonnement électromagnétique, l'optique a établi des méthodes à partir de la
+----------------------------
+lumière visible. La photographie a montré que les lois de l'optique s'appliquaient à des rayons invisibles.
+----------------------------
+Si l'on définit la lumière par «&#160;rayonnement qui s'étudie par des systèmes optiques&#160;», on peut étendre énormément son champ. Un
+----------------------------
+antennes. Ce sont les points communs de ces rayonnements qui les font assimiler à la lumière&#160;:
+----------------------------
+est suffisant (vision photopique), l'être humain distingue des couleurs, correspondant à la répartition spectrale des lumières qui lui parviennent. La vision est une perception complexe, une activité cognitive dans laquelle plusieurs
+----------------------------
+façon à attribuer aux objets une couleur, même si, du fait d'une variation de la lumière, la rétine reçoit des rayonnements différents&#91;7&#93;.
+----------------------------
+entre leurs réponses est à la base de la perception des couleurs. Par conséquent, deux lumières de composition spectrale très différente peuvent être perçues comme étant de la même couleur, si
+----------------------------
+leur influence sur les trois types de récepteurs est égale. On dit alors que les lumières sont métamères. C'est cette particularité que l'on exploite dans la photographie et l'impression en couleurs,
+----------------------------
+Description physique de la lumière[modifier | modifier le code]
+----------------------------
+Divers phénomènes physiques mettent en évidence parfois l'aspect corpusculaire, parfois l'aspect ondulatoire de la lumière. Selon les cas, la lumière présente des propriétés soit propres à une onde, sans localisation
+----------------------------
+Article détaillé&#160;: Vitesse de la lumière.
+----------------------------
+La vitesse de la lumière dans le vide, notée c (comme célérité), est une constante de la physique. Cette propriété
+----------------------------
+La vitesse de la lumière dans le vide est la vitesse maximale possible pour tout déplacement d'énergie.
+----------------------------
+à peu près vraie pour des vitesses faibles par rapport à la vitesse de la lumière. Du point de vue de la physique classique, un voyageur marchant dans un train a,
+----------------------------
+La vitesse de la lumière n'est pas toujours la même dans tous les milieux et dans toutes les conditions. Les
+----------------------------
+L'écart entre la vitesse de la lumière dans le vide et la vitesse de la lumière dans l'air est très faible (moins de 1&#160;%), ce qui a permis de parler en
+----------------------------
+général de vitesse de la lumière au lieu de vitesse de la lumière dans le vide. Cependant, dans la matière condensée, une onde lumineuse peut être considérablement ralentie
+----------------------------
+plupart des unités du Système international sont définies à partir de la célérité de la lumière. Une vitesse étant le quotient d'une longueur par une durée, on peut définir une distance
+----------------------------
+International de longueur. De nos jours, il est défini comme la distance parcourue par la lumière, dans le vide, en 1⁄299&#160;792&#160;458&#160;seconde. Il s'agit là d'une définition conventionnelle, car toute évolution dans
+----------------------------
+On peut également dire que la vitesse de la lumière dans le vide est précisément 299&#160;792&#160;458&#160;m/s&#160;: il n'y a pas d'incertitude sur cette valeur&#91;10&#93;.
+----------------------------
+lumière[modifier | modifier le code]
+----------------------------
+lumière.
+----------------------------
+l'énormité des distances qui séparent les astres. Une année-lumière est la distance que parcourt la lumière en un an. Elle vaut un peu moins de 9,5&#160;pétamètres —&#160;9,5 millions de millions de
+----------------------------
+lumière. Les communications scientifiques préfèrent souvent le parsec ou l'unité astronomique. La mesure des distances en
+----------------------------
+Histoire de l'étude de la lumière[modifier | modifier le code]
+----------------------------
+montra en 1677 la compatibilté des lois de Snell-Descartes avec la théorie ondulatoire de la lumière.
+----------------------------
+Les premières études expérimentales sur la lumière remontent à l'Antiquité. La propagation en ligne droite, la loi de la réflexion sont connues
+----------------------------
+Cependant, la philosophie hésite quant à la nature de la lumière. L'expérience humaine ordinaire ne permet pas de décider si un objet est visible lorsque personne
+----------------------------
+le voit. On peut, comme les philosophes de la Grèce antique, interroger la notion de lumière. La théorie de l'extramission considère la vision comme un sens proche du toucher, dans lequel
+----------------------------
+êtres surnaturels. Le doute sur la nature de la vision, et par conséquent de la lumière, va se maintenir jusqu'à la Renaissance, et bien plus tard en ce qui concerne les
+----------------------------
+plus distant. Ces notions seront à la base des résistances aux théories scientifiques de la lumière.
+----------------------------
+Alhazen, rédige à Bagdad son Traité d'optique. Il est le premier à penser que la lumière se déplace à vitesse finie et en particulier que cette vitesse est plus élevée dans
+----------------------------
+l’optique dans son ouvrage Dioptrice, après avoir vérifié les travaux de Galilée. L'étude de la lumière se confond alors avec celle des instruments permettant de voir les objets lointains ou minuscules.
+----------------------------
+Au XVIIe&#160;siècle, Snell, Fermat et Descartes abordent la lumière par l'optique géométrique. Fermat est parmi les premiers à affirmer que la vitesse de la
+----------------------------
+lumière est finie. En 1676, Rømer la calcule pour la première fois à partir des décalages
+----------------------------
+1677 que les lois de Snell-Descartes sont conservées si l'on suppose une propagation de la lumière sous la forme d'ondes&#91;12&#93;.
+----------------------------
+corpusculaire&#160;: les faisceaux lumineux qui se propagent dans l’éther sont une succession de grains de lumière dont la taille est reliée à la couleur. Le prestige de l'auteur paralyse pendant près
+----------------------------
+d’un siècle les suppositions selon lesquelles la lumière pouvait être une onde&#91;11&#93;. Ses travaux sur la décomposition de la lumière blanche transforment radicalement
+----------------------------
+la conception de la couleur&#160;: la lumière blanche qui était supposée primordiale s'avère la composition de rayonnements colorés. Ce changement rencontre pendant
+----------------------------
+Au XIXe&#160;siècle, Hippolyte Fizeau puis Léon Foucault mesurent la vitesse de la lumière avec un faisceau qu'une roue dentée divise en impulsions réfléchies par des miroirs. Thomas Young
+----------------------------
+étudie expérimentalement la diffraction et les interférences de la lumière, qui soutiennent la théorie ondulatoire. Augustin Fresnel énonce que cette conception est seule capable d’expliquer
+----------------------------
+En 1873, James Clerk Maxwell interprète la lumière comme étant un phénomène électromagnétique&#91;12&#93;. Les recherches de la physique sont dès lors entièrement détachées
+----------------------------
+de la lumière visible. Les équations de Maxwell permettent de développer une théorie générale de l'électromagnétisme. Elles s'apliquent
+----------------------------
+aussi bien la propagation de la lumière qu'au fonctionnement d'un électroaimant —&#160;on démontre que les lois de l'optique géométrique en sont un
+----------------------------
+où il étudie les conséquences mathématiques du principe physique selon lequel la vitesse de la lumière a la même valeur dans tous les référentiels galiléens. Après les travaux de Ludwig Boltzmann
+----------------------------
+et Max Planck, Einstein reprend l'idée que la lumière peut avoir une nature corpusculaire. L'étude de l'interaction rayonnement-matière donne naissance à la mécanique quantique,
+----------------------------
+de nouveaux procédés d'éclairage, dont la comparaison suscite des études sur la perception de la lumière. La photométrie se dégage de la comparaison entre éclairage au gaz et éclairage électrique. Le
+----------------------------
+développement de la photographie oblige à préciser ce qu'est la lumière visible par rapport au rayonnement en général&#160;: des rayonnements invisibles comme les ultraviolets marquent la
+----------------------------
+Même si certaines formes de vies au fond des océans peuvent s'en passer, la lumière du Soleil est la première source d'énergie des écosystèmes terrestres, par la photosynthèse. Elle contrôle
+----------------------------
+l'air, du sol superficiel ou de l'eau (certains pesticides présents dans l'air) par exemple. La lumière corrige les horloges biologiques animales, par la production de mélatonine qui est une hormone uniquement
+----------------------------
+chez la plupart des animaux et chez d'autres espèces. Chez la plupart des espèces la lumière naturelle est vitale au bon accomplissement des cycles biologiques. Chez l'humain, l'exposition aux ultraviolets de
+----------------------------
+la lumière solaire sont nécessaires à la synthèse de la vitamine D&#91;16&#93;.
+----------------------------
+Les plantes possèdent des protéines sensibles à la lumière sous différentes longueurs d'onde.
+----------------------------
+phytochromes peuvent passer de la forme inactive, Pr, à la conformation active, Pfr, sous la lumière rouge. Le processus est thermodynamiquement réversible sous l'effet des infrarouges proches (710&#160;à 850&#160;nm). Les phytochromes
+----------------------------
+Les cryptochromes peuvent agir de concert avec les phytochromes, mais sont sensibles à la lumière bleue. Ils sont capables d'inhiber la croissance de la tige, de réguler l'horloge circadienne et
+----------------------------
+l'apparition des bourgeons, feuilles, fleurs, ou l'ouverture et la fermeture de fleurs. La présence de lumière artificielle dans l'environnement nocturne peut altérer le comportement ou les fonctions de certaines espèces ou
+----------------------------
+Un bon nombre de ces espèces réagissent différemment aux objets selon le spectre de la lumière qu'ils émettent ou réfléchissent, exhibant ainsi les caractères d'une forme de vision des couleurs. Les
+----------------------------
+perception visuelle rouge, si on en augmente suffisamment l'intensité. La largeur de bande de la lumière visible par les animaux peut varier quelque peu par rapport aux capacités visuelles des êtres
+----------------------------
+Dans la vision photopique, diurne, la transformation de la lumière en influx nerveux par les cônes permet la perception colorée. L'adaptation visuelle change les caractères
+----------------------------
+scène vue, et aux rapports perçus entre les surfaces du champ visuel. La correspondance entre lumière définie physiquement et la perception est assez lâche en général. On attribue aux objets une
+----------------------------
+varie. Les êtres vivants, en dehors d'un contexte technologique, n'ont aucun avantage à mesurer la lumière. La vision leur sert à identifier les objets à distance. Les animaux porteurs des caractères
+----------------------------
+La lumière naturelle est pulsée par le rythme circadien, qui influe sur l'ensemble des fonctions vitales. Chez
+----------------------------
+l'humain, on peut produire ou soigner une dépression par l'absence ou la présence de lumière. Une étude sur des pensionnaires de maison de retraite été démontré en 2008 que la
+----------------------------
+prise de mélatonine et l'exposition à la lumière naturelle améliorent les symptômes de troubles des cycles du sommeil&#160;; la prise de mélatonine facilite
+----------------------------
+tôt en moyenne) et allonge le sommeil de vingt-sept minutes en moyenne&#91;21&#93;. L'exposition à la lumière naturelle diminuerait aussi chez ces personnes âgées les symptômes de dépression (-19&#160;%), les limitations fonctionnelles
+----------------------------
+au quotidien (- 53&#160;%) et la détérioration cognitive (- 5&#160;%). L'association lumière + mélatonine a aussi diminué les comportements agressifs (- 9&#160;%), les phases d'agitation et de
+----------------------------
+en journée, de laisser les rideaux ouverts et, à l'inverse, de diminuer les sources de lumière en soirée pour que l'organisme reçoive le signal que la nuit est là […] Malheureusement,
+----------------------------
+que des récepteurs situés dans les cellules ganglionnaires de la rétine, surtout sensibles à la lumière bleue présente dans la lumière du jour, participent à la régulation de mélatonine et du
+----------------------------
+lumière du jour&#160;» la nuit&#91;23&#93;.
+----------------------------
+En matière de mesure de la lumière, il importe de bien définir de quoi on parle&#160;:
+----------------------------
+faisceaux de lumière cohérente issus de lasers.
+----------------------------
+La lumière est constituée d'ondes électromagnétiques, caractérisées par la longueur d'onde dans le vide, correspondant à un
+----------------------------
+d'énergie, et l'intensité. La répartition des longueurs d'onde régit la perception de couleur de la lumière. Une onde électromagnétique constituée d'ondes de la même longueur d'onde —&#160;pour autant qu'on puisse le
+----------------------------
+est dite monochromatique. Si en plus toutes les ondes ont la même polarisation, alors la lumière est cohérente&#160;: c'est ce qui se passe dans un laser.
+----------------------------
+La mesure de la lumière est compliquée par le fait qu'on s'intéresse, en pratique, à la lumière visible, alors que
+----------------------------
+Sources naturelles de lumière[modifier | modifier le code]
+----------------------------
+Les étoiles plus lointaines rayonnent suffisamment pour être visibles, mais pas assez pour éclairer. La lumière solaire est suffisamment puissante pour que la petite partie de son rayonnement diffusée par l'atmosphère
+----------------------------
+La Lune réfléchit suffisamment de lumière solaire pour permettre la vision scotopique (nocturne), sans perception des couleurs, des objets que son
+----------------------------
+par la friction avec l'air et finissent par y brûler. Ce phénomène est source d'une lumière également insuffisante pour éclairer.
+----------------------------
+émettent un rayonnement électromagnétique dont l'énergie dépend de leur température&#160;; un corps noir produirait une lumière de spectre lumineux à peu près semblable à celui du Soleil à une température d'environ
+----------------------------
+Les combustions en milieu ouvert échauffent suffisamment de poussières pour que celles-ci produisent de la lumière.
+----------------------------
+Certains organismes vivants&#160;: poissons, mollusques, lucioles et vers luisants, produisent de la lumière par bioluminescence.
+----------------------------
+Sources de lumière artificielles[modifier | modifier le code]
+----------------------------
+Les humains se sont d'abord éclairés par la lumière du feu. Le bitume et la poix renforcent l'éclat des torches. Les archéologues ont découvert
+----------------------------
+La lampe à incandescence électrique inventée à la fin du XIXe&#160;siècle a révolutionné l'éclairage. Les lumières électriques sont depuis lors les sources les plus courantes de lumière artificielle.
+----------------------------
+La lumière est un bien commun&#91;24&#93;.
+----------------------------
+nombreux équipements destinés à la signalisation, à la communication, à la publicité émettent de la lumière dans et hors des habitations. Ils peuvent, comme les appareils d'éclairages, être à l'origine de
+----------------------------
+La lumière compte parmi les facteurs environnementaux dans la loi sur la protection des émissions. Les émissions
+----------------------------
+à la nature en empêchant la réalisation de certains processus naturels. Les règlements sur la lumière, particuliers à chaque pays, définissent l'éclairage normal de l'éclairage intérieur et le seuil d'éblouissement. Les
+----------------------------
+lumières aux couleurs intenses et clignotantes peuvent s'avérer particulièrement perturbantes. L'État veille à la bonne application
+----------------------------
+de la loi en la matière, incluse en France dans le Code de l'environnement. La lumière intéresse la sécurité en matière de transport&#160;: niveau et répartition de l'éclairage urbain, réglage des
+----------------------------
+phares de voiture pour éviter l'éblouissement. Les effets néfastes de la lumière artificielle sur la faune sauvage (par exemple, sur les insectes nocturnes, la perturbation des oiseaux
+----------------------------
+Article détaillé&#160;: Lumière artistique.
+----------------------------
+L'importance de la lumière dans la peinture&#91;25&#93;, la spécialité technique et artistique de l'éclairage, qui produisent une lumière artistique,
+----------------------------
+témoignent des valeurs esthétiques liées à la lumière, naturelle ou artificielle, dont Paul Souriau a tenté d'établir des caractères&#91;26&#93;. «&#160;La beauté de la
+----------------------------
+lumière ne se peut pas mesurer exactement au photomètre&#91;27&#93;&#160;».
+----------------------------
+La lumière a une forte valeur symbolique&#160;; permettant de percevoir les objets avant de les toucher, elle
+----------------------------
+s'associe, dans toutes les cultures humaines, à la connaissance, tandis que l'opposition entre lumière et ténèbres se relie à celles entre vie et mort et entre bien et mal.
+----------------------------
+Dans de nombreuses religions, Dieu est associé à la lumière.
+----------------------------
+se transforme en élaboration mathématique à partir de la mesure se désigne comme siècle des Lumières tandis que par la suite, la philosophie des Lumières diffuse ce nouveau genre de savoir,
+----------------------------
+La propriété de la lumière de se transmettre à distance sans support matériel alimente une métaphore ancienne, qui l'associe aux
+----------------------------
+idées. Vitellion, savant polonais du XIIIe&#160;siècle traducteur de l’Optique d'Alhazen, rapproche la lumière physique, manifestation de Dieu et la lumière divine, c'est-à-dire le sentiment de Dieu[réf.&#160;souhaitée]. Pour Georges
+----------------------------
+Duby, l'architecture des cathédrales de l'époque s'organise selon ce parallèle, dit théologie de la Lumière&#91;28&#93;.
+----------------------------
+Lumière, sur Wikimedia Commonslumière, sur le Wiktionnaire (thésaurus)Lumière, sur WikiversityLumière, sur Wikiquote
+----------------------------
+Une catégorie est consacrée à ce sujet&#160;: Lumière.
+----------------------------
+Bernard Valeur, Lumière et luminescence&#160;: Ces phénomènes lumineux qui nous entourent, Belin, coll.&#160;«&#160;Pour la science&#160;», 2005, 207&#160;p. (ISBN&#160;978-2-7011-3603-5)
+----------------------------
+Libero Zuppiroli, Marie-Noëlle Bussac et Christiane Grimm (photographies), Traité de la lumière, Lausanne, Presses polytechniques et universitaires romandes, 2009
+----------------------------
+Lumière artistique
+----------------------------
+Lumière, ondule ton corpuscule» La Méthode scientifique, France Culture, 24 octobre 2019
+----------------------------
+Un dossier complet sur la vitesse de la lumière sur le site Culturesciences-Physique de l'ENS Lyon (un historique, les indices optiques, la relativité, l'effet
+----------------------------
+Dossier sur la lumière et projet d'éclairage, sur le site ergonomie.chups.jussieu.fr [PDF]
+----------------------------
+lumiere.fr
+----------------------------
+1972, 1re&#160;éd., 128&#160;p.&#160;; Yves Le Grand, Optiqupour expliquer le phénomène ondulatoire&#160;: ile physiologique&#160;: Tome 2, Lumière et couleurs, Paris, Masson, 1972, 2e&#160;éd..
+----------------------------
+↑ La mesure de la vitesse de la lumière, Document pédagogique Cléa Académie de Nice.
+----------------------------
+↑ a et b Michel Blay, «&#160;La lumière&#160;», Université de tous les savoirs, vol. 4, Éditions Odile Jacob, Paris, 2001, p.&#160;603-620.
+----------------------------
+↑ Claude Cohen-Tannoudji, «&#160;Préface&#160;», dans Bernard Valeur, Lumière et luminescence, Paris, Belin, 2005.
+----------------------------
+of Electronic &amp; Electrical Engineering, Université de Strathclyde, Glasgow, Scotland, 1998 (Test d'impact de la lumière UV sur Listeria monocytogenes, Escherichia coli, Salmonella enteritidis, Pseudomonas aeruginosa, Bacillus cereus et Staphylococcus aureus.
+----------------------------
+↑ Yves Le Grand, Optique physiologique&#160;: Tome 2, Lumière et couleurs, Paris, Masson, 1972, 2e&#160;éd.&#160;; Efficacité lumineuse spectrale indique les valeurs normalisées.
+----------------------------
+Lumière et mélatonine contre la maladie d'Alzheimer&#160;», 2008 (consulté le 7 novembre 2008).
+----------------------------
+↑ Claude Gronfier, «&#160;Horloge circadienne et fonctions non visuelles&#160;: rôle de la lumière chez l’humain&#160;», Biologie aujourd'hui,&#8206; 2015 (lire en ligne).
+----------------------------
+↑ Pierre Pinchon, La lumière dans les arts européens 1800-1900, Paris, Hazan, 2011.
+----------------------------
+↑ Paul Souriau, Esthétique de la lumière, Paris, 1913 (lire en ligne).
+----------------------------
+Lumière&amp;oldid=228220959&#160;».
+----------------------------
+Catégories : LumièreBiens communsCatégories cachées : Article manquant de références depuis juin 2018Article manquant de références/Liste complèteArticle à
+----------------------------
+Lumière
+----------------------------

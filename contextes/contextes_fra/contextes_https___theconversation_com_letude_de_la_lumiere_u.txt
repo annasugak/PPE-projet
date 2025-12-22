@@ -1,0 +1,58 @@
+lumiere-une-aventure-qui-a-chamboule-notre-representation-du-monde-146139',
+----------------------------
+window.GTM.ArticleData = {"article_id":"146139","article_tags":"Fête de la science|Fête de la science 2020|histoire|lumière|physique|épistémologie","article_type":"free","author_id":"1167122","author_name":"Christophe Daussy","content_category":"Page d'accueil|Science","feature_type":"analysis","headline":"l etude de la lumiere une aventure qui a chamboule notre representation du monde","publish_date":"2020-10-26","publish_time":"22:14"}
+----------------------------
+L’étude de la lumière : une aventure qui a chamboulé notre représentation du monde
+----------------------------
+&cd[content_name]=L’étude de la lumière : une aventure qui a chamboulé notre représentation du monde
+----------------------------
+L’étude de la lumière : une aventure qui a chamboulé notre représentation du&nbsp;monde
+----------------------------
+Depuis des siècles, les scientifiques ont cherché à comprendre la nature de la lumière.
+----------------------------
+lumiere-une-aventure-qui-a-chamboule-notre-representation-du-monde-146139
+----------------------------
+lumiere-une-aventure-qui-a-chamboule-notre-representation-du-monde-146139
+----------------------------
+Les technologies reposant sur la connaissance et la maîtrise de la lumière sont devenues incontournables : écrans, télécommunications, imagerie ou encore laser et ses nombreuses applications. Dans
+----------------------------
+horloges les plus stables au monde. Au-delà de ces succès remarquables, les travaux sur la lumière – ou avec la lumière – ont marqué depuis des siècles nos représentations du monde
+----------------------------
+recherche et l’émergence au XXe siècle de théories qui ont chamboulé notre compréhension de la lumière, mais aussi de l’espace, du temps et de la matière.
+----------------------------
+La lumière, corpuscule ou onde ?
+----------------------------
+qui nous intéresse débute au XVIIe siècle. L’étude quantitative de la déviation des rayons de lumière permet alors à Snell et Descartes d’établir les lois de l’optique géométrique. La modélisation de
+----------------------------
+scientifiques à prendre position sur deux questions fondamentales : quelle est la nature de la lumière et à quelle vitesse se propage-t-elle ? Ces deux problèmes vont être débattus pendant plus
+----------------------------
+Au XVIIe siècle, pour Descartes et Newton, la lumière est de nature corpusculaire et elle se propage plus vite dans le verre que dans
+----------------------------
+De son côté, Huygens développe une théorie ondulatoire qui le conduit à considérer que la lumière se propage plus lentement dans le verre que dans l’air. Alors onde ou corpuscule ?
+----------------------------
+alors définitivement tranché lorsqu’en 1850, Fizeau et Foucault montrent expérimentalement que la vitesse de la lumière est plus faible dans l’eau que dans l’air. Huygens avait donc raison : la lumière
+----------------------------
+aux travaux de Maxwell qui associe phénomènes électriques, magnétiques et optiques et montre que la lumière est une onde électromagnétique. Mieux, sa vitesse dans le vide doit être invariante : elle
+----------------------------
+là les choses se compliquent ! En effet cette invariance de la vitesse de la lumière est incompatible avec une loi centrale en mécanique newtonienne la loi galiléenne de composition des
+----------------------------
+ce point noir ainsi qu’un autre problème non résolu, le calcul de la quantité de lumière émise par rayonnement thermique (le problème du corps noir), beaucoup de scientifiques considèrent à la
+----------------------------
+lorsqu’elles sont en mouvement ! Le concept de masse doit également être redéfini à la lumière de la fameuse relation E=mc2 qui pose l’équivalence entre masse et énergie.
+----------------------------
+au problème du corps noir est apportée par Planck moyennant une hypothèse déconcertante : la lumière est émise de façon discontinue par grains d’énergie, les quanta. Dans la foulée, Einstein s’attaque
+----------------------------
+photoélectrique. S’appuyant sur les travaux de Planck, il interprète cet effet en considérant que la lumière est composée de grains d’énergie hν (h est la constante de Planck et ν la
+----------------------------
+de photon et avec lui une nouvelle page du débat sur la nature de la lumière.
+----------------------------
+peut voir dans ces deux principes une forme de similitude entre le traitement de la lumière et celui de la matière, similitude qui sera formalisée par Hamilton dans une nouvelle écriture
+----------------------------
+attendre les travaux de Planck et l’introduction du quantum d’action h, d’Einstein qui quantifie la lumière, pour qu’en 1924 de Broglie apporte la solution inattendue qui réconciliera définitivement onde et photon
+----------------------------
+: la lumière se comporte tantôt comme une onde, tantôt comme des corpuscules, tout dépend des conditions de
+----------------------------
+la matière et des interactions. La notion de trajectoire d’une particule doit être repensée à lumière de l’amplitude de probabilité de la fonction d’onde dont le module au carré représente la
+----------------------------
+lumière
+----------------------------

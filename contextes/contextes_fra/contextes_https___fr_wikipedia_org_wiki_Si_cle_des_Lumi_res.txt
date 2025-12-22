@@ -1,0 +1,298 @@
+Siècle des Lumières — Wikipédia
+----------------------------
+vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"e0a6800c-b052-48e9-8136-af8cad034672","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Siècle_des_Lumières","wgTitle":"Siècle des Lumières","wgCurRevisionId":229597206,"wgRevisionId":229597206,"wgArticleId":20403,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Page utilisant une frise chronologique","Page en semi-protection longue","Article à recycler/Liste complète","Article à recycler","Article utilisant l'infobox Période
+----------------------------
+Lumières/Articles liés","Portail:XVIIIe siècle/Articles liés","Portail:Époque moderne/Articles liés","Portail:Histoire/Articles liés","Portail:Philosophie/Articles liés","Portail:Société/Articles liés","Portail:Sciences humaines et sociales/Articles liés","Portail:Culture/Articles liés","Portail:Libéralisme/Articles liés","Portail:Politique/Articles liés","Bon
+----------------------------
+Lumières","XVIIIe siècle","Histoire du libéralisme","Chrononyme"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Siècle_des_Lumières","wgRelevantArticleId":20403,"wgTempUserName":null,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q12539","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+----------------------------
+Lumières"
+----------------------------
+Combats des Lumières
+----------------------------
+Lumières"
+----------------------------
+Sciences et savants à l’âge des Lumières
+----------------------------
+Lumières"
+----------------------------
+Franc-maçonnerie et Lumières
+----------------------------
+Lumières_et_Aufklärung_en_Europe_et_dans_le_monde"
+----------------------------
+Lumières et Aufklärung en Europe et dans le monde
+----------------------------
+Afficher / masquer la sous-section Lumières et Aufklärung en Europe et dans le monde
+----------------------------
+Lumières_au_Portugal"
+----------------------------
+Les Lumières au Portugal
+----------------------------
+lumières_en_Espagne"
+----------------------------
+Les lumières en Espagne
+----------------------------
+Lumières_en_Pologne"
+----------------------------
+Les Lumières en Pologne
+----------------------------
+Lumières_en_Écosse"
+----------------------------
+Les Lumières en Écosse
+----------------------------
+Siècle des Lumières
+----------------------------
+Pour les articles homonymes, voir Lumières.
+----------------------------
+Lumières#Pour_un_recyclage_de_l'article Améliorez-le, discutez des points à améliorer ou précisez les sections à recycler en utilisant {{section
+----------------------------
+Siècle des LumièresLe frontispice de l’Encyclopédie de Diderot et d’Alembert, gravure de Benoît-Louis Prévost.DatesDébut
+----------------------------
+Le siècle des Lumières (en français&#160;: les lumières&#160;; en allemand&#160;: Aufklärung&#160;; en anglais&#160;: Enlightenment&#160;; en italien&#160;: Illuminismo&#160;; en espagnol&#160;: Ilustración) est un mouvement
+----------------------------
+fin du règne de Louis XIV (1643-1715) est comme sa gestation&#91;2&#93; et le siècle des Lumières commence conventionnellement, en 1715, à la mort de ce roi&#91;3&#93;,&#91;4&#93;,&#91;5&#93;,&#91;6&#93;,&#91;7&#93;,&#91;8&#93;, plus précisément avec la Régence
+----------------------------
+Lumières&#160;», pour les Juifs Maskilim, a été par la suite consacré par l'usage pour rassembler sous
+----------------------------
+Pour les arts plastiques, le siècle des Lumières couvre la transition entre les périodes classique, rococo et néoclassique, et pour la musique, celle
+----------------------------
+Le «&#160;siècle des Lumières&#160;»&#91;11&#93; se veut éclairé par la lumière métaphorique des connaissances —&#160;et non par l’illumination divine, «&#160;émanation de l’absolu&#160;»&#91;12&#93;, utilisé exclusivement au singulier&#160;—
+----------------------------
+Lumières&#160;» désignent par métonymie les élites européennes ouvertes aux nouveautés, une «&#160;République des Lettres éclairées&#160;».
+----------------------------
+et les progrès scientifiques du temps&#91;13&#93;. L’inflexion anticléricale et combative que prend la philosophie des Lumières dans les années 1750 devait marquer l’expression&#91;14&#93;. Dans la France prérévolutionnaire, la formule est consacrée
+----------------------------
+par les représentants des Lumières puis par les révolutionnaires eux-mêmes&#91;15&#93;. L’historiographie française a retenu l’expression&#160;: «&#160;Le siècle des Lumières&#160;: siècle
+----------------------------
+un, profondément, mais combien divers. La raison éclaire tous les hommes, elle est la lumière, ou plus précisément, ne s’agissant pas d’un rayon, mais d’un faisceau, les Lumières&#160;»&#91;16&#93;. L'image de
+----------------------------
+la lumière renvoie à une coutume consistant à placer une bougie allumée à sa fenêtre pour annoncer
+----------------------------
+un événement. Le voisin «&#160;illuminait&#160;» à son tour. De fenêtres en fenêtres les lumières éclairaient la nuit. Les philosophes séduits par cette pratique faisant de la transmission de l'information,
+----------------------------
+de la connaissance, une chaîne de lumière et s'emparent de l'idée&#160;: ils transformeront la nuit de l'ignorance en clarté, guidés par la
+----------------------------
+lumière de leur raison. Diderot écrit dans Addition aux pensées&#160;: «&#160;Si je renonce à ma raison,
+----------------------------
+de guide […]. Égaré dans une forêt immense pendant la nuit, je n'ai qu'une petite lumière pour me conduire.&#160;»
+----------------------------
+Le siècle des Lumières est marqué par une vision renouvelée et élargie du monde, héritée de questionnements, parfois angoissés,
+----------------------------
+Ces champs de réflexion précurseurs, qui allaient former le socle de la Philosophie des Lumières, traversent le siècle et influencent de nombreux domaines, à l’instar de l’économie politique&#91;18&#93;. L’idée de
+----------------------------
+Combats des Lumières
+----------------------------
+Les partisans des Lumières sont les acteurs de nombreux combats nés de «&#160;l’usage public de sa raison dans tous
+----------------------------
+l'Encyclopédie était de se battre contre ce qu'ils appelaient l'obscurantisme religieux. On oppose ainsi les Lumières à l'obscurantisme, ou le manque de culture, de savoir. La lumière permet de lutter contre
+----------------------------
+de «&#160;sortir les Hommes des ténèbres de leur temps&#160;» et «&#160;d’Éclairer toute chose à la lumière de la raison&#160;».
+----------------------------
+Sciences et savants à l’âge des Lumières
+----------------------------
+Article détaillé&#160;: Sciences en Europe au siècle des Lumières.
+----------------------------
+La France possède de nombreux philosophes et écrivains des Lumières, notamment Montesquieu, Voltaire, Diderot, Beaumarchais, Rousseau et D'Alembert.
+----------------------------
+L'époque des Lumières fut aussi celle de Bernoulli, Euler, Laplace, Lagrange, Monge, Condorcet, D'Alembert et Émilie du Châtelet
+----------------------------
+Des savants naturalistes comme Linné, Réaumur, Buffon, Jussieu, Lamarck incarnent l'esprit des Lumières dans le domaine des sciences relevant de l'histoire naturelle dans toute son étendue.
+----------------------------
+À la faveur de ces évolutions apparaissent des espaces nouveaux où se diffusent les Lumières&#91;24&#93;, entretenues par relations privées et quelquefois par le mécénat d’État. L’Europe des Lumières a ainsi
+----------------------------
+Dans le cadre français, les Lumières voient basculer dans les années 1750 leur centre de gravité de Versailles à Paris qui
+----------------------------
+apparaît comme la nouvelle capitale intellectuelle et artistique, comme une capitale des Lumières. Ce brassage implique une redéfinition sociale de l’écrivain.
+----------------------------
+Le phénomène se développe également en province, où magistrats et érudits locaux, gagnés par les Lumières, forment une classe sociale dirigeante aux nouvelles préoccupations&#91;27&#93;.
+----------------------------
+Quoique l’histoire des académies en France au siècle des Lumières remonte à la fondation à Caen de l’Académie de physique de Caen, en 1662, c’est
+----------------------------
+L. Caradonna dans un récent article paru dans les Annales, «&#160;Prendre part au siècle des Lumières&#160;: le concours académique et la culture intellectuelle au XVIIIe&#160;siècle&#160;», ces concours étaient peut-être la plus
+----------------------------
+publique de toutes les institutions du siècle des Lumières. L’Académie française a remis au goût du jour une pratique médiévale en relançant les concours
+----------------------------
+également joué un rôle important dans la sphère publique et la propagation des idées des Lumières en agissant comme centre d’échange pour la correspondance et les échanges intellectuels&#91;35&#93; et jouant, en
+----------------------------
+Franc-maçonnerie et Lumières
+----------------------------
+moins de 100&#160;000&#160;francs-maçons, ce qui en ferait la plus populaire de toutes les associations des Lumières&#91;38&#93;. La franc-maçonnerie ne semble cependant pas avoir été confinée à l’Europe occidentale&#160;; Margaret Jacob a
+----------------------------
+d’existence, la contribution ou même le rôle de la franc-maçonnerie comme facteur principal dans les Lumières a néanmoins fait récemment l’objet de débats parmi les historiens. Certes des figures majeures des
+----------------------------
+Lumières, comme Montesquieu, Voltaire, Pope, Horace et Robert Walpole, Mozart, Goethe, Frédéric le Grand, Benjamin Franklin
+----------------------------
+continent, il y avait deux structures sociales qui ont laissé une empreinte décisive sur les Lumières&#160;: la République des Lettres et les loges maçonniques&#160;»&#91;43&#93;, tandis que Thomas Munck, professeur à l’université
+----------------------------
+contacts internationaux et intersociaux essentiellement non-religieux et ce, largement en accord avec les valeurs des Lumières, on ne peut guère les décrire comme un important réseau radical ou réformiste en propre&#160;»&#91;44&#93;.
+----------------------------
+la société dans son ensemble. Giuseppe Giarrizzo a souligné le rapport étroit entre francs-maçons et Lumières&#91;47&#93;. Jacob fait valoir que les loges maçonniques ont «&#160;reconstitué la vie politique et instauré une
+----------------------------
+d’exilés jacobites anglais&#91;48&#93;. Les francs-maçons de toute l’Europe du XVIIIe&#160;siècle faisaient, en outre, référence aux Lumières en général. Le rite d’initiation des loges françaises citait ainsi explicitement les Lumières. Les loges
+----------------------------
+Lumières et Aufklärung en Europe et dans le monde
+----------------------------
+Les Lumières se sont pensées comme un mouvement européen&#91;54&#93;, international et si le français qui a détrôné
+----------------------------
+semble s’imposer comme le langage par excellence de la nouvelle «&#160;République des Lettres&#160;», l’homme des Lumières est avant tout un «&#160;cosmopolite&#160;», un «&#160;citoyen du monde&#160;»&#91;56&#93; quand il n’est pas un apatride.
+----------------------------
+Articles connexes&#160;: Aufklärung et Qu'est-ce que les lumières&#160;?.
+----------------------------
+D'après Olivier Juilliard, «&#160;l&#39;Aufklärung&#160;»  est «&#160;trop souvent identifiée sommairement à l&#39;Âge des lumières&#160;»&#91;57&#93;. C'est une période assez mal délimitée et mal définie&#160;: elle commencerait avec Wolff (1679-1754), ou
+----------------------------
+Selon Jean Michel Muglioni, dans Was ist Aufklärung? (Qu'est-ce que les Lumières&#160;?, 1784), le philosophe Emmanuel Kant dit que le progrès des Lumières consiste à limiter toujours
+----------------------------
+despote lui-même, sut garantir dans son royaume la liberté de conscience et utilisa malicieusement les Lumières de Kant comme instrument de propagande et comme moyen de gouvernement en s'assurant l'alliance des
+----------------------------
+Les Lumières au Portugal
+----------------------------
+Article détaillé&#160;: Lumières portugaises.
+----------------------------
+Les lumières en Espagne
+----------------------------
+Article détaillé&#160;: Espagne des Lumières.
+----------------------------
+Les Lumières en Pologne
+----------------------------
+Article détaillé&#160;: Lumières polonaises.
+----------------------------
+Les Lumières en Écosse
+----------------------------
+Article détaillé&#160;: Lumières écossaises.
+----------------------------
+Article détaillé&#160;: Critique des Lumières.
+----------------------------
+↑ Les ministres et les ministères du siècle des Lumières, 1715-1789: Étude et dictionnaire. Arnaud de Maurepas, Antoine Boulant. Christian, 1996
+----------------------------
+↑ Culture et politique dans la France des Lumières&#160;: (1715-1792), Monique Cottret. Armand Colin, 2002.
+----------------------------
+↑ La France des lumières (1715-1789), Pierre-Yves Beaurepaire. Belin, Humensis,  (ISBN&#160;2701188911).
+----------------------------
+↑ Les consuls de France au siècle des lumières (1715-1792), Anne Mézin. Peter Lang, 1998.
+----------------------------
+↑ Lumières et révolutions (1715-1815), Olivier Coquard. Presses Universitaires de France, 2014.
+----------------------------
+publications, comme la revue Dix-Huitième Siècle ou des entreprises éditoriales comme le Dictionnaire européen des Lumières (sous la direction de Michel Delon, PUF, 2007) ont familiarisé le public avec cette expression.
+----------------------------
+Sur l’usage que fit le siècle de la formule, voir l’article de Jacques Roger, «&#160;La lumière et les lumières&#160;» (Cahiers de l’Association internationale des études françaises, 1968, 20, p.&#160;167-177) une archéologie
+----------------------------
+↑  Les philosophes «&#160;des Lumières&#160;» ont pour objectif d’éclairer leur siècle, d’amener une lumière nouvelle sur les questions restées sans réponse. «&#160;[…] nous voilà dans un siècle qui va
+----------------------------
+des mortels, et […] lorsqu’une religion établie commence à pâlir et à s’éteindre devant les lumières d’un siècle éclairé […] c’est cette Raison qu’il faut alors presque diviniser.&#160;» Nicolas Antoine Boulanger,
+----------------------------
+↑ «&#160;Jamais siècle n’a été appelé plus souvent que le nôtre le siècle des lumières.&#160;» Mably, Le Banquet des politiques, 1776. On trouve souvent les formules «&#160;siècle des lumières et
+----------------------------
+de la philosophie&#160;» ou «&#160;siècle des lumières et de la liberté&#160;».
+----------------------------
+André Zysberg, La Monarchie des Lumières (1715-1786), Nouvelle histoire de la France moderne, t.&#160;V, Points Seuil, 2002, chap.&#160;XII.
+----------------------------
+↑ Emmanuel Kant, Qu’est-ce que les Lumières, 1784.
+----------------------------
+↑ Hubert Baysson, L’Idée d’étranger chez les philosophes des Lumières, Éditions L'Harmattan, 2002.
+----------------------------
+1987, p.&#160;453-472&#160;; Catherine Larrère, «&#160;Sociabilité&#160;», dans Michel Delon (sous la direction de), Dictionnaire européen des Lumières, Paris, Presses universitaires de France, 1997, p.&#160;998-1001&#160;; Keith Michael Baker, «&#160;Politique et opinion publique sous
+----------------------------
+↑ Daniel Roche, Le Siècle des lumières en province&#160;: Académies et Académiciens provinciaux&#160;: 1680-1789, Paris - La Haye, 1978.
+----------------------------
+↑ Jeremy L. Caradonna, «&#160;Prendre part au siècle des Lumières: Le concours académique et la culture intellectuelle au XVIIIe&#160;siècle&#160;», Annales. Histoire, Sciences sociales, vol.&#160;64 (mai-juin
+----------------------------
+↑ Voir Cécile Révauger, Franc-maçonnerie et politique au siècle des Lumières&#160;: Europe-Amériques, Pessac, PUB, 2006, no&#160;7, 379&#160;p.  (ISBN&#160;9782867814082) et Margaret C. Jacob, Living the Enlightenment: Free
+----------------------------
+↑ «&#160;Les conditions de la vie intellectuelle et culturelle en Suisse romande au temps des Lumières&#160;», Annales Benjamin Constant 18-19,&#8206; 1996 (ISSN&#160;0263-7383)
+----------------------------
+↑ Jean Michel Muglioni, «&#160;Analyse critique de Qu'est-ce que les Lumières de Kant&#160;», Collection «&#160;Classiques &amp; Cie PHILO&#160;»,&#8206; 2017, p.&#160;24.
+----------------------------
+dans le texte en allemand, que la traduction automatique en français remplace systématiquement par «&#160;les Lumières&#160;»).
+----------------------------
+Siècle des Lumières, sur Wikimedia CommonsPortail:Les Lumières, sur Wikisource
+----------------------------
+Daniel Roche, La France des Lumières, Paris, Fayard, 1993
+----------------------------
+Article détaillé&#160;: Bibliographie sur les Lumières.
+----------------------------
+Pierre-Yves Beaurepaire, L’Europe des Lumières, Paris, PUF, 2004
+----------------------------
+Michel Delon, Dictionnaire européen des Lumières, Paris, PUF, 1997  (ISBN&#160;2-13-048824-2)
+----------------------------
+Marcel Brion, Henry Daussy, Le Siècle des Lumières, London, Thames &amp; Hudson, 1974
+----------------------------
+Pierre Chaunu, La Civilisation de l’Europe des Lumières, Paris, Flammarion, 1997
+----------------------------
+Pierre M. Conlon, Le Siècle des Lumières&#160;: bibliographie chronologique, Genève, Droz, 1983
+----------------------------
+Joël Cornette, Histoire de la France&#160;: absolutisme et Lumières (1652-1783), Paris, Hachette supérieur, 2005
+----------------------------
+Monique Cottret, Culture et politique dans la France des Lumières&#160;: 1715-1792, Paris, Colin, 2002
+----------------------------
+Béatrice Didier, Le Siècle des Lumières, Paris, MA Éditions, 1987.
+----------------------------
+Norman Hampson, Le Siècle des Lumières, Paris, Seuil, 1972
+----------------------------
+Liliane Hilaire-Pérez, Daniel Roche, L’Invention technique au siècle des Lumières, Paris, Albin Michel, 2000
+----------------------------
+Jacques d’Hondt, Hegel et le siècle des Lumières, Paris, PUF, 1974
+----------------------------
+Christine Le Bozec, La Normandie au XVIIIe&#160;siècle&#160;: croissance, Lumières et Révolution, Rennes, Éditions Ouest-France, 2002
+----------------------------
+Xavier Martin, Nature humaine et Révolution française&#160;: du siècle des Lumières au Code Napoléon, Bouère, D.M. Morin, 1994
+----------------------------
+Philippe Minard, La Fortune du colbertisme&#160;: état et industrie dans la France des Lumières, Paris, Fayard, 1998
+----------------------------
+Henri Plard, Morale et vertu au siècle des Lumières, Bruxelles, Éditions de l’Université de Bruxelles, 1986
+----------------------------
+Bernard Plongeron, Théologie et politique au siècle des Lumières (1770-1820) Genève, Droz, 1973
+----------------------------
+Gilbert Py, L’Idée d’Europe au Siècle des Lumières, Paris, Vuibert, 2004
+----------------------------
+Louis Réau, L’Europe française au siècle des Lumières, Paris, A. Michel, 1951, 1938
+----------------------------
+Catherine Salles, Le Siècle des Lumières&#160;: 1715-1789, Paris, Larousse, 1987
+----------------------------
+Albert Soboul, Guy Lemarchand, Michèle Fogel, Le Siècle des Lumières, Paris, PUF, 1977-1997
+----------------------------
+Michel Vovelle, Le Siècle des Lumières, Paris, 1977-1999.
+----------------------------
+Revue Nouvelle École n°65, Les Lumières, 2016
+----------------------------
+Philosophie des Lumières
+----------------------------
+Qu'est-ce que les Lumières&#160;? (Kant)
+----------------------------
+Lumières en Allemagne&#160;(it)
+----------------------------
+Espagne des Lumières, école universaliste espagnole du XVIIIe siècle
+----------------------------
+Lumières écossaises
+----------------------------
+Tolérance des Lumières
+----------------------------
+«&#160;Le Siècle des Lumières&#160;: un héritage pour demain&#160;» (exposition virtuelle de la Bibliothèque nationale de France. Coordination scientifique de
+----------------------------
+Les Clionautes (compte-rendu de l’ouvrage de Marie-Christine Skuncke (éd.), Centre (s) et périphérie (s), les Lumières de Belfast à Beijing, Actes du colloque d’Uppsala)
+----------------------------
+Siècle des Lumières (XVIIIe siècle)
+----------------------------
+Siècle des Lumières
+----------------------------
+v&#160;· mPhilosophie des Lumières
+----------------------------
+Lumières radicales
+----------------------------
+Lumières
+----------------------------
+Lumières par pays
+----------------------------
+Portail des Lumières   Portail de la philosophie   Portail de la culture   Portail de l'époque moderne   Portail du XVIIIe&#160;siècle
+----------------------------
+Lumières
+----------------------------
+Lumières&amp;oldid=229597206&#160;».
+----------------------------
+LumièresXVIIIe siècleHistoire du libéralismeChrononymeCatégories cachées : Page utilisant une frise chronologiquePage en semi-protection longueArticle à recycler/Liste
+----------------------------
+Lumières/Articles liésPortail:XVIIIe siècle/Articles liésPortail:Époque moderne/Articles liésPortail:Histoire/Articles liésPortail:Philosophie/Articles liésPortail:Société/Articles liésPortail:Sciences humaines et sociales/Articles liésPortail:Culture/Articles liésPortail:Libéralisme/Articles liésPortail:Politique/Articles liésBon
+----------------------------
+Siècle des Lumières
+----------------------------
+Lumières","  7.66%   54.515      1 Modèle:Infobox_Période_historique","  6.27%   44.607      1 Modèle:Palette","  5.89%   41.905      1 Modèle:Portail","  4.96%   35.313     37
+----------------------------

@@ -1,0 +1,48 @@
+Ville Lumière — Wiktionnaire, le dictionnaire libre
+----------------------------
+vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwiktionarymwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"54e484f4-36fa-41bc-bc4e-d3cbcc10233c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ville_Lumière","wgTitle":"Ville Lumière","wgCurRevisionId":38426928,"wgRevisionId":38426928,"wgArticleId":232717,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Traductions en allemand","Traductions en anglais","Traductions en espagnol","Traductions en persan","Traductions en portugais","Prononciations audio en français","Wiktionnaire:Prononciations phonétiques manquantes
+----------------------------
+Lumière","wgRelevantArticleId":232717,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wiktionary","wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgWMEPageLengthBucket":2,"wgWikifunctionsBaseUrl":"//www.wikifunctions.org","wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+----------------------------
+Ville Lumière
+----------------------------
+Voir aussi : Ville-Lumière, ville lumiere, ville lumière
+----------------------------
+les Européens. Les Londoniens baptisent Paris City of Lights, périphrase traduite en français par Ville Lumière. Cette hypothèse est néanmoins contestée.
+----------------------------
+entièrement la ville. Ce serait à ce moment-là que Paris obtint le surnom de Ville Lumière.
+----------------------------
+Ville Lumière \vil ly.mjɛʁ\
+----------------------------
+Passage Jouffroy à Paris, la Ville Lumière.
+----------------------------
+Ville Lumière \vil ly.mjɛʁ\ féminin singulier
+----------------------------
+Mais on est forcé de reconnaître qu’il n’y a pas beaucoup d’initiative dans la Ville Lumière lorsqu’il s’agit d’électricité. La capitale autrichienne possède maintenant des voitures d’omnibus éclairées électriquement. — (La
+----------------------------
+Lumière électrique: revue universelle d’électricité, 1892, vol.44, page 250)
+----------------------------
+La Ville Lumière avait laissé d’être un lieu incontournable pour le tourisme mondial et la balance de paiements
+----------------------------
+En dehors de la Ville Lumière, nous découvrons un peuple chaleureux, rassembleur, fier de ses racines et curieux de connaître le
+----------------------------
+Lumière
+----------------------------
+Majuscule à ville parce que cette ville est unique ; majuscule à lumière, substantif apposé à ville qui comporte une majuscule.
+----------------------------
+Ne pas confondre avec l’expression Ville des Lumières qui désigne Lyon du fait de la fête des Lumières.
+----------------------------
+France (Paris) : écouter « Ville Lumière [vil.ly.mjɛʁ] »
+----------------------------
+Fontainebleau (France) : écouter « Ville Lumière [Prononciation ?] »
+----------------------------
+Ville-Lumière, ville lumière
+----------------------------
+lumiere
+----------------------------
+Lumière&amp;oldid=38426928"
+----------------------------
+Ville Lumière
+----------------------------
+lumiere","  5.04%   17.534      1 Modèle:voir","  3.71%   12.920      1 Modèle:voir_anagrammes","  3.13%   10.892      1 Modèle:fr-inv","  2.93%   10.196      2
+----------------------------

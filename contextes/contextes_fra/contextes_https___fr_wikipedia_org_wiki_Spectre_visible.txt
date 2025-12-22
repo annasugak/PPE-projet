@@ -1,0 +1,68 @@
+Lumière","Spectroscopie","Bande spectrale","Rayonnement non ionisant"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Spectre_visible","wgRelevantArticleId":69429,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"ccd26dec-6c86-4034-a704-e402435cd53c","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q76299","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+----------------------------
+La lumière blanche, en passant à travers un prisme optique, se décompose pour faire apparaître le spectre
+----------------------------
+les humains&#91;1&#93;,&#91;2&#93;. Le spectre se décompose en ondes approximativement monochromatiques par le passage de la lumière à travers un dispositif dispersif (prisme ou réseau diffractant)&#160;: c'est l'analyse spectrale.
+----------------------------
+optique dans son article publié en 1671 à propos de «&#160;sa nouvelle théorie sur la lumière et les couleurs&#91;5&#93;&#160;». Procédant avec soin, il projette un rayon de lumière blanche du soleil
+----------------------------
+fois plus long que large. Éliminant toutes les autres causes possibles, Newton conclut que la lumière blanche est «&#160;un mélange hétérogène de rayons différemment réfrangibles&#160;» (op. cit., p.&#160;3079). Les couleurs ne
+----------------------------
+sont pas, dit-il, des qualifications de la lumière, comme on l'estimait depuis Aristote, mais des propriétés originales, différentes dans chaque rayon&#160;; les moins
+----------------------------
+que le prisme ne crée pas des rayons lumineux colorés, différents par nature de la lumière blanche&#91;8&#93;. Voltaire défend la théorie de Newton avec une interprétation particulière qui transforme le spectre
+----------------------------
+Au début du XIXe&#160;siècle, des expériences avec la lumière solaire montrent qu'il existe un rayonnement invisible de part et d'autre de celui que le
+----------------------------
+James Clerk Maxwell montre en 1864 que la lumière est une perturbation électromagnétique. Le modèle de description des phénomènes périodiques lui est applicable. Des
+----------------------------
+l'analyse fréquentielle issue de l'analyse harmonique développée depuis Joseph Fourier pour tout phénomène périodique. La lumière n'est plus qu'un cas particulier d'onde électromagnétique. La physique adopte le terme spectre, au sens
+----------------------------
+Fourier. Il faut dès lors préciser spectre visible quand on parle de celui de la lumière&#91;16&#93;.
+----------------------------
+Du point de vue de la physique, la lumière est un rayonnement électromagnétique. Elle occupe une très petite fraction du spectre de l'ensemble de
+----------------------------
+d'onde dans le vide&#160;; cette grandeur est pratique dans plusieurs applications. La vitesse de la lumière dans un matériau est inférieure à celle dans le vide. Le rapport de ces vitesses
+----------------------------
+au passage dans un tel milieu, dépend de cette différence de vitesse. Les composantes d'une lumière qui contient un mélange de fréquences se trouvent ainsi étalées. L'eau est une de ces
+----------------------------
+matières, et le passage de la lumière solaire dans des gouttelettes d'eau en suspension dans l'air produit un arc en ciel. Les
+----------------------------
+verres optiques sont plus ou moins dispersifs. On peut les utiliser pour décomposer la lumière blanche avec un prisme&#160;: c'est l'expérience de Newton à l'origine du terme spectre. Un réseau
+----------------------------
+du rayonnement dans le vide. En passant dans un milieu quelconque, la vitesse de la lumière décroît, tandis que la fréquence et l'énergie photonique qui lui est équivalente restent identiques. La
+----------------------------
+L'étude scientifique des objets fondée sur l'analyse de la lumière qu'ils émettent est nommée spectroscopie. En astronomie, c'est un moyen essentiel de l'analyse d'objets distants.
+----------------------------
+Fraunhofer repéra le premier l'existence de raies obscures dans la lumière du Soleil décomposée par le prisme. Les raies attestent de l'émission ou de l'absorption de
+----------------------------
+la lumière par des éléments chimiques. Leur position dans le spectre renseigne sur la nature des éléments
+----------------------------
+Chaque «&#160;couleur spectrale&#160;» correspond à une longueur d’onde précise&#160;; cependant, le spectre des lumières présentes dans la nature comprend en général l'ensemble des rayonnements, en proportion variables. La spectrométrie
+----------------------------
+du spectre visible (et longueurs d'onde voisines) est devenu un instrument assez courant, analysant la lumière par bandes de longueur d'onde de 5&#160;à 10&#160;nm.
+----------------------------
+de récepteurs, et il suffit de trois nombres pour décrire une couleur perçue. De nombreuses lumières mélangées de plusieurs radiations de longueurs d'onde différentes, dites métamères, se perçoivent identiquement. Les lumières
+----------------------------
+partie du spectre de l'illuminant qui l'éclaire, absorbant le reste. Changer l'illuminant, c'est changer la lumière émise par la surface. Deux surfaces peuvent apparaître identiques sous un illuminant, mais, leur réflectance
+----------------------------
+On utilise parfois par extension le terme lumière pour désigner les rayonnements ultraviolets (UV), comme dans l'expression «&#160;lumière noire&#160;», ou infrarouges (IR), bien
+----------------------------
+La fréquence du rayonnement en hertz s'obtient en divisant la vitesse de la lumière, environ 3&#160;× 108&#160;m/s, par la longueur d'onde en mètres. La fréquence en térahertz (THz) s'obtient
+----------------------------
+donc en divisant 300&#160;000 (la vitesse de la lumière exprimée en km/s) par la longueur d'onde en nanomètres (nm, 10−9&#160;m)&#160;: 103 × 109 =
+----------------------------
+↑ «&#160;Grand dictionnaire terminologique, Office québécois de la langue française, Résultats pour Lumière visible&#160;» (consulté le 7 octobre 2025)
+----------------------------
+Lumière&#160;».
+----------------------------
+Spectre visible, sur Wikimedia CommonsLa lumière, sur Wikiversity
+----------------------------
+Yves Le Grand, Optique physiologique&#160;: Tome 2, Lumière et couleurs, Paris, Masson, 1972, 2e&#160;éd..
+----------------------------
+Lumière visible
+----------------------------
+lumière visible
+----------------------------
+LumièreSpectroscopieBande spectraleRayonnement non ionisantCatégories cachées : Catégorie Commons avec lien local identique sur WikidataPage utilisant un
+----------------------------

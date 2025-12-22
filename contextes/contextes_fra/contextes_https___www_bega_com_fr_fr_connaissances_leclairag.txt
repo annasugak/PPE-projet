@@ -1,0 +1,50 @@
+Nature physique de la lumière · BEGAvar UC_UI_SUPPRESS_CMP_DISPLAY=!1{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","name":"Connaissances","item":"www.bega.com/fr-fr/connaissances/","position":1},{"@type":"ListItem","name":"L’éclairage en théorie","item":"www.bega.com/fr-fr/connaissances/leclairage-en-theorie/","position":2},{"@type":"ListItem","name":"Nature physique de la lumière","item":"www.bega.com/fr-fr/connaissances/leclairage-en-theorie/nature-physique-de-la-lumiere/","position":3}]}/*! tailwindcss v3.3.5 | MIT License | https://tailwindcss.com*/*,:after,:before{border:0 solid;box-sizing:border-box}:after,:before{--tw-content:""}html{-webkit-text-size-adjust:100%;font-feature-settings:normal;font-family:Inter,Arial,sans-serif;font-variation-settings:normal;line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{line-height:inherit;margin:0}hr{border-top-width:1px;color:inherit;height:0}abbr:where([title]){text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-collapse:collapse;border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{font-feature-settings:inherit;color:inherit;font-family:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;line-height:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0}fieldset,legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}dialog{padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-scroll-snap-strictness:proximity;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 transparent;--tw-ring-shadow:0 0
+----------------------------
+Informations pertinentes sur l’éclairage et la bonne lumière
+----------------------------
+Title" class="w-full mx-auto max-w-px-4 xl:max-w-grid">L’éclairage en théorie Nature physique de la lumière       Fließtext 1 (Left)" sys="[object Object]" class="w-full font-light mx-auto max-w-px-4 xl:max-w-grid">La lumière au sens strict du
+----------------------------
+terme désigne le rayonnement électromagnétique perceptible par l’œil humain. Dans un autre sens physique, la lumière désigne une plus grande zone de rayonnement électromagnétique, qui se situe entre le rayonnement micro-ondes
+----------------------------
+et le rayonnement X. Parallèlement à la lumière visible, cette définition comprend également la lumière infra-rouge et le rayonnement ultra-violet.  Fließtext 1 (Right)" sys="[object Object]" class="w-full font-light mx-auto max-w-px-4 xl:max-w-grid">Physiquement,
+----------------------------
+le phénomène de lumière peut être décrit par deux modèles principaux de pensée : D’un côté la lumière obéit
+----------------------------
+dans les vastes domaines macroscopiques aux lois de la théorie des ondes. La lumière monochromatique peut de fait être correctement décrite comme le rayonnement électromagnétique continu d’une fréquence et
+----------------------------
+Des fréquences ou des longueurs d’ondes spécifiques peuvent être classées selon les différents types de lumière (UV, lumière visible, IR, mais aussi de couleur). Le classement selon ces longueurs d’onde définit
+----------------------------
+le spectre connu de la lumière visible.   Wellentheorie" __typename="MetaImage" class="w-full">       Wellentheorie > Caption" sys="[object Object]" class="w-full font-light mx-auto max-w-px-4 xl:max-w-grid">➀  Champ
+----------------------------
+➃  Vitesse de la lumière      Fließtext 2 (Left)" sys="[object Object]" class="w-full font-light mx-auto max-w-px-4 xl:max-w-grid">À cet effet la fréquence de
+----------------------------
+chaque couleur correspond à l’intensité énergétique relative de la lumière. Ainsi la lumière rouge est proportionnellement plus pauvre en énergie que la lumière bleue. De même la lumière
+----------------------------
+infrarouge est sensiblement plus pauvre en énergie que la lumière UV.
+----------------------------
+Une autre approche s’appuie sur les propriétés de physique quantique de la lumière. Si l’on quitte le domaine macroscopique, une nature discontinue apparaît à la lumière (et à
+----------------------------
+la théorie des ondes. Bien plus, elle semble être caractérisée par un certain grain. La lumière n’est donc pas transmise en petites doses ad libitum, elle est transportée par la transmission
+----------------------------
+énergie spécifique, qui correspond à cette couleur ou longueur d’onde. Chaque photon est indivisible, la lumière monochromatique est ainsi représentable comme multiple d’un tel quantum.Les deux théories ont leur justification et
+----------------------------
+Dans une approche encore plus étendue, la lumière peut être présentée sous la forme d’un modèle de rayonnement simplifié. Les rayonnements lumineux y
+----------------------------
+créés par le mélange de composantes monochromatiques. Si l’on considère la composition spectrale d’une telle lumière, chaque composante monochromatique peut aussi être identifiée et séparée après le mélange. Les propriétés des
+----------------------------
+ondes des types de lumières utilisés à l’origine sont donc conservées.Le mélange de chaque composante monochromatique en une lumière polychromatique
+----------------------------
+De façon très simpliste, on peut dire que : Si un spectre comprend de la lumière de toutes les longueurs d’onde visibles et si leurs intensités sont réparties équitablement, cette lumière
+----------------------------
+nous paraîtra de couleur blanche. La lumière blanche idéale est représentée par le spectre du soleil.
+----------------------------
+La qualité d’une source lumineuse artificielle doit toujours approcher des caractéristiques de la lumière du soleil, car nos yeux sont adaptés à cette qualité lumineuse comme le résultat d’une
+----------------------------
+évolution au cours de millions d’années. À grande distance, la lumière solaire est la source d’énergie essentielle à toute la vie sur terre. C’est-à-dire, pour simplifier,
+----------------------------
+Parallèlement à l’apport d’énergie, la lumière solaire, en tant qu’un des phénomènes naturels dominants, a d’autres relations profondes aux systèmes biologiques.
+----------------------------
+de 24 heures représente le cycle naturel essentiel. De fait, les variations naturelles de la lumière solaire ont une influence sur de nombreux processus des organismes vivants, êtres humains compris. De
+----------------------------
+les saisons des régions du globe éloignées de l’équateur sont directement asservies au phénomène de lumière - via les variations du rayonnement solaire.      Strahlungsintensität">      Strahlungsintensität > Caption" sys="[object Object]" class="w-full font-light
+----------------------------

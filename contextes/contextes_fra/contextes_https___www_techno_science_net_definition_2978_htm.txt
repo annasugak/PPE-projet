@@ -1,0 +1,128 @@
+Lumière : définition et explications
+----------------------------
+Lumière : définition et explications",
+----------------------------
+Lumière - Définition
+----------------------------
+La lumière désigne les ondes électromagnétiques visibles par l'œil humain, c'est-à-dire comprises dans des longueurs d'onde de
+----------------------------
+0,78 micron (380 nm à 780 nm ; le symbole nm désigne le nanomètre). La lumière est intimement liée à la notion de couleur. C'est Newton qui propose pour la première
+----------------------------
+fois au XVIIe siècle un cercle des couleurs chromatiques basé sur la décomposition de la lumière blanche.
+----------------------------
+Outre la lumière visible, par extension, on appelle parfois " lumière " d'autres ondes électromagnétiques, telles que celles situées dans les domaines infrarouge et ultraviolet.
+----------------------------
+Même si certaines formes de vies, au fond des océans peuvent s'en passer, la lumière du soleil est la première source d'énergie des écosystèmes terrestres, via la photosynthèse. Elle contrôle
+----------------------------
+sol superficiel ou de l'eau (certains pesticides présents dans l'air par exemple. C'est encore la lumière qui via la durée du jour corrige les horloges biologiques animales, par la production de
+----------------------------
+bourgeons, feuilles, fleurs, ou l'ouverture ou la fermeture de fleurs. C'est pourquoi la présence de lumière artificielle dans l'Environnement nocturne peut altérer le comportement ou les fonctions de certaines espèces ou
+----------------------------
+Historique : la lumière et les observations en astronomie
+----------------------------
+Les observations astronomiques ont été réalisées depuis que l'homme existe : on aperçut des lumières dans le ciel : le Soleil, la Lune, des étoiles au firmament, des étoiles filantes…
+----------------------------
+saisons (durée du jour tout au long de l'année). Le feu produisait également de la lumière.
+----------------------------
+l'un des quatre éléments fondamentaux, puisque l'on se rendit compte que la combustion produisait une lumière comparable au phénomène observé en provenance du Soleil ou des étoiles. La Terre était au
+----------------------------
+En 1670, Ole Christensen Rømer mesure indirectement la vitesse de la lumière en observant les décalages de l'orbite de Io par rapport aux prévisions. Plus tard en
+----------------------------
+1849, Hippolyte Fizeau mesure directement la vitesse de la lumière avec un faisceau réfléchi par une roue dentée réfléchissante.
+----------------------------
+Comportement ondulatoire de la lumière
+----------------------------
+En 1801, Thomas Young expérimente la diffraction et les interférences de la lumière, mais il faudra attendre près d'un siècle pour que James Clerk Maxwell explique ce phénomène
+----------------------------
+: il publie en 1873 un traité sur les ondes électromagnétiques, définissant la lumière comme une onde qui se propage sous la forme d'un rayonnement, le spectre de ce
+----------------------------
+Albert Einstein en 1905 pousse plus loin l'étude de l'effet photoélectrique et démontre que la lumière à un comportement corpusculaire. Il postule alors que la lumière est composée de photons.
+----------------------------
+La découverte de cette dualité onde-corpuscule de la lumière vaudra son Prix Nobel à Albert Einstein. C'est un des premiers pas de la science
+----------------------------
+La lumière, comme tout phénomène de déplacement, peut se concevoir comme une onde ou comme un flux
+----------------------------
+La vitesse de la lumière dans le vide, c (comme célérité), est une constante de la physique. C'est la vitesse
+----------------------------
+De ce fait, la vitesse de la lumière est exacte, car elle ne dépend pas d'une mesure (imprécise et susceptible de changement avec
+----------------------------
+des progrès de mesure). D'autres unités sont définies à partir de la vitesse de la lumière (cf. infra). Ainsi, la vitesse de la lumière dans le vide est de 299 792
+----------------------------
+à peu près vraie pour des vitesses faibles par rapport à la vitesse de la lumière.
+----------------------------
+À noter : la vitesse de la lumière n'est pas toujours la même dans tous les milieux et dans toutes les conditions. Par
+----------------------------
+faibles, ce qui a permis à beaucoup de gens de parler de vitesse de la lumière au lieu de vitesse de la lumière dans le vide. Cependant, dans certains cas, une
+----------------------------
+plupart des unités du système international sont définies à partir de la célérité de la lumière.
+----------------------------
+international de longueur. De nos jours, il est défini comme la distance parcourue par la lumière en 1/299 792 458 de seconde. Il s'agit là d'une définition conventionnelle, car toute évolution
+----------------------------
+On peut également dire que la vitesse de la lumière dans le vide est précisément 299 792 458 m·s-1 : il n'y a pas la
+----------------------------
+il est trop court et peu adapté (puisque les astronomes n'observent pratiquement que de la lumière). En effet, la Lune, l'astre le plus proche de nous, est à 380 000 000
+----------------------------
+décrit précédemment (distance = c x durée), on définit l'année-lumière comme la distance que la lumière parcourt en 1 an. Ainsi le Soleil n'est qu'à 8,32 minutes-lumière de nous ; et
+----------------------------
+lumière. L'année-lumière vaut environ 10 000 000 000 000 000 de mètres (10 millions de milliards
+----------------------------
+La lumière est constituée d'ondes électromagnétiques. De manière générale, une onde est caractérisée par sa longueur d'onde
+----------------------------
+et sa phase. La longueur d'onde correspond à la couleur de la lumière. Ainsi, une lumière constituée d'ondes de la même longueur d'onde, est dite monochromatique. Si en plus toutes les
+----------------------------
+ondes ont la même phase, alors la lumière est cohérente : c'est ce qui se passe dans un laser.
+----------------------------
+En matière de mesure de la lumière, il importe de bien définir de quoi on parle
+----------------------------
+La mesure de la lumière est compliquée par le fait qu'on s'intéresse, en pratique, à la lumière visible, alors que
+----------------------------
+Lumières célestes
+----------------------------
+depuis la terre. Dans les deux cas, ces corps sont lumineux par réflexion de la lumière du Soleil.
+----------------------------
+par la friction avec l'air et finissent par y brûler. Ce phénomène est source de lumière.
+----------------------------
+Lumières chimiques
+----------------------------
+organismes vivants:poissons, mollusques, lucioles et vers luisants, sont le siège de réactions chimiques productrices de lumières.
+----------------------------
+Les chauffages intenses, donc les combustions en général, le feu, les feux-follets, produisent de la lumière :
+----------------------------
+Lumières électriques
+----------------------------
+Les lumières électriques sont les sources les plus courantes de lumière aujourd'hui : lampadaires, spots, phares, lampes-torches, etc., elles peuvent utiliser un phénomène de chauffage ou
+----------------------------
+L'ampoule électrique (" lampe à incandescence ") a révolutionné la vie quotidienne. La source de lumière provient de l'incandescence d'un filament lumineux. Le tube fluorescent, la diode électroluminescente sont des lumières
+----------------------------
+Lumières quantiques
+----------------------------
+les plasmas tels que ceux produits par les éclairs dans les orages, produisent de la lumière issue de phénomènes quantiques au cœur des atomes : l'excitation des électrons ("pompage optique"), peut
+----------------------------
+lumière).
+----------------------------
+Autres lumières
+----------------------------
+La phosphorescence est une source naturelle de lumière, de faible intensité.
+----------------------------
+L'émission de lumière due au frottement, ou triboluminescence, n'est pas d'origine thermique et elle ne se produit qu'avec
+----------------------------
+Certains animaux et champignons sont capables de produire une lumière froide d'origine biochimique: en particulier des animaux nocturnes tels que différentes espèces de lucioles; ou
+----------------------------
+Symbolisme de la lumière
+----------------------------
+La lumière semble avoir fait l'objet d'une interprétation symbolique dès que les hommes se sont mis à
+----------------------------
+la philosophie de la Grèce antique, jusqu'à la théologie chrétienne de Dieu comme "lumière des lumières", l'illumination étant présente dans de nombreuses religions, on n'a eu de cesse que de lui
+----------------------------
+Descartes affirmait-il dans les Principes de la philosophie (1644), que l'on pouvait s'appuyer sur les lumières naturelles, sans les lumières de la foi, ce même Descartes s'étant intéressé de près à
+----------------------------
+L'expression " Lumières " pour désigner le courant philosophique européen (en particulier en France) qui a dérivé de
+----------------------------
+siècle pendant lequel cette représentation sociale s'est mise en place, communément appelé le siècle des Lumières, et que Michel Foucault analyse dans les mots et les choses (voir aussi épistémè).
+----------------------------
+dans le temps des cathédrales (1975), décrit également, sous l'angle artistique, la théologie de la Lumière, initiée à la basilique Saint-Denis au XIIe siècle, qui est à l'origine de l'architecture dite
+----------------------------
+Selon la théologie de la lumière, la lumière du ciel passe à travers les vitraux, où sont représentés des scènes de l'Ancien Testament
+----------------------------
+5🔦 Einstein avait-il tort ? Une expérience sur la vitesse de la lumière livre ses résultats
+----------------------------

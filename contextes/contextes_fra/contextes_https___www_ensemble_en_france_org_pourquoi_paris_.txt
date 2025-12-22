@@ -1,0 +1,22 @@
+Pourquoi Paris est-elle la     « Ville Lumière » ? - Ensemble en France
+----------------------------
+{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#article","isPartOf":{"@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/"},"author":{"name":"Brigitte Martinez","@id":"https://www.ensemble-en-france.org/#/schema/person/dbd0485c90d97a3b44d83f3cbf690b9d"},"headline":"Pourquoi Paris est-elle la « Ville Lumière » ?","datePublished":"2021-01-21T15:20:40+00:00","dateModified":"2021-01-21T15:35:46+00:00","mainEntityOfPage":{"@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/"},"wordCount":431,"publisher":{"@id":"https://www.ensemble-en-france.org/#organization"},"image":{"@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#primaryimage"},"thumbnailUrl":"https://www.ensemble-en-france.org/wp-content/uploads/2021/01/710x400fee.electricet.jpg","articleSection":["Ça vous parait bizarre ?"],"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/","url":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/","name":"Pourquoi Paris est-elle la « Ville Lumière » ? -
+----------------------------
+Ensemble en France","isPartOf":{"@id":"https://www.ensemble-en-france.org/#website"},"primaryImageOfPage":{"@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#primaryimage"},"image":{"@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#primaryimage"},"thumbnailUrl":"https://www.ensemble-en-france.org/wp-content/uploads/2021/01/710x400fee.electricet.jpg","datePublished":"2021-01-21T15:20:40+00:00","dateModified":"2021-01-21T15:35:46+00:00","description":"Le surnom de \"Ville Lumière\" vient - il de la philosophie des Lumières ? un Blog, un MOOC, du FLE pour découvrir la France, ses valeurs, son histoire...","breadcrumb":{"@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#primaryimage","url":"https://www.ensemble-en-france.org/wp-content/uploads/2021/01/710x400fee.electricet.jpg","contentUrl":"https://www.ensemble-en-france.org/wp-content/uploads/2021/01/710x400fee.electricet.jpg","width":710,"height":400,"caption":"paris
+----------------------------
+lumière fee electricite"},{"@type":"BreadcrumbList","@id":"https://www.ensemble-en-france.org/pourquoi-paris-est-elle-la-ville-lumiere/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.ensemble-en-france.org/"},{"@type":"ListItem","position":2,"name":"Pourquoi Paris est-elle la « Ville Lumière » ?"}]},{"@type":"WebSite","@id":"https://www.ensemble-en-france.org/#website","url":"https://www.ensemble-en-france.org/","name":"Ensemble en France : blog et parcours pédagogique pour comprendre la France","description":"Découvrir la France,
+----------------------------
+lumiere\/"};
+----------------------------
+Pourquoi Paris est-elle la         « Ville Lumière » ?
+----------------------------
+Paris Ville Lumière tient-elle ce surnom de la philosophie des Lumières qui souffla sur l’Europe au XVIIIe siècle&nbsp;? Beaucoup pourraient le croire. Et bien ils auraient
+----------------------------
+tort&nbsp;! L’explication est moins poétique&nbsp;: la Lumière de la ville capitale vient des réverbères, pas (seulement) des esprits&nbsp;! Même si, d’une certaine
+----------------------------
+1889, et notamment celles de la tour Eiffel, qui confirmeront la réputation de Paris Ville Lumière.
+----------------------------
+Si vous connaissiez Paris, Ville Lumière, saviez-vous que Lyon était la Ville des  Lumières&nbsp;? Chaque 8 décembre, Lyon fait revivre une tradition religieuse et populaire. Ses illuminations attirent des
+----------------------------
+La Ville lumière est l’un des surnoms les plus connus de la capitale.  «&nbsp;Paname&nbsp;» en est un autre,
+----------------------------

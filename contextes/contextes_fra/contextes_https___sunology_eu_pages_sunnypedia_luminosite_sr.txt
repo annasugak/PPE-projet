@@ -1,0 +1,14 @@
+La quantité de lumière perçue par un observateur humain. La luminance est l'intensité lumineuse d'une source lumineuse dans une
+----------------------------
+L'œil humain étant très adaptable, nous sommes très mauvais pour juger des niveaux absolus de lumière.‍
+----------------------------
+sembler beaucoup moins lumineux, mais les panneaux solaires peuvent encore capter une quantité significative de lumière diffuse, générant ainsi de l&#39;électricité. Cela peut conduire les utilisateurs à sous-estimer la performance de
+----------------------------
+panneaux solaires peuvent être orientés et inclinés de manière à maximiser leur exposition à la lumière directe du soleil, ce qui est essentiel pour optimiser leur performance. De plus, les technologies
+----------------------------
+ajustent l&#39;orientation des panneaux tout au long de la journée pour capter le maximum de lumière, y compris dans des conditions de luminosité variable. Ces stratégies permettent d&#39;améliorer le rendement des
+----------------------------
+"description": "La quantité de lumière perçue par un observateur humain. La luminance est l'intensité lumineuse d'une source lumineuse dans une
+----------------------------
+L'œil humain étant très adaptable, nous sommes très mauvais pour juger des niveaux absolus de lumière.‍",
+----------------------------

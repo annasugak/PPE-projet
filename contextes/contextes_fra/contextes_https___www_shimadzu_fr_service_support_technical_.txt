@@ -1,0 +1,82 @@
+Qu&#039;est-ce que la lumière ? : Shimadzu (France)
+----------------------------
+Qu'est-ce que la lumière ?
+----------------------------
+La question de savoir si la lumière est une onde ou une particule a été, au cours de l'histoire, le sujet de
+----------------------------
+que diverses théories ont été développées à partir de l'affirmation de Newton selon laquelle la lumière est une particule et de l'affirmation de Huygens selon laquelle la lumière est une onde.
+----------------------------
+En physique moderne, il est maintenant reconnu que, bien que la lumière ait une nature ondulatoire, elle possède également des propriétés semblables à celles des particules. Dans
+----------------------------
+cet article, nous allons décrire la dualité de la lumière et la relation entre la matière et l'absorbance de la lumière.
+----------------------------
+1. La Dualité de la Lumière
+----------------------------
+(1) Propriétés Ondulatoires de la Lumière
+----------------------------
+Bien que la lumière soit généralement considérée comme une onde, contrairement aux vagues qui se produisent à la surface
+----------------------------
+corps d'eau, elle ne nécessite pas de milieu. Comme montré dans la Fig. 1, la lumière est composée d'un champ électrique et d'un champ magnétique qui s'intersectent à angle droit en
+----------------------------
+Lorsqu'on manipule la lumière, on rencontre des phénomènes qui sont propres aux ondes, tels que l'interférence et la diffraction.
+----------------------------
+L'expérience dans laquelle Young a découvert l'interférence de la lumière et a conclu que la lumière était une onde est bien connue. Comme montré dans la Fig. 2, la lumière monochromatique
+----------------------------
+la même manière. En ce sens, l'expérience de Young démontre la nature ondulatoire de la lumière de manière intuitive. Incidemment, le réseau de diffraction utilisé dans un spectrophotomètre UV-VIS crée de
+----------------------------
+la lumière monochromatique en utilisant la nature ondulatoire de la lumière qui se diffracte et provoque l'interférence.
+----------------------------
+La lumière est composée de certains types d'ondes électromagnétiques.
+----------------------------
+lumière" fait généralement référence aux ondes électromagnétiques dans la plage couvrant le rayonnement infrarouge et le
+----------------------------
+rayonnement ultraviolet, mais dans certains cas, elle ne fait référence qu'à la lumière visible. La lumière avec des longueurs d'onde dans une plage d'environ 400 à 800 nm est appelée "lumière
+----------------------------
+visible", et c'est la lumière que nous, humains, pouvons voir à l'œil nu.
+----------------------------
+Par exemple, la lumière avec une longueur d'onde de 470 nm est bleue, la lumière avec une longueur d'onde de 540 nm est verte, et la lumière avec une longueur
+----------------------------
+d'onde de 650 nm est rouge. La lumière visible pourrait être décrite comme le type de lumière dont nous, humains, sommes familiers en
+----------------------------
+Fig. 3 Classification de la Lumière Selon la Longueur d'Onde
+----------------------------
+(2) Propriétés de Particule de la Lumière
+----------------------------
+Ensuite, examinons le comportement de type particule de la lumière. Parmi les développements qui ont aidé à identifier ce comportement, il y a une série
+----------------------------
+Les résultats de ces expériences ne pouvaient pas être expliqués en considérant la lumière comme une onde, mais ils pouvaient être expliqués en la considérant comme une particule. Lorsqu'on
+----------------------------
+met l'accent sur les aspects de type particule de la lumière, le terme "photon" est utilisé.
+----------------------------
+l'effet photoélectrique, un phénomène dans lequel des électrons sont émis d'une surface métallique lorsque la lumière la frappe. Les électrons émis sont appelés "photoélectrons". Même si aucun électron n'est émis lorsque
+----------------------------
+la lumière intense frappe la surface, des électrons sont émis lorsque de la lumière de longueur d'onde plus courte frappe la surface. Si la longueur d'onde de la lumière
+----------------------------
+diminuée, le nombre d'électrons émis ne change pas, mais l'énergie des électrons augmente. Si la lumière frappant la surface est intensifiée, le nombre d'électrons émis augmente, mais l'énergie des électrons reste
+----------------------------
+la même. Ces phénomènes ne peuvent pas être expliqués en considérant la lumière comme une onde, mais ils peuvent l'être en la considérant comme une particule, les électrons
+----------------------------
+été reconnues. Incidemment, le tube photomultiplicateur utilisé comme détecteur dans les spectrophotomètres UV-VIS détecte la lumière en utilisant l'effet photoélectrique.
+----------------------------
+Nous avons examiné la dualité de la lumière, avec son mélange de propriétés ondulatoires et de propriétés de particule. Le fait que la
+----------------------------
+lumière ait ces deux caractéristiques opposées peut sembler étrange, mais c'est ainsi que la lumière est modélisée en physique moderne.
+----------------------------
+2. Absorption de la Lumière par la Matière
+----------------------------
+Une grande variété d'informations sur une substance peut être obtenue en l'irradiant avec de la lumière. Avec un spectrophotomètre UV-VIS, l'irradiation d'une substance avec de la lumière ultraviolette et visible permet
+----------------------------
+Considérons l'absorption de la lumière par la matière. Cela est étroitement lié à la mécanique quantique. La théorie de la
+----------------------------
+Pour qu'un électron passe de E0 à E1, la lumière avec une énergie de (E1 - E0) doit frapper l'électron. C'est ce qu'on appelle "l'absorption"
+----------------------------
+de la lumière. Les électrons ont des niveaux d'énergie particuliers, et les rayons de lumière ultraviolette et visible ont l'énergie nécessaire pour changer les états d'énergie des électrons.
+----------------------------
+une raison quelconque, elle n'est pas convertie en chaleur, l'énergie est libérée sous forme de lumière. Le phénomène d'émission de lumière est bien connu sous le nom de fluorescence ou phosphorescence.
+----------------------------
+les carottes qui leur donne leur couleur. Comme montré dans la Fig. 6, principalement la lumière bleue et violette avec des longueurs d'onde dans la plage de 400 à 500 nm
+----------------------------
+est absorbée. Parce que la lumière visible qui atteint l'œil de l'observateur est composée d'un mélange des composants verts et rouges
+----------------------------
+Dans cet article, nous avons examiné les propriétés de la lumière et la façon dont elle est absorbée, deux aspects fondamentaux du fonctionnement d'un spectrophotomètre UV-VIS.
+----------------------------

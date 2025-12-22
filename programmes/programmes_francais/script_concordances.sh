@@ -1,0 +1,49 @@
+#!/bin/bash
+
+DOSSIER_SOURCE="/Users/houssaynatou/Documents/M1-TAL/projet de programmation encadré/PPE1-2025/PPE-projet/dumps-txt/dumps-txt-fra"
+DOSSIER_CIBLE="/Users/houssaynatou/Documents/M1-TAL/projet de programmation encadré/PPE1-2025/PPE-projet/concordances/concordances_fra"
+
+# Mot à chercher (exemple : lumière)
+MOTIF="[Ll]umi[eè]re"
+
+mkdir -p "$DOSSIER_CIBLE"
+
+for fichier_txt in "$DOSSIER_SOURCE"/*.txt; do
+    [ -e "$fichier_txt" ] || continue
+
+    nom_base=$(basename "$fichier_txt" .txt)
+    fichier_html="$DOSSIER_CIBLE/concordance_${nom_base}.html"
+
+    echo "<!DOCTYPE html>
+<html lang=\"fr\">
+<head>
+    <meta charset=\"utf-8\" />
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+    <title>Concordance - $nom_base</title>
+</head>
+<body>
+<section class=\"section\">
+<div class=\"container\">
+<h1 class=\"title\">Concordance : $nom_base</h1>
+<table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">
+<thead>
+<tr>
+    <th class=\"has-text-right\">Contexte gauche</th>
+    <th class=\"has-text-centered\">Cible</th>
+    <th class=\"has-text-left\">Contexte droit</th>
+</tr>
+</thead>
+<tbody>" > "$fichier_html"
+
+    grep -Eoi ".{0,80}$MOTIF.{0,80}" "$fichier_txt" | while read -r line; do
+        echo "$line" | perl -C -pe "use utf8; s/^(.*?)($MOTIF)(.*)$/<tr><td class=\"has-text-right\">\$1<\/td><td class=\"has-text-danger has-text-centered\">\$2<\/td><td class=\"has-text-left\">\$3<\/td><\/tr>/" >> "$fichier_html"
+    done
+
+    echo "</tbody>
+</table>
+</div>
+</section>
+</body>
+</html>" >> "$fichier_html"
+done
