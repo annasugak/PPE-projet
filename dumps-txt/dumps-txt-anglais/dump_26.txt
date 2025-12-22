@@ -1,0 +1,493 @@
+   This page has been archived and is no longer updated
+
+
+   [conceptFlag.gif]
+   [1]Aa [2]Aa [3]Aa
+
+Photosynthetic Cells
+
+
+
+   Cells get nutrients from their environment, but where do those
+   nutrients come from? Virtually all organic material on Earth has been
+   produced by cells that convert energy from the Sun into
+   energy-containing macromolecules. This process, called photosynthesis,
+   is essential to the global carbon cycle and organisms that conduct
+   photosynthesis represent the lowest level in most food chains (Figure
+   1).
+
+   Ten photographs provide examples of diverse photosynthetic plant
+   morphologies. Some plants pictured are simple and small, and were
+   photographed using a microscope. Others are macroscopic and have
+   elaborate reproductive structures or leaves.
+   Figure 1: Photosynthetic plants synthesize carbon-based energy
+   molecules from the energy in sunlight. Consequently, they provide an
+   abundance of energy for other organisms.
+   Plants exist in a wide variety of shapes and sizes. (A) Coleochaete
+   orbicularis (Charophyceae) gametophyte; magnification x 75 (photograph
+   courtesy of L. E. Graham). (B) Chara (Charophyceae) gametophyte;
+   magnification x 1.5 (photograph courtesy of M. Feist). (C) Riccia
+   (liverwort) gametophyte showing sporangia (black) embedded in the
+   thallus; magnification x 5 (photograph courtesy of A. N. Drinnan). (D)
+   Anthoceros (hornwort) gametophyte showing unbranched sporophytes;
+   magnification x 2.5 (photograph courtesy of A. N. Drinnan). (E) Mnium
+   (moss) gametophyte showing unbranched sporophytes with terminal
+   sporangia (capsule); magnification x 4.5 (photograph courtesy of W.
+   Burger). (F) Huperzia (clubmoss) sporophyte with leaves showing sessile
+   yellow sporangia; magnification x 0.8. (G) Dicranopteris (fern)
+   sporophyte showing leaves with circinate vernation; magnification x
+   0.08. (H) Psilotum (whisk fern) sporophyte with reduced leaves and
+   spherical synangia (three fused sporangia); magnification x 0.4. (I)
+   Equisetum (horsetail) sporophyte with whorled branches, reduced leaves,
+   and a terminal cone; magnification x 0.4. (J) Cycas (seed plant)
+   sporophyte showing leaves and terminal cone with seeds; magnification x
+   0.05 (photograph courtesy of W. Burger).
+   © 1993 [4]Elsevier Part A: Graham, L. E. Origin of land plants. New
+   York: J. Wiley and Sons, 1993. All rights reserved. Part B: courtesy of
+   M. Feist, University of Montpellier. Parts C and D: courtesy of Andrew
+   Drinnan, Univeristy of Melbourne, School of Botany. Parts E, F and J:
+   Courtesy of William Burger, Field Museum, Chicago. [5]View Terms of Use
+   [6]Figure Detail
+
+What Is Photosynthesis? Why Is it Important?
+
+   Most living things depend on photosynthetic cells to manufacture the
+   complex organic molecules they require as a source of energy.
+   Photosynthetic cells are quite diverse and include cells found in green
+   plants, phytoplankton, and cyanobacteria. During the process of
+   photosynthesis, cells use carbon dioxide and energy from the Sun to
+   make sugar molecules and oxygen. These sugar molecules are the basis
+   for more complex molecules made by the photosynthetic cell, such as
+   glucose. Then, via respiration processes, cells use oxygen and glucose
+   to synthesize energy-rich carrier molecules, such as ATP, and carbon
+   dioxide is produced as a waste product. Therefore, the synthesis of
+   glucose and its breakdown by cells are opposing processes.
+
+   [7]A diagram shows the interactions between plant, soil, river, and
+   ocean systems during the carbon cycle. Arrows are used to represent
+   storage or flow of inorganic carbon and organic carbon, or to give
+   directionality to photosynthesis or decomposition processes between
+   land plants, soil, aquatic systems, and the Earth's atmosphere.
+   [8]View Full-Size Image
+   [9]Figure 2
+   [10]Figure Detail
+   The building and breaking of carbon-based material — from carbon
+   dioxide to complex organic molecules (photosynthesis) then back to
+   carbon dioxide (respiration) — is part of what is commonly called the
+   global carbon cycle. Indeed, the fossil fuels we use to power our world
+   today are the ancient remains of once-living organisms, and they
+   provide a dramatic example of this cycle at work. The carbon cycle
+   would not be possible without photosynthesis, because this process
+   accounts for the "building" portion of the cycle (Figure 2).
+
+   However, photosynthesis doesn't just drive the carbon cycle — it also
+   creates the oxygen necessary for respiring organisms. Interestingly,
+   although green plants contribute much of the oxygen in the air we
+   breathe, phytoplankton and cyanobacteria in the world's oceans are
+   thought to produce between one-third and one-half of atmospheric oxygen
+   on Earth.
+
+What Cells and Organelles Are Involved in Photosynthesis?
+
+   An illustration of a chloroplast shows its primary structural features.
+   A section of the organelle is cut away to provide a window into its
+   interior structures. The outermost, translucent membrane is labeled the
+   outer membrane. An interior membrane, visible where the organelle has
+   been cut away, is labeled the inner membrane. Inside the organelle,
+   thirteen interconnected stacks of green discs are labeled thylakoid,
+   and the empty interior space is labeled stroma.
+   Figure 3: Structure of a chloroplast
+   © 2010 [11]Nature Education All rights reserved. [12]View Terms of Use
+   Photosynthetic cells contain special pigments that absorb light energy.
+   Different pigments respond to different wavelengths of visible light.
+   Chlorophyll, the primary pigment used in photosynthesis, reflects green
+   light and absorbs red and blue light most strongly. In plants,
+   photosynthesis takes place in chloroplasts, which contain the
+   chlorophyll. Chloroplasts are surrounded by a double membrane and
+   contain a third inner membrane, called the thylakoid membrane, that
+   forms long folds within the organelle. In electron micrographs,
+   thylakoid membranes look like stacks of coins, although the
+   compartments they form are connected like a maze of chambers. The green
+   pigment chlorophyll is located within the thylakoid membrane, and the
+   space between the thylakoid and the chloroplast membranes is called the
+   stroma (Figure 3, Figure 4).
+
+   Chlorophyll A is the major pigment used in photosynthesis, but there
+   are several types of chlorophyll and numerous other pigments that
+   respond to light, including red, brown, and blue pigments. These other
+   pigments may help channel light energy to chlorophyll A or protect the
+   cell from photo-damage. For example, the photosynthetic protists called
+   dinoflagellates, which are responsible for the "red tides" that often
+   prompt warnings against eating shellfish, contain a variety of
+   light-sensitive pigments, including both chlorophyll and the red
+   pigments responsible for their dramatic coloration.
+
+   Photomicrographs of chloroplasts with structures labeled are shown
+   alongside a simplified illustration of a photosynthetic cell with a
+   prominent chloroplast. A portion of the chloroplast illustration is
+   depicted enlarged next to the cell to show the structure of a granum,
+   which consists of stacked thylakoids.
+   Figure 4: Diagram of a chloroplast inside a cell, showing thylakoid
+   stacks
+   Shown here is a chloroplast inside a cell, with the outer membrane (OE)
+   and inner membrane (IE) labeled. Other features of the cell include the
+   nucleus (N), mitochondrion (M), and plasma membrane (PM). At right and
+   below are microscopic images of thylakoid stacks called grana. Note the
+   relationship between the granal and stromal membranes.
+   © 2004 [13]Nature Publishing Group Soll, J. & Schleiff, E. Protein
+   import into chloroplasts. Nature Reviews Molecular Cell Biology 5,
+   198-208 (2004) doi:10.1038/nrm1333. All rights reserved. [14]View Terms
+   of Use
+   [15]Figure Detail
+
+What Are the Steps of Photosynthesis?
+
+   Photosynthesis consists of both light-dependent reactions and
+   light-independent reactions. In plants, the so-called "light" reactions
+   occur within the chloroplast thylakoids, where the aforementioned
+   chlorophyll pigments reside. When light energy reaches the pigment
+   molecules, it energizes the electrons within them, and these electrons
+   are shunted to an electron transport chain in the thylakoid membrane.
+   Every step in the electron transport chain then brings each electron to
+   a lower energy state and harnesses its energy by producing ATP and
+   NADPH. Meanwhile, each chlorophyll molecule replaces its lost electron
+   with an electron from water; this process essentially splits water
+   molecules to produce oxygen (Figure 5).
+
+   An illustration shows the light and dark reactions for photosynthesis
+   drawn on top of a simplified image of a chloroplast, represented as an
+   oviform capsule. Inside the capsule are five stacks of three or four
+   flat, green thylakoid discs. The discs look like stacked quarters. Two
+   thylakoid stacks have been cut away so that their interiors, which are
+   hollow, are visible.
+   Figure 5: The light and dark reactions in the chloroplast
+   The chloroplast is involved in both stages of photosynthesis. The light
+   reactions take place in the thylakoid. There, water (H[2]O) is
+   oxidized, and oxygen (O[2]) is released. The electrons that freed from
+   the water are transferred to ATP and NADPH. The dark reactions then
+   occur outside the thylakoid. In these reactions, the energy from ATP
+   and NADPH is used to fix carbon dioxide (CO[2]). The products of this
+   reaction are sugar molecules and various other organic molecules
+   necessary for cell function and metabolism. Note that the dark reaction
+   takes place in the stroma (the aqueous fluid surrounding the stacks of
+   thylakoids) and in the cytoplasm.
+   © 2010 [16]Nature Education All rights reserved. [17]View Terms of Use
+   [18]Figure Detail
+
+   Once the light reactions have occurred, the light-independent or "dark"
+   reactions take place in the chloroplast stroma. During this process,
+   also known as carbon fixation, energy from the ATP and NADPH molecules
+   generated by the light reactions drives a chemical pathway that uses
+   the carbon in carbon dioxide (from the atmosphere) to build a
+   three-carbon sugar called glyceraldehyde-3-phosphate (G3P). Cells then
+   use G3P to build a wide variety of other sugars (such as glucose) and
+   organic molecules. Many of these interconversions occur outside the
+   chloroplast, following the transport of G3P from the stroma. The
+   products of these reactions are then transported to other parts of the
+   cell, including the mitochondria, where they are broken down to make
+   more energy carrier molecules to satisfy the metabolic demands of the
+   cell. In plants, some sugar molecules are stored as sucrose or starch.
+
+Conclusion
+
+   Photosynthetic cells contain chlorophyll and other light-sensitive
+   pigments that capture solar energy. In the presence of carbon dioxide,
+   such cells are able to convert this solar energy into energy-rich
+   organic molecules, such as glucose. These cells not only drive the
+   global carbon cycle, but they also produce much of the oxygen present
+   in atmosphere of the Earth. Essentially, nonphotosynthetic cells use
+   the products of photosynthesis to do the opposite of photosynthesis:
+   break down glucose and release carbon dioxide.
+
+   eBooks
+
+   This page appears in the following eBook
+   [19]Essentials of Cell Biology, Unit 1.4
+   [20]Cell Biology for Seminars, Unit 1.4
+
+Topic rooms within Cell Biology
+
+   [21]Close
+   No topic rooms are there.
+   Updates
+   [ajaxLoader.gif] Loading ...
+   Topic Rooms
+
+   Within this Subject (25)
+     * [22]Basic (25)
+
+   Or  [23]Browse Visually
+
+   Other Topic Rooms
+   [24]Genetics
+     * [25]Gene Inheritance and Transmission
+     * [26]Gene Expression and Regulation
+     * [27]Nucleic Acid Structure and Function
+     * [28]Chromosomes and Cytogenetics
+     * [29]Evolutionary Genetics
+     * [30]Population and Quantitative Genetics
+     * [31]Genomics
+     * [32]Genes and Disease
+     * [33]Genetics and Society
+
+   [34]Cell Biology
+     * [35]Cell Origins and Metabolism
+     * [36]Proteins and Gene Expression
+     * [37]Subcellular Compartments
+     * [38]Cell Communication
+     * [39]Cell Cycle and Cell Division
+
+   [40]Scientific Communication
+
+   [41]Career Planning
+   Updates
+       [ajaxLoader.gif] Loading ...
+       Connect
+       [42]Connect
+       Blogs
+          + [43]Student Voices
+            [44]Student Voices
+          + [45]Creature Cast
+            [46]Creature Cast
+          + [47]NatureEdCast
+            [48]NatureEdCast
+          + [49]Simply Science
+            [50]Simply Science
+          + [51]Green Screen
+            [52]Green Screen
+          + [53]ConferenceCast
+            [54]ConferenceCast
+          + [55]Green Science
+            [56]Green Science
+          + [57]Bio 2.0
+            [58]Bio 2.0
+          + [59]Viruses101
+            [60]Viruses101
+          + [61]ScholarCast
+            [62]ScholarCast
+          + [63]The Success Code
+            [64]The Success Code
+          + [65]Why Science Matters
+            [66]Why Science Matters
+          + [67]Earthbound
+            [68]Earthbound
+          + [69]The Beyond
+            [70]The Beyond
+          + [71]Plant ChemCast
+            [72]Plant ChemCast
+          + [73]Pop
+            [74]Pop
+          + [75]SciBytes
+            [76]SciBytes
+          + [77]Postcards from the Universe
+            [78]Postcards from the Universe
+          + [79]Brain Metrics
+            [80]Brain Metrics
+          + [81]Mind Read
+            [82]Mind Read
+          + [83]Eyes on Environment
+            [84]Eyes on Environment
+          + [85]Accumulating Glitches
+            [86]Accumulating Glitches
+          + [87]Saltwater Science
+            [88]Saltwater Science
+          + [89]Microbe Matters
+            [90]Microbe Matters
+       [91]« [92]Prev « Prev [93]Next [94]» Next »
+       Events
+       LearnCast
+       You have authorized LearnCasting of your reading list in Scitable.
+       Do you want to LearnCast this session?
+       [95]Yes
+       [96]No
+       This article has been posted to your Facebook page via Scitable
+       LearnCast.
+       [97]Close
+
+       [98]Change LearnCast Settings
+       © 2014 Nature Education
+          + [99]About|
+          + [100]Contact|
+          + [101]Press Room|
+          + [102]Sponsors|
+          + [103]Terms of Use|
+          + [104]Privacy Notice|
+          + [105]Glossary|
+          + [106]Catalog|
+          + [107]Home|
+          + [108]Library|
+          + [109]Blogs
+       Scitable Chat
+          + Minimize
+          + Restore
+          + close
+         ______________________________________________________________
+
+
+       ____________________________________________________________
+       [110]Send
+       Resize
+       [111]Scitable by Nature Education
+
+
+
+          + [112]Home
+          +
+          + [113]Library
+          +
+          + [114]Blogs
+          +
+          + [115]NATUREJOBS
+          +
+          + [116]Search Scitable
+          + _________________
+          + [117]Register
+          + |
+          + [118]Sign In
+         ______________________________________________________________
+
+       Cell Biology
+       [pointedge.gif]
+
+Visual Browse
+       [119]Close
+
+References
+
+   Visible links:
+   1. javascript:resizeFontScitable('fontSize11')
+   2. javascript:resizeFontScitable('fontSize15')
+   3. javascript:resizeFontScitable('fontSize20')
+   4. http://www.elsevier.com/
+   5. javascript:show_inform("Terms of Use", "Nature Education has been granted permission to this material in Scitable but is not authorized to sublicense you to use this material outside of Scitable except for the following two circumstances.  You may reproduce this material, without modifications, in print form for your personal, non-commercial use or in print form for non-commercial use in an educational environment.  To obtain permission for usage beyond these cases, please contact the original publisher.");
+   6. javascript:void(0)
+   7. javascript:dispOrigImg("/scitable/content/ne0000/ne0000/ne0000/ne0000/14667852/U1.cp4.2_436469a-f1.2.jpg", "The carbon cycle", "true", "Figure 2", "(A) Photosynthesis in land plants fixes atmospheric CO2 (inorganic carbon) as organic carbon, which is either stored as plant biomass, stored in soil, or decomposed back to CO2 through plant and soil respiration. This CO2 can return to the atmosphere or enter rivers; alternatively, it can react with soil minerals to form inorganic dissolved carbonates that remain stored in soils or are exported to rivers. (B) The transformations of organic to inorganic carbon through decomposition and photosynthesis continue in rivers; here, CO2 will re-exchange with the atmosphere (degassing) or be converted to dissolved carbonates. These carbonates do not exchange with the atmosphere and are mainly exported to the coastal ocean. Organic carbon is also exported to the ocean or stored in flood plains. (C) In the coastal ocean, photosynthesis, decomposition, and re-exchanging of CO2 with the atmosphere still continue. Solid organic carbon (e.g., soil particles, phytoplankton cells) is buried in coastal sediments, where it is stored or decomposes to inorganic carbon and diffuses back into coastal waters. Dissolved inorganic and organic carbon are also exported to the open ocean, and possibly deep-ocean waters, where they are stored for many centuries.", "true", "All rights reserved.", '900', '915', 'http://www.nature.com');
+   8. javascript:dispOrigImg("/scitable/content/ne0000/ne0000/ne0000/ne0000/14667852/U1.cp4.2_436469a-f1.2.jpg","Thecarboncycle","true","Figure2","(A)PhotosynthesisinlandplantsfixesatmosphericCO2(inorganiccarbon)asorganiccarbon,whichiseitherstoredasplantbiomass,storedinsoil,ordecomposedbacktoCO2throughplantandsoilrespiration.ThisCO2canreturntotheatmosphereorenterrivers;alternatively,itcanreactwithsoilmineralstoforminorganicdissolvedcarbonatesthatremainstoredinsoilsorareexportedtorivers.(B)Thetransformationsoforganictoinorganiccarbonthroughdecompositionandphotosynthesiscontinueinrivers;here,CO2willre-exchangewiththeatmosphere(degassing)orbeconvertedtodissolvedcarbonates.Thesecarbonatesdonotexchangewiththeatmosphereandaremainlyexportedtothecoastalocean.Organiccarbonisalsoexportedtotheoceanorstoredinfloodplains.(C)Inthecoastalocean,photosynthesis,decomposition,andre-exchangingofCO2withtheatmospherestillcontinue.Solidorganiccarbon(e.g.,soilparticles,phytoplanktoncells)isburiedincoastalsediments,whereitisstoredordecomposestoinorganiccarbonanddiffusesbackintocoastalwaters.Dissolvedinorganicandorganiccarbonarealsoexportedtotheopenocean,andpossiblydeep-oceanwaters,wheretheyarestoredformanycenturies.","true","Allrightsreserved.",'900','915','http://www.nature.com');
+   9. javascript:dispOrigImg("/scitable/content/ne0000/ne0000/ne0000/ne0000/14667852/U1.cp4.2_436469a-f1.2.jpg","Thecarboncycle","true","Figure2","(A)PhotosynthesisinlandplantsfixesatmosphericCO2(inorganiccarbon)asorganiccarbon,whichiseitherstoredasplantbiomass,storedinsoil,ordecomposedbacktoCO2throughplantandsoilrespiration.ThisCO2canreturntotheatmosphereorenterrivers;alternatively,itcanreactwithsoilmineralstoforminorganicdissolvedcarbonatesthatremainstoredinsoilsorareexportedtorivers.(B)Thetransformationsoforganictoinorganiccarbonthroughdecompositionandphotosynthesiscontinueinrivers;here,CO2willre-exchangewiththeatmosphere(degassing)orbeconvertedtodissolvedcarbonates.Thesecarbonatesdonotexchangewiththeatmosphereandaremainlyexportedtothecoastalocean.Organiccarbonisalsoexportedtotheoceanorstoredinfloodplains.(C)Inthecoastalocean,photosynthesis,decomposition,andre-exchangingofCO2withtheatmospherestillcontinue.Solidorganiccarbon(e.g.,soilparticles,phytoplanktoncells)isburiedincoastalsediments,whereitisstoredordecomposestoinorganiccarbonanddiffusesbackintocoastalwaters.Dissolvedinorganicandorganiccarbonarealsoexportedtotheopenocean,andpossiblydeep-oceanwaters,wheretheyarestoredformanycenturies.","true","Allrightsreserved.",'900','915','http://www.nature.com');
+  10. javascript:void(0)
+  11. http://www.nature.com/nature_education
+  12. javascript:show_inform("Terms of Use", "You may reproduce this material, without modifications, in print or electronic form for your personal, non-commercial purposes or for non-commercial use in an educational environment.");
+  13. http://www.nature.com/
+  14. javascript:show_inform("Terms of Use", "Nature Education has been granted permission to this material in Scitable but is not authorized to sublicense you to use this material outside of Scitable except for the following two circumstances.  You may reproduce this material, without modifications, in print form for your personal, non-commercial use or in print form for non-commercial use in an educational environment.  To obtain permission for usage beyond these cases, please contact the original publisher.");
+  15. javascript:void(0)
+  16. http://www.nature.com/nature_education
+  17. javascript:show_inform("Terms of Use", "You may reproduce this material, without modifications, in print or electronic form for your personal, non-commercial purposes or for non-commercial use in an educational environment.");
+  18. javascript:void(0)
+  19. javascript:markReadProgressBar('essentials-of-cell-biology-14749010','122996720');
+  20. javascript:markReadProgressBar('cell-biology-for-seminars-14760004','122995259');
+  21. javascript:hideLearnMoreLB()
+  22. https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/
+  23. https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/
+  24. https://www.nature.com/scitable/topic/genetics-5
+  25. https://www.nature.com/scitable/topic/gene-inheritance-and-transmission-23
+  26. https://www.nature.com/scitable/topic/gene-expression-and-regulation-15
+  27. https://www.nature.com/scitable/topic/nucleic-acid-structure-and-function-9
+  28. https://www.nature.com/scitable/topic/chromosomes-and-cytogenetics-7
+  29. https://www.nature.com/scitable/topic/evolutionary-genetics-13
+  30. https://www.nature.com/scitable/topic/population-and-quantitative-genetics-21
+  31. https://www.nature.com/scitable/topic/genomics-19
+  32. https://www.nature.com/scitable/topic/genes-and-disease-17
+  33. https://www.nature.com/scitable/topic/genetics-and-society-11
+  34. https://www.nature.com/scitable/topic/cell-biology-13906536
+  35. https://www.nature.com/scitable/topic/cell-origins-and-metabolism-14122694
+  36. https://www.nature.com/scitable/topic/proteins-and-gene-expression-14122688
+  37. https://www.nature.com/scitable/topic/subcellular-compartments-14122679
+  38. https://www.nature.com/scitable/topic/cell-communication-14122659
+  39. https://www.nature.com/scitable/topic/cell-cycle-and-cell-division-14122649
+  40. https://www.nature.com/scitable/topic/scientific-communication-14121566
+  41. https://www.nature.com/scitable/topic/career-planning-14121550
+  42. LYNXIMGMAP:https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/#leftRailConnect
+  43. http://www.nature.com/scitable/blog/student-voices
+  44. http://www.nature.com/scitable/blog/student-voices
+  45. http://www.nature.com/scitable/blog/creature-cast
+  46. http://www.nature.com/scitable/blog/creature-cast
+  47. http://www.nature.com/scitable/blog/natureedcast
+  48. http://www.nature.com/scitable/blog/natureedcast
+  49. http://www.nature.com/scitable/blog/simply-science
+  50. http://www.nature.com/scitable/blog/simply-science
+  51. http://www.nature.com/scitable/blog/green-screen
+  52. http://www.nature.com/scitable/blog/green-screen
+  53. http://www.nature.com/scitable/blog/conferencecast
+  54. http://www.nature.com/scitable/blog/conferencecast
+  55. http://www.nature.com/scitable/blog/green-science
+  56. http://www.nature.com/scitable/blog/green-science
+  57. http://www.nature.com/scitable/blog/bio2.0
+  58. http://www.nature.com/scitable/blog/bio2.0
+  59. http://www.nature.com/scitable/blog/viruses101
+  60. http://www.nature.com/scitable/blog/viruses101
+  61. http://www.nature.com/scitable/blog/scholarcast
+  62. http://www.nature.com/scitable/blog/scholarcast
+  63. http://www.nature.com/scitable/blog/the-success-code
+  64. http://www.nature.com/scitable/blog/the-success-code
+  65. http://www.nature.com/scitable/blog/why-science-matters
+  66. http://www.nature.com/scitable/blog/why-science-matters
+  67. http://www.nature.com/scitable/blog/earthbound
+  68. http://www.nature.com/scitable/blog/earthbound
+  69. http://www.nature.com/scitable/blog/thebeyond
+  70. http://www.nature.com/scitable/blog/thebeyond
+  71. http://www.nature.com/scitable/blog/plantchemcast
+  72. http://www.nature.com/scitable/blog/plantchemcast
+  73. http://www.nature.com/scitable/blog/pop
+  74. http://www.nature.com/scitable/blog/pop
+  75. http://www.nature.com/scitable/blog/scibytes
+  76. http://www.nature.com/scitable/blog/scibytes
+  77. http://www.nature.com/scitable/blog/postcards-from-the-universe
+  78. http://www.nature.com/scitable/blog/postcards-from-the-universe
+  79. http://www.nature.com/scitable/blog/brain-metrics
+  80. http://www.nature.com/scitable/blog/brain-metrics
+  81. http://www.nature.com/scitable/blog/mind-read
+  82. http://www.nature.com/scitable/blog/mind-read
+  83. http://www.nature.com/scitable/blog/eyes-on-environment
+  84. http://www.nature.com/scitable/blog/eyes-on-environment
+  85. http://www.nature.com/scitable/blog/accumulating-glitches
+  86. http://www.nature.com/scitable/blog/accumulating-glitches
+  87. http://www.nature.com/scitable/blog/saltwater-science
+  88. http://www.nature.com/scitable/blog/saltwater-science
+  89. http://www.nature.com/scitable/blog/microbe-matters
+  90. http://www.nature.com/scitable/blog/microbe-matters
+  91. javascript:showFirstLatestBlogs();
+  92. javascript:showPrevLatestBlogs()
+  93. javascript:showNextLatestBlogs()
+  94. javascript:showLastLatestBlogs();
+  95. javascript:shareWithFBValidator()
+  96. javascript:minimizeAutoShareFBWin()
+  97. javascript:minimizeAutoShareFBWin()
+  98. https://www.nature.com/scitable/my-profile/social-settings
+  99. https://www.nature.com/scitable/about
+ 100. https://www.nature.com/scitable/contact
+ 101. https://www.nature.com/scitable/pressnews
+ 102. https://www.nature.com/scitable/sponsors
+ 103. https://www.nature.com/scitable/viewTermsOfUse
+ 104. https://www.nature.com/scitable/privacyPolicy
+ 105. https://www.nature.com/scitable/glossary
+ 106. https://www.nature.com/scitable/library
+ 107. https://www.nature.com/scitable
+ 108. https://www.nature.com/scitable/topics
+ 109. https://www.nature.com/scitable/blogs
+ 110. https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/
+ 111. LYNXIMGMAP:https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/#natedHeader
+ 112. https://www.nature.com/scitable
+ 113. https://www.nature.com/scitable/topics
+ 114. https://www.nature.com/scitable/blogs
+ 115. http://www.nature.com/naturejobs/science/?WT.mc_id=WEB_NatureJobs_1504_SCITABLE
+ 116. javascript:checkField()
+ 117. javascript:DisplayRegisterPage();
+ 118. javascript:DisplaySignInPage();
+ 119. https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/
+
+   Hidden links:
+ 121. https://www.nature.com/scitable/whatisscitable
+ 122. https://www.nature.com/scitable/faculty-page
+ 123. https://www.nature.com/scitable/study-center
+
+[USEMAP]
+https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/#natedHeader
+   1. https://www.nature.com/scitable
+   2. https://www.nature.com/scitable/whatisscitable
+   3. https://www.nature.com/scitable/faculty-page
+   4. https://www.nature.com/scitable/study-center
+   5. https://www.nature.com/scitable/feedback
+
+[USEMAP]
+https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/#leftRailConnect
+   1. https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/
