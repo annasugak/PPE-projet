@@ -1,0 +1,555 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate
+
+   IFRAME: [5]https://gtm-server.healthline.com/ns.html?id=GTM-MB6365D
+
+   (BUTTON)
+     * (BUTTON) Health Conditions
+
+Health Conditions
+       [6]All
+          + [7]Breast Cancer
+          + [8]Cancer Care
+          + [9]Caregiving for Alzheimer's Disease
+          + [10]Chronic Kidney Disease
+          + [11]Chronic Obstructive Pulmonary Disease (COPD)
+          + [12]Digestive Health
+          + [13]Eye Health
+          + [14]Heart Health
+          + [15]Menopause
+          + [16]Mental Health
+          + [17]Migraine
+          + [18]Multiple Sclerosis (MS)
+          + [19]Parkinson’s Disease
+          + [20]Psoriasis
+          + [21]Rheumatoid Arthritis (RA)
+          + [22]Sleep Health
+          + [23]Type 2 Diabetes
+          + [24]Weight Management
+
+Condition Spotlight
+       [25]All
+          + [26]Controlling Ulcerative Colitis
+          + [27]Navigating Life with Bipolar Disorder
+          + [28]Mastering Geographic Atrophy
+          + [29]Managing Type 2 Diabetes
+     * (BUTTON) Wellness
+
+Wellness Topics
+       [30]All
+          + [31]CBD
+          + [32]Fitness
+          + [33]Healthy Aging
+          + [34]Hearing
+          + [35]Mental Well-Being
+          + [36]Nutrition
+          + [37]Parenthood
+          + [38]Recipes
+          + [39]Sexual Health
+          + [40]Skin Care
+          + [41]Sleep Health
+          + [42]Vitamins and Supplements
+          + [43]Women's Wellness
+
+Product Reviews
+       [44]All
+          + [45]At-Home Testing
+          + [46]Men's Health
+          + [47]Mental Health
+          + [48]Nutrition
+          + [49]Sleep
+          + [50]Vitamins and Supplements
+          + [51]Women's Health
+
+Featured Programs
+       [52]All
+          + [53]Your Guide to Glucose Health
+          + [54]Inflammation and Aging
+          + [55]Cold & Flu Season Survival Guide
+          + [56]She’s Good for Real
+     * (BUTTON) Tools
+
+Featured
+          + [57]Video Series
+          + [58]Pill Identifier
+          + [59]FindCare
+          + [60]Drugs A-Z
+          + [61]Medicare Plans by State
+
+Lessons
+       [62]All
+          + [63]Crohn’s and Ulcerative Colitis Essentials
+          + [64]Diabetes Nutrition
+          + [65]High Cholesterol
+          + [66]Taming Inflammation in Psoriasis
+          + [67]Taming Inflammation in Psoriatic Arthritis
+
+Newsletters
+       [68]All
+          + [69]Anxiety and Depression
+          + [70]Digestive Health
+          + [71]Heart Health
+          + [72]Migraine
+          + [73]Nutrition Edition
+          + [74]Type 2 Diabetes
+          + [75]Wellness Wire
+
+Lifestyle Quizzes
+          + [76]Find a Diet
+          + [77]Find Healthy Snacks
+          + [78]Weight Management
+          + [79]How Well Do You Sleep?
+          + [80]Are You a Workaholic?
+     * (BUTTON) Featured
+
+Health News
+       [81]All
+          + [82]Medicare 2026 Changes
+          + [83]Can 6-6-6 Walking Workout Help You Lose Weight?
+          + [84]This Couple Lost 118 Pounds Together Without Medication
+          + [85]5 Science-Backed Ways to Live a Longer Life
+          + [86]Morning Coffee May Help You Live Longer
+
+This Just In
+          + [87]5 Tips for a Healthy Lifestyle
+          + [88]How to Disinfect Your House After the Flu
+          + [89]Best Vegan and Plant-Based Meal Delivery for 2025
+          + [90]Does Medicare Cover Pneumonia Shots?
+          + [91]Chromosomes, Genetics, and Your Health
+
+Top Reads
+          + [92]Best Multivitamins for Women
+          + [93]Best Multivitamins for Men
+          + [94]Best Online Therapy Services
+          + [95]Online Therapy That Takes Insurance
+          + [96]Buy Ozempic Online
+          + [97]Mounjaro Overview
+
+Video Series
+          + [98]Youth in Focus
+          + [99]Healthy Harvest
+          + [100]Through an Artist's Eye
+          + [101]Future of Health
+     * (BUTTON) Connect
+
+Find Your Bezzy Community
+       Bezzy communities provide meaningful connections with others living
+       with chronic conditions. Join Bezzy on the web or mobile app.
+       [102]All
+          + [103]Breast Cancer
+          + [104]Multiple Sclerosis
+          + [105]Depression
+          + [106]Migraine
+          + [107]Type 2 Diabetes
+          + [108]Psoriasis
+
+Follow us on social media
+       Can't get enough? Connect with us for all things health.
+
+   (BUTTON) Subscribe
+
+   (BUTTON)
+   [109]
+
+Health News
+
+   (BUTTON) Fact Checked
+
+A Bright Light at the End of the Tunnel? Study Finds Even Dying Brains May Be
+'Conscious'
+
+   Written by Kaitlin Vogel on May 5, 2023 — Fact checked by Jill
+   Seladi-Schulman, Ph.D.
+
+   A woman is seen in a hospital bed. [110]Share on PinterestJustin
+   Paget/Getty Images
+     * A new study showed a surge of brain activity associated with
+       consciousness among comatose patients who died after cardiac
+       arrest.
+     * The activity was found in the part of the brain linked to dreaming,
+       visual hallucinations in epilepsy and altered states of
+       consciousness.
+     * Overall, further research is needed to better understand more about
+       what happens in the dying brain.
+
+   There have been many theories and questions that go unanswered
+   regarding what happens when a person dies. Some people who have had
+   near-death experiences reported seeing a white light while others have
+   said they floated above their bodies and saw themselves below.
+
+   New research uncovered interesting brain wave patterns in comatose
+   patients who died after[111] cardiac arrest. The [112]study, published
+   this week in the Proceedings of the National Academy of Science, showed
+   a surge of conscious-like activity in the dying brain.
+
+   Understanding why the brain is activated during the dying process
+
+   Researchers examined four patients under EEG monitoring who passed away
+   due to cardiac arrest. Since the patients were unresponsive, comatose
+   and couldn’t receive any further medical help, they were taken off life
+   support.
+
+   After being taken off the ventilator, two patients showed an increase
+   in heart rate and a surge of gamma wave activity in the brain, which is
+   the fastest type of activity and is also correlated with consciousness.
+
+   Additionally, the activity was found in the part of the brain
+   associated with dreaming, visual [113]hallucinations in [114]epilepsy,
+   and altered states of consciousness.
+
+   [115]Jimo Borjigin, Ph.D., associate professor in the Department of
+   Molecular & Integrative Physiology and the Department of Neurology at
+   the University of Michigan and one of the authors of the study
+   explained the main takeaways of the reserach.
+
+   “First, the brain can be activated by the dying process,” Borjigin told
+   Healthline. “Second, we need to investigate the role of the brain in
+   cardiac arrest: if the brain is more activated during dying, why? There
+   are functions of the brain we did not know prior to our study.”
+
+   Trying to understand what happens as we die
+
+   “We don’t fully know the answer to this question,” said [116]Dr. Andrew
+   Newberg, neuroscientist and director of research at the Marcus
+   Institute of Integrative Health and a physician at Jefferson University
+   Hospital. “Previously, it was assumed that the brain just stops
+   functioning, but this study, and several other similar ones, are
+   suggesting that there is specific brain activity associated with the
+   near-death state.”
+
+   The study found that areas of the brain associated with cognitive
+   processes, including the temporo-parietal junction and the prefrontal
+   cortex, were involved.
+
+   Newberg added that these areas of the brain have been [117]associated
+   with spiritual experiences and that these experiences are associated
+   with an increased activity in the [118]sympathetic nervous system,
+   which controls the “fight-or-flight” response in the body.
+
+   Do people see a light at the end of the tunnel?
+
+   “What this study really suggests is that the brain is undergoing some
+   chemical changes during the dying process. It explains the perceptions
+   people have about seeing angels or light at the end of a tunnel,”
+   [119]Arthur Caplan, a bioethicist at NYU Langone Medical Center,
+   stated. “What it shows is that the brain has measures that it takes to
+   try and wake itself up and fires off in ways that can be
+   hallucinatory.”
+
+   Many people are curious about what happens next after death, but this
+   study is very preliminary and doesn’t go down that road.
+
+   “In some ways, this study sheds light on people’s fear that maybe
+   they’re going to suffer when they’re dying at the last moment, and that
+   doesn’t seem to be the case. But maybe they’ll be disappointed because
+   what this study is suggesting is you don’t get any insights from the
+   dying experience into what really comes next,” Caplan added.
+
+   Takeaway
+
+   According to a new study, a surge of conscious-like brain activity
+   occurred among comatose patients who died after cardiac arrest.
+
+   The activity was found in the part of the brain associated with
+   dreaming, visual hallucinations in epilepsy and altered states of
+   consciousness.
+
+   Experts are hopeful that continuing with this line of study and
+   learning more about the dying brain could save cardiac arrest patients
+   in the future.
+
+How we reviewed this article:
+
+   (BUTTON)
+   History
+
+   Share this article
+
+   Written by Kaitlin Vogel on May 5, 2023 — Fact checked by Jill
+   Seladi-Schulman, Ph.D.
+
+Read this next
+
+     * [120]Latest Study Suggests Lion's Mane Mushrooms May Boost Brain
+       Health
+       [121]New research suggests that lion’s mane mushroom may boost
+       brain cell growth and improve memory. Here’s how.
+       [122]READ MORE
+     *
+     * [123]Can You Really Die of a Broken Heart?
+       [124]The loss of a spouse takes a heavy toll on older adults.
+       Scientists say there are medical as well as other reasons they
+       develop broken heart syndrome.
+       [125]READ MORE
+     * [126]How Certain Treatments for High Blood Pressure Can Help
+       Improve Brain Health
+       [127]Researchers say certain high intensity treatments for high
+       blood pressure can help clear pathways in the brain
+       [128]READ MORE
+     * [129]What Does 'Altered Mental Status' Mean?
+       [130]Altered mental status is an change in the way you think and
+       behave. Many conditions may cause it. It's important for loved ones
+       to seek treatment…
+       [131]READ MORE
+     * [132]What Is Posterior Reversible Encephalopathy Syndrome?
+       Medically reviewed by [133]Heidi Moawad, M.D.
+       [134]Posterior reversible encephalopathy syndrome (PRES) is
+       neurological disorder characterized by swelling and inflammation in
+       the brain. Learn about…
+       [135]READ MORE
+     * [136]Ernest Syndrome vs. Eagle Syndrome: What's the Difference?
+       [137]Ernest Syndrome and Eagle Syndrome have similar symptoms but
+       are different conditions. Learn more about how to tell them apart.
+       [138]READ MORE
+     * [139]Can Occipital Neuralgia Cause Dizziness?
+       [140]Aside from headaches, occipital neuralgia may cause dizziness.
+       Learn more about this symptom.
+       [141]READ MORE
+     * [142]What Can Be Mistaken for Trigeminal Neuralgia?
+       [143]Trigeminal neuralgia may present with symptoms common in other
+       conditions such as dental pain, or temporomandibular joint
+       syndrome. Contact your…
+       [144]READ MORE
+     * [145]Can Neck Problems Cause Trigeminal Neuralgia?
+       Medically reviewed by [146]Heidi Moawad, M.D.
+       [147]Trigeminal neuralgia can be caused by conditions that cause
+       the trigeminal nerve to become compressed. These can include spine
+       misalignment issues, or…
+       [148]READ MORE
+     * [149]What Is the First Sign of Huntington's Disease?
+       Medically reviewed by [150]Meredith Goodwin, MD, FAAFP
+       [151]The first signs of Huntington's disease are often subtle
+       changes in coordination and mood. Learn more.
+       [152]READ MORE
+
+   © 2025 Healthline Media LLC. All rights reserved. Healthline Media is
+   an RVO Health Company. Our website services, content, and products are
+   for informational purposes only. Healthline Media does not provide
+   medical advice, diagnosis, or treatment. [153]See additional
+   information.
+     * [154]About Us
+     * [155]Contact Us
+     * [156]Privacy Policy
+     * [157]Privacy Settings
+     * [158]Advertising Policy
+     * [159]Health Topics
+
+     * [160]Sitemap
+     * [161]Medical Affairs
+     * [162]Content Integrity
+     * [163]Newsletters
+     * © 2025 Healthline Media LLC. All rights reserved. Healthline Media
+       is an RVO Health Company. Our website services, content, and
+       products are for informational purposes only. Healthline Media does
+       not provide medical advice, diagnosis, or treatment. [164]See
+       additional information.
+
+   © 2025 Healthline Media LLC. All rights reserved. Healthline Media is
+   an RVO Health Company. Our website services, content, and products are
+   for informational purposes only. Healthline Media does not provide
+   medical advice, diagnosis, or treatment. [165]See additional
+   information.
+   [166]About[167]Careers[168]Advertise with us
+
+   OUR BRANDS
+   [169]Healthline[170]Medical News Today[171]Greatist[172]Psych
+   Central[173]Bezzy
+
+References
+
+   Visible links:
+   1. https://www.healthline.com/health-news/en
+   2. https://www.healthline.com/health-news/[object Object]
+   3. https://www.healthline.com/health-news/a-bright-light-at-the-end-of-the-tunnel-study-finds-even-dying-brains-may-be-conscious/
+   4. https://www.healthline.com/health-news/a-bright-light-at-the-end-of-the-tunnel-study-finds-even-dying-brains-may-be-conscious/
+   5. https://gtm-server.healthline.com/ns.html?id=GTM-MB6365D
+   6. https://www.healthline.com/directory/topics
+   7. https://www.healthline.com/breast-cancer
+   8. https://www.healthline.com/cancer-care
+   9. https://www.healthline.com/alzheimers-disease
+  10. https://www.healthline.com/ckd
+  11. https://www.healthline.com/copd
+  12. https://www.healthline.com/digestive-health
+  13. https://www.healthline.com/eye-health
+  14. https://www.healthline.com/heart-health
+  15. https://www.healthline.com/menopause
+  16. https://www.healthline.com/mental-health
+  17. https://www.healthline.com/migraine
+  18. https://www.healthline.com/multiple-sclerosis
+  19. https://www.healthline.com/parkinsons-disease
+  20. https://www.healthline.com/psoriasis
+  21. https://www.healthline.com/rheumatoid-arthritis
+  22. https://www.healthline.com/sleep
+  23. https://www.healthline.com/type-2-diabetes
+  24. https://www.healthline.com/weight-management
+  25. https://www.healthline.com/sponsored-topics
+  26. https://www.healthline.com/program/controlling-uc
+  27. https://www.healthline.com/program/navigating-life-with-bipolar-disorder
+  28. https://www.healthline.com/program/mastering-your-geographic-atrophy-care
+  29. https://www.healthline.com/program/managing-type-2-diabetes-with-food-and-fitness
+  30. https://www.healthline.com/wellness
+  31. https://www.healthline.com/cbd
+  32. https://www.healthline.com/fitness
+  33. https://www.healthline.com/healthy-aging
+  34. https://www.healthline.com/hearing-health
+  35. https://www.healthline.com/mental-health
+  36. https://www.healthline.com/nutrition
+  37. https://www.healthline.com/parenthood
+  38. https://www.healthline.com/recipes
+  39. https://www.healthline.com/sexual-health
+  40. https://www.healthline.com/skincare
+  41. https://www.healthline.com/sleep
+  42. https://www.healthline.com/vitamins-supplements
+  43. https://www.healthline.com/program/womens-wellness
+  44. https://www.healthline.com/reviews
+  45. https://www.healthline.com/reviews/at-home-tests
+  46. https://www.healthline.com/reviews/mens-health-products
+  47. https://www.healthline.com/reviews/mental-health-services-and-products
+  48. https://www.healthline.com/reviews/nutrition-products
+  49. https://www.healthline.com/reviews/sleep-products
+  50. https://www.healthline.com/reviews/vitamin-and-supplement-products
+  51. https://www.healthline.com/reviews/womens-health-products
+  52. https://www.healthline.com/sponsored-topics
+  53. https://www.healthline.com/program/your-guide-to-glucose-health
+  54. https://www.healthline.com/program/understanding-inflammation-and-aging
+  55. https://www.healthline.com/program/cold-flu-survival-guide
+  56. https://www.healthline.com/program/shes-good-for-real
+  57. https://www.healthline.com/video
+  58. https://www.healthline.com/pill-identifier
+  59. https://care.healthline.com/find-care
+  60. https://www.healthline.com/drugs
+  61. https://www.healthline.com/about/health-medicare-state-coverage
+  62. https://learn.healthline.com/
+  63. https://www.healthline.com/app/inflammatory-bowel-disease?utm_source=lessonshome
+  64. https://www.healthline.com/app/type-2-diabetes?utm_source=lessonshome
+  65. https://www.healthline.com/app/high-cholesterol?utm_source=lessonshome
+  66. https://www.healthline.com/app/pso-inflammation?utm_source=lessonshome
+  67. https://www.healthline.com/app/psa-inflammation?utm_source=lessonshome
+  68. https://www.healthline.com/newsletter-signup
+  69. https://www.healthline.com/newsletter-signup/anxiety-and-depression
+  70. https://www.healthline.com/newsletter-signup/ibd
+  71. https://www.healthline.com/newsletter-signup/heart-health
+  72. https://www.healthline.com/newsletter-signup/migraine
+  73. https://www.healthline.com/newsletter-signup/nutrition
+  74. https://www.healthline.com/newsletter-signup/type-2-diabetes
+  75. https://www.healthline.com/newsletter-signup/wellness-wire
+  76. https://activation.healthline.com/assessment/assessment/diets/prompt/1?v=1&tc=120226&subid=hl_dietfinder_1_
+  77. https://activation.healthline.com/assessment/assessment/pregnancy-snacks/prompt/1?v=1
+  78. https://www.healthline.com/nutrition/weight-management-quiz
+  79. https://www.healthline.com/health/healthy-sleep/quiz-how-well-do-you-sleep#1
+  80. https://www.healthline.com/health/mental-health/quiz-are-you-a-workaholic#quiz-are-you-a-workaholic
+  81. https://www.healthline.com/health-news
+  82. https://www.healthline.com/health-news/medicare-open-enrollment-2026-key-changes
+  83. https://www.healthline.com/health-news/666-walking-trend-weight-loss
+  84. https://www.healthline.com/health-news/married-couple-loses-119-pounds-together-without-meds
+  85. https://www.healthline.com/health-news/healthy-ways-to-improve-longevity
+  86. https://www.healthline.com/health-news/morning-coffee-heart-health-benefits
+  87. https://www.healthline.com/health/fitness-nutrition/healthy-lifestyle-benefits
+  88. https://www.healthline.com/health/flu/how-to-disinfect-house-after-flu
+  89. https://www.healthline.com/nutrition/plant-based-meal-delivery
+  90. https://www.healthline.com/health/medicare/does-medicare-cover-pneumonia-shots
+  91. https://www.healthline.com/health/chromosomes-and-genetics
+  92. https://www.healthline.com/nutrition/multivitamins-womens-health
+  93. https://www.healthline.com/nutrition/best-multivitamins-for-men
+  94. https://www.healthline.com/health/our-top-10-online-therapy-picks
+  95. https://www.healthline.com/health/mental-health/online-therapy-that-takes-insurance
+  96. https://www.healthline.com/nutrition/buy-ozempic-online
+  97. https://www.healthline.com/health/drugs/mounjaro
+  98. https://www.healthline.com/health/video/youth-in-focus
+  99. https://www.healthline.com/health/nutrition/video/healthy-harvest#1
+ 100. https://www.healthline.com/health/breast-cancer/metastatic-breast-cancer-artist-eye
+ 101. https://www.healthline.com/health/video/future-of-health
+ 102. https://www.bezzy.com/?utm_source=healthline&utm_medium=nav-bar-connections
+ 103. https://www.bezzybc.com/lp/2/?utm_source=healthline&utm_medium=hl-nav-bar-connections
+ 104. https://www.bezzyms.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections
+ 105. https://www.bezzydepression.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections
+ 106. https://www.bezzymigraine.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections
+ 107. https://www.bezzyt2d.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections
+ 108. https://www.bezzypsoriasis.com/?utm_source=healthline&utm_medium=hl-nav-bar-connections
+ 109. https://www.healthline.com/health-news
+ 110. https://www.pinterest.com/pin/create/button/?url=https://www.healthline.com/health-news/a-bright-light-at-the-end-of-the-tunnel-study-finds-even-dying-brains-may-be-conscious&media=https://post.healthline.com/wp-content/uploads/2023/05/female-hospital-bed-1296x728-header-1296x729.jpg&description=Study Finds Evidence Dying People May Be Conscious at the End
+ 111. https://www.healthline.com/health/cardiac-arrest
+ 112. https://www.pnas.org/doi/10.1073/pnas.2216268120
+ 113. https://www.healthline.com/health/hallucinations#:~:text=What are hallucinations?,image that isn't real.
+ 114. https://www.healthline.com/health/epilepsy#:~:text=Epilepsy is a neurological condition,with no other identifiable cause.
+ 115. https://medicine.umich.edu/dept/molecular-integrative-physiology/jimo-borjigin-phd
+ 116. http://www.andrewnewberg.com/
+ 117. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195862/
+ 118. https://www.healthline.com/health/parasympathetic-nervous-system#psns-vs-sympathetic
+ 119. https://med.nyu.edu/faculty/arthur-l-caplan
+ 120. https://www.healthline.com/health-news/latest-study-suggests-lions-mane-mushrooms-may-boost-brain-heath?utm_source=ReadNext
+ 121. https://www.healthline.com/health-news/latest-study-suggests-lions-mane-mushrooms-may-boost-brain-heath?utm_source=ReadNext
+ 122. https://www.healthline.com/health-news/latest-study-suggests-lions-mane-mushrooms-may-boost-brain-heath?utm_source=ReadNext
+ 123. https://www.healthline.com/health-news/can-you-die-of-broken-heart?utm_source=ReadNext
+ 124. https://www.healthline.com/health-news/can-you-die-of-broken-heart?utm_source=ReadNext
+ 125. https://www.healthline.com/health-news/can-you-die-of-broken-heart?utm_source=ReadNext
+ 126. https://www.healthline.com/health-news/how-certain-treatments-for-high-blood-pressure-can-help-improve-brain-health?utm_source=ReadNext
+ 127. https://www.healthline.com/health-news/how-certain-treatments-for-high-blood-pressure-can-help-improve-brain-health?utm_source=ReadNext
+ 128. https://www.healthline.com/health-news/how-certain-treatments-for-high-blood-pressure-can-help-improve-brain-health?utm_source=ReadNext
+ 129. https://www.healthline.com/health/altered-mental-status?utm_source=ReadNext
+ 130. https://www.healthline.com/health/altered-mental-status?utm_source=ReadNext
+ 131. https://www.healthline.com/health/altered-mental-status?utm_source=ReadNext
+ 132. https://www.healthline.com/health/posterior-reversible-encephalopathy-syndrome?utm_source=ReadNext
+ 133. https://www.healthline.com/medical-team
+ 134. https://www.healthline.com/health/posterior-reversible-encephalopathy-syndrome?utm_source=ReadNext
+ 135. https://www.healthline.com/health/posterior-reversible-encephalopathy-syndrome?utm_source=ReadNext
+ 136. https://www.healthline.com/health/ernest-syndrome-vs-eagle-syndrome?utm_source=ReadNext
+ 137. https://www.healthline.com/health/ernest-syndrome-vs-eagle-syndrome?utm_source=ReadNext
+ 138. https://www.healthline.com/health/ernest-syndrome-vs-eagle-syndrome?utm_source=ReadNext
+ 139. https://www.healthline.com/health/occipital-neuralgia-dizziness?utm_source=ReadNext
+ 140. https://www.healthline.com/health/occipital-neuralgia-dizziness?utm_source=ReadNext
+ 141. https://www.healthline.com/health/occipital-neuralgia-dizziness?utm_source=ReadNext
+ 142. https://www.healthline.com/health/what-can-be-mistaken-for-trigeminal-neuralgia?utm_source=ReadNext
+ 143. https://www.healthline.com/health/what-can-be-mistaken-for-trigeminal-neuralgia?utm_source=ReadNext
+ 144. https://www.healthline.com/health/what-can-be-mistaken-for-trigeminal-neuralgia?utm_source=ReadNext
+ 145. https://www.healthline.com/health/can-neck-problems-cause-trigeminal-neuralgia?utm_source=ReadNext
+ 146. https://www.healthline.com/medical-team
+ 147. https://www.healthline.com/health/can-neck-problems-cause-trigeminal-neuralgia?utm_source=ReadNext
+ 148. https://www.healthline.com/health/can-neck-problems-cause-trigeminal-neuralgia?utm_source=ReadNext
+ 149. https://www.healthline.com/health/what-is-the-first-sign-of-huntingtons-disease?utm_source=ReadNext
+ 150. https://www.healthline.com/medical-team
+ 151. https://www.healthline.com/health/what-is-the-first-sign-of-huntingtons-disease?utm_source=ReadNext
+ 152. https://www.healthline.com/health/what-is-the-first-sign-of-huntingtons-disease?utm_source=ReadNext
+ 153. https://www.healthline.com/additional-information
+ 154. https://www.healthline.com/about
+ 155. https://www.healthline.com/about/contact-us
+ 156. https://www.healthline.com/privacy-policy
+ 157. https://www.healthline.com/privacy-settings
+ 158. https://www.healthline.com/advertising-policy
+ 159. https://www.healthline.com/directory/topics
+ 160. https://www.healthline.com/sitemap
+ 161. https://www.healthline.com/medical-team
+ 162. https://www.healthline.com/about/content-integrity
+ 163. https://www.healthline.com/newsletter-signup
+ 164. https://www.healthline.com/additional-information
+ 165. https://www.healthline.com/additional-information
+ 166. https://www.healthlinemedia.com/?utm_source=healthline.com&utm_medium=site&utm_campaign=footer&utm_content=about
+ 167. https://rvohealth.com/careers
+ 168. https://www.healthlinemedia.com/advertise?utm_source=healthline.com&utm_medium=site&utm_campaign=footer&utm_content=advertise
+ 169. https://www.healthline.com/
+ 170. https://www.medicalnewstoday.com/
+ 171. https://greatist.com/
+ 172. https://psychcentral.com/
+ 173. https://bezzy.com/
+
+   Hidden links:
+ 175. https://www.healthline.com/
+ 176. http://www.facebook.com/pages/Healthline/173263326992
+ 177. https://twitter.com/healthline
+ 178. http://www.instagram.com/healthline
+ 179. https://www.linkedin.com/company/healthline-media/
+ 180. https://www.youtube.com/channel/UC7snF15Idi7px6XujWe_h9A
+ 181. https://flipboard.com/@healthline
+ 182. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.healthline.com%2Fhealth-news%2Fa-bright-light-at-the-end-of-the-tunnel-study-finds-even-dying-brains-may-be-conscious%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Dsocial-sharebar-referred-desktop
+ 183. https://twitter.com/intent/tweet?via=healthline&text=Study%20Finds%20Evidence%20Dying%20People%20May%20Be%20Conscious%20at%20the%20End&url=https%3A%2F%2Fwww.healthline.com%2Fhealth-news%2Fa-bright-light-at-the-end-of-the-tunnel-study-finds-even-dying-brains-may-be-conscious%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dsocial-sharebar-referred-desktop
+ 184. https://www.healthline.com/health-news/latest-study-suggests-lions-mane-mushrooms-may-boost-brain-heath?utm_source=ReadNext
+ 185. https://www.healthline.com/health-news/can-you-die-of-broken-heart?utm_source=ReadNext
+ 186. https://www.healthline.com/health-news/how-certain-treatments-for-high-blood-pressure-can-help-improve-brain-health?utm_source=ReadNext
+ 187. https://www.healthline.com/health/altered-mental-status?utm_source=ReadNext
+ 188. https://www.healthline.com/health/posterior-reversible-encephalopathy-syndrome?utm_source=ReadNext
+ 189. https://www.healthline.com/health/ernest-syndrome-vs-eagle-syndrome?utm_source=ReadNext
+ 190. https://www.healthline.com/health/occipital-neuralgia-dizziness?utm_source=ReadNext
+ 191. https://www.healthline.com/health/what-can-be-mistaken-for-trigeminal-neuralgia?utm_source=ReadNext
+ 192. https://www.healthline.com/health/can-neck-problems-cause-trigeminal-neuralgia?utm_source=ReadNext
+ 193. https://www.healthline.com/health/what-is-the-first-sign-of-huntingtons-disease?utm_source=ReadNext
+ 194. https://www.healthlinemedia.com/?utm_source=healthline.com&utm_medium=site&utm_campaign=footer&utm_content=logo
+ 195. https://aacihealthcare.com/certificates/c143-1-2021-trust-usa/

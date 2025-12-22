@@ -1,0 +1,256 @@
+   [1]Skip to main navigation [2]Skip to primary content
+
+   (BUTTON) Main navigation [3]Canada under the stars
+     * [4]Musée virtuel du Canada
+     * [5]Virtual Museum of Canada
+
+     * [6]Home
+     * [7]Astronomers
+     * [8]Observatories
+     * [9]Universe
+     * [10]Light
+     * [11]Instruments
+     * [12]The Sky for Everyone
+     * [13]A Journey into Astronomy
+     * [14]Français
+
+     * [15]Bibliography
+     * [16]Site Map
+     * [17]Information Page
+     * [18]Virtual Museum of Canada
+
+     * [19]The White Light Spectrum
+     * [20]Codes Into the Light
+     * [21]The Electromagnetic Spectrum
+     * [22]Emission Spectra
+     * [23]Absorption Spectra
+     * [24]Light-years
+
+    1. [25]Home
+
+     [26]Light
+
+     Light-years
+
+                                  Light-years
+
+The Astronomer’s Unit for Measuring Distance
+
+   In astronomy, distances between celestial objects – like stars and
+   galaxies – are very large. For example, the distance that separates us
+   from out closest neighbour, the Moon, is on average 385,000 kilometres.
+   The Sun, on the otherhand, is on average 150 million kilometres away,
+   and the next closest star is Proxima Centauri at 40,000 billion
+   kilometres.
+
+   To avoid manipulating such long numbers on a regular basis, a unit of
+   distance better adapted to the scale of the Universe quickly became a
+   necessity. One unit of distance commonly used in astronomy is the
+   light-year. A light-year is the distance travelled by light in one
+   year, which is 9 trillion, 460 billion, 730 million, 472 thousand and
+   581 kilometres. In other words, almost 10,000 billion kilometres.
+
+   The creation of this unit of distance was not accomplished overnight.
+   It was first necessary to determine the speed of light in order to know
+   the distance that it will travel in one year.
+
+   Before 1676, most scientists thought that light moved instantaneously
+   from one point to another. In that year, however, the Danish physicist
+   Ole Christensen Rømer was the first to demonstrate that light had a
+   finite speed.
+   [27]Painted portrait of a man with a full head of very long, curly hair
+   and a mantle of red fabric draped over his brown suit
+
+   [28]Photo of a planet featuring diagonal grey, white and yellow lines
+   surrounded by two luminous dots below and to the right, against a very
+   black background
+
+   In 1671, Rømer began to observe the satellites of Jupiter and decided
+   to measure the time it took for one of the moons (particularly Io) to
+   disappear behind the giant planet and reappear on the other side. By
+   accumulating data for many years, he determined that the time
+   separating the eclipses was shorter when the Earth was closer to
+   Jupiter and longer when it was at a greater distance.
+
+   In 1675, the French astronomer Jean-Dominique Cassini, for whom Rømer
+   was an assistant, proposed that the difference was due to the time it
+   took light to travel from Jupiter to Earth. However, he quickly changed
+   his mind and abandoned the hypothesis.
+
+   Rømer, on the other hand, continued to pursue the idea and estimated
+   that light takes 22 minutes to travel a distance equal to the diameter
+   of the Earth’s orbit (we know today that the true value is closer to 16
+   minutes and 40 seconds). If Rømer had calculated the speed of light
+   using his data, he would have come up with an answer of 135,000
+   kilometres per second, which is about half the accepted value today of
+   299,792 kilometres per second. The main source of error would have been
+   the diameter of Earth’s orbit, which was not well known at the time. If
+   the orbital diameter of the Earth as we know it today is combined with
+   Rømer’s data, the answer would be 214,000 kilometres per second, much
+   closer to the currently accepted speed.
+
+   It was only in 1729 that the majority of the astronomical community
+   were finally convinced that light had finite speed. The British
+   astronomer James Bradley published a study demonstrating that the
+   annual variation observed in the position of the stars is related to
+   the speed of light. He estimated that light travels at 301,000
+   kilometres per second, which is very close to the accepted value.
+
+   In 1838, the German astronomer Friedrich Wilhelm Bessel (and not the
+   Scottish astronomer Thomas Henderson, as is often mentioned) was the
+   first to use the light-year as a unit of measurement in astronomy. He
+   measured the distance separating us from the binary star 61 Cygni as
+   10.3 light-years.
+
+   The advantage of the light-year as a unit of measurement is not only
+   that it quantifies distance, but that it also provides the time it
+   takes for light to reach Earth. For example, if 61 Cygni is 10.3
+   light-years from Earth (97,445,523,867,584 kilometres), then it takes
+   it’s light 10.3 years to reach us. We are therefore always seeing 61
+   Cygni as it was more than 10 years ago. This is how light allows us to
+   “see into the past” and why a telescope is really a type of “time
+   travel machine”.
+
+   This concept applies equally to very distant galaxies that are measured
+   at distances of 10 to 12 billion light-years: they appear to us now the
+   way they existed 10 to 12 billion years ago, only a short time after
+   the Big Bang.
+   [29]Black and white portrait of a man with curly hair wearing a black
+   jacket and white collar
+
+Gilles Fontaine explains what a light-year is.
+
+   Download video: [30]MP4, (4,43 MB), [31]WebM, (3,64 MB), [32]Ogg (2,13
+   MB) (53 seconds)
+
+   [33]Learn more about Gilles Fontaine
+   ASTROLab/Mont-Mégantic National Park
+   (BUTTON) Transcription
+   The light-year represents the distance it takes for light to travel in
+   a vacuum during one year. We know that the speed of light is 3 times
+   1010 centimetres per second. We must therefore multiply this by the
+   number of seconds in a year – about 30 million seconds – to find the
+   distance travelled by this light: the distance of a light-year. In
+   professional astronomy, we prefer to use another unit called the
+   parsec, which is equal to 3.26 light-years. Professional astronomers
+   will speak of the parsec, the kiolparsec and the megaparsec more than
+   they do of light-years, but think of it as a unit of length that gives
+   us a typical scale for the distance between stars.
+
+Light-years Activity
+
+   Read the comic strip carefully and try to associate the distances with
+   the different elements (planets, nebula and galaxies) onscreen.
+
+   Click, hold and drag the mouse over available light year choices and
+   associate them with a heavenly body. If you choose incorrectly, the
+   association will not occur.
+
+   Now that you know what a light year is, can you make the associations
+   that follow?
+
+   [34]31 to 50 light minutes[35]4 to 20 light minutes[36]4100 light
+   years[37]5 to 11 light minutes[38]6 light hours[39]68 to 84 light
+   minutes[40]2 to 14 light minutes[41]63 million light years
+   M98 Galaxy
+
+M98 Galaxy
+
+   63 million light years
+   Venus
+
+Venus
+
+   2 to 14 light minutes
+   Mars
+
+Mars
+
+   4 to 20 light minutes
+   Saturn
+
+Saturn
+
+   68 to 84 light minutes
+   Ring Nebula
+
+Ring Nebula
+
+   4100 light years
+   Jupiter
+
+Jupiter
+
+   31 to 50 light minutes
+   Mercury
+
+Mercury
+
+   5 to 11 light minutes
+   Pluto
+
+Pluto
+
+   6 light hours
+
+   [42]Back to Top
+
+     * [43]Bibliography
+     * [44]Glossary
+     * [45]Links of Interest
+     * [46]Site Map
+     * [47]Information Page
+
+   © ASTROLab du parc national du Mont-Mégantic 2025. [48]All rights
+   reserved.
+
+References
+
+   1. https://astro-canada.ca/les_annees_lumiere-light_years-eng#menu
+   2. https://astro-canada.ca/les_annees_lumiere-light_years-eng#content
+   3. https://astro-canada.ca/index-eng
+   4. http://www.museevirtuel-virtualmuseum.ca/index-fra.jsp
+   5. http://www.museevirtuel-virtualmuseum.ca/index-eng.jsp
+   6. https://astro-canada.ca/index-eng
+   7. https://astro-canada.ca/astronomes-astronomers-eng
+   8. https://astro-canada.ca/observatoires-observatories-eng
+   9. https://astro-canada.ca/l_univers-universe-eng
+  10. https://astro-canada.ca/la_lumiere-light-eng
+  11. https://astro-canada.ca/instruments-eng
+  12. https://astro-canada.ca/le_ciel_pour_tous-sky_for_everyone-eng
+  13. https://astro-canada.ca/l_aventure_astronomique-a_journey_into_astronomy-eng
+  14. https://astro-canada.ca/les_annees_lumiere-light_years-fra
+  15. https://astro-canada.ca/bibliographie-bibliography-eng
+  16. https://astro-canada.ca/plan_site-site_map-eng
+  17. https://astro-canada.ca/information-eng
+  18. http://www.museevirtuel-virtualmuseum.ca/index-eng.jsp
+  19. https://astro-canada.ca/la_decouverte_du_spectre_de_la_lumiere_blanche-the_white_light_spectrum-eng
+  20. https://astro-canada.ca/des_codes_dans_la_lumiere-codes_into_the_light-eng
+  21. https://astro-canada.ca/le_spectre_electromagnetique-the_electromagnetic_spectrum-eng
+  22. https://astro-canada.ca/les_spectres_d_emission-emission_spectra-eng
+  23. https://astro-canada.ca/les_spectres_d_absorption-absorption_spectra-eng
+  24. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  25. https://astro-canada.ca/index-eng
+  26. https://astro-canada.ca/la_lumiere-light-eng
+  27. https://astro-canada.ca/uploads/a3700-roemer1-g.jpg
+  28. https://astro-canada.ca/uploads/a3700-jupiter1-g.jpg
+  29. https://astro-canada.ca/uploads/a3700-bessel1-g.jpg
+  30. https://astro-canada.ca/uploads/video/a3700_annee.mp4
+  31. https://astro-canada.ca/uploads/video/a3700_annee.webm
+  32. https://astro-canada.ca/uploads/video/a3700_annee.ogv
+  33. https://astro-canada.ca/gilles_fontaine-eng
+  34. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  35. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  36. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  37. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  38. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  39. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  40. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  41. https://astro-canada.ca/les_annees_lumiere-light_years-eng
+  42. https://astro-canada.ca/les_annees_lumiere-light_years-eng#menu
+  43. https://astro-canada.ca/bibliographie-bibliography-eng
+  44. https://astro-canada.ca/glossaire-glossary-eng
+  45. https://astro-canada.ca/liens_interessants-links_interest-eng
+  46. https://astro-canada.ca/plan_site-site_map-eng
+  47. https://astro-canada.ca/information-eng
+  48. https://astro-canada.ca/information-eng#copyright
