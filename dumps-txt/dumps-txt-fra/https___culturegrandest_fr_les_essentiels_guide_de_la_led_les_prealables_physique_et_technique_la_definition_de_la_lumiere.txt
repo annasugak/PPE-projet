@@ -1,0 +1,671 @@
+
+
+    
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+                
+        La définition de la lumière — Agence culturelle Grand Est
+        
+        
+        
+        
+        
+        
+
+        
+            [v-cloak], [x-cloak] { display: none !important; }
+        
+
+                    
+                (function (f, a, t, h, o, m) {
+                    a[h] = a[h] || function () {
+                        (a[h].q = a[h].q || []).push(arguments)
+                    };
+                    o = f.createElement('script'),
+                        m = f.getElementsByTagName('script')[0];
+                    o.async = 1;
+                    o.src = t;
+                    o.id = 'fathom-script';
+                    m.parentNode.insertBefore(o, m)
+                })(document, window, 'https://cdn.usefathom.com/tracker.js', 'fathom');
+                fathom('set', 'siteId', "IALYFQAO");
+
+                var fathomExcludeHostnames = [
+                    'web.archive.org',
+                    'dvlpp.com',
+                ];
+
+                if (fathomExcludeHostnames.indexOf(window.location.hostname) === -1) {
+                    fathom('trackPageview');
+                }
+            
+        
+            
+
+    
+        
+        
+    .keyboard-focus :focus {
+        outline: revert;
+    }
+
+<template x-data
+    x-on:keydown.tab.document="document.documentElement.classList.add('keyboard-focus')"
+    x-on:pointerup.document="document.documentElement.classList.remove('keyboard-focus')"
+    x-init="document.documentElement.classList.remove('keyboard-focus')"
+>
+        
+                            <header class="group [--bar-height:4rem] md:[--bar-height:5rem] contents"
+    x-data="{
+        stuck: $el.hasAttribute('data-stuck'),
+        topStuck: $el.hasAttribute('data-top-stuck'),
+        whiteMenu: $el.hasAttribute('data-stuck'),
+        topHeight: $el.offsetHeight
+    }"
+        :data-stuck="stuck"
+    :data-top-stuck="topStuck"
+>
+    <div class="sticky -top-[calc(var(--height)-var(--bar-height))] w-full max-w-[80rem] z-20 lg:px-2 border-b border-neutral-100 overflow-x-clip bg-blue-700 mx-auto ostende:bg-orange-300"
+                style="--height: 200px"
+        :style="{ '--height': `${topHeight}px` }"
+        x-resize=" topHeight = $height"
+            >
+        
+                            
+                    
+                        
+                            
+                                
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                
+  
+  
+  
+                            
+                            
+                                
+        
+            
+    
+    
+    
+            S’inscrire
+        
+        
+            
+    
+            Se connecter
+        
+    
+                            
+                        
+                    
+                    
+                        
+    
+    
+        
+            
+                
+                Agenda
+            
+            
+    
+        
+        
+            Formations + rencontres + parcours + autres infos
+        
+    
+
+                    
+                
+                    
+    
+
+            
+        
+        
+    
+            
+            
+                
+                    
+                        
+                            
+                                
+                            
+                            
+                                
+    
+                                <input class="flex-1 min-w-0 -mt-1 pt-2 appearance-none border-b-3 focus:outline-0 border-blue-700 h-10" autocomplete="off" type="search" name="q"
+                                    value=""
+                                >
+                            
+                        
+                        
+                            
+                                
+  
+  
+                                Les infos du jeudi
+                            
+                            
+                                
+                                    
+                                                                    
+                                
+                                    
+                                                                    
+                            
+                        
+                    
+                
+            
+        
+    
+    
+        
+            
+                <button class="relative flex items-center text-blue-700 font-heading text-[1.375rem] gap-6 uppercase cursor-pointer pointer-events-auto"
+                    :class="{ 'acacia:text-white': whiteMenu }"
+                    x-popover:button
+                >
+                    
+                    
+    
+    
+    
+                    
+                        Menu
+                    
+                
+                <div id="menu" class="absolute w-max max-w-full pointer-events-auto ring ring-neutral-100 max-h-[calc(100dvh-var(--bar-height))] overflow-y-auto overflow-x-clip top-full mt-px group-data-stuck:mt-0 left-0 bg-blue-700"
+                    x-cloak
+                    x-popover:panel
+                >
+                    
+                        
+                            
+    
+                        
+                    
+                    
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b uppercase text-white border-black text-sm font-bold"
+    href="https://culturegrandest.fr/actus"
+>
+    
+    actus
+
+                                                <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="https://culturegrandest.fr"
+>
+    
+    accueil
+
+                                                                            <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/agenda"
+>
+    
+    agenda
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/spectacle-vivant"
+>
+    
+    spectacle vivant
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="https://parcsmaterielsgrandest.fr"
+>
+    
+    parcs de matériels scéniques
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/organisme-de-formation"
+>
+    
+    organisme de formation
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/cursus/formations-rencontres-parcours"
+>
+    
+    Formations, rencontres, parcours
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/rendez-vous-appuis-conseils"
+>
+    
+    appuis, conseils
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/les-essentiels"
+>
+    
+    ressources pédagogiques
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="https://treto.fr"
+>
+    
+    treto
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="/qui-sommes-nous"
+>
+    
+    qui sommes-nous ?
+
+                                                <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="https://culturegrandest.fr/contact"
+>
+    
+    nous contacter
+
+                                                    <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="https://culturegrandest.fr/inscription"
+>
+    
+    
+    
+    
+    
+                                s’inscrire
+
+                            <a class="relative isolate flex items-center gap-1.5 pt-2 pb-1 hover:underline border-b  text-white border-black text-sm font-bold"
+    href="https://culturegrandest.fr/login"
+>
+    
+    
+    
+                                se connecter
+
+                                                                        
+                            s'abonner aux
+                            
+                                Infos du jeudi
+                            
+                        
+                        
+                            
+                                
+                                                            
+                            
+                                
+                                                            
+                        
+                    
+                
+            
+        
+
+    
+
+            
+            
+    
+    
+        
+            
+                
+                Agenda
+            
+            
+    
+        
+        
+            Formations + rencontres + parcours + autres infos
+        
+    
+
+        
+        
+    
+                        
+                
+                    
+            <nav class="breadcrumb-guide d-none d-lg-block d-print-none"
+    aria-label="fil d’ariane"
+    v-cloak
+>
+    
+                    
+                <aca-breadcrumb-dropdown
+                    url="/les-essentiels"
+                    page-id="10"
+                                            disabled
+                                                        >
+                    les Essentiels
+                
+            
+                            
+                    
+                        –&gt;
+                    
+                
+                                
+                <aca-breadcrumb-dropdown
+                    url="/les-essentiels/guide-de-la-led"
+                    page-id="1611"
+                                                                highlight
+                                    >
+                    guide de la LED
+                
+            
+                            
+                    
+                        –&gt;
+                    
+                
+                                
+                <aca-breadcrumb-dropdown
+                    url="/les-essentiels/guide-de-la-led/les-prealables"
+                    page-id="1643"
+                                                        >
+                    les préalables
+                
+            
+                            
+                    
+                        –&gt;
+                    
+                
+                                
+                <aca-breadcrumb-dropdown
+                    url="/les-essentiels/guide-de-la-led/les-prealables/physique-et-technique"
+                    page-id="1805"
+                                                        >
+                    physique et technique
+                
+            
+                            
+                    
+                        –&gt;
+                    
+                
+                                
+                <aca-breadcrumb-dropdown
+                    url="/les-essentiels/guide-de-la-led/les-prealables/physique-et-technique/la-definition-de-la-lumiere"
+                    page-id="1806"
+                                                        >
+                    la définition de la lumière
+                
+            
+                        
+
+        
+    
+    
+    
+                    <a                     href="/les-essentiels"
+                                >les Essentiels
+            
+                    <a                     href="/les-essentiels/guide-de-la-led"
+                                >guide de la LED
+            
+                    <a                     href="/les-essentiels/guide-de-la-led/les-prealables"
+                                >les préalables
+            
+                    <a                     href="/les-essentiels/guide-de-la-led/les-prealables/physique-et-technique"
+                                >physique et technique
+            
+                    la définition de la lumière
+            
+            
+
+
+
+    
+        
+                        
+                
+                                            <div class="d-none d-md-block h-19 bg-peach" style="
+                            background-image: radial-gradient(var(--color-primary) 2px, var(--color-peach) 1px);
+                            background-size: 25px 25px;
+                        ">
+                                        
+                                                    
+    
+    
+        
+                            <b-carousel-slide
+                    class="page-header-content page-header-content--filled page-header-content--shrink"
+                                    >
+                    
+                                                                            
+                                
+                                    
+                                        physique et technique
+                                    
+                                
+                                
+                                                                            
+                                            
+                                                introduction
+                                            
+                                        
+                                                                            
+                                            
+                                                la définition de la lumière
+                                            
+                                        
+                                                                            
+                                            
+                                                la photométrie
+                                            
+                                        
+                                                                            
+                                            
+                                                l’efficacité lumineuse
+                                            
+                                        
+                                                                            
+                                            
+                                                la colorimétrie
+                                            
+                                        
+                                                                    
+                            
+                                            
+                
+                                
+            
+
+                        
+                        
+                            
+                                La définition de la lumière
+                            
+
+                            
+                                                            
+        
+Au XVIIe siècle, Isaac Newton affirme que la lumière est de nature corpusculaire (particule de matière) tandis qu’au début du XIXe siècle, Thomas Young et Augustin Fresnel affirment au contraire que la lumière est de nature ondulatoire. Depuis le début du XXe siècle, à la suite des travaux de Max Planck puis d’Albert Einstein, il est admis que la lumière est un phénomène beaucoup plus complexe, à la fois corpusculaire et ondulatoire.
+La lumière est une énergie générée par la matière et peut se représenter sous la forme d’une particule d’énergie (le photon) et d’une onde électromagnétique. C’est le déplacement ondulatoire très rapide (environ 300 000 km/seconde) du photon qui constitue le rayonnement lumineux. L’ensemble de ces différents rayonnements lumineux colorés, mis en évidence par Isaac Newton au XVIIe siècle, compose toute la gamme du spectre « visible » par l’œil humain. Ces rayonnements dont les longueurs d’ondes sont comprises entre 380 et 780 nanomètres environ, sont interprétés par notre système optique comme un dégradé de couleur « arc-en-ciel ».
+Dispersion de la lumière par un prisme
+
+    
+                    
+                
+            
+                            
+                © digiSchool
+            
+            
+    Depuis l’apparition au XIXe siècle d’appareils et de sources de lumière de plus en plus performants, la nécessité d’évaluer la « quantité de lumière » ainsi que ces différentes caractéristiques colorimétriques est bien réelle. Malgré l’incontestable complexité de compréhension et de perception humaine du phénomène lumineux, il était nécessaire de trouver le moyen d’y parvenir.
+
+    
+        
+            
+            
+                
+                    Zoom sur le photonLe photon est une particule de masse et de charge électrique nulles. A l’échelle terrestre la vitesse du photon semble incroyablement élevée : il parcourt 7,5 fois le tour de la terre en 1 seconde ; d’après la théorie de la relativité d’Einstein cette vitesse est indépassable. Le photon à la capacité de se propager dans le vide (particularité des ondes électromagnétiques) et donc de voyager dans l’univers, ce qui permet à la lumière du soleil de nous parvenir ; dès que l’on commence à prendre un peu de recul en s’éloignant de la Terre, sa vitesse de déplacement est beaucoup moins impressionnante : Le photon parcourt la distance de la Terre à la Lune en 1,25 seconde ; il parcourt la distance de la Terre à Mars en 3 minutes et 2 secondes ; il parcourt la distance de la Terre à Proxima du Centaure (étoile la plus proche de notre système solaire) en 4 ans et 3 mois ; il parcourt la distance de la Terre jusqu’au centre de notre galaxie en plus de 25 000 ans ; il parcourt la distance de la Terre à Andromède (galaxie la plus proche de la nôtre) en 2,5 millions d’années !
+                
+            
+        
+    
+    
+
+                                                    
+
+                        
+                                            
+                
+                            
+        
+    
+                
+            
+                            
+    
+        
+        
+        
+                            
+                    
+                    Nos
+                 appuis
+                 & conseils
+                
+                    
+    
+    
+        
+        
+        
+                            
+                    
+                    Formations, rencontres & parcours
+                
+                    
+    
+    
+                    
+        
+        
+                            
+                    
+                    Treto, plateforme du spectacle vivant
+                
+                    
+    
+    
+                
+        
+        
+                            
+                    
+                    Ressources pédagogiques
+                
+                    
+    
+    
+    
+    
+        
+                            <a class="block text-[2rem]/[1.25] font-bold uppercase text-center text-blue-700 hover:underline"
+                    href="/qui-sommes-nous"
+                >
+                    quisommes-nous ?
+                
+                    
+        
+            
+                Contactez-nous
+            
+                            <a class="block text-center max-w-md lowercase font-bold text-xl/[1.25] text-blue-700 hover:underline"
+                    href="/informations-pratiques"
+                >
+                    informations pratiques
+                
+                            <a class="block text-center max-w-md lowercase font-bold text-xl/[1.25] text-blue-700 hover:underline"
+                    href="/mentions-legales"
+                >
+                    mentions légales
+                
+                    
+        
+            
+                
+                
+            
+            
+                
+                
+            
+        
+    
+
+            
+            
+                
+                    
+                         
+    
+
+                    
+                    
+                        
+                        
+                            {{ props.message }}
+                        
+                        
+                            
+                            
+                                OK
+                            
+                        
+                    
+                
+            
+                    
+
+            
+

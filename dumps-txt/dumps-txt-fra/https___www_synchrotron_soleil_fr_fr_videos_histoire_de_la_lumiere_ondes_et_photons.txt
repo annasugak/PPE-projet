@@ -1,0 +1,507 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="fr" version="XHTML+RDFa 1.0"
+      dir="ltr">
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    Histoire de la lumière : Ondes et photons | Centre de rayonnement synchrotron français
+
+    
+    <link rel="stylesheet"
+          href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    
+@import url("/modules/system/system.messages.css?t506lm");
+
+
+@import url("/sites/all/modules/contrib/date/date_api/date.css?t506lm");
+@import url("/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?t506lm");
+@import url("/sites/all/modules/contrib/domain/domain_nav/domain_nav.css?t506lm");
+@import url("/sites/all/modules/contrib/logintoboggan/logintoboggan.css?t506lm");
+@import url("/sites/all/modules/contrib/menu_language_filter/menu_language_filter.css?t506lm");
+@import url("/sites/all/modules/contrib/views/css/views.css?t506lm");
+
+
+@import url("/sites/all/modules/contrib/apachesolr_autocomplete/apachesolr_autocomplete.css?t506lm");
+@import url("/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?t506lm");
+@import url("/sites/all/modules/contrib/ctools/css/ctools.css?t506lm");
+@import url("/sites/all/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?t506lm");
+@import url("/sites/all/modules/contrib/lang_dropdown/lang_dropdown.css?t506lm");
+@import url("/sites/all/modules/contrib/node_comment_block/node-comment-block.css?t506lm");
+@import url("/sites/default/files/ctools/css/bd4f91631ebdd6e713f3763aa7770d53.css?t506lm");
+
+
+@import url("/sites/default/files/less/main.tOG0p8ebtrijTf3RMAZRZkDPggbti6k4lC1JjpNz5mo.css?t506lm");
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://matomo.synchrotron-soleil.fr/matomo/" : "http://matomo.synchrotron-soleil.fr/matomo/");_paq.push(["setSiteId", "3"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();
+//-->
+
+
+
+
+
+
+
+<!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"fr\/","setHasJsCookie":0,"ajaxPageState":{"theme":"synchrotron","theme_token":"XW51DNhpqLpJ1KLcXkp-ik-rjXwz3PWmvdoUVcQaFiU","css":{"modules\/system\/system.messages.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/domain\/domain_nav\/domain_nav.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/menu_language_filter\/menu_language_filter.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.css":1,"sites\/all\/modules\/contrib\/node_comment_block\/node-comment-block.css":1,"public:\/\/ctools\/css\/bd4f91631ebdd6e713f3763aa7770d53.css":1,"sites\/all\/themes\/custom\/synchrotron\/less\/main.less":1},"js":{"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/waypoints\/waypoints.min.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"misc\/form-single-submit.js":1,"public:\/\/languages\/fr_3I1lHB6EKB37OFOVyzxEUiEKTgXk1UpSwM8izoiIcIc.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/prevent_js_alerts\/prevent_js_alerts.js":1,"sites\/all\/modules\/contrib\/matomo\/matomo.js":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/contrib\/form_placeholder\/form_placeholder.js":1,"sites\/all\/themes\/custom\/synchrotron\/js\/custom.js":1,"sites\/all\/themes\/custom\/synchrotron\/js\/jquery.fixer.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"prevent_js_alerts":{"module_path":"sites\/all\/modules\/contrib\/prevent_js_alerts"},"better_exposed_filters":{"views":{"paragraphes":{"displays":{"block_9":{"filters":[]}}},"page_vid_o":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}},"footer_bloc_contact":{"displays":{"block":{"filters":[]}}}}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.4","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022container eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003ENous utilisons des cookies sur ce site pour am\u00e9liorer votre exp\u00e9rience utilisateur\u003C\/h2\u003E\u003Cp\u003EEn cliquant sur le bouton \u0022Accepter\u0022, vous nous autorisez \u00e0 le faire\u003C\/p\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EDonnez-moi plus d\u2019informations\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccepter\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003ENon, merci\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022container eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy tapping the Accept button, you agree to us doing so.\u003C\/p\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EDonnez-moi plus d\u2019informations\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccepter\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003ENon, merci\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv class=\u0022container\u0022\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info.\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":200,"popup_link":"https:\/\/www.synchrotron-soleil.fr\/fr\/mentions-legales-credits#cookies","popup_link_new_window":1,"popup_position":null,"fixed_top_position":1,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":1,"popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","allowed_cookies":"cookie-agreed\r\ncookie-agreed-categories\r\ncookie-agreed-version\r\nSESS*\r\nSSESS*\r\n_GRECAPTCHA","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner container\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":0,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":1,"cookie_name":"","containing_element":"body","automatic_cookies_removal":1},"matomo":{"trackMailto":1,"trackColorbox":1},"form_placeholder":{"fallback_support":false,"include":"","exclude":"","required_indicator":"append"},"urlIsAjaxTrusted":{"\/fr\/videos\/histoire-de-la-lumiere-ondes-et-photons":true}});
+//-->
+
+
+			
+
+  
+
+  
+    
+      Aller au menu
+        principal
+      Aller au contenu principal
+    
+
+        
+  
+
+  
+
+    
+
+      
+        
+        <a href="/fr"
+           title="Accueil" rel="home" id="logo">
+          
+        
+        
+      
+
+      
+        
+            
+    
+
+    
+  
+    Venir à SOLEIL
+Annuaire &amp; contacts
+  
+
+
+
+    
+  
+    
+
+Accès intranet
+
+  
+
+
+
+    
+  
+    
+ FREN
+
+
+
+
+
+
+
+  
+
+  
+        
+        
+            
+    
+
+    
+  
+    À propos de SOLEILNous connaître
+Nous rejoindre
+
+RechercheRecherche Interne
+Collaborations et projets de recherche
+Sources et Accélérateurs
+Plateformes
+
+Savoir-FaireSupports aux utilisateurs
+Laboratoire de Métrologie Optique (LMO)
+
+Lignes de lumièrePar domaines d&#039;énergie
+Localisation des lignes
+
+UtilisateursAppel à projet en cours
+Expérience : réaliser un projet à SOLEIL
+Synchrotron SOLEIL Users Organisation (S2UO)
+
+EntreprisesCaractérisation de matériaux
+Développements technologiques et valorisation
+Autres prestations specifiques
+Nos engagements
+Documentation
+
+PublicsPartager la culture scientifique
+Se documenter
+Découvrir nos vidéos
+Visiter SOLEIL
+
+  
+
+
+
+    
+  
+      
+
+
+
+    
+  
+    
+  Entrez votre recherche 
+ 
+
+
+
+
+
+  
+
+  
+        
+      
+
+    
+
+  
+
+
+
+  
+
+          
+        
+            
+    
+
+    
+  
+      
+          Accueil               &gt;
+                Videos               &gt;
+                Histoire de la lumière : Ondes et photons            
+  
+
+  
+        
+      
+    
+
+          
+        
+          Histoire de la lumi&egrave;re : Ondes et photons        
+      
+    
+
+    
+
+    
+
+              
+          
+                      
+        
+      
+      
+              
+                      
+              
+                
+              
+              
+                  
+    
+
+    
+  
+    
+
+
+
+  
+
+
+
+    
+  
+    
+
+  
+      
+  
+  
+      
+
+  
+  
+
+  
+
+
+
+    
+  
+    
+        
+  
+  
+      
+        
+      
+          
+
+  
+      
+
+    
+           Télécharger la vidéo (148.67 Mo - mpg) (148.67 Mo)    
+    
+  
+  
+  
+  
+      
+      
+        
+  
+  
+      
+        
+      
+          
+    Durée : 7.33
+    Crédit : SOLEIL
+    Réalisation : EPSIM
+    Date : 2013
+    De la civilisation grecque à nos jours la lumière a été étudiée par de nombreux hommes de sciences pour tenter de percer sa composition ou de la mesurer...
+
+&nbsp;
+
+L’onde et le photon
+
+Transcrition Audio
+
+L’homme a toujours voulu prolonger ses activités au-delà du coucher du soleil. Le feu fut sa première lumière artificielle, mais il était difficile à transporter. Puis vint la lampe à graisse, creusée dans une pierre tendre. Elle a permis aux premiers artistes de s’enfoncer au fond des grottes. Chaque éclairage a marqué une époque&nbsp;: la lampe à huile qu’il faut régulièrement remplir, la chandelle qui graisse les doigts, la lampe au pétrole, odorante et dangereuse, jusqu’à l’arrivée vers 1900 de la fée électricité qui illumine comme en plein jour.
+
+Les rayons lumineux
+
+La lumière a longtemps été considérée comme de nature divine. Si l’on se fie à nos références culturelles, les Grecs ont été les premiers à l’étudier. Pour eux, la lumière est étroitement liée à la vision. Euclide le mathématicien a l’idée brillante de la représenter par de minces filets rectilignes, les rayons lumineux. Il pense que l’œil envoie les rayons frapper les objets, ce qui permet de les voir. Les civilisations disparaissent, les bibliothèques demeurent. Dans leur conquête, les Arabes récupèrent les ouvrages grecs et les traduisent. Ils héritent des savoirs antiques, les approfondissent et innovent. En l’an mille, Alhazen comprend le fonctionnement de l’œil et affirme, au contraire d’Euclide, que la lumière provient des objets. Mieux, en s’appuyant sur d’innombrables expériences, il ébauche les lois de la réflexion et de la réfraction.
+
+Alhazen symbolise une science arabe à son apogée au Moyen-âge, une science nouvelle basée sur l'observation, l'expérimentation, la mesure. Ses livres sont traduits en latin et circulent en Europe. Copernic, Kepler, Galilée les lisent et s’en inspirent&nbsp;; comme pour bien d’autres disciplines, c’est la renaissance scientifique.
+
+Galilée passe de l’optique géométrique à l’optique instrumentale en fabriquant une lunette qu’il &nbsp;pointe vers le ciel. Il découvre les milliers d’étoiles de la voie lactée, les cratères de la lune, les satellites de Jupiter, ici Io, les taches du soleil. Il s’interroge&nbsp;: à quelle vitesse voyage la lumière&nbsp;? Il veut mesurer son temps de trajet entre deux collines de Toscane, au moyen de lanternes à volets, mais en vain car ses instruments sont trop rudimentaires.
+
+L’expérience aurait paru inutile à René Descartes, persuadé comme la majeure partie des scientifiques depuis l’antiquité, que la lumière se propage instantanément. Il établit en 1637 la loi de la réfraction mais cherche aussi à dépasser les problèmes d’optique géométrique. Il a l’immense mérite de revenir sur la nature de la lumière et de lancer un débat qui va durer trois siècles.
+
+La nature de la lumière
+
+25 ans après la mort de Descartes, Ole Römer, un astronome danois venu travailler à l’observatoire de Paris, étudie le mouvement des satellites de Jupiter, utilisés comme horloges par les navigateurs. Il constate des irrégularités. Io par exemple se lève de plus en plus tard au fur et à mesure que la Terre s’éloigne de Jupiter. Römer attribue ce décalage au temps supplémentaire que met la lumière pour parvenir à la Terre. Il estime même à 22 minutes le temps que met la lumière pour traverser l’orbite terrestre. Il pourrait par une simple division calculer la vitesse de la lumière, malheureusement les dimensions de l’orbite sont encore mal connues à l’époque. Mais le résultat est bien là&nbsp;: la lumière a une vitesse, qui n’est pas infinie.
+
+Cette nouvelle satisfait Huygens, le mathématicien et astronome Hollandais. Elle le conforte dans l’idée que la lumière est une onde, une vibration qui se propage. Sa théorie se heurte à celle d’un éminent savant anglais, Isaac Newton, pour qui la lumière est un flot de particules. Chacun interprète à sa manière les phénomènes lumineux. Prenons la réfraction, ce changement de direction de la lumière quand elle passe d’un milieu transparent à un autre, de l’air à l’eau par exemple. Pour Huygens, s’il y a réfraction, c’est parce que la vitesse des ondes diminue quand elles pénètrent dans l’eau. Newton au contraire utilise les règles qui régissent la balistique des projectiles ; s’il y a réfraction, c’est parce que la vitesse des corpuscules augmente. Cette controverse onde –corpuscule va mobiliser des générations de savants après eux.
+
+Au 18ème siècle, Young, Malus, Fresnel, Arago découvrent les phénomènes de diffraction, d’interférences et de polarisation qui prouvent la nature ondulatoire de la lumière. Mais Newton, qui avait trouvé une explication à la gravitation et au mouvement des planètes, bénéficie d’un immense prestige et de nombreux savants dits «&nbsp;newtoniens&nbsp;» restent partisans de la théorie corpusculaire.
+
+Pour trancher, Arago propose de comparer expérimentalement la vitesse de la lumière dans l'eau et dans l'air. Foucault et Fizeau ont justement mis au point des dispositifs de laboratoire révolutionnaires pour déterminer la vitesse de la lumière, le premier utilisant un miroir tournant et le second une roue dentée. L’expérience cruciale est réalisée en 1850. Verdict&nbsp;: la vitesse de la lumière est plus faible dans l'eau. Huygens avait raison. Le triomphe est parachevé en 1865 quand Maxwell réalise la synthèse magistrale de l’électricité et du magnétisme. La lumière est l’addition de deux ondes, une onde électrique et une onde magnétique. La lumière est une onde électromagnétique. Le débat est-il définitivement tranché&nbsp;? Non, en 1885, Hertz met en évidence un nouveau phénomène : une plaque métallique éclairée par une lumière ultraviolette émet de l'électricité, alors qu’avec une lumière rouge, rien ne se passe, même en augmentant l’intensité. Cet effet photoélectrique est impossible à comprendre si la lumière n’est qu’une onde transportant de l’énergie. Inspiré par Planck, Einstein redonne alors du crédit aux corpuscules de Newton. Il annonce en 1905 que la lumière est composée de quanta, plus tard baptisés photons, particules sans masse dont l’énergie dépend de la fréquence de l’onde associée.
+
+Ainsi, selon son interaction avec la matière, la lumière se manifeste tantôt comme une onde tantôt comme des corpuscules. Il faudra du temps pour admettre cette réalité subtile, cette dualité onde-corpuscule généralisée par de Broglie en 1924. La lumière est décidément un phénomène d’exception dans l’histoire des sciences !
+
+De nombreux philosophes, mathématiciens, astronomes, physiciens se sont illustrés dans l’histoire de la lumière. Ce film ne cite qu’une partie d’entre eux...
+
+
+	&nbsp;
+
+    
+    
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+
+  
+              
+              
+                  
+    
+
+    Dernières vidéos
+  
+  
+    
+        
+  
+  
+      
+        
+      
+          Le cristal qui se prenait pour une éponge     
+  
+      
+          Un talisman contre Yazdanduk    
+  
+      
+          Le lin, d’hier à aujourd’hui    
+    
+  
+  
+  
+  
+  
+  
+  
+
+  
+              
+            
+                  
+      
+      
+    
+
+  
+
+  
+  
+    
+        
+    
+
+    Nous contacter
+  
+  
+    
+        
+  
+  
+      
+        
+      
+          
+    Nous contacter
+    
+        Synchrotron SOLEIL
+
+L'Orme des Merisiers
+	Départementale 128
+	91190 Saint-Aubin
+
+Tél. 01 69 35 91 91
+
+        
+            Contactez-nous
+            Nous trouver sur la carte
+        
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+
+  
+    
+
+    
+        
+    
+
+    Suivez-nous
+  
+  
+    facebook fa fa-facebooktwitter fa fa-twitterlinkedin fa fa-linkedininstagram fa fa-instagram  
+
+  
+    
+
+    
+        
+    
+
+    
+  
+    
+    
+    
+        x
+        Saisie requise
+        Vous devez saisir au moins 3 caractères avant de lancer la recherche.
+    
+  
+
+
+
+    
+  
+    Plan du site web
+Mentions légales &amp; Crédits
+© 2017 SOLEIL Synchrotron
+  
+
+  
+    
+  
+
+
+ 
+    
+<!--
+window.eu_cookie_compliance_cookie_name = "";
+//-->
+
+
+  
+

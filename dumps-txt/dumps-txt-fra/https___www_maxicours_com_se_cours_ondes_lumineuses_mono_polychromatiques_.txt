@@ -1,0 +1,1569 @@
+
+
+  
+    
+    
+    
+window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("97d9cc3e-4f0e-4d58-ad0e-4b418ce971c9")})();
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCF2KZW');
+
+
+
+    
+	img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+	
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.maxicours.com\/se\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+
+
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+
+
+
+
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--orange: #ef7701;--wp--preset--color--orange-light: #fdf1e5;--wp--preset--color--purple: #a711c9;--wp--preset--color--yellow: #ffc400;--wp--preset--color--yellow-light: #fff9e5;--wp--preset--color--blue: #6826ef;--wp--preset--color--blue-light: #f4efff;--wp--preset--color--blue-dark: #0d122d;--wp--preset--color--teal: #12c2c9;--wp--preset--color--red: #c32f00;--wp--preset--color--grey: #cbcbcb;--wp--preset--color--dark: #3b3b3b;--wp--preset--color--transparent: transparent;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--xs: 12px;--wp--preset--font-size--sm: 14px;--wp--preset--font-size--base: 16px;--wp--preset--font-size--lg: 20px;--wp--preset--font-size--xl: 25px;--wp--preset--font-size--2-xl: 30px;--wp--preset--font-size--3-xl: 36px;--wp--preset--font-size--4-xl: 38px;--wp--preset--font-size--5-xl: 45px;--wp--preset--font-size--6-xl: 58px;--wp--preset--font-family--sans: "Open Sans",sans-serif;--wp--preset--font-family--display: "Luciole",sans-serif;--wp--preset--font-family--script: "Caveat Brush",sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 1240px;--wp--style--global--wide-size: 1240px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-orange-color{color: var(--wp--preset--color--orange) !important;}.has-orange-light-color{color: var(--wp--preset--color--orange-light) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-yellow-light-color{color: var(--wp--preset--color--yellow-light) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-blue-light-color{color: var(--wp--preset--color--blue-light) !important;}.has-blue-dark-color{color: var(--wp--preset--color--blue-dark) !important;}.has-teal-color{color: var(--wp--preset--color--teal) !important;}.has-red-color{color: var(--wp--preset--color--red) !important;}.has-grey-color{color: var(--wp--preset--color--grey) !important;}.has-dark-color{color: var(--wp--preset--color--dark) !important;}.has-transparent-color{color: var(--wp--preset--color--transparent) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-orange-background-color{background-color: var(--wp--preset--color--orange) !important;}.has-orange-light-background-color{background-color: var(--wp--preset--color--orange-light) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-yellow-light-background-color{background-color: var(--wp--preset--color--yellow-light) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-blue-light-background-color{background-color: var(--wp--preset--color--blue-light) !important;}.has-blue-dark-background-color{background-color: var(--wp--preset--color--blue-dark) !important;}.has-teal-background-color{background-color: var(--wp--preset--color--teal) !important;}.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.has-grey-background-color{background-color: var(--wp--preset--color--grey) !important;}.has-dark-background-color{background-color: var(--wp--preset--color--dark) !important;}.has-transparent-background-color{background-color: var(--wp--preset--color--transparent) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-orange-border-color{border-color: var(--wp--preset--color--orange) !important;}.has-orange-light-border-color{border-color: var(--wp--preset--color--orange-light) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-yellow-light-border-color{border-color: var(--wp--preset--color--yellow-light) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-blue-light-border-color{border-color: var(--wp--preset--color--blue-light) !important;}.has-blue-dark-border-color{border-color: var(--wp--preset--color--blue-dark) !important;}.has-teal-border-color{border-color: var(--wp--preset--color--teal) !important;}.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.has-grey-border-color{border-color: var(--wp--preset--color--grey) !important;}.has-dark-border-color{border-color: var(--wp--preset--color--dark) !important;}.has-transparent-border-color{border-color: var(--wp--preset--color--transparent) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xs-font-size{font-size: var(--wp--preset--font-size--xs) !important;}.has-sm-font-size{font-size: var(--wp--preset--font-size--sm) !important;}.has-base-font-size{font-size: var(--wp--preset--font-size--base) !important;}.has-lg-font-size{font-size: var(--wp--preset--font-size--lg) !important;}.has-xl-font-size{font-size: var(--wp--preset--font-size--xl) !important;}.has-2-xl-font-size{font-size: var(--wp--preset--font-size--2-xl) !important;}.has-3-xl-font-size{font-size: var(--wp--preset--font-size--3-xl) !important;}.has-4-xl-font-size{font-size: var(--wp--preset--font-size--4-xl) !important;}.has-5-xl-font-size{font-size: var(--wp--preset--font-size--5-xl) !important;}.has-6-xl-font-size{font-size: var(--wp--preset--font-size--6-xl) !important;}.has-sans-font-family{font-family: var(--wp--preset--font-family--sans) !important;}.has-display-font-family{font-family: var(--wp--preset--font-family--display) !important;}.has-script-font-family{font-family: var(--wp--preset--font-family--script) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+
+
+
+:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+
+
+
+.wp-block-kadence-spacer.kt-block-spacer-35343_cba4e0-64 .kt-block-spacer{height:10px;}.wp-block-kadence-spacer.kt-block-spacer-35343_cba4e0-64 .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_f0d1e6-16 .kt-block-spacer{height:10px;}.wp-block-kadence-spacer.kt-block-spacer-35343_f0d1e6-16 .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_d6805e-a9 .kt-block-spacer{height:25px;}.wp-block-kadence-spacer.kt-block-spacer-35343_d6805e-a9 .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_212317-c9 .kt-block-spacer{height:20px;}.wp-block-kadence-spacer.kt-block-spacer-35343_212317-c9 .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_c93c37-eb .kt-block-spacer{height:10px;}.wp-block-kadence-spacer.kt-block-spacer-35343_c93c37-eb .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_ca5f73-83 .kt-block-spacer{height:10px;}.wp-block-kadence-spacer.kt-block-spacer-35343_ca5f73-83 .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_477b5d-04 .kt-block-spacer{height:15px;}.wp-block-kadence-spacer.kt-block-spacer-35343_477b5d-04 .kt-divider{width:80%;}.wp-block-kadence-spacer.kt-block-spacer-35343_b36350-cc .kt-block-spacer{height:25px;}.wp-block-kadence-spacer.kt-block-spacer-35343_b36350-cc .kt-divider{width:80%;}
+
+
+
+
+  
+    window.dataLayer = window.dataLayer || [] ;
+    window.dataLayer.push( {"environment":"production","site":"Portail myMaxicours","brand":"myMaxicours","page_name":"Ondes lumineuses : mono\/polychromatiques","page_typology":"Cours","page_matiere":"Physique Chimie","page_classe":"Terminale"} );
+  
+  
+
+
+
+
+    
+      Ondes lumineuses : mono/polychromatiques - myMaxicours
+      
+      <meta name="description" content="
+  
+    
+      Objectifs
+    
+    
+      &bull; Rappeler quelques notions importantes relatives aux
+      radiations &eacute;lectromagn&eacute;tiques, y compris la
+      lumi&egrave;re visible.
+      &bull; Expliquer le ph&eacute;nom&egrave;ne de dispersion de
+      la lumi&egrave;re, utilis&eacute; par un prisme optique pour
+      d&eacute;composer la lumi&egrave;re.
+      &bull; Caract&eacute;ri" />
+      <meta property="og:description" content="
+  
+    
+      Objectifs
+    
+    
+      &bull; Rappeler quelques notions importantes relatives aux
+      radiations &eacute;lectromagn&eacute;tiques, y compris la
+      lumi&egrave;re visible.
+      &bull; Expliquer le ph&eacute;nom&egrave;ne de dispersion de
+      la lumi&egrave;re, utilis&eacute; par un prisme optique pour
+      d&eacute;composer la lumi&egrave;re.
+      &bull; Caract&eacute;ri" />
+
+      
+      
+      
+      
+            
+
+      
+
+    
+    
+    
+    
+    
+
+  
+
+  
+    
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCF2KZW"
+height="0" width="0" style="display:none;visibility:hidden">
+
+
+
+
+window.addEventListener("DOMContentLoaded", (event) => {
+  document.querySelector('.didomi-menu').addEventListener('click',function(e){
+    e.preventDefault();
+    Didomi.preferences.show()
+  })
+})
+        
+    
+      
+  Aller au contenu
+
+
+
+  
+    
+      
+        
+          <img src="https://www.maxicours.com/se/wp-content/uploads/2023/08/output-onlinepngtools-1.png"
+               alt="myMaxicours" class="max-h-11 mt-1.5 mb-1.5">
+        
+      
+      
+        
+  
+          S'abonner
+        Connexion
+  
+
+      
+      
+      01 49 08 38 00
+    
+  
+      
+      
+        
+          
+          
+          
+        
+      
+    
+          
+        Par classe
+
+Primaire
+	
+CPCE1CE2CM1CM2	
+Collège
+	
+6e5e4e3e	
+Lycée
+	
+2de1reTerminale1re technoTerminale techno2de pro1re proTerminale pro	
+
+Par matière
+
+Liste des matières
+	
+MathématiquesFrançaisAnglaisSVTPhysique ChimieHistoireGéographiePhilosophie	
+
+Nos offres
+
+Pour une année scolaire réussie
+	
+Soutien scolaire en ligneProfs en ligne	
+
+Qui sommes-nous ?Conseils pour les parents
+      
+    
+    
+    <div class="lg:hidden mobile-menu fixed top-0 left-0 w-full h-full z-50 opacity-0 pointer-events-none
+    transition transform translate-y-12 bg-yellow-light">
+      
+        
+          
+            
+              
+            
+          
+          
+            
+            
+            
+          
+        
+        
+  
+          S'abonner
+        Connexion
+  
+
+      
+      
+      01 49 08 38 00
+    
+  
+        
+                      
+              Par classe
+
+Primaire
+	
+CPCE1CE2CM1CM2	
+Collège
+	
+6e5e4e3e	
+Lycée
+	
+2de1reTerminale1re technoTerminale techno2de pro1re proTerminale pro	
+
+Par matière
+
+Liste des matières
+	
+MathématiquesFrançaisAnglaisSVTPhysique ChimieHistoireGéographiePhilosophie	
+
+Nos offres
+
+Pour une année scolaire réussie
+	
+Soutien scolaire en ligneProfs en ligne	
+
+Qui sommes-nous ?Conseils pour les parents
+            
+                  
+      
+    
+    
+  
+
+
+  
+              
+  
+    <div class="absolute top-0 left-1/2 w-screen h-full bg-cover bg-bottom transform -translate-x-1/2"
+        style="background-image:url(https://www.maxicours.com/se/wp-content/themes/mymaxicours/public/images/MotifBGArrondiePetitViolet-1.1c82d5.png)">
+    
+      Fiche de cours
+      
+        
+          Ondes lumineuses : mono/polychromatiques
+        
+      
+    
+  
+
+  
+                          Lycée &nbsp;&nbsp;&gt;&nbsp;&nbsp; 
+                                    Terminale &nbsp;&nbsp;&gt;&nbsp;&nbsp; 
+                                    Physique Chimie &nbsp;&nbsp;&gt;&nbsp;&nbsp; 
+              Ondes lumineuses : mono/polychromatiques
+
+
+
+
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+          {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Lyc\u00e9e","item": "https://www.maxicours.com/se/lycee/"      },          {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Terminale","item": "https://www.maxicours.com/se/lycee/terminale/"      },          {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Physique Chimie","item": "https://www.maxicours.com/se/physique-chimie/"      },          {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Ondes lumineuses : mono\/polychromatiques"      }      ]
+}
+
+
+  
+  
+    
+    
+  
+
+  
+    
+                          
+      
+      
+        
+          
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+            Fiche de cours
+          
+          
+            
+              
+              
+              
+              
+              
+              
+            
+            Quiz et exercices
+                      
+          
+            
+              
+              
+              
+              
+              
+            
+
+            Vidéos et podcasts
+          
+        
+        
+          
+
+            
+              
+  
+    
+      Objectifs
+    
+    
+      &bull; Rappeler quelques notions importantes relatives aux
+      radiations &eacute;lectromagn&eacute;tiques, y compris la
+      lumi&egrave;re visible.
+      &bull; Expliquer le ph&eacute;nom&egrave;ne de dispersion de
+      la lumi&egrave;re, utilis&eacute; par un prisme optique pour
+      d&eacute;composer la lumi&egrave;re.
+      &bull; Caract&eacute;riser alors une lumi&egrave;re
+      polychromatique et monochromatique.
+    
+  
+
+
+  
+    
+      1.&nbsp;La lumi&egrave;re
+    
+    
+      
+        
+          a.&nbsp;Rappels
+        
+        
+          Dans le vide, toutes les radiations
+          &eacute;lectromagn&eacute;tiques, dont la lumi&egrave;re,
+          se propagent &agrave; la c&eacute;l&eacute;rit&eacute;
+          <img width="128" height="17" src=
+          "/se/media/img/5/3/0/8/530816.gif" class=
+          "opdequation oid_530815" style="vertical-align: -1px;"
+          alt="">. D'autre part, le lien entre la fr&eacute;quence
+          f (en Hz) d'une onde
+          &eacute;lectromagn&eacute;tique et sa longueur d'onde
+          &lambda; (en m) dans le vide est donn&eacute; par
+          <img width="37" height="23" alt="" src=
+          "/se/media/img/5/3/0/8/530818.gif" class=
+          "opdequation oid_530817">, o&ugrave; la
+          c&eacute;l&eacute;rit&eacute; est en
+          m.s-1.
+          
+          Dans l'air, la c&eacute;l&eacute;rit&eacute; de la
+          lumi&egrave;re est proche de c. Par contre, dans
+          un milieu mat&eacute;riel transparent, comme le verre ou
+          l'eau, la c&eacute;l&eacute;rit&eacute; v de la
+          lumi&egrave;re est plus faible que dans le vide. Elle est
+          donn&eacute;e par l'indice optique de
+          r&eacute;fraction n (sans dimension) du milieu
+          de propagation, car nous avons <img width="36" height=
+          "19" alt="" src=
+          "/se/media/img/5/3/0/8/530820.gif" class=
+          "opdequation oid_530819">, avec n &ge; 1. Quand
+          une radiation lumineuse change de milieu, sa
+          c&eacute;l&eacute;rit&eacute; et sa longueur d'onde
+          peuvent varier, mais pas sa fr&eacute;quence.
+        
+      
+      
+        
+          b.&nbsp;Le domaine du visible
+        
+        
+          L&rsquo;&oelig;il humain n&rsquo;est sensible
+          qu&rsquo;&agrave; certaines fr&eacute;quences du
+          spectre
+          &eacute;lectromagn&eacute;tique. Ce sont
+          celles qui appartiennent au domaine de la lumi&egrave;re
+          visible, dont les fr&eacute;quences sont comprises
+          entre 3,8 .1014 Hz et 7,5.1014 Hz.
+          Cela correspond &agrave; un domaine en longueur d'onde
+          dans le vide compris entre 400 nm et 800 nm
+          environ (1 nm = 10&ndash;9 m).
+        
+      
+      
+        
+          c.&nbsp;Le spectre &eacute;lectromagn&eacute;tique
+        
+        
+          
+            &rarr; Les ultraviolets (UV) ont des longueurs
+            d&rsquo;onde dans le vide plus faibles que
+            celles du visible, comprises entre 10 nm et 400
+            nm.
+          
+          
+            Cela signifie que les photons UV sont plus
+            &eacute;nergiques que les photons du visible
+            (d'apr&egrave;s la relation donnant l'&eacute;nergie E
+            d'un photon : <img width="48" height="23" class=
+            "opdequation oid_530821" src=
+            "/se/media/img/5/3/0/8/530822.gif" alt=
+            "">, o&ugrave; h est la constante de
+            Planck).
+            Les UV &agrave; courtes longueurs d&rsquo;onde
+            &eacute;mis par le Soleil, nocifs pour l&rsquo;Homme ou
+            pour la vie en g&eacute;n&eacute;ral, sont
+            absorb&eacute;s par la couche d&rsquo;ozone dans la
+            haute atmosph&egrave;re.
+          
+          
+            &rarr; Les infrarouges (IR) sont des longueurs
+            d&rsquo;ondes dans le vide plus grandes que
+            celles du visible, elles sont comprises entre 800 nm
+            et 100 &micro;m (1 &micro;m = 10&ndash;6
+            m).
+          
+          
+            Ils font partie du rayonnement thermique &eacute;mis
+            par les corps (cf loi de Wien, vue en
+            1&egrave;re S).
+          
+          
+            <img src=
+            "/se/media/img/1/5/0/4/150406.gif" alt=
+            "">
+          
+          &rarr; D&rsquo;autres domaines existent et sont
+          utilis&eacute;s dans la vie courante (domaine hertzien,
+          rayons X).
+          
+          Illustration anim&eacute;e : Le spectre
+          &eacute;lectromagn&eacute;tique.
+          Longueurs d'onde et fr&eacute;quences correspondantes de
+          diff&eacute;rents domaines.
+          (Cliquer puis faire glisser la r&egrave;gle pour savoir
+          &agrave; quoi correspondent les longueurs d'ondes
+          situ&eacute;es au-del&agrave; du visible.)
+          
+          
+            &nbsp;
+          
+        
+      
+    
+  
+  
+    
+      2.&nbsp;La lumi&egrave;re polychromatique avec
+      l'exp&eacute;rience de Newton
+    
+    
+      
+        
+          a.&nbsp;Le ph&eacute;nom&egrave;ne de dispersion de la
+          lumi&egrave;re par un prisme
+        
+        
+          
+            &rarr; On dit qu&rsquo;un milieu est <span class=
+            "bleu">dispersif si la
+            c&eacute;l&eacute;rit&eacute; d&rsquo;une onde dans ce
+            milieu d&eacute;pend de sa fr&eacute;quence.
+          Dans le vide, toutes les radiations lumineuses ont
+          la m&ecirc;me c&eacute;l&eacute;rit&eacute;. On dit donc
+          que le vide est un milieu non dispersif. Par contre,
+          certains mat&eacute;riaux, comme le verre flint, sont
+          fortement dispersifs pour les radiations lumineuses
+          visibles.
+          
+          &rarr; Consid&eacute;rons deux milieux 1 et 2,
+          d&rsquo;indices de r&eacute;fraction n1
+          et n2, s&eacute;par&eacute;s par une
+          surface (nomm&eacute;e dioptre en optique) que nous
+          consid&eacute;rerons comme plane. On d&eacute;finit la
+          normale &agrave; cette surface par une droite qui
+          lui est perpendiculaire.
+          
+            Quand un rayon lumineux passe d&rsquo;un milieu
+            &agrave; l&rsquo;autre, l&rsquo;angle qu&rsquo;il fait
+            avec la normale est modifi&eacute;. C&rsquo;est le
+            ph&eacute;nom&egrave;ne de r&eacute;fraction,
+            d&eacute;crit par la loi de Snell-Descartes sur la
+            r&eacute;fraction&nbsp;:
+            n1&nbsp;&times;&nbsp;sin(i1)&nbsp;=&nbsp;n2&nbsp;&times;&nbsp;sin(i2)
+          i1 (en degr&eacute;s ou en
+          radians) est l'angle fait avec la normale dans le milieu
+          1, et i2 celui dans le milieu 2.
+          
+            <img width="350" height="250" alt="" src=
+            "/se/media/img/5/3/0/8/530823.jpg">
+          
+          &rarr; Puisque l'indice n est reli&eacute;
+          &agrave; la c&eacute;l&eacute;rit&eacute; de la radiation
+          lumineuse dans le milieu, et comme les radiations
+          lumineuses n'ont pas la m&ecirc;me
+          c&eacute;l&eacute;rit&eacute; dans un milieu dispersif,
+          alors chaque radiation lumineuse a son propre indice
+          de r&eacute;fraction dans un tel milieu.
+          
+          Un prisme est compos&eacute; d'un milieu
+          dispersif, comme du verre flint. L'id&eacute;e est
+          d'envoyer les radiations lumineuses selon un angle
+          d'incidence donn&eacute;, non nul par rapport &agrave; la
+          normale, afin de provoquer une premi&egrave;re
+          r&eacute;fraction sur l'interface air/verre (en
+          entr&eacute;e du prisme), puis une autre sur l'interface
+          verre/air (en sortie du prisme).
+          Dans cette configuration, chaque radiation aura un
+          angle de r&eacute;fraction diff&eacute;rent des autres,
+          et sera donc d&eacute;vi&eacute;e
+          diff&eacute;remment. Cela permet ainsi de
+          d&eacute;composer la lumi&egrave;re
+          en fonction de la fr&eacute;quence/longueur d'onde des
+          radiations qui la composent.
+        
+      
+      
+        
+          b.&nbsp;Dispersion de la lumi&egrave;re blanche par un
+          prisme
+        
+        
+          Newton a constat&eacute; qu&rsquo;en &eacute;clairant un
+          prisme avec de la lumi&egrave;re blanche &eacute;mise par
+          le Soleil, celle-ci sortait du prisme en &eacute;tant
+          d&eacute;vi&eacute;e, et qu&rsquo;elle se
+          d&eacute;composait en lumi&egrave;res de toutes les
+          couleurs de l&rsquo;arc-en-ciel. Il en a d&eacute;duit
+          que la lumi&egrave;re blanche est compos&eacute;e de
+          toutes ces couleurs, que le prisme nous permet de
+          s&eacute;parer les unes des autres.
+          
+          
+            <img alt="" src=
+            "/se/media/img/1/5/0/4/150403.gif">
+          
+          On obtient alors un spectre continue
+          s'&eacute;talant du violet (&lambda; = 400 nm) au
+          rouge (&lambda; = 800 nm). La lumi&egrave;re
+          blanche, &eacute;mise par le Soleil ou une lampe, est
+          donc compos&eacute;e de plusieurs longueurs d'onde
+          (ici, une infinit&eacute;). En cons&eacute;quence, on dit
+          que la lumi&egrave;re blanche est <span class=
+          "bleu">polychromatique.
+          
+          Remarques :
+          &rarr; Le spectre solaire comporte des raies
+          d&rsquo;absorption, nomm&eacute;es raies de Fraunhofer
+          (cf programme de 1&egrave;re S).
+          
+          &rarr; Comme vu en 1&egrave;re S, on peut
+          obtenir de la lumi&egrave;re blanche avec trois couleurs
+          (ou m&ecirc;me trois longueurs d&rsquo;onde)
+          diff&eacute;rentes : du rouge, du vert et du bleu
+          (synth&egrave;se trichromatique additive). Une
+          lumi&egrave;re blanche artificielle n&rsquo;a donc pas
+          forc&eacute;ment un spectre continu comme celui que nous
+          venons de trouver, mais il est forc&eacute;ment
+          polychromatique.
+          
+          &rarr; Le prisme n&rsquo;est pas le seul outil
+          d&rsquo;optique permettant d&rsquo;&eacute;tablir un
+          spectre. Un r&eacute;seau de diffraction peut
+          &eacute;galement d&eacute;composer la lumi&egrave;re,
+          comme la surface d&rsquo;un CD (cf cours sur la
+          diffraction).
+        
+      
+      
+        
+          c.&nbsp;Spectre d'une lampe &agrave; vapeur de mercure
+        
+        
+          Il existe aussi des lumi&egrave;res
+          polychromatiques qui ne sont constitu&eacute;es
+          que de quelques radiations de longueurs d&rsquo;onde
+          diff&eacute;rentes. Dans ce cas, on obtient un
+          spectre de raies (spectre discontinu) dont
+          les raies correspondent aux longueurs d&rsquo;onde
+          constituant la lumi&egrave;re &eacute;tudi&eacute;e.
+          C&rsquo;est par exemple le cas avec une lampe &agrave;
+          vapeur de mercure. Le sch&eacute;ma suivant donne une
+          vision du montage qui nous permettrait
+          d&rsquo;&eacute;tablir ce spectre.
+          
+          
+            <img width="450" height="162" src=
+            "/se/media/img/5/3/0/8/530825.jpg" alt=
+            "">
+          
+        
+      
+    
+  
+  
+    
+      3.&nbsp;Notion de radiation monochromatique
+    
+    
+      
+        
+          Une source lumineuse qui &eacute;met une lumi&egrave;re
+          compos&eacute;e d'une unique fr&eacute;quence/longueur
+          d'onde est une source
+          monochromatique. Dans ce cas, on obtient un
+          spectre compos&eacute; d'une seule raie qui
+          correspond &agrave; la radiation &eacute;mise par la
+          source.
+        
+        Dans l'exp&eacute;rience du prisme, lorsqu&rsquo;on
+        remplace la source de lumi&egrave;re blanche par un laser,
+        le prisme d&eacute;vie le faisceau du laser mais ne la
+        d&eacute;compose pas : on a une seule raie brillante.
+        
+        
+          <img alt="" src=
+          "/se/media/img/1/5/0/4/150404.gif">
+        
+        Le laser g&eacute;n&egrave;re une lumi&egrave;re
+        monochromatique qui est constitu&eacute;e d'une
+        radiation unique. Cette radiation est
+        caract&eacute;ris&eacute;e par sa fr&eacute;quence ou sa
+        longueur d'onde.
+        Ainsi, la lumi&egrave;re du laser utilis&eacute;e pour
+        notre exp&eacute;rience est caract&eacute;ris&eacute;e par
+        une radiation de longueur d'onde &lambda; =
+        720.10&ndash;9 m = 720 nm (rouge).
+      
+    
+  
+
+
+  
+    
+      L'essentiel
+    
+    
+      Dans le spectre &eacute;lectromagn&eacute;tique, la
+      lumi&egrave;re visible se situe dans un domaine en
+      longueurs d'onde (dans l'air ou dans le vide) comprises entre
+      400 nm et 800 nm. En de&ccedil;&agrave;, se situent
+      les ultraviolets (entre 10 nm et 400 nm) et
+      au-del&agrave;, les infrarouges (entre 800 nm et 1
+      mm).
+      
+      Pour &eacute;tablir le spectre d&rsquo;une lumi&egrave;re, on
+      peut faire appel &agrave; un prisme. Via le
+      ph&eacute;nom&egrave;ne de dispersion de la
+      lumi&egrave;re, on d&eacute;compose ainsi la
+      lumi&egrave;re pour obtenir les diff&eacute;rentes radiations
+      qui la composent.
+      
+      Une lumi&egrave;re monochromatique ne contient
+      qu&rsquo;une seule radiation de fr&eacute;quence bien
+      d&eacute;finie.
+      Une lumi&egrave;re polychromatique est
+      constitu&eacute;e plusieurs fr&eacute;quences. Il peut
+      s&rsquo;agir de quelques fr&eacute;quences (spectres de
+      raies), ou d&rsquo;une infinit&eacute; (spectre continu).
+    
+  
+            
+            
+              function mxc_son(a,b) {
+                event.preventDefault();
+                event.target.style.display = 'none'
+
+                let url = a;
+                if(!url.includes('.mp3')) {
+                  url = b;
+                }
+
+                var audioEl      = document.createElement('audio');
+                audioEl.id       = 'audio-player';
+                audioEl.controls = 'controls';
+                audioEl.src      = url;
+                audioEl.type     = 'audio/mpeg';
+
+                event.target.after(audioEl)
+
+                audioEl.play();
+              }
+            
+
+            
+            
+              
+              
+            
+
+            
+  
+    
+      
+      
+    
+    Vote en cours...
+  
+  
+    
+      Vous avez déjà mis une note à ce cours.
+      Découvrez les autres cours offerts par myMaxicours !
+      
+        Découvrez myMaxicours
+      
+    
+    
+      Évalue ce cours !
+      
+                          
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+
+          
+                  
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+
+          
+                  
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+
+          
+                  
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+
+          
+                  
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+
+          
+              
+      &nbsp;
+    
+    
+      Nous sommes désolés que ce cours ne te soit pas utile
+      N'hésite pas à nous écrire pour nous faire part de tes suggestions d'amélioration
+      
+        Contacte-nous
+      
+    
+    
+      Puisque tu as trouvé ce cours utile
+      Je partage à mes amis
+      
+                
+          
+        
+
+        <span data-obf="aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dGV4dD1QYXMrbWFsK01heGljb3Vycy5jb20rcG91cityJUMzJUE5dmlzZXIrZXQrY29tcHJlbmRyZSslMjErJUYwJTlGJTk5JThGJTBhU3VydG91dCtxdWFuZCt0JTI3YXZhaXMrcGFzK3RvdXQrJUMzJUE5Y291dCVDMyVBOSslRjAlOUYlOTglOEUlMGElMGFUb3VzK2xlcytwcm9ncmFtbWVzK2R1K0NQK2F1K0JhYytzdXIrd3d3Lm1heGljb3Vycy5jb20="
+              data-obf-target="_blank" class="block cursor-pointer">
+          
+        
+        
+          
+        
+        
+          
+        
+      
+    
+  
+  
+    
+
+	Note 4.1 / 5. Nombre de vote(s) : 190
+
+
+
+  
+
+
+            
+          
+          
+                          
+Des quiz et exercices pour mieux assimiler sa leçon
+La plateforme de soutien scolaire en ligne myMaxicours propose des quiz et exercices en accompagnement de chaque fiche de cours. Les exercices permettent de vérifier si la leçon est bien comprise ou s’il reste encore des notions à revoir.
+S&rsquo;abonner
+&nbsp;
+
+Des exercices variés pour ne pas s’ennuyer
+Les exercices se déclinent sous toutes leurs formes sur myMaxicours ! Selon la matière et la classe étudiées, retrouvez des dictées, des mots à relier ou encore des phrases à compléter, mais aussi des textes à trous et bien d’autres formats !
+Dans les classes de primaire, l’accent est mis sur des exercices illustrés très ludiques pour motiver les plus jeunes.
+S&rsquo;abonner
+&nbsp;
+
+Des quiz pour une évaluation en direct
+Les quiz et exercices permettent d’avoir un retour immédiat sur la bonne compréhension du cours. Une fois toutes les réponses communiquées, le résultat s’affiche à l’écran et permet à l’élève de se situer immédiatement.
+myMaxicours offre des solutions efficaces de révision grâce aux fiches de cours et aux exercices associés. L’élève se rassure pour le prochain examen en testant ses connaissances au préalable.
+S&rsquo;abonner
+
+                      
+          
+            
+Des vidéos et des podcasts pour apprendre différemment
+Certains élèves ont une mémoire visuelle quand d’autres ont plutôt une mémoire auditive. myMaxicours s’adapte à tous les enfants et adolescents pour leur proposer un apprentissage serein et efficace.
+Découvrez de nombreuses vidéos et podcasts en complément des fiches de cours et des exercices pour une année scolaire au top !
+S&rsquo;abonner
+&nbsp;
+
+Des podcasts pour les révisions
+La plateforme de soutien scolaire en ligne myMaxicours propose des podcasts de révision pour toutes les classes à examen : troisième, première et terminale.
+Les ados peuvent écouter les différents cours afin de mieux les mémoriser en préparation de leurs examens. Des fiches de cours de différentes matières sont disponibles en podcasts ainsi qu’une préparation au grand oral avec de nombreux conseils pratiques.
+S&rsquo;abonner
+&nbsp;
+
+Des vidéos de cours pour comprendre en image
+Des vidéos de cours illustrent les notions principales à retenir et complètent les fiches de cours. De quoi réviser sa prochaine évaluation ou son prochain examen en toute confiance !
+S&rsquo;abonner
+
+          
+        
+      
+
+      
+      
+
+        
+          
+          
+            
+            
+          
+
+          
+                      
+              
+                
+                  <a href="/se/profs-en-ligne/"
+                    class="text-white font-bold text-el transition-opacity">
+                    Profs en ligne
+                  
+                
+              
+              <div class="color-el rounded-b-10 bg-white relative flex items-center justify-end flex-col overflow-hidden h-full transition-colors duration-300"
+                  style="background-color:#ffc400">
+                
+                  
+                                      <img class="hidden hidden-img"
+                        src="https://www.maxicours.com/se/wp-content/uploads/2023/06/ProfEnLigne@2x-1.png"
+                        data-link="/se/profs-en-ligne/"
+                        data-text="Profs en ligne"
+                        data-color="#ffc400">
+                                      <img class="hidden hidden-img"
+                        src="https://www.maxicours.com/se/wp-content/uploads/2023/06/CoursVideo@2x.png"
+                        data-link="/se/podcasts-de-revisions/"
+                        data-text="Des podcasts de révision"
+                        data-color="#a711c9">
+                                      <img class="hidden hidden-img"
+                        src="https://www.maxicours.com/se/wp-content/uploads/2023/06/ExercicesCorriges@2x.png"
+                        data-link="/se/exercices-et-corriges/"
+                        data-text="Des exercices corrigés"
+                        data-color="#c32f00">
+                                      <img class="hidden hidden-img"
+                        src="https://www.maxicours.com/se/wp-content/uploads/2023/06/Examens@2x.png"
+                        data-link="/se/annales-brevet-en-ligne/"
+                        data-text="Des sujets d'examen"
+                        data-color="#6826ef">
+                                  
+                
+                  S'abonner
+                
+              
+            
+          
+          
+          
+        
+      
+    
+  
+
+  
+  
+    <div class="absolute w-screen h-full top-0 left-1/2
+                transform -translate-x-1/2
+                bg-[length:auto_100%] bg-[top_left_70vw] lg:bg-right-bottom bg-no-repeat"
+        style="background-image:url(https://www.maxicours.com/se/wp-content/themes/mymaxicours/public/images/Fond.31b3a6.png)">
+    
+      
+
+
+Découvrez le soutien scolaire en ligne avec myMaxicours
+
+
+
+Plongez dans l'univers de myMaxicours et découvrez une approche innovante du soutien scolaire en ligne, conçue pour captiver et éduquer les élèves de CP à la terminale. Notre plateforme se distingue par une riche sélection de contenus interactifs et ludiques, élaborés pour stimuler la concentration et la motivation à travers des parcours d'apprentissage adaptés à chaque tranche d'âge. Chez myMaxicours, nous croyons en une éducation où chaque élève trouve sa place, progresse à son rythme et développe sa confiance en soi dans un environnement bienveillant.
+
+
+
+Profitez d'un accès direct à nos Profs en ligne pour une assistance personnalisée, ou explorez nos exercices et corrigés pour renforcer vos connaissances. Notre assistance scolaire en ligne est conçue pour vous accompagner à chaque étape de votre parcours éducatif, tandis que nos vidéos et fiches de cours offrent des explications claires et concises sur une multitude de sujets. Avec myMaxicours, avancez sereinement sur le chemin de la réussite scolaire, armé des meilleurs outils et du soutien de professionnels dédiés à votre épanouissement académique.
+
+
+
+
+EXERCE-TOI EN T'ABONNANT
+
+
+
+    
+    
+      <img src="https://www.maxicours.com/se/wp-content/themes/mymaxicours/public/images/fille-footer-cours.601101.png" alt="Illustration écolière avec livre"
+            class='absolute max-h-full right-0 -bottom-[7%] z-20'>
+    
+  
+
+      
+      
+        Fiches de cours les plus recherchées
+        
+  
+    
+              
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Troisième loi de Newton : le principe des actions réciproques
+  
+
+                      
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Déterminer la vitesse de réaction et le temps de demi-réaction
+  
+
+                        
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Principe des techniques d'analyse utilisées en cinétique
+  
+
+                      
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Mise en évidence des facteurs cinétiques
+  
+
+                        
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Étude d'un système solide-ressort et des forces de frottements
+  
+
+                      
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Chaîne de transmission d'informations - signaux analogique et numérique
+  
+
+                        
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Caractéristiques d'une image numérique
+  
+
+                      
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Conversion d'un signal analogique en signal numérique
+  
+
+                        
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Procédés physiques de transmission de données
+  
+
+                      
+  
+  
+    
+              
+                      
+                    Physique Chimie
+        
+          
+  
+  
+    Caractéristiques d'une transmission numérique
+  
+
+                    
+  
+  
+    
+      
+        
+      
+    
+    
+      
+        
+      
+    
+  
+
+      
+    
+  
+      <div class="popup fixed z-40 w-screen h-screen top-0 left-0 transition-opacity close-el auto-open"
+     data-modal="pass24h">
+  
+  
+    
+      
+        
+          
+            
+            Fermer
+          
+          
+            
+
+
+Accédez gratuitement à
+
+
+
+
+
+
+
+
+
+Tout le contenu gratuit pendant 24h !
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercices corrigés
+
+
+
+
+
+
+
+
+
+
+
+
+
+Espace parents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quiz interactifs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Podcasts de révisions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cours en vidéo
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fiches de cours
+
+
+
+
+
+
+            
+              
+  
+    
+    OBTENIR MON ACCÈS
+  
+  
+    Une erreur s'est produite, veuillez ré-essayer
+  
+  
+    Merci pour votre inscription
+  
+  * Votre code d'accès sera envoyé à cette adresse e-mail. En renseignant votre e-mail, vous consentez à ce que vos données à caractère personnel soient traitées par SEJER, sous la marque myMaxicours, afin que SEJER puisse vous donner accès au service de soutien scolaire pendant 24h.  Pour en savoir plus sur la gestion de vos données personnelles et pour exercer vos droits, vous pouvez consulter notre charte.
+  
+    
+    
+      J’accepte de recevoir les actualités et des communications de la part de myMaxicours.
+    
+  
+  Votre adresse e-mail sera exclusivement utilisée pour vous envoyer notre newsletter. Vous pourrez vous désinscrire à tout moment, à travers le lien de désinscription présent dans chaque newsletter. Pour en savoir plus sur la gestion de vos données personnelles et pour exercer vos droits, vous pouvez consulter notre charte.
+
+            
+          
+        
+      
+    
+  
+
+  
+  
+  
+  
+
+  
+
+  
+    
+  <div class="bg-[length:auto_100%] bg-right bg-no-repeat absolute w-screen h-full left-1/2 transform -translate-x-1/2"
+       style="background-image:url(https://www.maxicours.com/se/wp-content/themes/mymaxicours/public/images/bg-newsletter.07bf4e.svg)">
+  
+  
+    Inscrivez-vous à notre newsletter !
+    
+  
+    
+    S'inscrire
+  
+  
+    
+    
+      J’accepte de recevoir les actualités et des communications de la part de myMaxicours.
+    
+  
+  Votre adresse e-mail sera exclusivement utilisée pour vous envoyer notre newsletter. Vous pourrez vous désinscrire à tout moment, à travers le lien de désinscription présent dans chaque newsletter. Pour en savoir plus sur la gestion de vos données personnelles et pour exercer vos droits, vous pouvez consulter
+          notre charte
+      .
+  
+    Une erreur s'est produite, veuillez ré-essayer
+  
+  
+    Merci pour votre inscription
+  
+
+  
+
+
+
+
+
+
+PAIEMENT SÉCURISÉ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTACT
+
+
+
+01 49 08 38 00  notre équipe est joignable pour répondre à toutes vos questions du lundi au vendredi de 8 h 30 à 17 h 30.
+
+
+
+CONTACTEZ-NOUS
+
+
+
+
+
+7 JOURS D’ESSAI GRATUIT
+
+
+
+Une période d’essai gratuite sur tous nos abonnements en ligne pour tester avant de vous décider !
+
+
+
+JE TESTE MYMAXICOURS
+
+
+
+
+
+
+
+
+
+CYCLES
+
+
+PrimaireCollègeLycée
+
+
+
+
+COURS PAR CLASSE
+
+
+CPCE1CE2CM1CM26e5e4e3eSecondeSeconde proPremièrePremière proPremière technoTerminaleTerminale proTerminale techno
+
+
+
+
+
+
+EXAMENS
+
+
+BrevetBaccalauréatBac pro
+
+
+
+
+MATIERES
+
+
+MathématiquesFrançaisTechnologiePhysique ChimieSVTAnglaisEspagnolAllemandHistoireSESSciencesPhilosophieEMCHistoire-Géographie géopolitique et sciences politiquesGéographieQuestionner le monde
+
+
+
+
+
+Soutien scolaireProfs en ligne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AIDE
+
+
+
+
+Contactez-nousFAQ
+
+
+
+
+
+
+A PROPOS
+
+
+
+
+Qui sommes-nous ?BlogEntrepriseEtablissements ScolairesNos offresPromotionsNos engagements
+
+
+
+
+
+
+NOUS SUIVRE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DÉCOUVREZ LES AUTRES SITES DU GROUPE
+
+
+
+
+Editions NathanEditions RetzLe RobertMeet in classLonely PlanetLisez.comAtelier des auteursLizzie
+
+
+
+
+
+Mentions légalesCharteCGVParamètres des cookies
+
+
+
+
+Copyright © myMaxicours 2025
+
+
+  
+
+    
+
+        
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/se\/*"},{"not":{"href_matches":["\/se\/wp-*.php","\/se\/wp-admin\/*","\/se\/wp-content\/uploads\/*","\/se\/wp-content\/*","\/se\/wp-content\/plugins\/*","\/se\/wp-content\/themes\/mymaxicours\/*","\/se\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+
+
+.wp-container-core-columns-is-layout-28f84493{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-059203fb{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-5e8d331f{flex-wrap:nowrap;gap:var(--wp--preset--spacing--30) var(--wp--preset--spacing--30);}.wp-container-core-columns-is-layout-6b0f9e3f{flex-wrap:nowrap;gap:2em var(--wp--preset--spacing--30);}.wp-container-core-columns-is-layout-658170e2{flex-wrap:nowrap;gap:2em var(--wp--preset--spacing--30);}.wp-container-core-columns-is-layout-398b3aa3{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-03bc687e{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-65e523f9{flex-wrap:nowrap;gap:2em var(--wp--preset--spacing--20);}.wp-container-core-columns-is-layout-a54e0cfc{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-2ecf018e{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-51c0b34d{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-8d88fe0f{flex-wrap:nowrap;}
+
+
+
+
+
+var url_object = {"ajax_url":"https:\/\/www.maxicours.com\/se\/wp-admin\/admin-ajax.php","site_url":"https:\/\/www.maxicours.com\/se","ajax_nonce":"b25f7a9fb0"};
+
+
+(()=>{"use strict";var r,e={},o={};function t(r){var a=o[r];if(void 0!==a)return a.exports;var n=o[r]={exports:{}};return e[r].call(n.exports,n,n.exports,t),n.exports}t.m=e,r=[],t.O=(e,o,a,n)=>{if(!o){var s=1/0;for(p=0;p=n)&&Object.keys(t.O).every((r=>t.O[r](o[l])))?o.splice(l--,1):(i=!1,n0&&r[p-1][2]>n;p--)r[p]=r[p-1];r[p]=[o,a,n]},t.d=(r,e)=>{for(var o in e)t.o(e,o)&&!t.o(r,o)&&Object.defineProperty(r,o,{enumerable:!0,get:e[o]})},t.o=(r,e)=>Object.prototype.hasOwnProperty.call(r,e),(()=>{var r={666:0};t.O.j=e=>0===r[e];var e=(e,o)=>{var a,n,s=o[0],i=o[1],l=o[2],f=0;if(s.some((e=>0!==r[e]))){for(a in i)t.o(i,a)&&(t.m[a]=i[a]);if(l)var p=l(t)}for(e&&e(o);f<s.length;f++)n=s[f],t.o(r,n)&&r[n]&&r[n][0](),r[n]=0;return t.O(p)},o=self.webpackChunk_roots_bud_sage_sage=self.webpackChunk_roots_bud_sage_sage||[];o.forEach(e.bind(null,0)),o.push=e.bind(null,o.push.bind(o))})()})();
+
+
+
+
+  
+

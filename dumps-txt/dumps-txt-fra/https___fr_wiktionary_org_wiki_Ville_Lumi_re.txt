@@ -1,0 +1,931 @@
+
+
+
+
+Ville Lumière — Wiktionnaire, le dictionnaire libre
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwiktionarymwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"54e484f4-36fa-41bc-bc4e-d3cbcc10233c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ville_Lumière","wgTitle":"Ville Lumière","wgCurRevisionId":38426928,"wgRevisionId":38426928,"wgArticleId":232717,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Traductions en allemand","Traductions en anglais","Traductions en espagnol","Traductions en persan","Traductions en portugais","Prononciations audio en français","Wiktionnaire:Prononciations phonétiques manquantes en français","français","Noms propres en français","Exemples en français","Périphrases désignant des villes en français","Localités de France en français"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Ville_Lumière","wgRelevantArticleId":232717,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wiktionary","wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgWMEPageLengthBucket":2,"wgWikifunctionsBaseUrl":"//www.wikifunctions.org","wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.StyleWiktionnaire":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.tmh.player.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["mediawiki.page.media","ext.tmh.player","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.SommaireDeveloppable","ext.gadget.wikt.page-preview","ext.gadget.anagrimes","ext.gadget.ChercheDansSousCategories","ext.gadget.clearer-edit-summary","ext.gadget.wikt.add-examples","ext.gadget.wikt.translation-editor","ext.gadget.Wiktionnaire","ext.gadget.LiensAncresDansCategories","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+	
+		
+			
+				
+
+	
+	
+
+Menu principal
+	
+	
+
+
+				
+		
+
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	Menu principal
+	déplacer vers la barre latérale
+	masquer
+
+
+	
+
+	
+		Navigation
+	
+	
+		
+		
+			
+			Page d’accueilRecherche avancée, anagrammes et rimesPortailsPage au hasardPage au hasard par languePoser une questionPages spéciales
+		
+		
+	
+
+
+	
+
+	
+		Contribuer
+	
+	
+		
+		
+			
+			Portail communautaireLa WikidémieDiscuter sur DiscordJournal des contributeursModifications récentes
+		
+		
+	
+
+
+
+	
+		Aide
+	
+	
+		
+		
+			
+			ConventionsAideModèlesCréer un articleTélécharger
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+Rechercher
+	
+	
+		
+			
+				
+					
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Rechercher dans le Wiktionnaire" aria-label="Rechercher dans le Wiktionnaire" autocapitalize="none" spellcheck="false" title="Rechercher dans le Wiktionnaire [f]" accesskey="f" id="searchInput"
+							>
+						
+					
+					
+				
+				Rechercher
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+Apparence
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			Faire un don
+
+Créer un compte
+
+Se connecter
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+Outils personnels
+	
+	
+
+
+		
+
+	
+		
+		
+			
+			Faire un don Créer un compte Se connecter
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	Sommaire
+	déplacer vers la barre latérale
+	masquer
+
+
+
+	
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			
+				Début
+			
+		
+		<li id="toc-Français"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				1
+				Français
+			
+		
+		
+			
+				
+				Afficher / masquer la sous-section Français
+			
+		
+		
+			<li id="toc-Étymologie"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					1.1
+					Étymologie
+				
+			
+			
+			
+			
+		
+		<li id="toc-Nom_propre"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					1.2
+					Nom propre
+				
+			
+			
+			
+				<li id="toc-Variantes_orthographiques"
+			class="vector-toc-list-item vector-toc-level-3">
+			
+				
+					1.2.1
+					Variantes orthographiques
+				
+			
+			
+			
+			
+		
+		<li id="toc-Notes"
+			class="vector-toc-list-item vector-toc-level-3">
+			
+				
+					1.2.2
+					Notes
+				
+			
+			
+			
+			
+		
+		<li id="toc-Synonymes"
+			class="vector-toc-list-item vector-toc-level-3">
+			
+				
+					1.2.3
+					Synonymes
+				
+			
+			
+			
+			
+		
+		<li id="toc-Traductions"
+			class="vector-toc-list-item vector-toc-level-3">
+			
+				
+					1.2.4
+					Traductions
+				
+			
+			
+			
+			
+		
+		<li id="toc-Holonymes"
+			class="vector-toc-list-item vector-toc-level-3">
+			
+				
+					1.2.5
+					Holonymes
+				
+			
+			
+			
+			
+		
+	
+		
+		<li id="toc-Prononciation"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					1.3
+					Prononciation
+				
+			
+			
+			
+			
+		
+		<li id="toc-Anagrammes"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					1.4
+					Anagrammes
+				
+			
+			
+			
+			
+		
+	
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+Basculer la table des matières
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					Ville Lumière
+							
+
+	
+	
+
+2 langues
+	
+	
+
+		
+			
+			
+				
+				BrezhonegSuomi
+			
+			
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleDiscussion
+		
+		
+	
+
+
+								
+
+	
+	français
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			LireModifier le wikicodeVoir l’historique
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Outils
+	
+	
+
+
+									
+						
+
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	Outils
+	déplacer vers la barre latérale
+	masquer
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			LireModifier le wikicodeVoir l’historique
+		
+		
+	
+
+
+
+	
+		Général
+	
+	
+		
+		
+			
+			Pages liéesSuivi des pages liéesTéléverser un fichierLien permanentInformations sur la pageCiter cette pageObtenir l’URL raccourcieTélécharger le code QRUtiliser l’ancien analyseur
+		
+		
+	
+
+
+
+	
+		Imprimer / exporter
+	
+	
+		
+		
+			
+			Créer un livreTélécharger comme PDFVersion imprimable
+		
+		
+	
+
+
+
+	
+		Dans d’autres projets
+	
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	Apparence
+	déplacer vers la barre latérale
+	masquer
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
+					
+					
+					
+					
+					Voir aussi : Ville-Lumière, ville lumiere, ville lumière
+
+Français[modifier le wikicode]
+Étymologie[modifier le wikicode]
+Selon l’une des explications, l’inventeur de l’éclairage au gaz, Philippe Lebon, promeut et développe son invention à Paris dans les années 1820. Ainsi, dans les années 1830, le remarquable éclairage de Paris, en particulier de ses passages commerçants, fascine les Européens. Les Londoniens baptisent Paris City of Lights, périphrase traduite en français par Ville Lumière. Cette hypothèse est néanmoins contestée.
+
+Seconde hypothèse : au XVIIIe siècle, à cause de la montée de la criminalité dans les rues et les coins sombres de Paris, le Préfet demande à tous les habitants de mettre des bougies ou des lampes à huile sur le rebord de leurs fenêtres, ceci afin d’éclairer entièrement la ville. Ce serait à ce moment-là que Paris obtint le surnom de Ville Lumière.
+
+Nom propre[modifier le wikicode]
+
+
+
+Nom propre
+
+
+Ville Lumière \vil ly.mjɛʁ\
+
+Passage Jouffroy à Paris, la Ville Lumière.
+Ville Lumière \vil ly.mjɛʁ\ féminin singulier
+(Géographie) Paris (en France).
+Mais on est forcé de reconnaître qu’il n’y a pas beaucoup d’initiative dans la Ville Lumière lorsqu’il s’agit d’électricité. La capitale autrichienne possède maintenant des voitures d’omnibus éclairées électriquement. — (La Lumière électrique: revue universelle d’électricité, 1892, vol.44, page 250)
+La Ville Lumière avait laissé d’être un lieu incontournable pour le tourisme mondial et la balance de paiements de la France était lourdement déficitaire dans ce domaine. — (Edmond Aparicio, « Chronique d’abonnés,1981: Mitterrand et la révolution culturelle et de moeurs en France », LeMonde.fr, 7 mai 2011)
+En dehors de la Ville Lumière, nous découvrons un peuple chaleureux, rassembleur, fier de ses racines et curieux de connaître le monde. — (Mathieu Bock-Côté, En France, un peuple qui reconnaît le Québec, Le Journal de Québec, 29 mai 2022)
+
+Variantes orthographiques[modifier le wikicode]
+Ville-Lumière
+
+Notes[modifier le wikicode]
+Majuscule à ville parce que cette ville est unique ; majuscule à lumière, substantif apposé à ville qui comporte une majuscule.
+Ne pas confondre avec l’expression Ville des Lumières qui désigne Lyon du fait de la fête des Lumières.
+
+Synonymes[modifier le wikicode]
+
+
+Paris 
+
+
+Pampeluche
+Paname (Familier)
+Pantin (Argot)
+Pantruche, Pant’ruche (Argot)
+Paris
+
+
+Traductions[modifier le wikicode]
+
+
+ 
+
+
+Allemand : Stadt des Lichts (de) féminin
+Anglais : City of Light (en)
+Espagnol : La Ciudad Luz (es) féminin
+Persan : شهر پاریس (fa)
+Portugais : Cidade Luz (pt) féminin
+
+
+Holonymes[modifier le wikicode]
+
+
+
+
+
+France
+Île-de-France
+
+
+Prononciation[modifier le wikicode]
+France (Paris) : écouter « Ville Lumière [vil.ly.mjɛʁ] » 
+Fontainebleau (France) : écouter « Ville Lumière [Prononciation ?] » 
+
+Anagrammes[modifier le wikicode]
+→ Modifier la liste d’anagrammes
+
+
+
+
+Ville-Lumière, ville lumière
+Villemereuil
+
+
+
+
+<!-- 
+NewPP limit report
+Parsed by mw‐jobrunner.codfw.main‐86b76689c‐6wpw6
+Cached time: 20251204181543
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc, use‐parsoid]
+CPU time usage: 0.371 seconds
+Real time usage: 0.423 seconds
+Preprocessor visited node count: 761/1000000
+Revision size: 3537/2097152 bytes
+Post‐expand include size: 18218/2097152 bytes
+Template argument size: 1198/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.156/10.000 seconds
+Lua memory usage: 10266754/104857600 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  347.986      1 -total
+ 17.69%   61.553      3 Modèle:exemple
+ 10.51%   36.580      1 Modèle:langue
+  9.34%   32.487      9 Modèle:S
+  7.43%   25.852      1 Modèle:info_lex
+  5.63%   19.602      1 Modèle:voir/ville_lumiere
+  5.04%   17.534      1 Modèle:voir
+  3.71%   12.920      1 Modèle:voir_anagrammes
+  3.13%   10.892      1 Modèle:fr-inv
+  2.93%   10.196      2 Modèle:w
+-->
+
+<!-- Saved in parser cache with key frwiktionary:parsoid-pcache:232717:|#|:idhash:useParsoid=1 and timestamp 20251204181543 and revision id 38426928. Rendering was triggered because: view
+ -->
+
+
+
+Récupérée de "https://fr.wiktionary.org/w/index.php?title=Ville_Lumière&amp;oldid=38426928"
+					Catégories : françaisNoms propres en françaisExemples en françaisPériphrases désignant des villes en françaisLocalités de France en françaisCatégories cachées : Traductions en allemandTraductions en anglaisTraductions en espagnolTraductions en persanTraductions en portugaisPrononciations audio en françaisWiktionnaire:Prononciations phonétiques manquantes en français
+				
+			
+			
+		
+		
+			
+
+	
+	 La dernière modification de cette page a été faite le 25 juillet 2025 à 21:26.
+	La page a été rendue avec Parsoid.
+	Les définitions et autres textes sont disponibles sous licence Creative Commons attribution partage à l’identique&#160;; d’autres termes peuvent s’appliquer. Voyez les termes d’utilisation pour plus de détails.Pour les illustrations, cliquez sur chaque image ou consultez les crédits graphiques.
+
+
+	
+	Politique de confidentialité
+	À propos du Wiktionnaire
+	Licence
+	Code de conduite
+	Développeurs
+	Statistiques
+	Déclaration sur les témoins (cookies)
+	Version mobile
+
+
+	
+	
+	
+
+
+
+
+		
+	 
+ 
+
+	
+		
+			
+				
+
+Rechercher
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Rechercher dans le Wiktionnaire">
+								
+							
+							
+						
+						Rechercher
+					
+				
+			
+		
+		
+				
+						
+					
+						
+						
+
+Basculer la table des matières
+						
+						
+					
+						
+						
+					
+						
+					
+			
+				Ville Lumière
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+2 langues
+			
+			
+
+Ajouter un sujet
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5c5cb4f54-lzmmz","wgBackendResponseTime":135,"wgPageParseReport":{"limitreport":{"cputime":"0.371","walltime":"0.423","ppvisitednodes":{"value":761,"limit":1000000},"revisionsize":{"value":3537,"limit":2097152},"postexpandincludesize":{"value":18218,"limit":2097152},"templateargumentsize":{"value":1198,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  347.986      1 -total"," 17.69%   61.553      3 Modèle:exemple"," 10.51%   36.580      1 Modèle:langue","  9.34%   32.487      9 Modèle:S","  7.43%   25.852      1 Modèle:info_lex","  5.63%   19.602      1 Modèle:voir/ville_lumiere","  5.04%   17.534      1 Modèle:voir","  3.71%   12.920      1 Modèle:voir_anagrammes","  3.13%   10.892      1 Modèle:fr-inv","  2.93%   10.196      2 Modèle:w"]},"scribunto":{"limitreport-timeusage":{"value":"0.156","limit":"10.000"},"limitreport-memusage":{"value":10266754,"limit":104857600}},"cachereport":{"origin":"mw-jobrunner.codfw.main-86b76689c-6wpw6","timestamp":"20251204181543","ttl":2592000,"transientcontent":false}}});});
+
+

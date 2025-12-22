@@ -1,0 +1,1626 @@
+
+
+	
+
+
+		
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://server.guide-vue.fr/epy3lnfkkfl8y5d.js?aw='+i.replace(/^GTM-/,'')+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PMWBSWJD');
+		
+
+		
+		
+			
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+
+			comment expliquer la longueur d&#039;onde Le Guide De La Vue
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/74270","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljEEOwjAMBD8U6idVTrJNi5w4ih1Ef08PIJC47cxIyzm7cjuJ32PZhjYPEe4YK55dDXndDrnQqKBhsIQkbHZS04yQtBmar_UC-oWrDFAes7MsPF2T1i5whDKPjMcEFdHIcktmf-5uofPgMrjv9nn5mmW2PqMctiMHO81RKbLhBbshUfM","theme":"guidevue","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/search":true},"consent_mode":{"ad_personalization":"granted","ad_storage":"granted","ad_user_data":"granted","analytics_storage":"granted","functionality_storage":"granted","personalization_storage":"granted"},"user":{"uid":0,"permissionsHash":"c2508e27082144d871a553a232ac2f59bf5c0aaf27cf8d6d051e92a0b95342bf"}}
+eval(mod_pagespeed_COg9sqPpKj);
+eval(mod_pagespeed_XDyDbiWmy6);
+
+								
+																									
+					window.OneSignalDeferred=window.OneSignalDeferred||[];OneSignalDeferred.push(function(OneSignal){OneSignal.init({appId:"333adf7f-2813-4247-ad81-2133e0373458"});});
+					
+										
+						 
+					
+					
+					
+						Aller au contenu principal
+					
+					
+					  
+    
+  
+    
+                      
+      
+      
+      
+        
+          INFORMATION &amp; SANTE
+        
+              
+           MODE &amp; LUNETTERIE
+        
+            
+   
+
+
+  
+  
+
+          
+        
+            
+        
+    
+
+
+               
+      
+                      
+  Espace connexion
+    
+
+              
+                  
+            
+            Se connecter
+          
+          
+
+
+                                  
+                  Offres privées
+                      
+          
+
+              
+      
+
+
+    
+          
+  
+  
+    
+                      
+
+
+  
+  
+
+
+
+  
+    
+      
+        
+          INFORMATION & SANTE
+        
+        
+          MODE & LUNETTERIE
+        
+      
+    
+                    
+                    
+                                
+                                    
+                                
+                                
+                                    Accueil
+                                
+                            
+                                     
+                                                                                        
+                        Santé
+                        
+                      
+                                                                              
+                                       
+                                                                                         
+                        La santé de vos yeux
+                        
+                      
+                                                                                
+                                       
+                                                                                         Prévention & vision : qui consulter ? A quel âge ?
+                                                        
+                                           
+                                                                                         Examens de vue
+                                                        
+                                           
+                                                                                         Examens complémentaires
+                                                        
+                                           
+                                                                                         La vision
+                                                        
+                                           
+                                                                                         L'œil
+                                                        
+                                           
+                                                                                         Les troubles visuels et les maladies des yeux de A à Z
+                                                        
+                                           
+                                                                                         Le médecin ophtalmologiste
+                                                        
+                                           
+                                                                                         Le métier d'orthoptiste
+                                                        
+                                           
+                                                                                         La malvoyance
+                                                        
+                                           
+                                                                                         Comprendre son ordonnance
+                                                        
+                                           
+                                                                                         Ordonnance valable 1 an, 3 ans ou 5 ans
+                                                        
+                                           
+                                                                                         Glossaire
+                                                        
+                    
+                
+                                    
+                                           
+                                                                                         
+                        La vue par thème
+                        
+                      
+                                                                                
+                                       
+                                                                                         La vue et l’enfant
+                                                        
+                                           
+                                                                                         La vue et le soleil
+                                                        
+                                           
+                                                                                         La vue au travail
+                                                        
+                                           
+                                                                                         La vue après 45 ans
+                                                        
+                                           
+                                                                                         La vue et la conduite
+                                                        
+                                           
+                                                                                         La vue et le sport
+                                                        
+                                           
+                                                                                         Les illusions d'optique
+                                                        
+                    
+                
+                                    
+                                           
+                                                                                         
+                        Les solutions optiques
+                        
+                      
+                                                                                
+                                       
+                                                                                         Les verres de vue
+                                                        
+                                           
+                                                                                         Les solutions optiques pour la presbytie
+                                                        
+                                           
+                                                                                         Qu'est-ce qu'un verre progressif ?
+                                                        
+                                           
+                                                                                         Les lentilles de contact
+                                                        
+                                           
+                                                                                         L'opticien lunetier
+                                                        
+                                           
+                                                                                         Les remboursements en optique
+                                                        
+                    
+                
+                                    
+                    
+                
+                                    
+                                           
+                                                                                        
+                        Trouver un professionnel
+                        
+                      
+                                                                              
+                                       
+                                                                                         Choisir mon opticien
+                                                        
+                                           
+                                                                                         Annuaire des ophtalmologistes
+                                                        
+                                           
+                                                                                         Annuaire des orthoptistes
+                                                        
+                    
+                
+                                    
+                                           
+                                                                                         Actualités-Recherche
+                                                        
+                                           
+                                                                                         Partenaires
+                                                        
+                                           
+                                                                                         A propos de nous
+                                                        
+                    
+                
+
+    
+      Changer de mode
+      
+      
+    
+  
+  
+    
+              
+          
+        
+           
+                 
+            
+          
+              
+      
+    
+    
+      
+    
+  
+
+
+  
+    
+    
+      
+      
+      
+    
+  
+  
+    
+  
+
+
+
+    
+          
+  
+
+        
+
+  
+    
+      
+    
+  
+  
+    
+      Se connecter
+    
+    
+      S'inscrire
+    
+  
+  
+    
+      
+        
+          
+            Se connecter
+          
+          Pour accéder à votre compte
+          
+  
+    
+      
+      Email
+        
+
+            Vous pouvez utiliser votre nom d'utilisateur ou votre email pour vous connecter.
+  
+
+      Mot de passe
+        
+
+        
+
+
+    
+
+
+
+
+Réinitialiser votre mot de passe
+  
+
+          
+            Mot de passe oublié ?
+          
+        
+        
+          
+            Mot de passe oublié ?
+          
+          Pour réinitialiser votre mot de passe veuillez saisir votre email
+                      
+  
+    
+      
+      Email
+        
+
+        
+Les instructions de réinitialisation du mot de passe seront envoyées à votre adresse de courriel enregistrée.
+
+    
+
+
+
+
+
+  
+
+                    
+            Retour à la connexion
+          
+        
+      
+              
+          
+        
+          
+    
+ 
+
+
+    
+        
+          S'inscrire 
+        
+        
+             Pour créer votre compte
+        
+        
+          JE SUIS UN PROFESSIONNEL
+          
+              Opticien
+  Fabricant
+  OPHTALMOLOGISTE
+  ORTHOPISTE
+    
+          
+        
+        
+                    JE SUIS UN PARTICULIER
+        
+      
+    
+          
+        
+      
+       
+ 
+
+       
+  
+
+  
+
+
+  
+    
+  
+  
+      
+      
+        
+                    Bienvenue sur Guide-Vue.fr, le site leader* d'information sur la vision.
+
+          Que recherchez-vous ?
+                    
+        
+        
+          Informations
+          Produit
+          Professionnel
+        
+        
+
+          
+  
+
+  
+      
+  
+      
+        
+Pour rechercher une expression exacte, veuillez utiliser les guillemets. Exemple : "Institut français de myopie"
+
+        
+    
+  
+
+
+
+
+
+
+  
+
+          
+  
+    Astigmate
+  
+  
+    Cataracte
+  
+  
+    Conjonctivite
+  
+  
+    Diabète
+  
+  
+    DMLA
+  
+  
+    Glaucome
+  
+  
+    Hypermétropie
+  
+  
+    Lentilles
+  
+  
+    Myopie
+  
+  
+    Ophtalmologiste
+  
+  
+    Opticien
+  
+  
+    Ordonnance ophtalmologiste
+  
+  
+    Orgelet
+  
+  
+    Orthoptiste
+  
+  
+    Presbyte
+  
+  
+    A à Z
+  
+
+        
+        
+          
+            
+              Sélectionnez un produit
+              
+                
+                  Lunettes
+                
+                
+                  Verres
+                
+                
+                  Lentilles
+                
+              
+            
+            
+              
+            
+          
+        
+        
+          
+            
+              
+                Spécialité ?
+                
+                  
+                    Opticien
+                  
+                  
+                    Ophtalmologiste
+                  
+                  
+                    orthoptiste
+                  
+                
+              
+            
+
+            
+ 
+
+  
+   
+        
+
+        
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+            
+
+
+  
+   
+        
+
+        
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+            
+
+
+  
+   
+        
+
+        
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+          
+        
+      
+    
+  
+
+  
+
+
+    
+
+							  
+
+
+			
+
+			
+		
+		
+		
+
+		        
+  
+    
+      
+  
+    
+      
+        
+          Retour au glossaire
+        
+        				
+          
+              
+              
+              
+                    
+                  
+                  Partager par MailPartager sur FacebookPartager sur XPartager sur LinkedIn
+
+              
+              
+                 
+                                     
+                    
+                  
+                               
+          
+       	      
+    
+  
+
+        
+    
+  
+    
+      
+        La santé de vos yeux
+      
+    
+  
+
+
+
+
+
+   
+    
+    
+
+
+  
+  
+ 
+  
+     
+    
+    Trouvez un professionnel
+    
+    Consultez nos annuaires
+
+          OPTICIENS
+          ORTHOPTISTES
+          OPHTALMOLOGISTES
+       
+
+  
+
+         
+         
+Longueur d&#039;onde
+     
+               
+           Distance entre deux points successifs qui occupent la même position d’une onde périodique. La longueur d’onde permet de qualifier le spectre lumineux, une partie du spectre est visible par l'œil humain, un autre partie est invisible. À chaque longueur d'onde correspond une couleur, les arcs-en-ciel révèlent les couleurs du spectre visible.La lumière visible par l’œil humain est celle comprise entre les longueurs d’onde 380 nanomètres (violet) et 780 nm (rouge), autrement dit entre les ultraviolets et les infrarouges. Ces UV et IF sont invibles mais actifs : par exemple les UV sont responsables des coups de soleil, les IF délivrent la chaleur.&nbsp;De récentes études ont révélé qu'une partie de la lumière bleue était nocive pour les yeux, particulièrement celle délivrée par des appareils tels qu'écran de TV, ordinateur mais aussi LED et ampoules à basse consommation. &nbsp;&nbsp;&nbsp;Illustration www.guide-vue.fr
+       
+    
+
+
+
+
+  
+
+    
+		
+
+  
+
+            
+
+
+	
+		
+			Accès rapide
+		
+		
+			
+									
+
+																											
+						
+
+														
+							
+																	
+																Bien voir
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Quand consulter, par âge 
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Examens de vue
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Examens complémentaires
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Ordonnance valable 1 an, 3 ans ou 5 ans
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Remboursement en optique
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Spécial malvoyance
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Glossaire
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Troubles visuels
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Lire son ordonnance
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Astigmatisme
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Hypermétropie
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Myopie 
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Presbytie
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Enfants
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Vision par âge
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Lunettes enfants
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Strabisme
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Amblyopie 
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																 Spécial malvoyance
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Optique
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Lentilles de contact
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Verres optiques
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Verres progressifs
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Illusions d’optique
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Santé
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Anatomie de l’œil
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Cataracte
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Conjonctivite
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																DMLA 
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Glaucome
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Orgelet
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Rétinopathie diabétique
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Uvéites
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Activités
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Protection solaire
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Travail sur écran
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																 Vue et conduite
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Vue et sport
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Les professionnels
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Opticien
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Ophtalmologiste
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																Orthoptiste
+
+							
+
+							
+						
+							
+			
+							
+						
+																								
+						
+
+														
+							
+																	
+																Mode & lunettes
+
+							
+
+																									
+																												
+						
+
+														
+							
+																Lunettes-Galerie.com
+
+							
+
+							
+						
+																								
+						
+
+														
+							
+																L’histoire des lunettes
+
+							
+
+							
+						
+							
+			
+							
+						
+							
+			
+
+		
+		
+
+										
+            *Guide-Vue.fr est le site indépendant leader de la filière visuelle en parts de visibilité sur Google France par référencement naturel.
+      
+
+			
+			
+				
+			
+		
+	
+
+
+    
+  
+  
+    
+              
+    
+    
+    
+        
+      
+        
+      
+       
+                
+              
+              
+      Guide-Vue.fr est une entreprise d'édition indépendante spécialisée dans l'univers de la vue et de l'optique. Sa mission est de rendre accessible à tous, les connaissances médicales et scientifiques afin d'informer et d'améliorer le quotidien de chacun.
+      
+        
+                           
+        
+                  
+
+              
+                
+              
+
+          
+             
+
+
+
+
+                         
+        
+                  
+
+              
+                
+              
+
+          
+             
+
+
+
+
+                         
+        
+                  
+
+              
+                
+              
+
+          
+             
+
+
+
+
+                         
+        
+                  
+
+              
+                
+              
+
+          
+             
+
+
+
+
+                         
+        
+                  
+
+              
+                
+              
+
+          
+             
+
+
+
+
+                         
+        
+                  
+
+              
+                
+              
+
+          
+             
+
+
+
+
+                
+      
+      
+   
+    
+    
+            
+
+              
+                          
+        A propos
+                                
+        
+                          
+        Qui sommes-nous ?
+              
+                      
+        Rédaction
+              
+                      
+        Nos partenaires
+              
+                      
+        Contact
+              
+        
+  
+              
+                      
+        Trouvez votre spécialiste
+                                
+        
+                          
+        Opticien
+              
+                      
+        Ophtalmologiste
+              
+                      
+        Orthoptiste
+              
+        
+  
+              
+                      
+        Recherches fréquentes
+                                
+        
+                          
+        Pathologies adultes
+              
+                      
+        Signes d&#039;une urgence ophtalmologique
+              
+                      
+        La vision
+              
+                      
+        Acuité visuelle
+              
+                      
+        Myosis / mydriase
+              
+                      
+        Œdème oculaire
+              
+        
+  
+              
+        
+  
+
+    
+
+
+
+  
+    
+      
+
+              
+                          
+        ©GuideVue2024
+              
+                      
+        Charte d&#039;utilisation 
+              
+                      
+        Mentions légales
+              
+                      
+        Politique de confidentialité
+              
+                      
+         Crédits
+              
+                      
+        Transparence
+              
+        
+  
+
+  
+
+    
+    
+  
+
+
+  
+
+					
+										window.YGC_WIDGET_ID="ca202676-e7c4-4589-930e-e0253a663144";(function(){var script=document.createElement('script');script.src="https://widget.yourgpt.ai/script.js";script.id='yourgpt-chatbot';document.body.appendChild(script);})();
+
+					eval(mod_pagespeed_wivNAiOItY);
+eval(mod_pagespeed_BZmQgC8LGt);
+eval(mod_pagespeed_tpoPjBemcn);
+eval(mod_pagespeed_cjHHOe1AkM);
+eval(mod_pagespeed_xC_PLVYrPq);
+eval(mod_pagespeed_IDBW2It8CJ);
+eval(mod_pagespeed_CH58KfAk9k);
+eval(mod_pagespeed_sF5ep_j2jT);
+eval(mod_pagespeed_L7xM_x_rRu);
+eval(mod_pagespeed_6YJjtolhk1);
+eval(mod_pagespeed_gdwPWrHfxB);
+eval(mod_pagespeed_kWkczjJyxL);
+eval(mod_pagespeed_JGPQ7ZzBRj);
+eval(mod_pagespeed_jK1ar0T_35);
+eval(mod_pagespeed_T96yPmsPN0);
+eval(mod_pagespeed_hP00C4ubYf);
+eval(mod_pagespeed_Zpkh_rjcTk);
+eval(mod_pagespeed_ZCB3aMh$SX);
+eval(mod_pagespeed_th7u30vrun);
+eval(mod_pagespeed_cNFDA6bB8V);
+eval(mod_pagespeed_8ftS6iiUYI);
+eval(mod_pagespeed_xLfRQQOJy9);
+eval(mod_pagespeed_sPd9GtEmb0);
+eval(mod_pagespeed__613AYVumR);
+eval(mod_pagespeed_q8JLiASq8t);
+eval(mod_pagespeed_BjU4cdmZIP);
+eval(mod_pagespeed_QRmCG2TRXV);
+eval(mod_pagespeed_NAttWkMy8z);
+eval(mod_pagespeed_1xJ6dAV7GC);
+
+eval(mod_pagespeed_C8XUR0Xm2E);
+eval(mod_pagespeed_VwtykAN0P0);
+eval(mod_pagespeed_OLIoFfyKCt);
+eval(mod_pagespeed_aRODVHKp4N);
+eval(mod_pagespeed_2T8WMd$tUK);
+eval(mod_pagespeed_hvkQtsXlPu);
+eval(mod_pagespeed_MrOH1BDDit);
+eval(mod_pagespeed_nYeqkxELiD);
+eval(mod_pagespeed_sByzo4T4vm);
+eval(mod_pagespeed__kK859KfUD);
+eval(mod_pagespeed_W1KCflrLEo);
+eval(mod_pagespeed_XWoXdDsXEn);
+eval(mod_pagespeed_cAvsOXDTXN);
+eval(mod_pagespeed_fK9O2cpgMB);
+eval(mod_pagespeed_AF7b1zaCaR);
+
+eval(mod_pagespeed_KNUTfM5MSB);
+eval(mod_pagespeed_cY5CYTVf4s);
+eval(mod_pagespeed_5Rzo$IszKQ);
+eval(mod_pagespeed_gM_y4YAnYz);
+
+
+eval(mod_pagespeed_vWKk0FFfqu);
+eval(mod_pagespeed_gIR0JGfoAv);
+eval(mod_pagespeed_iI4eHP0lHH);
+eval(mod_pagespeed_T3o4WaCc66);
+eval(mod_pagespeed_S_mfy1G9ON);
+eval(mod_pagespeed_GqUv005yng);
+eval(mod_pagespeed_2nq6yeLm_t);
+eval(mod_pagespeed_qyePcnAoQs);
+eval(mod_pagespeed_wSo7jENy4H);
+eval(mod_pagespeed_sXQU7AJNvS);
+eval(mod_pagespeed_f9zs1BLILl);
+eval(mod_pagespeed_b7ytQQqxe4);
+eval(mod_pagespeed_YN8dS3CLc1);
+eval(mod_pagespeed_jWDfRLB7c$);
+
+				
+			

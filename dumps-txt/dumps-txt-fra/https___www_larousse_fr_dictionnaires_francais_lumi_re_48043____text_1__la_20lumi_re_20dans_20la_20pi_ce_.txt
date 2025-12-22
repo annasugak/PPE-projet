@@ -1,0 +1,1230 @@
+
+ 
+
+
+
+    // Problème compatiblitiy [] & [Modify by C#]
+    dataLayer = [{'lang':"fr", 'page_type':"editorial", 'page_category':"langue francaise", 'page_subcategory':"dictionnaire de francais"}, { advertisement: {env: 'production', brand: {name: 'Larousse', abbr: 'lar', domain: 'larousse.fr', subDomain: 'www', isPrisma: false}, page: {path: '/', contentObjectId: '', pageType: "Article", pageCategory: "article-dictionnaires", pageSubCategory: "content", title: "", author: "", keywords: ""}} }];      // (DataLayer GTM: Default + Prisma)        
+
+
+	Définitions : lumière, lumières - Dictionnaire de français Larousse
+
+
+    
+    
+    
+     -->                 
+    >> jquery-migrate !!!)-->
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+      (data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1) -->
+    
+      (data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1-test") -->
+     -->
+    
+    
+        function OptanonWrapper() { 
+          if(!getCookieOT("OptanonAlertBoxClosed")){
+            var newButton =  document.createElement("button") // Create a button 
+            newButton.setAttribute("id", "onetrust-reject-all-handler") // Name the button + pick up style as per template
+            newButton.onclick = function(one){
+                OneTrust.RejectAll();
+            }
+            newButton.innerText = Optanon.GetDomainData().BannerRejectAllButtonText;// Add text to button
+            document.getElementById("onetrust-policy").prepend(newButton) // Place button
+          }
+        }
+        function getCookieOT(name) {
+          var value = "; " + document.cookie;
+          var parts = value.split("; " + name + "=");
+          if (parts.length >= 2) return parts.pop().split(";").shift();
+        }
+    
+    
+
+    
+    
+    
+        
+        (function(w,d,s,l,i){
+                w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TB2J4SG');
+    
+    
+
+    
+    -->
+
+    
+     -->          
+    
+     -->
+    
+    
+    -->                       
+    
+     -->                         
+     -->                     
+                                    
+
+    
+    -->  
+    
+
+    
+                   
+    
+    
+    
+        /*conflit CSS (bootstrap - MDB)*/
+        .navbar{
+            box-shadow:none;
+        }   
+        /* SLICK */
+        .slick-slide {
+            outline: none !important;
+        }
+    
+
+    
+    
+    
+  
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+                               
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+    
+
+    
+        
+        
+            
+            
+                >> navbar-default -->
+                
+                    
+                         
+                            
+                                EN          
+                                
+                                
+                            
+                                ES          
+                                
+                               
+                            
+                                DE          
+                                
+                                
+                            
+                                IT          
+                                
+                                
+                            
+                         
+                         
+                            &#xf09a;
+                             
+                            &#xf16d;
+                            &#xf0e1;
+                            
+                                           
+                        
+                                               
+                            Newsletter
+                           
+                    
+                
+            
+             
+             
+             
+                LAROUSSE
+                
+                    
+                    &#xe81e;
+                
+            
+            
+            
+            
+                
+                     
+                            
+                             Toggle navigation
+                             
+                             
+                             
+                         
+                         
+                            LAROUSSE
+                            &#xe81e;
+                            &#xe833;
+                            
+                                
+                                &#xe81e;
+                            
+                        
+                     
+            
+                     
+                         
+                             &#xe80a;LANGUE FRANÇAISE
+                             &#xe804;BILINGUES
+                             &#xe80d;FLASHCARDS
+                             &#xe822;TRADUCTEUR
+                             &#xe805;CONJUGATEUR
+                             &#xe819;ENCYCLOPÉDIE
+                             &#xe809;CUISINE
+                             
+                             &#xe812;JEUX
+                             
+                             &#xe815;LIVRES
+                             
+                         
+                                               
+                            Newsletter
+                          
+                        
+                             
+                                Suivez nous:
+                                &#xf09a;
+                                  
+                                &#xf16d;
+                                &#xf0e1;
+                                
+                            
+                          
+                        
+                             
+                                EN
+                                ES
+                                DE
+                                IT
+                                
+                           
+                         
+                       
+                
+            
+          
+        
+        
+                
+        
+        
+        
+                Accueil&nbsp;>&nbsp;Langue française > Dictionnaire > lumière
+        
+        
+      
+        
+        
+             
+             
+
+        
+        
+        
+          
+
+     
+     
+     
+    
+    
+    
+            Accueil  &gt; langue française &gt; dictionnaire &gt; lumière n.f. - lumières n.f.pl.
+    
+    
+    
+    
+    
+
+        
+            
+                   
+				
+                
+	
+		
+			Définitions
+			Expressions
+			Difficultés
+			Citations
+		
+	
+
+
+	
+		DÉFINITIONS
+		EXPRESSIONS
+		DIFFICULTÉS
+		CITATIONS
+	
+	+
+	
+	&#xe833;
+	
+
+
+	
+		
+			&#xe82c;
+				lumière
+			nom féminin
+			(latin ecclésiastique luminaria, du latin classique lumen, -inis)
+		
+		
+			1. Rayonnement électromagnétique dont la longueur d'onde, comprise entre 400 et 780 nm, correspond à la zone de sensibilité de l'œil humain, entre l'ultraviolet et l'infrarouge.
+			2. Clarté émise par le soleil, qui éclaire les objets et les rend visibles&nbsp;: Laisser pénétrer la lumière dans la pièce.
+				Synonyme :
+				jour
+				Contraires :
+				nuit - obscurité
+			3. Éclairage artificiel&nbsp;: Éteindre la lumière.
+			4. Source lumineuse, appareil, lampe, etc., propres à l'éclairage&nbsp;: Il reste une lumière allumée chez eux.
+			5. Éclat du regard manifestant un état, un sentiment&nbsp;: Une lumière d'intelligence brille dans son regard.
+				Synonyme :
+				étincelle
+			6. Éclaircissement, ce qui fait comprendre&nbsp;: Ces informations n'ont apporté aucune lumière dans le débat.
+				Synonymes :
+				éclairage - explication - illustration - indication - information - précision - renseignement
+			7. Littéraire. Personne d'une grande intelligence, d'un savoir éclatant&nbsp;: Une lumière du barreau.
+				Synonymes :
+				flambeau - fleuron - gloire - phare - sommité
+			
+				Anatomie8. Espace occupant l'intérieur d'un organe tubulaire (vaisseau ou autre canal de l'organisme).
+			
+				Armement9. Ouverture pratiquée dans le canon des anciennes armes à feu et par laquelle on enflammait la charge.
+			
+				Arts décoratifs10. Branche d'un candélabre (dont on dira qu'il est à trois, à six lumières, etc.).
+			
+				Beaux-arts11. Partie claire, ou plus éclairée que les autres, dans un tableau, une gravure, un dessin. (Souvent au pluriel)
+			
+				Mécanique12. Orifice ménagé dans une pièce afin d'y permettre le passage d'une autre pièce, d'un fluide, d'un outil de démontage, etc.
+			
+				Menuiserie13. Ouverture située entre la lame et le fût d'un rabot, pour évacuer les copeaux.
+		
+		
+			&#xe82c;
+				lumières
+			nom féminin pluriel
+		
+		
+			1. Connaissances possédées par quelqu'un sur tel sujet&nbsp;: J'ai besoin de vos lumières.
+			2. Feux d'un véhicule&nbsp;: Il a laissé ses lumières allumées.
+		
+	
+
+
+                
+                
+                    
+                
+            
+            
+                
+                    
+                        
+                        VOUS CHERCHEZ PEUT-ÊTRE
+                        
+                    
+                     
+                        lumière n.f. Rayonnement électromagnétique dont la longueur d'onde, comprise entre 400 et...lumières n.f. pl. Connaissances possédées par quelqu'un sur tel sujet.Agir en pleine lumièreÀ la lumière de quelque choseAnges de lumièreCourbe de lumièreEssence de lumièreExamen en lumière de WoodFaire la lumière sur quelque choseHabit de lumièreLumière bleueLumière froideLumière noireMettre quelque chose en lumièreNe pas être une lumièreRevoir la lumièreannée-lumière n.f. Unité de longueur (symbole al) équivalant à la distance parcourue...À des années-lumière deAUTRES TRADUCTIONSAccrocher la lumièreAnnée de lumièreBras de lumièreGradateur de lumièreIntégration de la lumièreJeux de lumièreLumière blancheLumière cendréeLumière diffuseLumière polychromatiqueLumière tamiséeLumière zodiacalePapillotement de la lumièreQuantité de lumièreRetour inverse de la lumièreSource de lumière ou source lumineuseSpectacle son et lumièreTrait de lumière
+                        Voirplus
+                    
+                 
+				
+                 
+                
+            
+          
+        
+        
+            
+                 
+                
+                    
+	&#xe827;
+		Expressions avec lumière
+		
+			&#xe82c;
+				lumière
+			nom féminin
+		
+		
+			
+				Agir en pleine lumière, de manière à être visible, connu de tous.
+			
+				À la lumière de quelque chose, en fonction des connaissances acquises.
+			
+				Faire la lumière sur quelque chose, l'élucider, l'expliquer ; révéler les tenants et les aboutissants d'une affaire.
+			
+				Habit de lumière, habit brodé de fils brillants du torero consacré.
+			
+				Lumière bleue, lumière dont les longueurs d’onde sont comprises entre 380 et 500 nm et qui est émise par le Soleil mais également, de manière artificielle, par les ampoules LED et les écrans (smartphones, ordinateurs, etc.). (Elle est susceptible d’endommager la rétine et d’influer sur les cycles du sommeil.)
+			
+				Mettre quelque chose en lumière, le faire ressortir, le mettre en évidence.
+			
+				Ne pas être une lumière, avoir peu de connaissances dans un domaine ; être peu intelligent ou même stupide, idiot.
+			
+				Revoir la lumière, recouvrer la vue ; sortir des ténèbres, d'un cachot.
+			
+				Astronomie
+				Courbe de lumière, graphique indiquant la variation d'éclat d'un astre en fonction du temps.
+			
+				Médecine
+				Examen en lumière de Wood, examen employé pour le diagnostic des maladies cutanées, utilisant un rayonnement ultraviolet donnant des effets de fluorescence.
+			
+				Optique
+				Lumière froide, lumière ne renfermant pratiquement pas de rayonnement infrarouge (électroluminescence, bioluminescence par exemple).
+			
+				Lumière noire, rayonnement ultraviolet provoquant la fluorescence de certains corps.
+			
+				Sylviculture
+				Essence de lumière, espèce forestière ayant besoin de lumière pour son développement (par exemple le chêne, le pin maritime).
+				Contraire :
+				essence d'ombre
+			
+				Théologie
+				Anges de lumière, bons anges, par opposition aux démons, ou anges des ténèbres.
+		
+	
+
+               
+               
+                              
+               
+                
+                    
+                
+                 
+                
+                    
+                
+
+                
+                
+                    
+                
+
+                 
+                
+                    
+	&#xe80d;
+		Difficultés de lumière
+		
+		
+			
+				ORTHOGRAPHE
+				
+					On écrit une année de lumière, des années de lumière, sans trait d'union, ou une année-lumière, des années-lumière, avec un trait d'union. Dans l'usage scientifique, on emploie aujourd'hui année de lumière de préférence à année-lumière.
+					Philosophie des lumières (= mouvement philosophique du XVIIIe s.) s'écrit le plus souvent avec une minuscule à lumières, mais on le rencontre également avec une majuscule : le siècle des lumières ou le siècle des Lumières ;  «  Le marquis professait une haine vigoureuse pour les lumières. Ce sont les idées, disait-il, qui ont perdu l'Italie  » (Stendhal). 
+				
+			
+				EMPLOI
+				
+					On dit éteindre la lumière, donner de la lumière, faire de la lumière (ou, au figuré, faire la lumière surqqch).
+						recommandation : 
+						Allumer la lumière est un pléonasme fréquent dans l'expression orale relâchée. Dans l'expression soignée, en particulier à l'écrit, dire ou écrire : faire (ou donner) de la lumière ou allumer la lampe.
+					L'année-lumière (dite aujourd'hui année de lumière) est en astronomie une unité de distance et non une unité de temps (c'est la distance parcourue par la lumière en une année). On peut donc dire, en emploi figuré, cela se passait à des années-lumière (= cela se passait très loin), mais non *cela se passait il y a des années-lumière (pour cela se passait il y a très longtemps).
+				
+		
+	
+
+                
+                
+                 
+                    &#xe818;
+Citations avec lumière
+
+Louis Aragon (Paris 1897-Paris 1982)De la femme vient la lumière.Le Roman inachevé, Gallimard
+
+
+BibleDieu dit :  Que la lumière soit !  Et la lumière fut.Ancien Testament, Genèse I, 3 CommentaireCitation empruntée à la  Bible de Jérusalem.
+
+
+BibleTous vous êtes des enfants de la lumière, des enfants du jour. Nous ne sommes pas de la nuit, des ténèbres. Saint Paul, Épître aux Thessaloniciens, Ière, V, 5 
+
+
+BibleConduisez-vous en enfants de lumière. Saint Paul, Épître aux Éphésiens, V, 8 
+
+
+René Char (L'Isle-sur-la-Sorgue, Vaucluse, 1907-Paris 1988)Il faut souffler sur quelques lueurs pour faire de la bonne lumière.Les Matinaux, Gallimard
+
+
+René Daumal (Boulzicourt, Ardennes, 1908-Paris 1944)Tout poème naît d'un germe, d'abord obscur, qu'il faut rendre lumineux pour qu'il produise des fruits de lumière.Poésie noire et poésie blanche, Gallimard
+
+
+Robert Desnos (Paris 1900-Terezín, Tchécoslovaquie, 1945)Les disciples de la lumière n'ont jamais inventé que des ténèbres peu opaques.Corps et biens, Gallimard
+
+
+Djalal al-Din Rumi (Balkh, Khorasan, 1207-Konya, dans le pays de Rum, 1273)La femme est le rayon de la lumière divine.Mathnawi 
+
+
+Jean Giono (Manosque 1895-Manosque 1970)Quand les mystères sont très malins, ils se cachent dans la lumière.Ennemonde, Gallimard
+
+
+Johann Wolfgang von Goethe (Francfort-sur-le-Main 1749-Weimar 1832)Plus de lumière !Mehr Licht !CommentaireDernières paroles de Goethe sur son lit de mort, et dont le sens est controversé.
+
+
+Édouard Herriot (Troyes 1872-Saint-Genis-Laval, Rhône, 1957)Académie française, 1946Il y a, pour les écrivains français, une qualité plus belle que la couleur : la lumière.Créer, Payot
+
+
+Victor Hugo (Besançon 1802-Paris 1885)Et l'on voit de la flamme aux yeux des jeunes gens,  Mais, dans l'œil du vieillard, on voit de la lumière.La Légende des siècles, Booz endormi 
+
+
+Friedrich, baron von Hardenberg, dit Novalis (Wiederstedt, près de Hettstedt, Saxe, 1772-Weissenfels 1801)La lumière a son temps qui lui est mesuré, Mais le règne de la nuit  Ne connaît ni temps ni espace, Le sommeil a pour lui toute l'éternité !Hymnes à la nuit Zugemessen ward dem Lichte seine Zeit ; aber zeitlos und raumlos ist der Nacht Herrschaft. - Ewig ist die Dauer des Schlafs.Hymnen an die Nacht 
+
+
+Blaise Pascal (Clermont, aujourd'hui Clermont-Ferrand, 1623-Paris 1662)Il y a assez de lumière pour ceux qui ne désirent que de voir, et assez d'obscurité pour ceux qui ont une disposition contraire.Pensées, 430 CommentaireChaque citation des  Pensées porte en référence un numéro. Celui-ci est le numéro que porte dans l'édition Brunschvicg - laquelle demeure aujourd'hui la plus généralement répandue - le fragment d'où la citation est tirée.
+
+
+Francis Ponge (Montpellier 1899-Le Bar-sur-Loup 1988)Il ne faut cesser de s'enfoncer dans sa nuit : c'est alors que brusquement la lumière se fait.Pour un Malherbe, Gallimard
+
+
+Pierre Reverdy (Narbonne 1889-Solesmes 1960)La gloire est un vêtement de lumière qui ne s'ajuste bien qu'aux mesures des morts.En vrac, Éditions du Rocher
+
+
+Edmond Rostand (Marseille 1868-Paris 1918)Académie française, 1901C'est la nuit qu'il est beau de croire à la lumière.Chantecler, II, 3, Chantecler , Fasquelle
+
+
+Anne Louise Germaine Necker, baronne de Staël-Holstein, dite Mme de Staël (Paris 1766-Paris 1817)Le mal que peuvent faire les mauvais livres n'est corrigé que par les bons ; les inconvénients des lumières ne sont évités que par un plus haut degré de lumières.De l'Allemagne 
+
+
+Tristan Tzara (Moineşti, Roumanie, 1896-Paris 1963)Chaque ombre à son âme reconnaît la lumière.Entre-temps, Le Calligraphe
+
+
+
+
+
+                
+
+                
+                
+                
+                
+                
+                
+
+                 
+                Mots procheslumière, lumières-lumignon-luminaire-luminance-luminancemètre-lumination-lulu-luma-lumachelle-lumbago-lumen-
+
+                
+                
+                    
+                    
+
+
+
+    
+    
+    
+    
+
+                    
+                    
+	À CONSULTER ÉGALEMENT DANS L'ENCYCLOPÉDIE
+
+	
+	
+		adaptation. 
+		Changement survenu chez un individu animal ou végétal, à une lignée...
+	
+	
+
+	
+	
+		couleur. 
+		Sensation résultant de l'impression produite sur l'œil par une lumière...
+	
+	
+
+	
+	
+		laser. [TECHNOLOGIES] 
+		Appareil mettant en œuvre le phénomène laser pour engendrer un...
+	
+	
+
+	
+	
+		Lorrain.
+		Claude Gellée ou Gelée, dit Claude Lorrain. Peintre français...
+	
+	
+
+	
+	
+		Newton.
+		sir Isaac Newton. Physicien, mathématicien et astronome anglais...
+	
+	
+
+	
+	
+		onde. 
+		Modification de l'état physique d'un milieu matériel ou immatériel, qui...
+	
+	
+
+	
+	
+		photon. 
+		Quanton spécifique de la lumière, véhicule des interactions électromagnétiques.
+	
+	
+
+	
+	
+		photosynthèse. 
+		Chez les végétaux et certaines bactéries,  processus de fabrication de matière organique...
+	
+	
+
+	
+	
+		spectroscopie. 
+		Étude des spectres des rayonnements électromagnétiques émis ou absorbés par une substance...
+	
+	
+
+	À DÉCOUVRIR DANS L'ENCYCLOPÉDIE
+	
+	avulsion dentaire. [MÉDECINE]
+	Belgique.
+	Carthage.
+	cerf. [FAUNE]
+	Chérubin.
+	Code civil.
+	délinquance juvénile.
+	Girondins.
+	Jeux Olympiques de la Grèce antique.
+	Mésopotamie. [DOSSIER].
+	Restauration (seconde).
+	surréalisme. [LITTÉRATURE]
+	synapse.
+	termite. [FAUNE]
+	Van Gogh. Vincent Van Gogh.
+	Versailles (traité de).
+	
+
+                    
+                 
+                
+                
+                 
+            
+            
+                 
+                
+                    
+                        
+                        DANS L'ENCYCLOPEDIE
+                        
+                    
+                    
+                        
+                            lumière. Rayonnement électromagnétique dont la longueur d'onde, comprise entre 400 et...
+                        
+                    
+                
+                
+                
+
+
+     
+    
+        
+        OUTILS
+            
+    
+
+    
+
+    
+        
+            
+        
+        
+    
+
+    
+        
+            
+        
+    
+
+    
+        
+        
+            
+                &#xe823;
+                CONJUGATEUR
+                &#xe807; 
+            
+            
+         
+              
+         
+        
+            
+                &#xe812;
+                JEUX
+                &#xe807;
+            
+            
+        
+    
+    
+        
+            
+                
+            
+            
+        
+        
+        
+            
+                
+                COURS DE FRANÇAIS
+                &#xe807;
+            
+            
+        
+        
+        
+        
+        
+    
+
+                
+                 noDisplay (SEO)) -->
+                <!-- 
+
+
+    
+    
+
+    
+        
+            VOIR LA TRADUCTION
+            
+        
+        
+            
+            
+                
+                    
+                        
+                        Anglais
+                    
+                
+                
+                    
+                        
+                        Italien
+                    
+                
+            
+            
+                
+                    
+                        
+                        Allemand
+                    
+                
+                
+                    
+                        
+                        Espagnol
+                    
+                
+            
+            
+                
+                    
+                        
+                        Chinois
+                    
+                
+                
+                    
+                        
+                        Arabe
+                    
+                
+           
+        
+
+        
+
+        
+
+        
+
+         
+    
+    
+ -->
+				
+                
+                
+                
+                    
+                        
+                        QUIZ
+                        
+                    
+                    
+
+
+
+
+
+
+
+
+    
+
+
+		
+			Lequel de ces substantifs masculins se finissant par le son [oir] ne prend pas de «&nbsp;e&nbsp;»&nbsp;?
+		
+		
+			
+				
+					
+					
+					direct…
+					
+					
+					
+					ostens…
+					
+					
+					
+					audit…
+					
+				
+		
+
+
+
+
+
+		
+
+
+
+
+
+
+
+                 
+                
+                          
+            
+          
+
+        
+            
+                 
+            
+                         
+            
+         
+        
+    
+
+    
+     -->
+    
+     -->     
+    
+         
+  
+
+     
+
+
+        
+
+        
+        
+            
+        
+        
+        
+        
+        
+
+        
+        
+            
+                Applications mobiles
+                Index
+                
+                Mentions légales et crédits
+                CGU
+                CGV
+                Charte de confidentialité
+                
+                           
+                Cookies          
+                
+                Contact
+                À la une   
+            
+            
+                &copy; Larousse
+                
+               
+        
+        
+
+     
+
+     
+
+ -->  
+
+ -->
+
+
+ -->              
+
+                      
+
+
+   
+ 
+
+
+        //alert("CATEGORY-1: OK \nCookies strictement nécessaires"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        // --- Gestion OneTrust & POOOL ---
+        ///////////////////////////////////
+        //alert("optanon(CAT-1|START) : Consent[NO]");
+        // cookies POOOL consent [enable: false (by default)]
+        if(access){
+            access.config('cookies_enabled', false);
+        }
+        // show Paywall (by default)
+        setCookie('spwpoool_', 'true', 1);
+ 
+
+
+        //alert("CATEGORY-2: OK \nCookies de performance ");  
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");  
+        //
+        //googleAnalytics(); 
+        //alert("googleAnalytics(): OK");
+
+   
+
+        //alert("CATEGORY-3: OK \nCookies de fonctionnalité"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]"); 
+        //
+
+
+
+        //alert("CATEGORY-4: OK \nCookies pour une publicité ciblée"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //initSAStrigger();   // regispub: trigger Pub (body, etc...) via smartadserver
+        //ads();              // regispub: themoneytizer
+        //AdsEx();            // regispub: quantx(elasticad), Teads
+        //alert("ads()-quantxAds(): OK"); 
+        //
+        // --- Gestion OneTrust & POOOL ---
+        ///////////////////////////////////
+        //alert("optanon(CAT-4|PUB) : Consent[OK]");
+        // consentement oneTrust: [OK]  (optanon(CAT-4|PUB))
+        //alert("setCookie : laruserconsent_[true]");
+        setCookie('laruserconsent_', 'true', 1);
+        //
+        // cookies POOOL consent [enable: true (OK)]
+        if(access){
+            access.config('cookies_enabled', true);
+        }
+        //
+        disablePaywall(false);  // userSubscribe:NO => [bRelease:false]
+
+
+
+        //alert("CATEGORY-8: OK \nCookies réseaux sociaux");
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //twitter();      // Box Twitter
+        //facebook();     // Box facebook
+        //googleplus();   // Box Google Plus
+        //alert("twitter()-facebook()-googleplus(): OK");    
+  
+
+
+   
+ 
+ 
+
+
+    //var audit = null;     //-> const
+    //alert("gestion Audit POOOL");
+    // Poool v.PROD
+    const audit = Audit.init('ILD4S-2S1MH-UGZ3J-1SEEH').sendEvent('page-view', { type: 'premium' });
+    // Poool v.RECE
+    //const audit = Audit.init('5Y16cvWJidLpcch2Vz0IxqXKctgoMPmPniMvai5hcvwJ22qMwQ7HEYM8Xg2Mc0lj');
+    //
+    if (window.location.toString().indexOf("pedagogique") > 0) {
+        audit.config({ context: 'pedagogique' });
+        audit.sendEvent('page-view', { type: 'premium' });
+        //alert("audit-config => context: 'pedagogique' + sendEvent");
+    }
+    
+    //alert("Audit.init(): [OK]");
+
+ 
+
+
+    const script_access = document.getElementById('poool-access');
+    //
+    var access = null;    // global => const ???
+    //
+    script_access.addEventListener('load', function () {
+        //alert("spwpoool_[" + spwpoool_+"]: \n   - createPaywall \n   - poool-widget=show() + wrapper=blur(3) \n   - event(Poool+oneTrust)");
+
+        // Poool v.PROD
+        access = Access.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+        // Poool v.RECE
+        //access = Access.init('5Y16cvWJidLpcch2Vz0IxqXKctgoMPmPniMvai5hcvwJ22qMwQ7HEYM8Xg2Mc0lj');
+        //
+        // v.Debug (consolog)
+        access.config({ debug: false });    // true|false
+
+        // Event Lock & Release
+        access.on('lock', () => {
+            //alert("LOCK! => paywall");
+        });
+        access.on('release', event => {
+            //alert('RELEASE: => widget ' + event.widget + (event.actionName ? ' nommé ' + event.actionName : ''));
+            //
+            disablePaywall(true);   // eventRelease => [bRelease:true]
+        });
+
+        // event back consent
+        access.on('consent', function () {
+            //alert("access.on('consent')");
+
+            // change Consent (accept All Cookie)
+            /////////////////////////////////////
+            //OneTrust.AllowAll();              // => [OK]
+
+            // Display Banner OneTrust (!niveau 2:setting!)
+            ///////////////////////////////////////////////
+            OneTrust.ToggleInfoDisplay();       // => [OK]
+            OneTrust.OnConsentChanged(function () {
+                //alert("OneTrust.OnConsentChanged => Value: [" + OnetrustActiveGroups + "]");
+                if (OnetrustActiveGroups.match(/,4,/) != null) {
+                    // cookies consent [enable: true (OK)]
+                    access.config('cookies_enabled', true);
+                    //
+                    // consentement oneTrust: [OK]  (OnetrustActiveGroups == 4)
+                    setCookie('laruserconsent_', 'true', 1);
+                    //alert("setCookie : laruserconsent_[true]");
+                }else{
+                    // consentement oneTrust: [KO]  (OnetrustActiveGroups != 4)
+                    // (ré)activation paywall POOOL
+                    enablePaywall();
+                }
+            });
+        });
+
+        //  pageInfos(footer) => !!! no Paywall !!!
+        if (window.location.toString().indexOf("/infos/") > 0) return;       
+
+        // TAG(context): pedagogique
+        if (isPremium()) {
+            access.config({ context: 'pedagogique' });
+            //alert("access-config => context: 'pedagogique' ");
+        } 
+
+        //
+        var spwpoool_ = getCookie('spwpoool_');
+        if (spwpoool_ == null || spwpoool_ == 'true') {
+            enablePaywall();
+        }
+
+    });
+
+    //
+    function enablePaywall() {
+        //alert("enablePaywall: access.createPaywal + blur");
+
+        access.createPaywall({
+            target: '#poool-widget',
+            content: '[data-poool]',
+            mode: 'excerpt',
+            percent: 80,
+            pageType: 'premium',
+        });
+        // Hide   
+        $("#poool-widget").show();
+        // wrapper -> blur(3) >>> flou
+        $('.wrapper').css({
+                    'filter'         : 'blur(3px)',
+            '-webkit-filter' : 'blur(3px)',
+            '-moz-filter'    : 'blur(3px)',
+            '-o-filter'      : 'blur(3px)',
+            '-ms-filter'     : 'blur(3px)'
+        });
+        //
+        // Set cookie [show payWall] (default value)
+        //alert("spwpoool_ = true (default value)");
+        setCookie('spwpoool_', 'true', 1);
+    }
+
+    //
+    function disablePaywall(bRelease){
+        //alert("disablePaywall(): \n   - destroyPaywall(?) \n   - poool-widget=hide() + wrapper=blur(0) \n   - cookie spwpoool_: false");
+
+        // gestion Subscribe/Release & pedagogique
+        if (isPremium() && !bRelease ) {
+            return;
+        }
+            
+        //alert("disablePaywall:  access.destroy + noBlur");
+        //
+        // Destroy Paywall (?)
+        if (access) { 
+            //alert("access != null : destroyPaywall");
+            access.destroy();
+        }
+        //
+        //alert("- : hide() \n- : blur(0)");
+        // Hide   
+        $("#poool-widget").hide();
+        
+        // wrapper -> blur(0) >>> ok
+        $('.wrapper').css({
+            'filter'         : 'none',
+            '-webkit-filter' : 'none',
+            '-moz-filter'    : 'none',
+            '-o-filter'      : 'none',
+            '-ms-filter'     : 'none'
+        });
+        //
+        // Set cookie [hide payWall]
+        //alert("cookie spwpoool_: false");
+        setCookie('spwpoool_', 'false', 1);
+    }
+
+    function isPremium() {
+        var currentURL = window.location.toString();
+        //
+        if (currentURL.indexOf("/dictionnaires/pedagogique") > 0
+            || currentURL.indexOf("/dictionnaires/junior") > 0
+            || currentURL.indexOf("/dictionnaires/college") > 0
+            || currentURL.indexOf("/dictionnaires/memo") > 0
+            || currentURL.indexOf("/dictionnaires/chronologie") > 0) {
+            return true;
+        } else
+            return false;
+    }
+
+
+ 
+
+
+    const script_subscribe = document.getElementById('poool-subscribe');
+    script_subscribe.addEventListener('load', function () {
+        // Poool v.PROD
+        subscribe = Subscribe.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+        // Poool v.RECE
+        //subscribe = Subscribe.init('5Y16cvWJidLpcch2Vz0IxqXKctgoMPmPniMvai5hcvwJ22qMwQ7HEYM8Xg2Mc0lj');
+        //
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-topbar'
+        });
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-menuburger'
+        });
+        //subscribe.config('debug', true);
+
+        // Appel ( async / await)
+        /////////////////////////
+        async function getUserDatas() {
+            const user = await subscribe.getUser();         //[KO] user => undefined
+            //alert("user info: " + user 
+            //                        + "\nid_subscription: " + user.subscription.subscriptionId
+            //                        + "\nstatus: " + user.subscription.status
+            //                        + "\ncreatedAt: " + user.subscription.createdAt);
+            if(user != undefined 
+                    && user.subscription != null
+                    && user.subscription.status == "active"){
+                //alert("status == active : subscribe[OK]");
+                $("#auth-widget-topbar").css("margin-top", "12px");   // alignement infoUSer (topbar)
+                disablePaywall(true);   // userSubscribe:YES => [bRelease:true] 
+            }else{
+                //
+                //alert("access[null] OR subscribe[KO]: keepContext");
+                if (isPremium()) {
+                    enablePaywall();
+                } 
+            }
+        }
+        getUserDatas();
+    });  
+
+
+
+
+                  
+

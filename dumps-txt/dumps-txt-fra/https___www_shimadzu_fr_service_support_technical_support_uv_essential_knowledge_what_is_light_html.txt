@@ -1,0 +1,857 @@
+
+
+  
+            
+    
+
+
+
+
+
+
+
+    Qu&#039;est-ce que la lumière ? : Shimadzu (France)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3268","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-MN3XL5Z"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9kltywyAMRTfkqT-7HI2MVUyCpFSCuM7qA-lMW9dpfwCdeyXEI2R038YJnYbwuWZyx0g-BDUaRY0xpxsNUTVmgoJxjG34Hb_gCT_2kAdfEuN8q4Ayzq_gZcu0gwvhTAZZcYbTeyXbdjJjkidZoiuUxHt4rQSTtXrBKk9-0GLWCTMIXoFJ6kFn4oms0UtQKaY5HyxCK6Odf3Jwin-0-ZCcFBajt4wSD2KvGVTPqU_iJKXjp7Z_uv_y9D1qezrwNZWwkH27-pF6-aKXMVQvyi2rlCSxXdTmhfjxB-7SjtEj","theme":"shimadzu_an_seg","theme_token":null},"ajaxTrustedUrl":[],"vueComponent":{"multilingual":{"source":"\/node\/3268"},"common":{"nid":3268,"bundle":"analysis_basic_page"},"contentTop":{"pageId":"60243","releaseTime":0},"section":"section_6","membershipcontroll":{"logout":{"keepPage":true},"page":{"topPage":"\/index.html"},"myPage":{"top":"\/member\/s\/index.html","downloadHistory":"\/member\/s\/history\/index.html","setting":"\/member\/s\/setting\/index.html"},"passwordReminder":{"sitekey":"6LcdLnkiAAAAAHN6Ybp9OW0PL1MnFfHLrjRPwXHf"}},"silveregg":{"domain":"shimadzu.silveregg.net","specId":{"product":"pc311","application":"pc313"},"sendPageAccess":false},"useDoubleOptIn":{"enable":false},"idShimadzu":{"domain":"https:\/\/id.shimadzu.com\/","top":"\/index.html","register":"\/comsys\/register\/index.html","login":"\/comsys\/login.html","edit":"\/comsys\/edit\/index.html","service":"\/comsys\/service\/index.html"},"sites":{"isParent":false,"parent":{"code":"scj","label":"SCJ","url":"https:\/\/www.shimadzu.com\/an","basePath":"\/an\/"},"current":{"code":"seg_fr","label":"SEG-FR","url":"https:\/\/www.shimadzu.fr","basePath":"\/"},"pageListSites":[{"code":"scj","label":"SCJ","url":"https:\/\/www.shimadzu.com\/an","basePath":"\/an\/"},{"code":"seg_eu","label":"SEG-EU","url":"https:\/\/www.shimadzu.eu","basePath":"\/"}]},"singleSignOn":{"language":"fr","screenSet":{"registration":"segfrweb-RegistrationLogin"},"domainName":"segfrweb","interestsProduct":false,"useChildContext":null}},"analysisBasics":{"mostParentCategoryId":3046},"staticDomain":"","user":{"uid":0,"permissionsHash":"0af6f017178209d1f6b6f9bb3bf8a393115fd77c7b8dd203c2c021fc018df4d9"}}
+
+
+
+
+
+
+  
+  
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MN3XL5Z"
+                  height="0" width="0" style="display:none;visibility:hidden">
+
+      
+      
+    
+
+  
+    
+  
+      
+      
+        
+             
+      
+        
+          France
+        
+        
+          Analytical and Measuring Instruments
+        
+      
+    
+        
+      
+        
+            
+    
+        
+      
+        
+            
+    
+  
+
+      
+      
+                                                              
+            
+                              
+                                  
+                                            
+            
+          
+                                                                
+            
+                              
+                                  
+                                            
+            
+          
+                                                                
+            
+                              
+                                  
+                                            CONTACT
+            
+          
+                                                                
+            
+                              
+                                  
+                                            E-NEWS
+            
+          
+                                                                
+            
+                              
+                                            BOUTIQUE EN LIGNE
+            
+          
+                        
+                
+        
+
+
+
+                
+          
+        
+          
+          
+          
+        
+      
+      
+  
+    
+      
+        France
+      
+      
+        Analytical and Measuring Instruments
+      
+    
+  
+    
+
+      
+    
+      
+        
+                                                                                                                              
+                
+                  SOCIÉTÉ
+                
+                                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit "
+                name="global_nav_section"
+                data-section="section_1"
+                data-title="PRODUITS"
+                data-link="/products/index.html"
+                data-menu-type="product"
+                data-input-url="false"
+                >
+                PRODUITS
+                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit "
+                name="global_nav_section"
+                data-section="section_2"
+                data-title="INDUSTRIES"
+                data-link="/industries/index.html"
+                data-menu-type="industry"
+                data-input-url="false"
+                >
+                INDUSTRIES
+                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit "
+                name="global_nav_section"
+                data-section="section_3"
+                data-title="RESSOURCES"
+                data-link="/resources/index.html"
+                data-menu-type="resources"
+                data-input-url="false"
+                >
+                RESSOURCES
+                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit u-mobileDisplay--hide "
+                name="global_nav_section"
+                data-section="section_4"
+                data-title="TÉMOIGNAGE CLIENTS"
+                data-link="/case-studies/index.html"
+                data-menu-type="case_study"
+                data-input-url="false"
+                >
+                TÉMOIGNAGE CLIENTS
+                
+              
+              
+                
+                  TÉMOIGNAGE CLIENTS
+                  
+                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit is-current"
+                name="global_nav_section"
+                data-section="section_6"
+                data-title="SERVICE/SUPPORT"
+                data-link="/service-support/index.html"
+                data-menu-type="support"
+                data-input-url="false"
+                >
+                SERVICE/SUPPORT
+                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit u-mobileDisplay--hide "
+                name="global_nav_section"
+                data-section="section_5"
+                data-title="ACTUALITÉS"
+                data-link="/news-events/index.html"
+                data-menu-type="news"
+                data-input-url="false"
+                >
+                ACTUALITÉS
+                
+              
+              
+                
+                  ACTUALITÉS
+                  
+                
+              
+                                                                                                                                          <li
+                class="p-globalNav__unit u-mobileDisplay--show"
+                name="global_nav_section"
+                data-section="country"
+                data-title="COUNTRY"
+                data-link=""
+                data-menu-type="country"
+                data-input-url="false"
+                >
+                
+                                  <img
+                    src="/sites/shimadzu.seg/files/country/images/fr.png"
+                    alt="country"
+                    width="28px"
+                    />
+                                  COUNTRY
+                
+                
+              
+                                                      
+              
+                
+                  
+                  
+                    DEVIS
+                  
+                
+              
+            
+                  
+        
+        
+          
+            
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    
+    
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  document.write(unescape('%3Cscript src="/themes/custom/shimadzu_an/js/sync/syncsuggest_smz.js" type="text/javascript"%3E%3C/script%3E'));
+  SYNCSEARCH_SITE = "KWBG4K9Y";
+  SYNCSEARCH_GROUP = "62";
+  SYNCSEARCH_GROUP1 = "62";
+
+
+	
+
+
+
+
+
+  
+        
+  
+  
+  
+
+
+  
+    
+      JavaScript désactivé
+      Notre site Internet utilise JavaScript. Veuillez confirmer que JavaScript est activé dans votre navigateur.
+    
+  
+  
+  
+      
+    
+  
+    <div
+      class="l-fullWidth--PCContentsNoPadding">
+            
+    
+    
+      
+        
+                    
+Qu'est-ce que la lumière ?
+        
+      
+            
+
+                    
+
+  
+    
+      
+        
+          
+        
+        
+          Share
+        
+      
+      
+        
+          Share
+        
+        
+          
+            
+              
+              X (Twitter)
+            
+            
+              
+              Facebook
+            
+            
+              
+              LinkedIn
+            
+          
+        
+      
+    
+        
+      
+        
+      
+      
+        Add Bookmark
+      
+    
+      
+  
+          
+        
+          Demande De Devis
+        
+      
+          
+        
+          Informations Produit
+        
+      
+          
+        
+          Demande Technique
+        
+      
+          
+        
+          Autres Demandes
+        
+      
+      
+
+          
+  
+
+  
+
+    
+      
+    
+  
+    
+      
+<section
+  class="l-fullWidth--PCContentsFlexSPColumReverseNoPadding u-margin--PC50 log-contents" style="border: none;">
+    
+    
+      
+        
+      
+    
+  
+        
+      
+      
+              
+
+
+La question de savoir si la lumière est une onde ou une particule a été, au cours de l'histoire, le sujet de nombreux débats. Il est bien connu que diverses théories ont été développées à partir de l'affirmation de Newton selon laquelle la lumière est une particule et de l'affirmation de Huygens selon laquelle la lumière est une onde. En physique moderne, il est maintenant reconnu que, bien que la lumière ait une nature ondulatoire, elle possède également des propriétés semblables à celles des particules. Dans cet article, nous allons décrire la dualité de la lumière et la relation entre la matière et l'absorbance de la lumière.
+
+
+
+
+1. La Dualité de la Lumière
+
+
+(1) Propriétés Ondulatoires de la Lumière
+
+
+
+
+Bien que la lumière soit généralement considérée comme une onde, contrairement aux vagues qui se produisent à la surface d'un corps d'eau, elle ne nécessite pas de milieu. Comme montré dans la Fig. 1, la lumière est composée d'un champ électrique et d'un champ magnétique qui s'intersectent à angle droit en se déplaçant à travers un vide. La distance entre les pics successifs du champ électrique ou du champ magnétique est la longueur d'onde.
+
+Lorsqu'on manipule la lumière, on rencontre des phénomènes qui sont propres aux ondes, tels que l'interférence et la diffraction. L'expérience dans laquelle Young a découvert l'interférence de la lumière et a conclu que la lumière était une onde est bien connue. Comme montré dans la Fig. 2, la lumière monochromatique émise par une source lumineuse, L, passe à travers une fente unique, puis à travers deux autres fentes, S1 et S2. En conséquence, des franges d'interférence sont observées sur l'écran à l'arrière sous la forme d'un motif de bandes alternées de luminosité et d'obscurité. Cela peut être expliqué en considérant S1 et S2 comme des sources lumineuses en phase l'une avec l'autre. Les ondes se déplacent de ces sources lumineuses vers l'écran à l'arrière. Aux points où les ondes sont en phase, elles se renforcent, tandis qu'aux points où les ondes sont hors phase, elles s'annulent. Si l'on considère la surface de ce papier comme la surface d'un corps d'eau, et les fentes comme des partitions avec des trous, alors les ondes se déplaçant de gauche à droite se comporteraient de la même manière. En ce sens, l'expérience de Young démontre la nature ondulatoire de la lumière de manière intuitive. Incidemment, le réseau de diffraction utilisé dans un spectrophotomètre UV-VIS crée de la lumière monochromatique en utilisant la nature ondulatoire de la lumière qui se diffracte et provoque l'interférence.
+
+
+
+
+La lumière est composée de certains types d'ondes électromagnétiques.
+Les ondes électromagnétiques sont désignées par différents noms en fonction de leur longueur d'onde, comme montré dans la Fig. 3. La "lumière" fait généralement référence aux ondes électromagnétiques dans la plage couvrant le rayonnement infrarouge et le rayonnement ultraviolet, mais dans certains cas, elle ne fait référence qu'à la lumière visible. La lumière avec des longueurs d'onde dans une plage d'environ 400 à 800 nm est appelée "lumière visible", et c'est la lumière que nous, humains, pouvons voir à l'œil nu.
+Par exemple, la lumière avec une longueur d'onde de 470 nm est bleue, la lumière avec une longueur d'onde de 540 nm est verte, et la lumière avec une longueur d'onde de 650 nm est rouge. La lumière visible pourrait être décrite comme le type de lumière dont nous, humains, sommes familiers en raison de notre capacité à la voir réellement.
+
+
+
+
+
+Fig. 3 Classification de la Lumière Selon la Longueur d'Onde
+
+
+
+
+
+(2) Propriétés de Particule de la Lumière
+
+Ensuite, examinons le comportement de type particule de la lumière. Parmi les développements qui ont aidé à identifier ce comportement, il y a une série d'expériences sur l'effet photoélectrique qui ont été réalisées à la fin du 19e siècle et au début du 20e siècle.
+Les résultats de ces expériences ne pouvaient pas être expliqués en considérant la lumière comme une onde, mais ils pouvaient être expliqués en la considérant comme une particule. Lorsqu'on met l'accent sur les aspects de type particule de la lumière, le terme "photon" est utilisé.
+
+
+
+
+
+Fig. 4 Concept de l'Effet Photoélectrique3)
+
+
+La Fig. 4 illustre le concept de base de l'effet photoélectrique, un phénomène dans lequel des électrons sont émis d'une surface métallique lorsque la lumière la frappe. Les électrons émis sont appelés "photoélectrons". Même si aucun électron n'est émis lorsque la lumière intense frappe la surface, des électrons sont émis lorsque de la lumière de longueur d'onde plus courte frappe la surface. Si la longueur d'onde de la lumière frappant la surface est diminuée, le nombre d'électrons émis ne change pas, mais l'énergie des électrons augmente. Si la lumière frappant la surface est intensifiée, le nombre d'électrons émis augmente, mais l'énergie des électrons reste la même. Ces phénomènes ne peuvent pas être expliqués en considérant la lumière comme une onde, mais ils peuvent l'être en la considérant comme une particule, les électrons étant expulsés par ces particules lorsqu'elles frappent le métal. En combinaison avec les résultats des expériences sur l'effet Compton et d'autres expériences, les propriétés de type particule ont été reconnues. Incidemment, le tube photomultiplicateur utilisé comme détecteur dans les spectrophotomètres UV-VIS détecte la lumière en utilisant l'effet photoélectrique.
+
+Nous avons examiné la dualité de la lumière, avec son mélange de propriétés ondulatoires et de propriétés de particule. Le fait que la lumière ait ces deux caractéristiques opposées peut sembler étrange, mais c'est ainsi que la lumière est modélisée en physique moderne.
+
+
+
+2. Absorption de la Lumière par la Matière
+
+
+Une grande variété d'informations sur une substance peut être obtenue en l'irradiant avec de la lumière. Avec un spectrophotomètre UV-VIS, l'irradiation d'une substance avec de la lumière ultraviolette et visible permet d'obtenir des informations sur les électrons de cette substance, et il est même possible de mesurer sa quantité.
+
+Considérons l'absorption de la lumière par la matière. Cela est étroitement lié à la mécanique quantique. La théorie de la mécanique quantique a été développée au début du 20e siècle et constitue une partie de la base de la physique moderne. La mécanique quantique peut être facilement comprise en la comparant à la mécanique newtonienne.
+De manière générale, la mécanique newtonienne est une théorie qui concerne le mouvement de grandes particules, tandis que la mécanique quantique est une théorie qui concerne le mouvement de petites particules (par exemple, les atomes et les molécules). La mécanique newtonienne traite le mouvement des particules comme une entité continue, tandis que la mécanique quantique affirme que les petites particules existent dans des états de mouvement discrets (énergies). À l'époque où la mécanique newtonienne était la théorie dominante, le concept de mécanique quantique était difficile à accepter pour les gens. Cependant, au fil du temps, sa validité a été démontrée.
+
+
+
+
+
+Fig. 5 Niveaux d'Énergie
+
+
+La résolution des équations de la mécanique quantique qui concernent les électrons dans un atome donne un modèle, comme celui montré dans la Fig. 5, dans lequel les électrons ont des états d'énergie discrets. E0 est appelé l'"état fondamental" et E1, E2, etc., sont appelés "états excités".
+Pour qu'un électron passe de E0 à E1, la lumière avec une énergie de (E1 - E0) doit frapper l'électron. C'est ce qu'on appelle "l'absorption" de la lumière. Les électrons ont des niveaux d'énergie particuliers, et les rayons de lumière ultraviolette et visible ont l'énergie nécessaire pour changer les états d'énergie des électrons.
+
+
+
+
+Parce que l'état d'énergie plus élevé, E1, est instable, l'électron revient bientôt à l'état fondamental, E0. L'énergie libérée lorsque l'électron revient de E0 à E1 (E1 - E0) est convertie en chaleur. Si, pour une raison quelconque, elle n'est pas convertie en chaleur, l'énergie est libérée sous forme de lumière. Le phénomène d'émission de lumière est bien connu sous le nom de fluorescence ou phosphorescence.
+
+En relation avec la mesure quantitative réalisée avec la spectroscopie, la conséquence de ce phénomène est qu'il y a une grande quantité d'absorption si un grand nombre de molécules cibles existent dans une solution, et seulement une petite quantité d'absorption s'il n'y a qu'un petit nombre de molécules cibles.
+Obtenir la quantité, et donc la concentration, d'une substance à partir du degré d'absorption est le principe fondamental derrière la mesure quantitative.
+
+Le graphique obtenu en utilisant l'axe horizontal pour représenter la longueur d'onde et l'axe vertical pour représenter le degré d'absorption est appelé un "spectre d'absorption". Le degré d'absorption est exprimé en termes de l'unité "absorbance" (Abs). La Fig. 6 montre un spectre d'absorption de solution de β-carotène obtenu avec le spectrophotomètre UV-VIS Shimadzu UV-2550 (Fig. 7). Le β-carotène est la principale substance dans les carottes qui leur donne leur couleur. Comme montré dans la Fig. 6, principalement la lumière bleue et violette avec des longueurs d'onde dans la plage de 400 à 500 nm est absorbée. Parce que la lumière visible qui atteint l'œil de l'observateur est composée d'un mélange des composants verts et rouges qui restent, les carottes, qui contiennent une grande quantité de β-carotène, apparaissent avec une coloration jaune-rouge.
+
+
+
+
+
+
+3. Résumé
+
+
+Dans cet article, nous avons examiné les propriétés de la lumière et la façon dont elle est absorbée, deux aspects fondamentaux du fonctionnement d'un spectrophotomètre UV-VIS. Dans le domaine de la spectroscopie, en plus des spectrophotomètres UV-VIS, il existe divers autres types de dispositifs de mesure spectroscopique, tels que les spectrophotomètres infrarouges, les photomètres d'absorption atomique, les spectrophotomètres Raman et les spectrophotomètres de fluorescence, qui effectuent tous des types d'analyse distincts. L'utilisation sélective de ces dispositifs permet d'obtenir divers types d'informations sur les échantillons sous différents angles. Dans le prochain volume, nous décrirons la structure d'un spectrophotomètre UV-VIS.
+
+
+
+
+	1) Kanji Kihone : Measuring Light, Chapter 10
+	(Edité par l'Institut d'Ingénierie de l'Éclairage du Japon, Publié par Nippon Riko Shuppankai, 1993), p. 172
+	2) Akira Harajima : Elementary Quantum Mechanics
+	(Shokabo, 1987), p. 3
+	3) Ryuzo Abe : Introduction to Quantum Mechanics
+	(Iwanami Shoten, Publishers, 1987), p. 31
+
+
+
+
+
+UV Talk Letter
+
+Le livret aborde une gamme de sujets liés aux UV et fournit des informations et des connaissances utiles sur l'analyse à l'aide des spectrophotomètres UV de Shimadzu.
+
+
+
+
+
+          
+  
+    
+  
+
+  
+
+  
+
+    
+      
+    
+  
+          Movies
+      <ul
+        class="l-gridWrap__grid--3Column">
+                          
+            
+    
+          
+        
+          
+            
+          
+        
+      
+        
+      
+        
+          
+          
+            Movie
+          
+                  
+                      
+    
+  
+            
+          
+                                  
+            
+    
+          
+        
+          
+            
+          
+        
+      
+        
+      
+        
+          
+          
+            Webinar
+          
+                  
+                      
+    
+  
+            
+          
+              
+              Related applications
+      
+                          
+            
+    
+          
+        
+          
+            
+          
+        
+      
+        
+      
+        
+          
+          
+            Search
+          
+                  
+                      
+    
+  
+            
+          
+                                  
+            
+    
+          
+        
+          
+            
+          
+        
+      
+        
+      
+        
+          
+          
+            Applications recommandées
+          
+                  
+                      
+    
+  
+            
+          
+              
+      
+
+
+
+  
+
+  
+  
+
+  
+    	
+
+
+						
+				
+					
+				
+								Contact SHIMADZU
+								
+											
+							
+								Demande De Devis
+								
+							
+						
+											
+							
+								Informations Produit
+								
+							
+						
+											
+							
+								Demande Technique
+								
+							
+						
+											
+							
+								Autres Demandes
+								
+							
+						
+									
+			
+										
+						
+				
+											
+							SOCIÉTÉ
+						
+											
+							PRODUITS
+						
+											
+							INDUSTRIES
+						
+											
+							RESSOURCES
+						
+											
+							TÉMOIGNAGE CLIENTS
+						
+											
+							SERVICE/SUPPORT
+						
+											
+							ACTUALITÉS
+						
+									
+				
+											
+							
+							INSCRIVEZ-VOUS À NOS E-COMMUNICATIONS
+							
+						
+										
+						Suivez-nous
+						
+																																																																							
+										
+											
+										
+									
+																																																
+										
+											
+										
+									
+																																																																																			
+					
+				
+			
+					
+				
+			
+				
+																		
+								MENTIONS LÉGALES
+							
+																								
+								POLITIQUE DE CONFIDENTIALITÉ
+							
+																								
+								CONDITIONS D&#039;UTILISATION
+							
+																								
+								CARRIÈRE
+							
+																								
+								PLAN DU SITE
+							
+															
+				
+											@ Shimadzu France - All rights reserved
+									
+			
+		
+	
+	
+		
+			
+				
+					
+				
+			
+			
+			
+				
+					
+				
+			
+		
+	
+
+  
+
+
+  
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+  
+

@@ -1,0 +1,1512 @@
+
+
+
+
+Onde électromagnétique — Wikipédia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"6cbcec2c-40a2-4355-bcaa-f7cdd2caec19","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Onde_électromagnétique","wgTitle":"Onde électromagnétique","wgCurRevisionId":220952003,"wgRevisionId":220952003,"wgArticleId":20408,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portail:Physique/Articles liés","Portail:Sciences/Articles liés","Portail:Optique/Articles liés","Électromagnétisme","Optique ondulatoire"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Onde_électromagnétique","wgRelevantArticleId":20408,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"ccd26dec-6c86-4034-a704-e402435cd53c","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q11386","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ArchiveLinks","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+	
+		
+			
+				
+
+	
+	
+
+Menu principal
+	
+	
+
+
+				
+		
+
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	Menu principal
+	déplacer vers la barre latérale
+	masquer
+
+
+	
+
+	
+		Navigation
+	
+	
+		
+		
+			
+			Page d’accueilPortails thématiquesArticle au hasardContact
+		
+		
+	
+
+
+	
+
+	
+		Contribuer
+	
+	
+		
+		
+			
+			Débuter sur WikipédiaAideCommunautéPages spécialesModifications récentes
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+Rechercher
+	
+	
+		
+			
+				
+					
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Rechercher sur Wikipédia" aria-label="Rechercher sur Wikipédia" autocapitalize="sentences" spellcheck="false" title="Rechercher sur Wikipédia [f]" accesskey="f" id="searchInput"
+							>
+						
+					
+					
+				
+				Rechercher
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+Apparence
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			Faire un don
+
+Créer un compte
+
+Se connecter
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+Outils personnels
+	
+	
+
+
+		
+
+	
+		
+		
+			
+			Faire un don Créer un compte Se connecter
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	Sommaire
+	déplacer vers la barre latérale
+	masquer
+
+
+
+	
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			
+				Début
+			
+		
+		<li id="toc-Historique"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				1
+				Historique
+			
+		
+		
+		
+		
+	
+	<li id="toc-Émission"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				2
+				Émission
+			
+		
+		
+		
+		
+	
+	<li id="toc-Description"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				3
+				Description
+			
+		
+		
+		
+		
+	
+	<li id="toc-Propriétés"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				4
+				Propriétés
+			
+		
+		
+			
+				
+				Afficher / masquer la sous-section Propriétés
+			
+		
+		
+			<li id="toc-Polarisation"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					4.1
+					Polarisation
+				
+			
+			
+			
+			
+		
+		<li id="toc-Comportement_ondulatoire"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					4.2
+					Comportement ondulatoire
+				
+			
+			
+			
+			
+		
+		<li id="toc-Dualité_onde-corpuscule"
+			class="vector-toc-list-item vector-toc-level-2">
+			
+				
+					4.3
+					Dualité onde-corpuscule
+				
+			
+			
+			
+			
+		
+	
+	
+	<li id="toc-Notes_et_références"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				5
+				Notes et références
+			
+		
+		
+		
+		
+	
+	<li id="toc-Articles_connexes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				6
+				Articles connexes
+			
+		
+		
+		
+		
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+Basculer la table des matières
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					Onde électromagnétique
+							
+
+	
+	
+
+50 langues
+	
+	
+
+		
+			
+			
+				
+				AlemannischالعربيةAsturianuAzərbaycancaБеларускаяБългарскиБуряадCatalàČeštinaЧӑвашлаDeutschEnglishEsperantoGalegoગુજરાતીKreyòl ayisyenMagyar日本語La .lojban.JawaҚазақшаКъарачай-малкъарKurdîLatinaLietuviųမြန်မာဘာသာNederlandsNorsk bokmålਪੰਜਾਬੀPiemontèisپنجابیPortuguêsRuna SimiRomânăРусскийSrpskohrvatski / српскохрватскиසිංහලShqipSundaతెలుగుTagalogTürkçeТатарча / tatarçaУкраїнськаOʻzbekcha / ўзбекчаWalonХальмг中文閩南語 / Bân-lâm-gí粵語
+			
+			Modifier les liens
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleDiscussion
+		
+		
+	
+
+
+								
+
+	
+	français
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			LireModifierModifier le codeVoir l’historique
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Outils
+	
+	
+
+
+									
+						
+
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	Outils
+	déplacer vers la barre latérale
+	masquer
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			LireModifierModifier le codeVoir l’historique
+		
+		
+	
+
+
+
+	
+		Général
+	
+	
+		
+		
+			
+			Pages liéesSuivi des pages liéesTéléverser un fichierLien permanentInformations sur la pageCiter cette pageObtenir l&#039;URL raccourcieTélécharger le code QR
+		
+		
+	
+
+
+
+	
+		Imprimer / exporter
+	
+	
+		
+		
+			
+			Créer un livreTélécharger comme PDFVersion imprimable
+		
+		
+	
+
+
+
+	
+		Dans d’autres projets
+	
+	
+		
+		
+			
+			Wikimedia CommonsWikiversitéÉlément Wikidata
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	Apparence
+	déplacer vers la barre latérale
+	masquer
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						Un article de Wikipédia, l&#039;encyclopédie libre.
+					
+					
+					
+					
+					
+Pour les articles homonymes, voir onde (homonymie).
+
+
+L'onde électromagnétique est un modèle utilisé pour représenter les rayonnements électromagnétiques. 
+Il convient de bien distinguer&#160;: le rayonnement électromagnétique, qui est le phénomène étudié, et l'onde électromagnétique, qui est une des représentations du phénomène. Une autre représentation —&#160;quantique (ou corpusculaire)&#160;— prend en compte l'existence du photon.
+Une onde lumineuse est une onde électromagnétique dont la longueur d'onde correspond au spectre visible, soit environ entre les longueurs d'onde 400 et 800 nm, ce qui correspond aux énergies de photon de 1,5 à 3 eV. Les ondes électromagnétiques sont des ondes transversales.
+
+
+Historique[modifier | modifier le code]
+La théorie ondulatoire de la lumière a été principalement développée par Christian Huygens dans les années 1670, puis par Augustin Fresnel. Elle s'opposait à l'époque à la théorie corpusculaire, défendue principalement par Isaac Newton. Huygens travaillait essentiellement sur les lois de la réflexion et de la réfraction, Fresnel développa notamment les notions d'interférence et de longueur d'onde. La conception de la lumière comme ondulation incita les physiciens à imaginer un milieu de propagation, l'éther.
+La grande avancée théorique fut la synthèse des lois de l'électromagnétisme par James Clerk Maxwell, ses équations prédisaient l'existence d'ondes électromagnétiques, et leur vitesse, permettant l'hypothèse que la lumière soit une onde électromagnétique.
+Les ondes radio, à basse fréquence et grande longueur d'onde, furent découvertes à la fin du XIXe&#160;siècle avec les travaux notamment d'Alexandre Popov, Heinrich Hertz, Édouard Branly et de Nikola Tesla. Les rayons X, à haute fréquence et faible longueur d'onde, furent découverts par Wilhelm Röntgen en 1895.
+Le problème du rayonnement du corps noir fut résolu par Max Planck, en 1901, en introduisant une constante et des discontinuités, qui seront expliquées par Albert Einstein en 1905, dans ses travaux sur l'effet photoélectrique, en proposant l'existence d'un quanta énergétique. Ce quanta est le prémisse au modèle du photon, synthèse des approches ondulatoire et corpusculaire de la lumière, donnant l'idée d'une généralisation à toute la matière&#160;: la mécanique quantique.
+
+Émission[modifier | modifier le code]
+Les ondes électromagnétiques (perturbations des champs électrique et magnétique) sont produites par des particules chargées accélérées&#91;1&#93;.
+Dans le domaine des radio-fréquences et des micro-ondes, l'émission d'une onde électromagnétique s’effectue en faisant circuler un courant électrique variable dans un conducteur. La réception se fait en détectant le courant électrique induit par le champ électromagnétique de l'onde dans un conducteur.
+
+Description[modifier | modifier le code]
+Onde électromagnétique&#160;: oscillation couplée du champ électrique et du champ magnétique, modèle du dipôle vibrant (le trièdre 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    v
+                    &#x2192;
+                  
+                
+              
+              ,
+              
+                
+                  
+                    E
+                    &#x2192;
+                  
+                
+              
+              ,
+              
+                
+                  
+                    B
+                    &#x2192;
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \left({\vec {v}},{\vec {E}},{\vec {B}}\right)}
+  
+ doit être direct).
+Une onde électromagnétique est la propagation d'un champ électrique 
+  
+    
+      
+        
+          
+            
+              E
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+  
+ et d'un champ magnétique 
+  
+    
+      
+        
+          
+            
+              B
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+  
+ associés, perpendiculaires entre eux et à la direction de propagation. 
+Comme toutes les ondes, une onde électromagnétique peut s'analyser en utilisant l'analyse spectrale&#160;; on peut décomposer l'onde en ondes dites «&#160;monochromatiques&#160;» (voir aussi Spectre d'ondes planes). 
+Une onde électromagnétique monochromatique peut se modéliser par un dipôle électrostatique vibrant, ce modèle reflétant convenablement, par exemple, les oscillations du nuage électronique d'un atome intervenant dans la diffusion Rayleigh (modèle de l'électron élastiquement lié).
+Les variations des champs électriques et magnétiques sont liées par les équations de Maxwell, on peut donc représenter l'onde par un seul de ces champs, en général le champ électrique.  
+Il est alors possible d'écrire l'équation générale d'une onde plane monochromatique&#160;:
+
+
+  
+    
+      
+        
+          
+            
+              E
+              &#x2192;
+            
+          
+        
+        (
+        
+          
+            
+              r
+              &#x2192;
+            
+          
+        
+        ,
+        t
+        )
+        =
+        cos
+        &#x2061;
+        (
+        &#x03C9;
+        t
+        &#x2212;
+        
+          
+            
+              k
+              &#x2192;
+            
+          
+        
+        &#x22C5;
+        
+          
+            
+              r
+              &#x2192;
+            
+          
+        
+        +
+        &#x03C6;
+        )
+        
+        
+          
+            
+              
+                E
+                &#x2192;
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}({\vec {r}},t)=\cos(\omega t-{\vec {k}}\cdot {\vec {r}}+\varphi )\;{\vec {E}}_{0}}
+  
+
+où
+
+
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        &#x2016;
+        
+          
+            
+              
+                E
+                &#x2192;
+              
+            
+          
+          
+            0
+          
+        
+        &#x2016;
+      
+    
+    {\displaystyle E_{0}=\|{\vec {E}}_{0}\|}
+  
+est l'amplitude de l'onde&#160;;
+
+  
+    
+      
+        &#x03C9;
+      
+    
+    {\displaystyle \omega }
+  
+ est la pulsation et vaut 
+  
+    
+      
+        
+          
+            
+              2
+              &#x03C0;
+              c
+            
+            &#x03BB;
+          
+        
+      
+    
+    {\displaystyle {\frac {2\pi c}{\lambda }}}
+  
+;
+
+  
+    
+      
+        
+          
+            
+              r
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+  
+ est le vecteur position du point considéré&#160;;
+
+  
+    
+      
+        
+          
+            
+              k
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {k}}}
+  
+ est le vecteur d'onde dont la norme vaut 
+  
+    
+      
+        &#x2016;
+        
+          
+            
+              k
+              &#x2192;
+            
+          
+        
+        &#x2016;
+        =
+        
+          
+            
+              2
+              &#x03C0;
+            
+            &#x03BB;
+          
+        
+      
+    
+    {\displaystyle \|{\vec {k}}\|={\frac {2\pi }{\lambda }}}
+  
+ &#91;2&#93;, 
+  
+    
+      
+        &#x03BB;
+      
+    
+    {\displaystyle \lambda }
+  
+ étant la longueur d'onde&#160;;
+
+  
+    
+      
+        &#x03C6;
+      
+    
+    {\displaystyle \varphi }
+  
+ est la phase à l'origine.
+
+On utilise aussi fréquemment la notation complexe&#160;: 
+
+
+  
+    
+      
+        
+          
+            
+              
+                E
+                &#x005F;
+              
+              &#x2192;
+            
+          
+        
+        (
+        
+          
+            
+              r
+              &#x2192;
+            
+          
+        
+        ,
+        t
+        )
+        =
+        
+          
+            e
+          
+          
+            
+            
+              i
+            
+            (
+            &#x03C9;
+            t
+            &#x2212;
+            
+              
+                
+                  k
+                  &#x2192;
+                
+              
+            
+            &#x22C5;
+            
+              
+                
+                  r
+                  &#x2192;
+                
+              
+            
+            )
+          
+        
+        
+        
+          
+            
+              
+                
+                  E
+                  &#x2192;
+                
+              
+              &#x005F;
+            
+          
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle {\vec {\underline {E}}}({\vec {r}},t)=\mathrm {e} ^{\,\mathrm {i} (\omega t-{\vec {k}}\cdot {\vec {r}})}\;{\underline {\vec {E}}}_{0}\;}
+  
+.
+Dans ce cas on obtiendra alors les grandeurs physiques réelles, en prenant la partie réelle de cette forme complexe. On remarquera que dans cette expression, 
+  
+    
+      
+        
+          
+            
+              
+                
+                  E
+                  &#x2192;
+                
+              
+              &#x005F;
+            
+          
+          
+            0
+          
+        
+        =
+        
+          
+            
+              
+                E
+                &#x2192;
+              
+            
+          
+          
+            0
+          
+        
+        
+        
+          
+            e
+          
+          
+            
+              i
+            
+            &#x03C6;
+          
+        
+      
+    
+    {\displaystyle {\underline {\vec {E}}}_{0}={\vec {E}}_{0}\,\mathrm {e} ^{\mathrm {i} \varphi }}
+  
+. L'utilisation de la notation complexe, pur artifice de calcul, a pour objectif de simplifier grandement les opérations dans la majorité des cas.
+
+Propriétés[modifier | modifier le code]
+Polarisation[modifier | modifier le code]
+La polarisation correspond à la direction et à l'amplitude du champ électrique 
+  
+    
+      
+        
+          
+            
+              E
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+  
+. Pour une onde non polarisée, ou naturelle, 
+  
+    
+      
+        
+          
+            
+              E
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+  
+ tourne autour de son axe de façon aléatoire et imprévisible au cours du temps. Polariser une onde correspond à donner une trajectoire définie au champ électrique. Il y a plusieurs sortes de polarisation&#160;:
+
+La polarisation rectiligne&#160;: 
+  
+    
+      
+        
+          
+            
+              E
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+  
+ est toujours selon la même direction.
+La polarisation circulaire&#160;: le champ électrique tourne autour de son axe en formant un cercle.
+La polarisation elliptique&#160;: le champ électrique tourne autour de son axe et change d'amplitude pour former une ellipse.
+Comportement ondulatoire[modifier | modifier le code]
+Propagation
+Dans un milieu homogène et isotrope, l'onde électromagnétique se propage en ligne droite. Lors de la rencontre avec un obstacle, il y a diffraction&#160;; lors d'un changement de milieu, il y a réflexion et réfraction&#160;; il y a aussi réfraction si les propriétés du milieu changent selon l'endroit (hétérogénéité). Voir aussi Principe de Huygens-Fresnel.
+Réflexion
+Article détaillé&#160;: Réflexion (optique).
+Lors d'un changement de milieu de propagation, une partie de l'onde électromagnétique repart vers le milieu d'origine, c'est la réflexion.
+Le cas le plus connu de la réflexion est le miroir, mais celle-ci concerne également les rayons X (miroir à rayons X) et les ondes radio&#160;: réflexion sur la ionosphère des ondes mégahertz, antenne parabolique, réflexion sur la Lune…
+Réfraction
+Article détaillé&#160;: Réfraction.
+Lors d'un changement de milieu de propagation, si le second milieu est transparent pour l'onde, celle-ci se propage au travers mais avec une direction différente. Cela concerne la lumière (lentille optique, mirage), mais aussi les ondes radio (réfraction des ondes décamétriques dans la ionosphère).
+Diffusion
+
+Lorsqu'une onde rencontre un atome, elle se diffuse sur celui-ci, elle change de direction. On distingue la diffusion Rayleigh, dite «&#160;diffusion électronique&#160;», au cours de laquelle l'onde ne change pas de longueur d'onde, la diffusion Raman qui est une diffusion électronique avec diminution ou augmentation de longueur d'onde, et la diffusion Compton, dans le cas des rayons X diffusant sur des atomes légers, au cours de laquelle la longueur d'onde augmente.
+Interférences
+Article détaillé&#160;: Interférence.
+Comme toutes les ondes, les ondes électromagnétiques peuvent interférer. Dans le cas des radiocommunications, cela provoque un parasitage du signal (voir aussi Rapport signal sur bruit).
+Diffraction
+Article détaillé&#160;: Diffraction.
+L'interférence d'ondes diffusées porte le nom de diffraction&#160;:
+théorie de la diffraction&#160;;
+diffraction par une fente&#160;;
+fentes de Young&#160;;
+réseau de diffraction&#160;;
+cristallographie aux rayons X&#160;;
+espace réciproque.
+Flux d'énergie
+Le flux d'énergie à travers une surface est donné par le flux du vecteur de Poynting.
+Dualité onde-corpuscule[modifier | modifier le code]
+Article détaillé&#160;: Dualité onde-corpuscule.
+La notion d'onde électromagnétique est complémentaire de celle de photon. En fait, l'onde fournit une description plus pertinente de la radiation pour les faibles fréquences (c'est-à-dire les grandes longueurs d'onde) comme les ondes radio.
+En réalité, l'onde électromagnétique représente deux choses&#160;:
+
+la variation macroscopique du champ électrique et du champ magnétique&#160;;
+la fonction d'onde du photon, c'est-à-dire que la norme au carré de l'onde est la probabilité de présence d'un photon.
+Lorsque le flux d'énergie est grand devant l'énergie des photons, on peut considérer que l'on a un flux quasi-continu de photons, et les deux notions se recouvrent. Ceci n'est plus vrai lorsque le flux d'énergie est faible (on envoie les photons un par un), la notion de «&#160;variation macroscopique&#160;» (moyenne) n'a alors plus de sens.
+Le flux d'énergie est donné par le vecteur de Poynting. Chaque photon possède une quantité d'énergie déterminée, valant 
+  
+    
+      
+        E
+        =
+        h
+        
+        &#x03BD;
+      
+    
+    {\textstyle E=h\,\nu }
+  
+, où 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ est la constante de Planck et 
+  
+    
+      
+        &#x03BD;
+      
+    
+    {\displaystyle \nu }
+  
+ la fréquence. On peut ainsi calculer le flux de photons à travers une surface.
+
+Notes et références[modifier | modifier le code]
+
+↑ Lev Landau et Evgueni Lifchits, Physique théorique, t.&#160;2&#160;: Théorie des champs &#91;détail des éditions&#93;, §67&#160;: «&#160;les charges ne peuvent rayonner que si elles sont animées d'un mouvement accéléré. Ce résultat découle d'ailleurs du principe de relativité puisqu'on peut rapporter une charge animée d'un mouvement uniforme à un référentiel galiléen par rapport auquel elle est au repos&#160;; on sait que les charges au repos ne rayonnent pas&#160;».
+
+↑ 
+  
+    
+      
+        
+          
+            
+              k
+              &#x2192;
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {k}}}
+  
+ est parfois défini comme étant de norme 
+  
+    
+      
+        1
+        
+          /
+        
+        &#x03BB;
+      
+    
+    {\textstyle 1/\lambda }
+  
+. L'équation de l'onde s'écrit alors&#160;: 
+  
+    
+      
+        
+          
+            
+              E
+              &#x2192;
+            
+          
+        
+        (
+        
+          
+            
+              r
+              &#x2192;
+            
+          
+        
+        ,
+        t
+        )
+        =
+        cos
+        &#x2061;
+        (
+        &#x03C9;
+        t
+        &#x2212;
+        2
+        &#x03C0;
+        
+          
+            
+              k
+              &#x2192;
+            
+          
+        
+        &#x22C5;
+        
+          
+            
+              r
+              &#x2192;
+            
+          
+        
+        +
+        &#x03C6;
+        )
+        
+        
+          
+            
+              
+                E
+                &#x2192;
+              
+            
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}({\vec {r}},t)=\cos(\omega t-2\pi {\vec {k}}\cdot {\vec {r}}+\varphi )\;{\vec {E}}_{0}}
+  
+
+
+
+Articles connexes[modifier | modifier le code]
+.mw-parser-output .autres-projets>.titre{text-align:center;margin:0.2em 0}.mw-parser-output .autres-projets>ul{margin:0;padding:0}.mw-parser-output .autres-projets>ul>li{list-style:none;margin:0.2em 0;text-indent:0;padding-left:24px;min-height:20px;text-align:left;display:block}.mw-parser-output .autres-projets>ul>li>a{font-style:italic}@media(max-width:720px){.mw-parser-output .autres-projets{float:none}}
+Sur les autres projets Wikimedia&#160;:
+
+Onde électromagnétique, sur Wikiversity
+
+
+Spectre électromagnétique
+Propagation des ondes radio
+Éther luminifère
+Sensibilité électromagnétique
+Risques sanitaires des télécommunications
+ Portail de la physique   Portail de l’optique                    
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5d57cd5c97‐qsvdk
+Cached time: 20251128202345
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.201 seconds
+Real time usage: 0.328 seconds
+Preprocessor visited node count: 1341/1000000
+Revision size: 11827/2097152 bytes
+Post‐expand include size: 13718/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3171/5000000 bytes
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 3428328/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  196.497      1 -total
+ 30.96%   60.837      1 Modèle:Landau
+ 29.95%   58.859      1 Modèle:Ouvrage
+ 21.15%   41.565      1 Modèle:Portail
+ 17.04%   33.475      1 Modèle:Homon
+ 15.56%   30.580      1 Modèle:Méta_bandeau_de_note
+ 15.41%   30.274      1 Modèle:Autres_projets
+ 14.59%   28.670      1 Modèle:Méta_bandeau
+  9.93%   19.518      1 Modèle:Suivi_des_biographies
+  5.98%   11.749      5 Modèle:Article_détaillé
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:20408:|#|:idhash:canonical and timestamp 20251128202345 and revision id 220952003. Rendering was triggered because: page_view
+ -->
+
+Ce document provient de «&#160;https://fr.wikipedia.org/w/index.php?title=Onde_électromagnétique&amp;oldid=220952003&#160;».
+					Catégories : ÉlectromagnétismeOptique ondulatoireCatégories cachées : Portail:Physique/Articles liésPortail:Sciences/Articles liésPortail:Optique/Articles liés
+				
+			
+			
+		
+		
+			
+
+	
+	 La dernière modification de cette page a été faite le 7 décembre 2024 à 22:45.
+	Droit d'auteur&#160;: les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions&#160;; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+	
+	Politique de confidentialité
+	À propos de Wikipédia
+	Avertissements
+	Contact
+	Code de conduite
+	Développeurs
+	Statistiques
+	Déclaration sur les témoins (cookies)
+	Version mobile
+
+
+	
+	
+	
+
+
+
+
+		
+	 
+ 
+
+	
+		
+			
+				
+
+Rechercher
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Rechercher sur Wikipédia">
+								
+							
+							
+						
+						Rechercher
+					
+				
+			
+		
+		
+				
+						
+					
+						
+						
+
+Basculer la table des matières
+						
+						
+					
+						
+						
+					
+						
+					
+			
+				Onde électromagnétique
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+50 langues
+			
+			
+
+Ajouter un sujet
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5d57cd5c97-4tf6n","wgBackendResponseTime":133,"wgPageParseReport":{"limitreport":{"cputime":"0.201","walltime":"0.328","ppvisitednodes":{"value":1341,"limit":1000000},"revisionsize":{"value":11827,"limit":2097152},"postexpandincludesize":{"value":13718,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3171,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  196.497      1 -total"," 30.96%   60.837      1 Modèle:Landau"," 29.95%   58.859      1 Modèle:Ouvrage"," 21.15%   41.565      1 Modèle:Portail"," 17.04%   33.475      1 Modèle:Homon"," 15.56%   30.580      1 Modèle:Méta_bandeau_de_note"," 15.41%   30.274      1 Modèle:Autres_projets"," 14.59%   28.670      1 Modèle:Méta_bandeau","  9.93%   19.518      1 Modèle:Suivi_des_biographies","  5.98%   11.749      5 Modèle:Article_détaillé"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":3428328,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-5d57cd5c97-qsvdk","timestamp":"20251128202345","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Onde \u00e9lectromagn\u00e9tique","url":"https:\/\/fr.wikipedia.org\/wiki\/Onde_%C3%A9lectromagn%C3%A9tique","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11386","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11386","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Fondation Wikimedia, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-21T21:24:05Z","dateModified":"2024-12-07T21:45:00Z","headline":"propagation de la perturbation du champ \u00e9lectromagn\u00e9tique"}
+
+

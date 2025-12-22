@@ -1,0 +1,2972 @@
+
+
+
+	
+	
+	
+	Lumière : généralités &#8211; Energie Plus Le Site
+.fusion-builder-live .fusion-builder-live-toolbar .fusion-toolbar-nav > li.fusion-branding .fusion-builder-logo-wrapper .fusiona-avada-logo {background: url( https://energieplus-lesite.be/uclouvain_uploads/2019/03/logoEnergie_plus_2019.svg ) no-repeat center !important;
+				background-size: contain !important;
+				width: 30px;
+				height: 30px;}.fusion-builder-live .fusion-builder-live-toolbar .fusion-toolbar-nav > li.fusion-branding .fusion-builder-logo-wrapper .fusiona-avada-logo:before {
+					display: none;
+				}
+
+
+
+
+					
+		
+					
+			
+		
+					
+			
+		
+					
+			
+		
+					
+			
+				
+
+		
+		
+		
+		
+		<meta property="og:description" content="La lumière naturelle
+
+
+Onde et particule
+Lorsqu’on parle de lumière, on considère qu’elle est à la fois une particule élémentaire (photon) et une onde électromagnétique.
+
+L’onde électromagnétique est caractérisée par :
+
+ 	Une amplitude ;
+ 	Une longueur d’onde (ou fréquence)"/>
+
+									
+									
+							<script
+				src="//www.googletagmanager.com/gtag/js?id=UA-9805436-3"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async>
+			
+				var em_version = '7.10.0';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-9805436-3',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.ExactMetricsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (em_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = exactmetrics_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dNDMyYj': true,
+											});
+															__gtagTracker('config', 'UA-9805436-3', {"forceSSL":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			
+				
+				
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/energieplus-lesite.be\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.18"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+		
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+	
+
+
+
+
+#rs-demo-id {}
+
+
+
+#ssb-btn-0{background: ;}
+#ssb-btn-0:hover{background:rgba(0,0,0,0.9);}
+#ssb-btn-0 a{color: ;}
+.ssb-share-btn,.ssb-share-btn .ssb-social-popup{background:;color:}.ssb-share-btn:hover{background:rgba(0,0,0,0.9);}.ssb-share-btn a{color: !important;}
+
+
+
+
+div#ez-toc-container .ez-toc-title {font-size: 140%;}div#ez-toc-container .ez-toc-title {font-weight: 700;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-size: 120%;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-weight: 500;}div#ez-toc-container nav ul ul li {font-size: 90%;}div#ez-toc-container {background: #ffffff;border: 1px solid #919191;width: 100%;}div#ez-toc-container p.ez-toc-title , #ez-toc-container .ez_toc_custom_title_icon , #ez-toc-container .ez_toc_custom_toc_icon {color: #ed2023;}div#ez-toc-container ul.ez-toc-list a {color: #ed2023;}div#ez-toc-container ul.ez-toc-list a:hover {color: #2a6496;}div#ez-toc-container ul.ez-toc-list a:visited {color: #428bca;}
+
+
+
+
+
+
+
+
+.avada-select-parent .select-arrow{background-color:#ffffff}
+.select-arrow{background-color:#ffffff}
+
+
+
+
+
+
+
+:root{--wp-gdpr--bar--background-color: #000000;--wp-gdpr--bar--color: #ffffff;--wp-gdpr--button--background-color: #ffffff;--wp-gdpr--button--background-color--darken: #d8d8d8;--wp-gdpr--button--color: #ffffff;}
+
+
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+
+
+
+
+
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/energieplus-lesite.be","hash_tracking":"false","ua":"UA-9805436-3","v4_id":""};/* ]]> */
+
+
+/* <![CDATA[ */
+var GDPR = {"ajaxurl":"https:\/\/energieplus-lesite.be\/wp-admin\/admin-ajax.php","logouturl":"","i18n":{"aborting":"Abandonner","logging_out":"Vous \u00eates d\u00e9connect\u00e9.","continue":"Continuer","cancel":"Annuler","ok":"OK","close_account":"Fermer votre compte\u00a0","close_account_warning":"Votre compte sera ferm\u00e9 et toutes les donn\u00e9es seront d\u00e9finitivement supprim\u00e9es et ne pourront pas \u00eatre r\u00e9cup\u00e9r\u00e9es. Confirmez-vous\u00a0","are_you_sure":"Confirmez-vous\u00a0","policy_disagree":"En n\u2019\u00e9tant pas d\u2019accord, vous n\u2019aurez plus acc\u00e8s \u00e0 notre site et serez d\u00e9connect\u00e9."},"is_user_logged_in":"","refresh":"1"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var ssb_ui_data = {"z_index":"100"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wpgdprcFront = {"ajaxUrl":"https:\/\/energieplus-lesite.be\/wp-admin\/admin-ajax.php","ajaxNonce":"bf4a72e4c0","ajaxArg":"security","pluginPrefix":"wpgdprc","blogId":"1","isMultiSite":"","locale":"fr_FR","showSignUpModal":"","showFormModal":"","cookieName":"wpgdprc-consent","consentVersion":"","path":"\/","prefix":"wpgdprc"};
+/* ]]> */
+
+
+
+
+ 
+
+
+
+
+
+(function(w, d) { w.CollectId = "5dee5a14fb5ebe491c20e353"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);var CollectChatWordpress = true;
+#wpadminbar .avada-menu > .ab-item:before,#wpadminbar > #wp-toolbar #wp-admin-bar-fb-edit > .ab-item:before {background: url( https://energieplus-lesite.be/uclouvain_uploads/2019/03/favicon_eplus_0.png ) no-repeat center !important;background-size: auto !important;content: "" !important;
+						padding: 2px 0;
+						width: 20px;
+						height: 20px;
+						background-size: contain !important;}                
+                                
+                .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+            
+                <!--
+                @font-face {
+                    font-family: 'asppsicons2';
+                    src: url('https://energieplus-lesite.be/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.eot');
+                    src: url('https://energieplus-lesite.be/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.eot?#iefix') format('embedded-opentype'),
+                    url('https://energieplus-lesite.be/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.woff2') format('woff2'),
+                    url('https://energieplus-lesite.be/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.woff') format('woff'),
+                    url('https://energieplus-lesite.be/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.ttf') format('truetype'),
+                    url('https://energieplus-lesite.be/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.svg#icons') format('svg');
+                    font-weight: normal;
+                    font-style: normal;
+                }
+                .asp_m{height: 0;}                -->
+            
+                        
+                if ( typeof _ASP !== "undefined" && _ASP !== null && typeof _ASP.initialize !== "undefined" )
+                    _ASP.initialize();
+            
+            
+
+
+
+function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]a[i]&&0t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};
+		
+			.single-post article {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.menu-bas-de-page {
+	border: 10px solid #919191;
+  width: 100%;
+  margin-top: 40px;
+  border-radius: 10px;
+  border-style: dashed !important;
+	font-size: 18px;
+
+	padding: 30px;
+	list-style-type: none;
+}
+
+
+
+.button-newsletter {
+  background-color: #ffffff;  
+  border-radius: 12px;
+  color: #e30613;
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+	font-style:bold !important;
+}
+
+.button-newsletter a {
+	color: #e30613 !important;
+	font-weight: bold;
+	}
+
+.col-md-4 {
+    background: #ffffff !important;
+}
+
+h4 .widget-title {
+	color: #ffffff !important;
+}
+
+.footnote_plugin_text {
+  font: 13px Montserrat, sans-serif;
+}
+
+.footnote_container_prepare {
+ padding-top: 60px !important;
+}
+
+@media only screen and (min-width: 1000px) {
+.footnote_container_prepare {
+ margin-left: 300px; 
+ margin-right: 300px;
+}
+}
+
+@media only screen and (min-width: 1000px) {
+ /* Appareils avec une résolution au-dessus de 1000px */
+#footnote_references_container {
+ margin-left: 300px; 
+ margin-right: 300px;
+}
+}
+
+.listeLegende{
+	text-align: left  !important;
+	font-style: italic;
+}
+
+.listeLegende-espace li{
+	margin-bottom:2%;
+}
+
+
+.liste-espace li{
+	margin-bottom:2%;
+}
+
+@media only screen and (min-width: 1000px) {
+ /* Appareils avec une résolution au-dessus de 1000px */
+	.pf-content{
+	margin-left: 300px; 
+	margin-right: 300px;
+}
+	}
+
+
+H2{
+	font-size: 2em !important;
+}
+
+hr {
+  border: 0;
+  background-color: #fff;
+  border-top: 1px dashed #8c8c8c; margin-top: 1em; margin-bottom: 3em; margin-left: auto; margin-right: auto; width:50%;
+}
+
+#wrapper .fusion-vertical-menu-widget .menu li a {
+    padding-top: 0px   !important;
+}
+.fusion-carousel-meta{
+	display:none;
+}
+.fusion-footer-widget-area .widget-title {
+	text-align: left;
+}
+
+.col-md-4 {
+    background: #e30613 !important;
+}
+
+
+
+.wprt-container .table > thead > tr > th, .wprt-container .table > tbody > tr > th, .wprt-container .table > tfoot > tr > th, .wprt-container .table > thead > tr > td, .wprt-container .table > tbody > tr > td, .wprt-container .table > tfoot > tr > td, .wprt-container .table > tr > td {
+    text-align: left   !important;
+}
+
+table .bouton td {
+	text-align: left   !important;
+}
+
+.wp-caption-text {
+ margin-top: 15px  !important;
+}
+
+#ez-toc-container ul.ez-toc-list a:visited {
+	color: #9f9f9f !important;
+}
+
+table.evrapide {
+    text-align: left  !important;
+}
+#main {
+    padding-top: 35px !important;
+}
+.single .comments-container {
+	display:none;
+}
+.bout_ameliorer a {
+    background-color: #CC3333;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.bout_gerer a {
+    background-color: #99CC00;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.bout_concevoir a {
+    background-color: #009999;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.bout_evaluer a {
+    background-color: #FF6633;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+
+.ressources a {
+    background-color: #9b9b9b;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+th {
+	background-color: #f6f6f6;
+}
+
+#ez-toc-container ul {
+	margin-left:30px;
+	margin-top:10px;
+}
+
+#ez-toc-container {
+	margin-top:40px;
+	border-radius: 10px;
+  border-style: dashed !important;
+}
+
+.wp-caption-text {
+	font-size : 95%;
+	font-style: italic;
+}
+
+#main {
+    padding-top: 0px;
+}
+span.glossaryLink, a.glossaryLink {
+  color:#000000;
+}
+.energie_login{
+    position: absolute;
+    float: right;
+    right: 10px;
+    top: 13px;
+    color: red;
+}
+.mc4wp-form-fields input[type="text"] {
+		border-radius: 15px;
+    border-width: 0px;
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.mc4wp-form-fields input[type="email"] {
+		border-radius: 15px;
+    border-width: 0px;
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.mc4wp-form-fields input[type="submit"] {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: large;
+    width: 200px;
+    border-radius: 21px;
+    background: red;
+    color: white;
+    padding: 6px;
+}
+.mc4wp-form-fields select {
+		font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: large;
+    width: 100%;
+    border-radius: 29px;
+    background: white;
+    color: red;
+    padding: 12px;
+}
+.energie_login a{
+	color:red;
+}
+.container_energie_newsletter{
+	max-width:600px;
+}
+table.donnees {
+  margin: auto;
+  width: 100%;
+  border-collapse: collapse;
+	border: solid #DCDCD3 1px;
+  text-align: center;
+  vertical-align: middle;
+  empty-cells: show;
+  color: #000000;
+}
+table.donnees th {
+  padding: 5px;
+	border: solid #DCDCD3 1px;
+  font-weight:bold;
+  font-size: 85%;
+  text-align:center;
+  color:#000000;
+  background-color: #ECECE8;
+}
+
+table.donnees_txt {
+  margin: auto;
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left !important;
+  vertical-align: middle;
+  empty-cells: show;
+  color: #000000;
+}
+
+table.donnees_txt th {
+  padding: 10px;
+  font-weight:bold;
+  font-size: 100%;
+  text-align:left;
+  color:#6B6B58;
+  background-color: #ECECE8;
+}
+
+table.donnees_txt td {
+  padding: 10px;
+  font-weight:normal;
+  text-align:left;
+  color:#000000;
+  font-size: 100%;
+}
+
+table.donnees_txt tr:nth-child(even){background-color: #FAFAFA;}
+
+.legende {
+  font-size: 95%;
+	font-style: italic;
+	text-align:center  !important;
+}
+
+table.exemple {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  background-color: #FFFFFF;
+  border: dashed #CB520A 2px;
+  border-collapse: collapse;
+  color: #CB520A;
+}
+
+table.exemple td {
+  padding: 10px;
+  font-weight: normal;
+  font-style: italic;
+  vertical-align: middle;
+  color: #000000;
+  font-size: 100%;
+}
+
+#sm-menu-13 li.menu-item-292 > a {
+    color:#6da428;
+}
+#sm-menu-13 li.menu-item-291 > a {
+		color:#d46c1a;
+}
+#sm-menu-13 li.menu-item-286 > a {
+		color:#ba3418;
+}
+#sm-menu-13 li.menu-item-288 > a {
+		color:#2a8886;
+}
+#sm-menu-13 li.menu-item-292.menu-item-has-children a .sm-arrow {
+    font-size: 22px;
+    color:#6da428;
+}
+#sm-menu-13 li.menu-item-291.menu-item-has-children a .sm-arrow {
+    font-size: 22px;
+    color:#d46c1a;
+}
+#sm-menu-13 li.menu-item-286.menu-item-has-children a .sm-arrow {
+    font-size: 22px;
+    color:#ba3418;
+}
+#sm-menu-13 li.menu-item-288.menu-item-has-children a .sm-arrow {
+    font-size: 22px;
+    color:#2a8886;
+}
+#sm-menu-13 li.menu-item-291 > a .sm-icon .sm-icon._svg, .sm-menu .sm-nav-list>li>a .sm-title-wrap .sm-icon._svg {
+	fill:#d46c1a;
+}
+
+#login {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+.footer_logo{
+
+}
+.footer_infos{
+		font-size: 18px;
+    color: #6fae30 !important;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.footer_link {
+	font-size: 18px;
+  color: #9b141c;
+ 	line-height: 26px;
+}
+.footer_table_right {
+	text-align: right;
+    border-right-color: #9b141c;
+    border-right-width: 5px;
+    border-right-style: solid;
+}
+.fusion-header-has-flyout-menu .fusion-flyout-search {
+    display: none;
+}
+#main .fusion-row, #slidingbar-area .fusion-row, .fusion-footer-copyright-area .fusion-row, .fusion-footer-widget-area .fusion-row, .fusion-page-title-row, .tfs-slider .slide-content-container .slide-content {
+ max-width: 100%;
+}
+#comment-input input, .avada-select .select2-container .select2-choice, .chzn-container .chzn-drop, .chzn-container-single .chzn-single, .fusion-body .avada-select-parent select, .fusion-login-box .fusion-login-form input[type=password], .fusion-login-box .fusion-login-form input[type=text], .input-text:not(textarea), .main-nav-search-form input, .post-password-form label input[type="password"], .search-page-search-form input, .searchform .fusion-search-form-content .fusion-search-field input, .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-selection__arrow, .wpcf7-captchar, .wpcf7-form .wpcf7-date, .wpcf7-form .wpcf7-number, .wpcf7-form .wpcf7-quiz, .wpcf7-form .wpcf7-select, .wpcf7-form .wpcf7-text, input.s, input[type="email"], input[type="number"], input[type="password"], input[type="text"], select  {
+		max-width: 100%;
+    padding: 6px 12px;
+    font-size: large;
+}
+main #comment-submit, #main .comment-submit, #reviews input#submit, .button-default, .button.default, .comment-form input[type="submit"], .fusion-button, .fusion-button-default, .fusion-portfolio-one .fusion-button, .post-password-form input[type="submit"], .slidingbar-area .button-default, .ticket-selector-submit-btn[type=submit], .tml-submit-wrap input[type="submit"], .wpcf7-form input[type="submit"], .wpcf7-submit, input.button-default {
+	border-radius:30px;
+}
+.energie_pageicon {
+    display: block;
+    width: 130px;
+    left: 80px;
+    position: absolute;
+    height: 30px;
+    top: 0px;
+}
+.login_icon{
+		display: block;
+    position: absolute;
+    right: 20px;
+    top: 23px;
+}
+.donations_icon {
+	display: block;
+  	position: absolute;
+    right: 70px;
+    top: 23px;
+}
+@media (max-width:450px) {
+	.promagnifier{
+		display:none;
+	}
+	.prosettings {
+		display:none;
+	}
+	footer{
+		display:none;
+	}
+	.energie_pageicon{
+		display:none;	
+	}
+	.fusion-flyout-menu-bg{
+		display:none;
+	}
+	.fusion-header-has-flyout-menu .fusion-flyout-menu, .fusion-header-has-flyout-menu .fusion-flyout-menu-bg, .fusion-header-has-flyout-menu .fusion-flyout-search {
+		display:none;
+	}
+	.donations_icon {
+		display:none;	
+	}
+	.sm-hamburger.sm-position-left {
+		margin: 30px 15px;
+	}
+.flexslider .slides img {
+    width: 100%;
+}
+}
+.flexslider .slides img {
+    width: 20%;
+}
+.js .tmce-active .wp-editor-area {
+    color: #000;
+}
+table.donnees_txt {
+    margin: auto;
+    width: 100%;
+    background-color: #FFFFFF;
+    border: solid #DCDCD3 2px;
+    border-collapse: collapse;
+    text-align: left;
+    vertical-align: middle;
+    empty-cells: show;
+    color: #9F9F8A;
+}
+table.donnees_txt td {
+    padding: 10px;
+    border: solid #DCDCD3 1px;
+    font-weight: normal;
+    text-align: left;
+    color: #000000;
+    font-size: 100%;
+}
+#wrapper #main .fusion-portfolio-content > h1.fusion-post-title, #wrapper #main .fusion-portfolio-content > h2.fusion-post-title, #wrapper #main .fusion-post-content > .blog-shortcode-post-title, #wrapper #main .fusion-post-content > h1.fusion-post-title, #wrapper #main .fusion-post-content > h2.fusion-post-title, #wrapper #main .post > .fusion-post-title-meta-wrap > h1.fusion-post-title, #wrapper #main .post > .fusion-post-title-meta-wrap > h2.fusion-post-title, #wrapper #main .post > h1.fusion-post-title, #wrapper #main .post > h2.fusion-post-title, #wrapper .fusion-events-shortcode .fusion-events-meta h1, #wrapper .fusion-events-shortcode .fusion-events-meta h2 {
+	display:none;
+}
+div.asp_s.asp_s_1.searchsettings, div.asp_s.asp_s_1.searchsettings, div.asp_s.asp_s_1.searchsettings {
+    direction: ltr;
+    padding: 0;
+    background-image: -webkit-linear-gradient(185deg, rgb(237, 109, 109), rgb(199, 104, 104));
+    background-image: -moz-linear-gradient(185deg, rgb(237, 109, 109), rgb(199, 104, 104));
+    background-image: -o-linear-gradient(185deg, rgb(237, 109, 109), rgb(199, 104, 104));
+    background-image: -ms-linear-gradient(185deg, rgb(237, 109, 109) 0%, rgb(199, 104, 104) 100%);
+    background-image: linear-gradient(185deg, rgba(237, 109, 109, 0.71), rgba(199, 104, 104, 0.92));
+    box-shadow: 2px 2px 3px -1px #d2d2d200;
+    max-width: 208px;
+    z-index: 11001;
+}
+.energie_search{
+	position:absolute;
+	top:10px;
+	width: 80%;
+	margin-left:auto;
+	margin-right:auto;
+	left: 300px;
+}
+.energielogo{
+		z-index: 9;
+    display: block;
+    position: absolute;
+    width: 160px;
+    height: 80px;
+    left: 70px;
+    background-image: url(/uclouvain_uploads/2019/03/logoEnergie_plus_2019.svg);
+    background-repeat: no-repeat;
+	top: -5px;
+}
+.titre_concevoir{display:none;}
+.titre_techniques{display:none;}
+.titre_calculs{display:none;}
+.titre_gerer{display:none;}
+.titre_concevoir{display:none;}
+.titre_ameliorer{display:none;}
+.titre_evaluer{display:none;}
+.titre_ameliorer{display:none;}
+.titre_theories{display:none;}
+.titre_evaluer{display:none;}
+.titre_reglementations{display:none;}
+.titre_etudesdecas{display:none;}
+.titre_mesures{display:none;}
+.titre_donnees{display:none;}
+.energie_title_icon {
+    position: absolute;
+    display: block;
+    top: 10px;
+    left: -43px;
+    width: 100px;
+    height: 65px;
+    background: white;
+    border-top-right-radius: 26px;
+    border-bottom-right-radius: 26px;
+}
+.energie_title_icon_img {
+    top: 8px;
+    position: absolute;
+    left: 35px;
+    width: 50px;
+    height: 50px;
+}
+.entry-title {
+    left: 77px;
+    position: relative;
+}
+.fusion-page-title-bar .fusion-page-title-row h1 {
+    font-size: 28px;
+}
+.fusion-page-title-captions{
+
+}
+.fusion-page-title-bar-left .fusion-page-title-secondary {
+    margin-left: 0px;
+    top: 86px;
+    right: -30px;
+    position: absolute;
+    height: 33px;
+    background: #ed1d26;
+    border-top-color: white;
+    padding-top: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom: none;
+    border-left: none;
+}
+.energie_bar_left_tri {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0px 32px 32px 0;
+    border-color: transparent #ed1e25 transparent transparent;
+    position: absolute;
+    left: -32px;
+    top: 0px;
+}
+@media(max-width:1024px) {
+	.fusion-page-title-bar-left .fusion-page-title-secondary {
+		display:none;
+	}
+	.energie_bar_left_tri {
+		display:none;
+	}
+	.energie_title_icon {
+		display:none;
+	}
+	.energie_title_icon_img {
+		display:none;
+	}
+	.entry-title {
+    left: 0px;
+	}
+	.energie_search {
+		left: 102px;
+		top: 18px;
+	}
+	.energielogo {
+    display: none;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    z-index: 99999;
+    left: 54px;
+    background-image: url(/uclouvain_uploads/2019/03/favicon_eplus_0-150x150.png);
+    background-repeat: no-repeat;
+    top: 15px;
+    background-size: 40px 40px;
+}
+	.simple-responsive-table{
+		display: block; 
+	}
+	.simple-rttd {
+		display: block;
+		width: 100%;
+	}
+}
+.rgwit_burgermenu{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    height: 50px;
+    width: 50px;
+    color: red;
+}
+.rgwit_burgerbtn {
+	color: red;
+    background: white;
+    border: none;
+	font-size: x-large;
+}
+.rgwit_menu{
+		display:none;
+    min-width: 300px;
+    width: 300px;
+    height: 100%;
+    background: white;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    z-index: 999;
+    position: fixed;
+    top: 0px;
+    left:-300px;
+	  font-size: x-large;
+	  overflow-y: auto;
+}
+.rgwit_menu label.menu-toggle {
+  position: absolute;
+  right: -60px;
+  width: 60px;
+  height: 60px;
+  line-height: 0px;
+  display: block;
+  padding: 0;
+  text-indent: -9999px;
+  background: #fff url(https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png) 50% 50%/25px 25px no-repeat;
+}
+.rgwit_menu ul {
+	list-style: none;
+	left: 0px;
+  padding: 0px;
+}
+.rgwit_menu ul li > label {
+  background: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-right-b-128.png) 95% 50%/16px 16px no-repeat;
+}
+.rgwit_menu ul li a, .menu ul li label {
+  display: block;
+  text-align: left;
+  padding: 0 20px;
+  line-height: 44px;
+  text-decoration: none;
+  color: red;
+	font-size: medium;
+}
+.rgwit_menu ul li a:hover, .menu ul li label:hover {
+  color: white;
+	background-color:red;
+}
+.rgwit_closeburgerbtn{
+	display:none;
+	color: red;
+    background: white;
+    border: none;
+	font-size: x-large;
+}
+.rgwit_submenuiteright{
+	float:right;
+	padding-top: 18px;
+}
+.textothers {
+	color:#9b9b9b;
+	top: -2px;
+    position: relative;
+    left: 10px;
+}
+.textgerer {
+	color:#6fad31;
+	top: 5px;
+    position: relative;
+    left: 10px;
+}
+.textevaluer {
+	color:#e47221;
+	top: -2px;
+    position: relative;
+    left: 10px;
+}
+.textameliorer {
+	color:red;
+	top: -2px;
+    position: relative;
+    left: 10px;
+}
+.textconcevoir {
+	color:#169999;
+	top: -2px;
+    position: relative;
+    left: 10px;
+}
+main{
+	transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+}
+.rgwit_menu_icon{
+	width:30px;
+	height:55px;
+}
+.rgwit_menu_icon_small{
+		width:30px;
+		height:30px;
+	  position: relative;
+    top: 6px;
+}
+@media only screen and (max-width: 600px) {
+	.rgwit_burgermenu{
+		position: fixed;
+		left: 0px;
+		top: 0px;
+		height: 50px;
+		width: 50px;
+		padding: 10px;
+		font-size: small;
+	}
+	.rgwit_menu {
+		font-size:large;
+		overflow-y: auto;
+	}
+	.rgwit_menu_icon{
+		width:30px;
+		height:30px;
+	}
+	.rgwit_menu_icon_small{
+		width:20px;
+		height:20px;
+		top: 18px;
+	}
+	.textothers {
+		top: -14px;
+	}
+	.textgerer {
+		top: -14px;
+	}
+	.textevaluer {
+		top: -14px;
+	}
+	.textameliorer {
+		top: -14px;
+		
+	}
+	.textconcevoir {
+		top: -14px;
+	}
+}
+
+/*my edits 19-5-2021*/
+.post-template-default.single.single-post .wprt-container .table > tbody > tr > td {
+	vertical-align:top !important;
+}		
+		
+
+
+    .table-responsive table{
+        border-collapse: collapse;
+        border-spacing: 0;
+        table-layout: auto;
+        padding: 0;
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto 20px auto;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+        min-height: 0.01%;
+        margin-bottom: 20px;
+    }
+
+    .table-responsive::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+    .table-responsive::-webkit-scrollbar-thumb {
+        background: #dddddd;
+        border-radius: 2px;
+    }
+    .table-responsive::-webkit-scrollbar-track-piece {
+        background: #fff;
+    }
+
+    @media (max-width: 992px) {
+        .table-responsive table{
+            width: auto!important;
+            margin:0 auto 15px auto!important;
+        }
+    }
+
+    @media screen and (max-width: 767px) {
+        .table-responsive {
+            width: 100%;
+            margin-bottom: 15px;
+            overflow-y: hidden;
+            -ms-overflow-style: -ms-autohiding-scrollbar;
+        }
+        .table-responsive::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+
+    }
+
+
+    @media screen and (min-width: 1200px) {
+        .table-responsive .table {
+            max-width: 100%!important;
+        }
+    }
+    .wprt-container .table > thead > tr > th,
+    .wprt-container .table > tbody > tr > th,
+    .wprt-container .table > tfoot > tr > th,
+    .wprt-container .table > thead > tr > td,
+    .wprt-container .table > tbody > tr > td,
+    .wprt-container .table > tfoot > tr > td,
+    .wprt-container .table > tr > td{
+        border: 1px solid #dddddd!important;
+    }
+
+    .wprt-container .table > thead > tr > th,
+    .wprt-container .table > tbody > tr > th,
+    .wprt-container .table > tfoot > tr > th,
+    .wprt-container .table > thead > tr > td,
+    .wprt-container .table > tbody > tr > td,
+    .wprt-container .table > tfoot > tr > td,
+    .wprt-container .table > tr > td{
+        padding-top: 8px!important;
+        padding-right: 8px!important;
+        padding-bottom: 8px!important;
+        padding-left: 8px!important;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    .wprt-container .table-responsive .table tr:nth-child(odd) {
+        background-color: #ffffff!important;
+    }
+
+    .wprt-container .table-responsive .table tr:nth-child(even){
+        background-color: #f9f9f9!important;
+    }
+
+    .wprt-container .table-responsive .table thead+tbody tr:nth-child(even) {
+        background-color: #ffffff!important;
+    }
+
+    .wprt-container .table-responsive .table thead+tbody tr:nth-child(odd){
+        background-color: #f9f9f9!important;
+    }
+    
+    
+    .table-responsive table p {
+        margin: 0!important;
+        padding: 0!important;
+    }
+
+    .table-responsive table tbody tr td, .table-responsive table tbody tr th{
+        background-color: inherit!important;
+    }
+
+
+
+    /** Mega Menu CSS: fs **/
+
+
+.footnotes_reference_container {margin-top: 24px !important; margin-bottom: 0px !important;}
+.footnote_container_prepare > p {border-bottom: 1px solid #aaaaaa !important;}
+.footnote_tooltip { font-size: 13px !important; color: #000000 !important; background-color: #ffffff !important; border-width: 1px !important; border-style: solid !important; border-color: #cccc99 !important; -webkit-box-shadow: 2px 2px 11px #666666; -moz-box-shadow: 2px 2px 11px #666666; box-shadow: 2px 2px 11px #666666; max-width: 450px !important;}
+
+
+
+
+		
+	
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	
+
+		
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    (function() {
+    var gdprAppliesGlobally = false;
+    function addFrame() {
+        if (!window.frames['__cmpLocator']) {
+        if (document.body) {
+            var body = document.body,
+                iframe = document.createElement('iframe');
+            iframe.style = 'display:none';
+            iframe.name = '__cmpLocator';
+            body.appendChild(iframe);
+        } else {
+            setTimeout(addFrame, 5);
+        }
+        }
+    }
+    addFrame();
+    function cmpMsgHandler(event) {
+        var msgIsString = typeof event.data === "string";
+        var json;
+        if(msgIsString) {
+        json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+        } else {
+        json = event.data;
+        }
+        if (json.__cmpCall) {
+        var i = json.__cmpCall;
+        window.__cmp(i.command, i.parameter, function(retValue, success) {
+            var returnMsg = {"__cmpReturn": {
+            "returnValue": retValue,
+            "success": success,
+            "callId": i.callId
+            }};
+            event.source.postMessage(msgIsString ?
+            JSON.stringify(returnMsg) : returnMsg, '*');
+        });
+        }
+    }
+    window.__cmp = function (c) {
+        var b = arguments;
+        if (!b.length) {
+        return __cmp.a;
+        }
+        else if (b[0] === 'ping') {
+        b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+            "cmpLoaded": false}, true);
+        } else if (c == '__cmp')
+        return false;
+        else {
+        if (typeof __cmp.a === 'undefined') {
+            __cmp.a = [];
+        }
+        __cmp.a.push([].slice.apply(b));
+        }
+    }
+    window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+    window.__cmp.msgHandler = cmpMsgHandler;
+    if (window.addEventListener) {
+        window.addEventListener('message', cmpMsgHandler, false);
+    }
+    else {
+        window.attachEvent('onmessage', cmpMsgHandler);
+    }
+    })();
+    window.__cmp('init', {
+    		'Language': 'fr',
+		'Initial Screen Body Text Option': 1,
+		'Publisher Name': 'Moneytizer',
+		'Default Value for Toggles': 'off',
+		'UI Layout': 'banner',
+		'No Option': false,
+    });
+
+    
+        .qc-cmp-button,
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #000000 !important;
+            border-color: #000000 !important;
+        }
+        .qc-cmp-button:hover,
+        .qc-cmp-button.qc-cmp-secondary-button {
+            background-color: transparent !important;
+            border-color: #000000 !important;
+        }
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #000000 !important;
+        }
+        .qc-cmp-button,
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #ffffff !important;
+        }
+        .qc-cmp-button:hover,
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #000000 !important;
+        }
+        .qc-cmp-small-toggle,
+        .qc-cmp-toggle {
+            background-color: #000000 !important;
+            border-color: #000000 !important;
+        }
+        .qc-cmp-main-messaging,
+		.qc-cmp-messaging,
+		.qc-cmp-sub-title,
+		.qc-cmp-privacy-settings-title,
+		.qc-cmp-purpose-list,
+		.qc-cmp-tab,
+		.qc-cmp-title,
+		.qc-cmp-vendor-list,
+		.qc-cmp-vendor-list-title,
+		.qc-cmp-enabled-cell,
+		.qc-cmp-toggle-status,
+		.qc-cmp-table,
+		.qc-cmp-table-header {
+    		color: #000000 !important;
+		}
+       	
+        .qc-cmp-ui {
+  			background-color: #ffffff !important;
+		}
+
+		.qc-cmp-table,
+		.qc-cmp-table-row {
+			  border: 1px solid !important;
+			  border-color: #000000 !important;
+		} 
+    #qcCmpButtons a {
+            text-decoration: none !important;
+
+    }
+    
+    #qcCmpButtons button {
+        margin-top: 65px;
+    }
+  .qc-cmp-qc-link-container{
+    display:none;
+  }
+    
+
+
+
+	
+	Skip to content
+										console.log("testing /wp-content/uploads/2019/03/1.icon-gerer.svg")
+	
+			
+				
+			
+		
+			--> 		
+		
+			
+				 Gérer
+			
+			
+				 Évaluer
+			
+			
+				 Améliorer
+			
+			
+				 Concevoir
+			
+			
+				 Techniques
+			
+			
+				 Théories
+			
+			
+				 Calculs
+			
+			
+				 Réglementations
+			
+			
+				 Études de cas
+			
+			
+				 Mesures
+			
+			
+				 Données
+			
+			
+				 Diagnostic
+			
+			
+				 Dossier thématique
+			
+			
+				
+				
+				
+				
+			
+		
+	
+	
+		
+			
+				
+			
+			--> 		
+		
+			
+				 Retour
+			
+		
+		
+	
+	
+		
+		
+			
+				
+					
+
+
+	
+		
+				
+			
+
+						
+			
+
+											
+				
+			
+											
+				
+					
+					
+				
+					
+				  
+				
+				
+				  
+				
+			
+			
+				
+			
+			<div class='asp_w asp_m asp_m_1 asp_m_1_1 wpdreams_asp_sc wpdreams_asp_sc-1 ajaxsearchpro asp_main_container  asp_non_compact'
+     data-id="1"
+     data-name="topsearch"
+          data-instance="1"
+     id='ajaxsearchpro1_1'>
+
+    
+    
+        	    
+		    Que cherchez- vous ?	    
+        
+                    
+	    
+    
+
+    
+    
+    
+                
+                    
+    
+
+    
+    
+    
+        
+            <input type='search' class='orig'
+                   placeholder='Que cherchez-vous ?'
+                   name='phrase' value=''
+                   aria-label="Search input 1"
+                   autocomplete="off"/>
+            <input type='text' class='autocomplete' name='phrase' value=''
+                   aria-label="Search autocomplete, ignore please"
+                   aria-hidden="true"
+                   autocomplete="off" disabled/>
+            <input type='submit'
+                   aria-hidden="true"
+                   aria-label="Hidden button"
+                   style='width:0; height: 0; visibility: hidden;'>
+        
+    
+
+    
+    
+    
+                        
+            
+            
+                
+                            
+        
+                    
+
+            
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                 y="0px"
+                 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+                 xml:space="preserve">
+            <polygon id="x-mark-icon"
+                     points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+            
+        
+    
+    
+<div id='ajaxsearchprores1_1' class='asp_w asp_r asp_r_1 asp_r_1_1 vertical ajaxsearchpro wpdreams_asp_sc wpdreams_asp_sc-1'
+     data-id="1"
+     data-instance="1">
+
+    
+    
+    
+    
+
+        
+        
+        
+
+        
+    
+
+    
+    
+    
+
+    
+                    
+                
+                
+                    
+                                    
+            
+            
+    <div id='ajaxsearchprosettings1_1' class="asp_w asp_s asp_s_1 asp_s_1_1 wpdreams_asp_sc wpdreams_asp_sc-1 ajaxsearchpro searchsettings"
+    data-id="1"
+    data-instance="1">
+
+        
+            <input type='hidden' name='qtranslate_lang' style="display:none;"
+               value='0'/>
+    	    
+    
+    
+            Filtres general
+    
+    
+        <input type="checkbox" value="exact" id="set_exact1_1"
+                              aria-label="Terme exact"
+               name="asp_gen[]" />
+        <label aria-hidden="true"
+               for="set_exact1_1">
+            Hidden label        
+    
+    
+        Terme exact    
+
+
+    
+        <input type="checkbox" value="title" id="set_title1_1"
+               data-origvalue="1"               aria-label="Par le titre"
+               name="asp_gen[]"  checked="checked"/>
+        <label aria-hidden="true"
+               for="set_title1_1">
+            Hidden label        
+    
+    
+        Par le titre    
+
+
+    
+        <input type="checkbox" value="content" id="set_content1_1"
+               data-origvalue="1"               aria-label="Dans le contenu"
+               name="asp_gen[]"  checked="checked"/>
+        <label aria-hidden="true"
+               for="set_content1_1">
+            Hidden label        
+    
+    
+        Dans le contenu    
+
+
+    
+        <input type="checkbox" value="excerpt" id="set_excerpt1_1"
+               data-origvalue="1"               aria-label="Tout sauf"
+               name="asp_gen[]"  checked="checked"/>
+        <label aria-hidden="true"
+               for="set_excerpt1_1">
+            Hidden label        
+    
+    
+        Tout sauf    
+
+        <input type="checkbox"
+               style="display: none !important;"
+               value="post"
+               aria-label="Hidden label"
+               aria-hidden="true"
+               id="1_1customset_1_1100"
+               name="customset[]" checked="checked"/>
+                <input type="checkbox"
+               style="display: none !important;"
+               value="page"
+               aria-label="Hidden label"
+               aria-hidden="true"
+               id="1_1customset_1_1101"
+               name="customset[]" checked="checked"/>
+        <fieldset data-asp_invalid_msg="This field is required!"
+          class="asp_filter_tax asp_filter_tax_category asp_checkboxes_filter_box asp_filter_id_1 asp_filter_n_0">
+    Filter by Catégories
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="2" class="asp_category_checkbox"
+                       aria-label="Gérer"
+                                            name="termset[category][]"
+                                           id="1_1termset_2"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_2">
+                    Hidden label                
+            
+            
+                Gérer            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="3" class="asp_category_checkbox"
+                       aria-label="Évaluer"
+                                            name="termset[category][]"
+                                           id="1_1termset_3"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_3">
+                    Hidden label                
+            
+            
+                Évaluer            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="4" class="asp_category_checkbox"
+                       aria-label="Améliorer"
+                                            name="termset[category][]"
+                                           id="1_1termset_4"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_4">
+                    Hidden label                
+            
+            
+                Améliorer            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="12" class="asp_category_checkbox"
+                       aria-label="Concevoir"
+                                            name="termset[category][]"
+                                           id="1_1termset_12"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_12">
+                    Hidden label                
+            
+            
+                Concevoir            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="6" class="asp_category_checkbox"
+                       aria-label="Techniques"
+                                            name="termset[category][]"
+                                           id="1_1termset_6"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_6">
+                    Hidden label                
+            
+            
+                Techniques            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="7" class="asp_category_checkbox"
+                       aria-label="Théories"
+                                            name="termset[category][]"
+                                           id="1_1termset_7"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_7">
+                    Hidden label                
+            
+            
+                Théories            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="5" class="asp_category_checkbox"
+                       aria-label="Calculs"
+                                            name="termset[category][]"
+                                           id="1_1termset_5"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_5">
+                    Hidden label                
+            
+            
+                Calculs            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="11" class="asp_category_checkbox"
+                       aria-label="Réglementations"
+                                            name="termset[category][]"
+                                           id="1_1termset_11"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_11">
+                    Hidden label                
+            
+            
+                Réglementations            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="9" class="asp_category_checkbox"
+                       aria-label="Études de cas"
+                                            name="termset[category][]"
+                                           id="1_1termset_9"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_9">
+                    Hidden label                
+            
+            
+                Études de cas            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="14" class="asp_category_checkbox"
+                       aria-label="Mesures"
+                                            name="termset[category][]"
+                                           id="1_1termset_14"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_14">
+                    Hidden label                
+            
+            
+                Mesures            
+        
+                <div class="asp_option_cat asp_option asp_option asp_option_cat_level-0"
+             data-lvl="0"
+             asp_cat_parent="0">
+            
+                <input type="checkbox" value="10" class="asp_category_checkbox"
+                       aria-label="Données"
+                                            name="termset[category][]"
+                                           id="1_1termset_10"
+                    data-origvalue="1"                    checked="checked"/>
+                <label aria-hidden="true"
+                       for="1_1termset_10">
+                    Hidden label                
+            
+            
+                Données            
+        
+        
+    
+
+
+
+
+
+
+    
+        
+                                
+    
+
+        
+        /* User defined Ajax Search Pro Custom CSS */
+        #ajaxsearchprores1_1 .asp_group_header, #ajaxsearchprores1_2 .asp_group_header, div.asp_r.asp_r_1 .asp_group_header {
+    font-family: 'Montserrat',sans-serif;
+}
+#ajaxsearchprores1_1 .results .item .asp_content h3 a, #ajaxsearchprores1_2 .results .item .asp_content h3 a, div.asp_r.asp_r_1 .results .item .asp_content h3 a {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(200,200,191);
+    font-size: 14px;
+ }    
+            
+        /* Theme defined Ajax Search Pro Custom CSS */
+        .asp_m_1_1 .probox .promagnifier,.asp_m_1_1 .probox .prosettings{padding: 0 8px !important;}.asp_m_1_1[asp-compact=closed] .probox .promagnifier,.asp_m_1_1[asp-compact=closed] .probox .prosettings{padding: 0 !important;}    
+    
+
+			
+				<img src="/wp-content/uploads/2019/03/donations.svg" alt="Appel à dons" style="width: 27px;
+    margin-right: 20px;"> 
+					
+								
+			
+			
+			
+				
+							
+		
+		
+		
+	
+
+				
+				
+			
+					
+		
+		
+					
+				
+		
+					
+	
+		
+			
+																			
+										Lumière : généralités
+
+									
+				
+			
+
+												
+
+						Home/Théories/Eclairage/Physique de la lumière/Lumière : généralités					
+							
+		
+	
+				
+				
+			
+
+
+		
+					
+						
+										
+															Lumière : généralités										
+				
+Sommaire
+La lumière naturelleLumière blanche artificielleDiagramme de chromaticité
+
+
+
+
+
+La lumière naturelle
+
+
+Onde et particule
+Lorsqu’on parle de lumière, on considère qu’elle est à la fois une particule élémentaire (photon) et une onde électromagnétique.
+L’onde électromagnétique est caractérisée par :
+
+Une amplitude ;
+Une longueur d’onde (ou fréquence) ;
+Une vitesse de propagation.
+
+La relation suivant unit la longueur d’onde et la vitesse de propagation :
+λ = C / F
+où :
+
+λ : longueur d’onde en nanomètre ;
+C : est la vitesse en m.s-1 ;
+F : fréquence en Hz.
+
+Pour une vitesse de la lumière de 299,792,458 m.s-1 et une longueur d’onde de 380 nm (bleu) la fréquence de propagation est de :
+F = 299,792,458 / 450 x 10-9 = 780 THz
+À titre comparatif, le tableau suivant donne une idée des longueurs d’onde de différents types de rayonnement :
+
+
+
+Longueur d’onde (dans le vide)
+Domaine
+Fréquence
+Commentaire
+
+
+
+
+Plus de 10 m
+radio
+inférieure à 30 MHz
+
+
+
+de 1 mm à 30 cm
+micro-onde (Wifi, téléphones portables, radar, etc.)
+de 1 GHz à 300 GHz
+incluse dans les ondes radio
+
+
+de 780 nm à 500 µm
+infrarouge norme NF/en 1836
+
+
+
+
+de 380 nm à 780 nm
+lumière visible
+de 350 THz à 750 THz
+rouge (620-780 nm)
+
+
+
+
+
+orange (592-620 nm)
+
+
+
+
+
+jaune (578-592 nm)
+
+
+
+
+
+vert (500-578 nm)
+
+
+
+
+
+bleu (446-500 nm)
+
+
+
+
+
+violet (380-446 nm)
+
+
+de 10 nm à 380 nm
+ultraviolet
+de 750 THz à 30 PHz
+
+
+
+de 10-11 m à 10-8 m
+rayon X
+de 30 PHz à 30 EHz
+
+
+
+&lt; à 5 x 10-12 m
+Rayon γ (gamma)
+supérieure à 30 EHz
+
+
+
+
+
+Remarque : le spectre de la lumière naturelle est changeant suivant l’état du ciel : en fonction de la présence ou pas de nuage, leur densité, leur forme, … le spectre lumineux évolue.
+
+Spectre lumière naturelle.
+
+
+
+
+
+
+
+
+
+Lumière blanche artificielle
+
+
+En éclairage artificiel, on tente toujours de se rapprocher de la lumière naturelle qui est, par définition, une lumière blanche. C’est indispensable de s’en rapprocher pour une question principalement de confort visuel. On imagine difficilement pour des occupants de bâtiments tertiaires de travailler dans une ambiance de couleur jaune comme c’est le cas, par exemple, chez certains fabricants de téléviseur.
+
+Spectre lampe à incandescence.
+
+Lampe à incandescence : bon exemple de lumière blanche.
+La lumière blanche artificielle qui se rapproche le plus de la lumière naturelle est donnée par la lampe à incandescence. Indépendamment des considérations énergétiques (cette lampe est amenée à disparaître à terme), la lampe à incandescence reste, sans conteste, la source de référence par rapport à la qualité visuelle d’une lampe artificielle.
+
+
+
+
+
+
+
+
+
+Diagramme de chromaticité
+
+
+Toutes les couleurs du spectre visible peuvent être représentées dans un diagramme de chromaticité de la Commission Internationale de l’Éclairage (CIE).
+
+Quelques paramètres caractéristiques :
+
+La courbe du fer à cheval représente les couleurs pures (teintes) de tout le spectre visible depuis le rouge (λ= 700 nm) jusqu’au violet (λ= 420 nm) ;
+Le segment de droite qui joint les extrémités du fer à cheval représente les pourpres ;
+le point de coordonnées (x=1/3 ;y = 1/3) est le blanc ;
+la température de couleur pour le blanc est de 6 000 K ;
+Le centre du fer à cheval focalise les différentes couleurs blanches. L’arc de cercle gradué de 10 000 à 1 500 K représente les températures de couleur qui caractérisent les différences sources lumineuses entre elles par rapport à la lumière blanche.
+
+
+
+
+
+							
+
+												2020-01-20T15:44:20+01:0015 octobre, 2012|Physique de la lumière|													
+		Partagez ce contenu !
+		TwitterLinkedInWhatsappEmail	
+													
+					
+					
+						Related Posts					
+					
+						
+					
+				
+				
+	
+	
+	
+	
+				
+		
+			
+																							
+						
+							
+
+
+	
+	
+				
+
+
+		
+	
+
+														Simuler l&#8217;éclairage
+			
+														
+								
+													
+				
+																		
+						Gallery					
+														
+				
+								
+								
+		
+				
+	
+
+
+	
+
+																							
+									Simuler l&#8217;éclairage
+								
+
+								
+									18 octobre, 2016
+
+																			|
+										1 Comment
+																	
+													
+					
+																			
+						
+							
+
+
+	
+	
+				
+
+
+		
+	
+
+														Ombres
+			
+														
+								
+													
+				
+																		
+						Gallery					
+														
+				
+								
+								
+		
+				
+	
+
+
+	
+
+																							
+									Ombres
+								
+
+								
+									13 novembre, 2012
+
+																			|
+										1 Comment
+																	
+													
+					
+																			
+						
+							
+
+
+	
+	
+				
+
+
+		
+	
+
+														Eblouissement
+			
+														
+								
+													
+				
+																		
+						Gallery					
+														
+				
+								
+								
+		
+				
+	
+
+
+	
+
+																							
+									Eblouissement
+								
+
+								
+									13 novembre, 2012
+
+																			|
+										1 Comment
+																	
+													
+					
+																			
+						
+							
+
+
+	
+	
+				
+
+
+		
+	
+
+														Température de couleur
+			
+														
+								
+													
+				
+																		
+						Gallery					
+														
+				
+								
+								
+		
+				
+	
+
+
+	
+
+																							
+									Température de couleur
+								
+
+								
+									13 novembre, 2012
+
+																			|
+										2 Comments
+																	
+													
+					
+																			
+						
+							
+
+
+	
+	
+				
+
+
+		
+	
+
+														Autonomie en lumière du jour
+			
+														
+								
+													
+				
+																		
+						Gallery					
+														
+				
+								
+								
+		
+				
+	
+
+
+	
+
+																							
+									Autonomie en lumière du jour
+								
+
+								
+									12 novembre, 2012
+
+																			|
+										1 Comment
+																	
+													
+					
+																			
+						
+							
+
+
+	
+	
+				
+
+
+		
+	
+
+														Eclairage naturel et ses variations
+			
+														
+								
+													
+				
+																		
+						Gallery					
+														
+				
+								
+								
+		
+				
+	
+
+
+	
+
+																							
+									Eclairage naturel et ses variations
+								
+
+								
+									31 octobre, 2007
+
+																			|
+										3 Comments
+																	
+													
+					
+							
+										
+					
+					
+				
+			
+		
+	
+
+
+
+																		
+
+	
+						
+					
+								One Comment							
+					
+						
+					
+				
+				
+		
+							
+			
+				
+				
+					
+						Sylvie Rouche
+												20 janvier 2020 at 15 h 39 min						Connectez-vous pour répondre					
+					
+												
+
+
+
+Date : création 15/10_2012
+Auteur : Didier, relecture Olivier.
+Notes :4/03/2013 : actualisation Didier D. et Olivier
+
+
+
+
+					
+				
+			
+		
+		
+
+			
+
+
+
+		
+		Leave A Comment Annuler la réponseYou must be logged in to post a comment.	
+														
+		
+					
+				  
+			  
+			
+						télécharger en PDF ou imprimer cet article			
+										
+				
+						
+	
+		
+			
+				
+																									
+							| Partenaires
+
+
+<img class="alignnone wp-image-21506 size-full alignleft" title="Architecture et Climat" src="https://energieplus-lesite.be/wp-content/uploads/2019/04/Siglclic4x4.jpg" alt="" width="54" height="54"
+ />
+
+	
+
+
+	
+
+
+
+
+	
+
+
+																					
+																										
+							| Infos et Contact#avada-vertical-menu-widget-2 ul.menu li a {font-size:14px;} Énergie+ Intervenants Architecture et climat – UCL Département de l’Énergie et Bâtiment durable – SPW Réseau des Facilitateurs wallons Portail européen BUILD UP Navigation Mode d&#8217;emploi du site Structure de l’information Pour s’y retrouver, un tableau d’aide sur la structure de l’information dans Énergie+ Détails d’une page type Copyright Contact RGPD Votre avis sur le site ?																					
+																										
+							| S&#8217;inscrire			Newsletter
+
+		| SUIVEZ-NOUS !
+		
+
+			
+								
+																																																							
+											
+										
+																																																							
+											
+										
+				
+			
+		
+
+																							
+																																				
+				
+			 
+		 
+	 
+
+	
+	
+		
+			
+
+				
+		
+		Copyright 2021 - Architecture et Climat	
+
+
+	
+
+			 
+		 
+	 
+				 
+
+									 
+
+								
+
+		
+
+	
+		
+			
+		
+		
+						
+				Préférences de confidentialité
+				J’approuve
+			
+			
+		
+	
+
+
+
+	
+		
+			
+						
+				
+					Centre de préférences de confidentialité
+					
+				
+			
+			
+				Options
+			
+			
+				
+					
+						Gestion du consentement
+																			Réglages de cookie
+								
+									NecessaryAdvertisingAnalyticsOther								
+							
+											
+					
+											
+				
+				
+					
+						
+							Gestion du consentement
+						
+						
+							
+													
+					
+																
+							
+								Necessary
+							
+							
+								
+																							
+						
+											
+							
+								Advertising
+							
+							
+								
+																							
+						
+											
+							
+								Analytics
+							
+							
+								
+																							
+						
+											
+							
+								Other
+							
+							
+								
+																							
+						
+									
+				
+			
+			
+				
+			
+		
+	
+
+
+
+	
+		
+			
+				
+				
+			
+		
+		
+			
+		
+		
+			OK
+		
+	
+
+                <div id="ssb-container"
+                     class="ssb-btns-right ssb-disable-on-mobile ssb-anim-slide">
+                    
+						                            
+                                
+                                     Partager                                     
+                                
+                                
+                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://energieplus-lesite.be/theories/eclairage12/physique-lumiere/lumiere-generalites/"
+                                       onclick="window.open(this.href, 'linkedin', 'left=60,top=40,width=500,height=500,toolbar=1,resizable=0'); return false;"> LinkedIN
+                                    <a href="https://twitter.com/home?status=https://energieplus-lesite.be/theories/eclairage12/physique-lumiere/lumiere-generalites/"
+                                       onclick="window.open(this.href, 'twitter', 'left=60,top=40,width=500,height=500,toolbar=1,resizable=0'); return false;"><span
+                                                class="fab fa-twitter"> Twitter
+                                    <a href="https://api.whatsapp.com/send?text=https://energieplus-lesite.be/theories/eclairage12/physique-lumiere/lumiere-generalites/"
+                                       onclick="window.open(this.href, 'google', 'left=60,top=40,width=500,height=500,toolbar=1,resizable=0'); return false;"><span
+                                                class="fab fa-whatsapp"> WhatsApp
+                                
+                            
+							
+                                
+                                     Message                                    
+                                
+                                
+                                    
+				CommentRGPD. * 
+
+			
+                                
+                            
+														
+								
+									
+										 Imprimer									
+								
+							
+														                    
+                
+				            
+                
+                    
+                        
+                    
+                
+                
+                    
+                
+            
+             
+            
+					function pfTrackEvent(title) {
+						
+                        if(typeof(_gaq) === 'function') {
+                            _gaq.push(['_trackEvent','PRINTFRIENDLY', 'print', title]);
+                        }else if(typeof(ga) === 'function') {
+                            ga('send', 'event','PRINTFRIENDLY', 'print', title); 
+                        }else if(typeof(gtag) === 'function') { 
+                            gtag('event', 'printfriendly_button_click', {'event_category': 'printfriendly', 'event_label': title})
+                        }else if(typeof(dataLayer) === 'object') { 
+                            dataLayer.push({
+                                'event': 'printfriendly_button_click',
+                                'pageTitle': title
+                            })
+                        }
+					
+					}
+				          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '1';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfEncodeImages = '0';
+          var pfShowHiddenContent  = '0';
+          var pfDisableEmail = '1';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+
+            var pfCustomCSS = "https://energieplus-lesite.be/wp-content/themes/Avada-Child-Theme/printfriendly.css";
+          var pfPlatform = 'WordPress';
+
+        (function($){
+            $(document).ready(function(){
+                if($('.pf-button-content').length === 0){
+                    $('style#pf-excerpt-styles').remove();
+                }
+            });
+        })(jQuery);
+        
+      
+            
+            
+
+
+
+
+
+/* <![CDATA[ */
+var eadPublic = [];
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/energieplus-lesite.be\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var ASP = {"ajaxurl":"https:\/\/energieplus-lesite.be\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/energieplus-lesite.be\/wp-admin\/admin-ajax.php","js_scope":"jQuery","asp_url":"https:\/\/energieplus-lesite.be\/wp-content\/plugins\/ajax-search-pro\/","upload_url":"https:\/\/energieplus-lesite.be\/wp-content\/uploads\/asp_upload\/","css_basic_url":"https:\/\/energieplus-lesite.be\/wp-content\/uploads\/asp_upload\/style.basic-ho-is-po-no-da-au.css","detect_ajax":"0","media_query":"JOytNL","version":"4996","scrollbar":"1","css_loaded":"1","js_retain_popstate":"0","fix_duplicates":"1","debug":"","analytics":{"method":0,"tracking_id":"","string":"?ajax_search={asp_term}","event":{"focus":{"active":1,"action":"focus","category":"ASP {search_id} | {search_name}","label":"Input focus","value":"1"},"search_start":{"active":0,"action":"search_start","category":"ASP {search_id} | {search_name}","label":"Phrase: {phrase}","value":"1"},"search_end":{"active":1,"action":"search_end","category":"ASP {search_id} | {search_name}","label":"{phrase} | {results_count}","value":"1"},"magnifier":{"active":1,"action":"magnifier","category":"ASP {search_id} | {search_name}","label":"Magnifier clicked","value":"1"},"return":{"active":1,"action":"return","category":"ASP {search_id} | {search_name}","label":"Return button pressed","value":"1"},"try_this":{"active":1,"action":"try_this","category":"ASP {search_id} | {search_name}","label":"Try this click | {phrase}","value":"1"},"facet_change":{"active":0,"action":"facet_change","category":"ASP {search_id} | {search_name}","label":"{option_label} | {option_value}","value":"1"},"result_click":{"active":1,"action":"result_click","category":"ASP {search_id} | {search_name}","label":"{result_title} | {result_url}","value":"1"}}}};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var fusionMapsVars = {"admin_ajax":"https:\/\/energieplus-lesite.be\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var fusionLightboxVideoVars = {"lightbox_video_width":"1280","lightbox_video_height":"720"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var fusionEqualHeightVars = {"content_break_point":"800"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var fusionVideoGeneralVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var fusionVideoBgVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var fusionLightboxVars = {"status_lightbox":"1","lightbox_gallery":"1","lightbox_skin":"metro-white","lightbox_title":"1","lightbox_arrows":"1","lightbox_slideshow_speed":"5000","lightbox_autoplay":"","lightbox_opacity":"0.90","lightbox_desc":"1","lightbox_social":"1","lightbox_deeplinking":"1","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_animation_speed":"Normal"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var fusionCarouselVars = {"related_posts_speed":"2500","carousel_speed":"2500"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var fusionFlexSliderVars = {"status_vimeo":"1","page_smoothHeight":"false","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","flex_smoothHeight":"false"};
+/* ]]> */
+
+
+
+
+
+
+/* <![CDATA[ */
+var fusionBlogVars = {"infinite_blog_text":"Loading the next set of posts...","infinite_finished_msg":"All items displayed.","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","lightbox_behavior":"all","blog_pagination_type":"Pagination","flex_smoothHeight":"false"};
+/* ]]> */
+
+
+
+
+
+
+/* <![CDATA[ */
+var avadaHeaderVars = {"header_position":"top","header_layout":"v6","header_sticky":"1","header_sticky_type2_layout":"menu_only","header_sticky_shadow":"1","side_header_break_point":"800","header_sticky_mobile":"1","header_sticky_tablet":"0","mobile_menu_design":"modern","sticky_header_shrinkage":"0","nav_height":"40","nav_highlight_border":"3","nav_highlight_style":"bar","logo_margin_top":"31px","logo_margin_bottom":"31px","layout_mode":"wide","header_padding_top":"0px","header_padding_bottom":"0px","offset_scroll":"full"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var avadaMenuVars = {"site_layout":"Wide","header_position":"Top","logo_alignment":"Left","header_sticky":"1","header_sticky_mobile":"1","header_sticky_tablet":"0","side_header_break_point":"800","megamenu_base_width":"custom_width","mobile_menu_design":"modern","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","mobile_submenu_open":"Open Sub Menu Of","mobile_submenu_close":"Close Sub Menu Of","submenu_slideout":"1"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var fusionScrollToAnchorVars = {"content_break_point":"800","container_hundred_percent_height_mobile":"0"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var fusionTypographyVars = {"site_width":"1100px","typography_responsive":"1","typography_sensitivity":"0.60","typography_factor":"1.50","elements":"h1, h2, h3, h4, h5, h6"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var avadaCommentVars = {"title_style_type":"double solid","title_margin_top":"0px","title_margin_bottom":"31px"};
+/* ]]> */
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var avadaSidebarsVars = {"header_position":"top","header_layout":"v6","header_sticky":"1","header_sticky_type2_layout":"menu_only","side_header_break_point":"800","header_sticky_tablet":"0","sticky_header_shrinkage":"0","nav_height":"40","sidebar_break_point":"800"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var avadaToTopVars = {"status_totop":"desktop","totop_position":"right","totop_scroll_down_only":"0"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var avadaRevVars = {"avada_rev_styles":"1"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var avadaElasticSliderVars = {"tfes_autoplay":"1","tfes_animation":"sides","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+
+
+
+	
+

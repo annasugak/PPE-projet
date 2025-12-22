@@ -1,0 +1,240 @@
+
+
+  
+    
+    
+    Éclairage dans l’habitat : caractéristiques de chaque type de lampes
+    
+
+
+
+
+
+    
+form.antibot * :not(.antibot-message) { display: none !important; }
+
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-23221853-1", {"groups":"default","page_placeholder":"PLACEHOLDER_page_path","link_attribution":true,"custom_map":{"dimension3":""}});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #dff4f6} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #888888;} .eu-cookie-withdraw-tab { border-color: #888888;}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Éclairage dans l’habitat",
+            "name": "Éclairage dans l’habitat",
+            "description": "Les différentes lampes existantes, leurs caractéristiques et les moyens d’optimiser l’éclairage dans son logement.",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.connaissancedesenergies.org/sites/connaissancedesenergies.org/files/styles/amp_image_1200/public/image_article/eclairage-logement_fiche.jpg?itok=UFqN_uEJ",
+                "width": "1200",
+                "height": "550"
+            },
+            "datePublished": "2015-01-06T10:35:04+0100",
+            "dateModified": "2024-05-17T08:35:00+0200",
+            "isAccessibleForFree": "True",
+            "author": {
+                "@type": "Organization",
+                "name": "Connaissance des Énergies",
+                "url": "https://www.connaissancedesenergies.org",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.connaissancedesenergies.org/logos/logo-cde.png",
+                    "width": "470",
+                    "height": "54"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.connaissancedesenergies.org",
+                "name": "Connaissance des Énergies",
+                "url": "https://www.connaissancedesenergies.org",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.connaissancedesenergies.org/logos/logo-cde.png",
+                    "width": "470",
+                    "height": "54"
+                }
+            },
+            "mainEntityOfPage": "https://www.connaissancedesenergies.org/fiche-pedagogique/eclairage-dans-lhabitat",
+            "articleSection": "Fiches pédagogiques"
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.connaissancedesenergies.org/sites/connaissancedesenergies.org/files/styles/amp_image_1200/public/image_article/eclairage-logement_fiche.jpg?itok=UFqN_uEJ",
+            "height": "550",
+            "width": "1200"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.connaissancedesenergies.org/fiche-pedagogique/eclairage-dans-lhabitat",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Accueil",
+                        "item": "https://www.connaissancedesenergies.org/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Consommation électrique",
+                        "item": "https://www.connaissancedesenergies.org/classement/consommation-electrique#fiche_pedagogique"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Fiches pédagogiques",
+                        "item": "https://www.connaissancedesenergies.org/fiche-pedagogique"
+                    }
+                ]
+            },
+            "author": {
+                "@type": "Organization",
+                "name": "Connaissance des Énergies",
+                "url": "https://www.connaissancedesenergies.org",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.connaissancedesenergies.org/logos/logo-cde.png",
+                    "width": "470",
+                    "height": "54"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Connaissance des Énergies",
+                "url": "https://www.connaissancedesenergies.org",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.connaissancedesenergies.org/logos/logo-cde.png",
+                    "width": "470",
+                    "height": "54"
+                }
+            }
+        }
+    ]
+}
+
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.icon_color = "#888";
+a2a_config.templates.email = {
+    subject: "Vu sur Connaissance des Énergies : Éclairage dans l’habitat",
+    body: "Éclairage dans l’habitat\n\nRetrouvez cet article sur le site de Connaissance des Énergies : https://www.connaissancedesenergies.org/fiche-pedagogique/eclairage-dans-lhabitat"
+};
+
+.a2a_svg { border-radius: 0 !important; background-color:#888 !important; }
+
+    
+  
+  
+    
+      Aller au contenu principal
+    
+    
+      
+    Abonnement aux newslettersNewslettersRechercherÉvénements Le Comité des Experts  Qui sommes-nous ? Toggle navigationAbonnez-vous gratuitement aux newslettersMenu CDE Fiches
+pédagogiques
+  Questions
+et Réponses
+  Idées
+reçues
+  L'essentiel
+de l'actualité
+  Innovations
+et Insolites
+  Données
+chiffrées
+  Prises
+de position
+  Études
+et Dossiers
+  Rechercher
+          
+            Événements
+           Le Comité des Experts  Qui sommes-nous ? AccueilConsommation électriqueFiches pédagogiquesÉclairage dans l’habitatLa puissance d'éclairage peut parfois sembler une grandeur assez subjective : le flux lumineux dans une pièce peut varier d'un facteur 5 selon l'ambiance souhaitée. (©photo)SommaireDéfinitionSystèmes d’éclairageConseils pratiquesConsommationL&#039;éclairage dans le secteur résidentielIl existe aujourd’hui principalement 3 familles de lampes pour un usage domestique : les lampes à incandescence halogène, les lampes fluorescentes compactes et les lampes à LED.Le flux lumineux, exprimé en lumens (lm), exprime le pouvoir éclairant d’une lampe.Pour rappel, on qualifie de «&nbsp;lampe&nbsp;» la source de lumière artificielle. A strictement parler, le luminaire désignent le support de la lampe. L’ampoule est quant à elle l’enveloppe en verre de la lampe. Ce terme est souvent employé dans l’usage commun pour désigner une lampe.Catégories de lampesIl existe principalement trois grandes familles de lampes commercialisées en France.Éclairage à incandescence halogèneLes lampes à incandescence halogène&nbsp;produisent de la lumière en portant un filament de tungstène(2)&nbsp;à incandescence.Elles se distinguent des lampes à incandescence classique par la présence de gaz «&nbsp;halogéné&nbsp;»&nbsp;(iode ou brome) dans l’ampoule&nbsp;: ce gaz limite notamment la sublimation (passage de l’état solide à l’état gazeux) du filament de tungstène et permet ainsi de le soumettre à des températures plus élevées. Cela apporte une lumière plus intense pour une même consommation électrique.Éclairage&nbsp;fluorescent compactLes lampes fluorescentes compactes (LFC) ou lampes fluocompactes, qui produisent de la lumière en soumettant du mercure à l’état gazeux (enfermé dans l’ampoule, généralement un tube de verre) à un courant électrique.Les atomes de mercure émettent alors de la lumière ultraviolette (UV) invisible qui est absorbée par de la poudre fluorescente présente à la surface de l’ampoule. Les UV sont alors convertis en lumière blanche visible.Éclairage&nbsp;à diodes électroluminescentesLes lampes à diodes électroluminescentes ou lampes à LED (acronyme de «&nbsp;Light Emitting Diode&nbsp;» en anglais), qui produisent de la lumière par électroluminescence lorsqu’un courant électrique les traverse. Les lampes à LED sont constituées de matériaux semi-conducteurs. Elles ne laissent passer le courant électrique que dans un sens et émettent une lumière monochromatique. Une couche de luminophore (substance qui émet de la lumière lorsqu’elle subit une excitation) permet de convertir la lumière monochromatique en une lumière au spectre plus large.Notons qu’il existe encore des lampes à incandescence classiques. Depuis fin 2012, les fabricants n’ont plus le droit d’en commercialiser de nouvelles au sein de l’Union européenne en raison de leur caractère énergivore&nbsp;: 90% de l’énergie consommée est perdue sous forme de chaleur.Les stocks restants peuvent toutefois encore être vendus.Mesures et caractéristiques des systèmes d'éclairagePuissance de l’éclairageTraditionnellement, la puissance électrique (exprimée en watts) était le principal critère retenu pour évaluer le flux lumineux fourni par des lampes à incandescence classiques. Une lampe de 100 W était par exemple choisie pour un éclairage puissant dans une pièce à vivre tandis qu’une lampe de 15 W suffisait pour éclairer une table de nuit.Aujourd’hui, le flux de lumière produit par les différents types de lampe varie pour une puissance donnée. Il est donc nécessaire d’avoir recours à un autre indicateur que la puissance électrique&nbsp;: le flux lumineux en lumens (lm) qui indique le pouvoir éclairant d’une lampe. Par exemple, 300 lumens peuvent suffire pour une lampe de chevet tandis qu’un flux de 1&nbsp;000 à 1 200 lumens est recommandé pour éclairer une table à manger.L’efficacité ou rendement lumineux permet de mesurer le flux lumineux en fonction d’une puissance électrique donnée. Il est exprimé en lumens par watt (lm/W). Concrètement, plus il est important, plus la lampe émet de lumière pour une même consommation d’électricité.Notons qu’une autre unité pour mesurer l’éclairement est parfois employée&nbsp;: le lux (lx). Elle désigne le flux lumineux reçu par unité de surface (1 lx = 1 lm/m2).Lors d’un achat, un consommateur peut entre autres lire les deux grandes informations suivantes sur l’étiquette énergie d’une lampe&nbsp;: son flux lumineux (lm) et sa consommation en kWh pour 1&nbsp;000 heures d’éclairage.En fonction de différents critères d’efficacité énergétique, les lampes peuvent être classées en différentes classes (allant de A++ pour les plus performantes à G pour les plus énergivores)&nbsp;:les lampes à incandescence halogène sont de classe C ou D&nbsp;;les LFC de classe A et B&nbsp;;la plupart des lampes à LED de classe A+.Durée de vieLa durée de vie d’une lampe est, avec son flux lumineux et son efficacité lumineuse, le principal paramètre qu’un consommateur doit prendre en compte lors d’un achat. Elle varie également fortement en fonction des modèles choisis&nbsp;:une lampe halogène a une durée de vie moyenne comprise entre 2&nbsp;000 et 3&nbsp;000 heures d’éclairage (consommation moyenne d’éclairage durant 2 à 3 ans) ;une lampe fluocompacte a une durée de vie comprise entre 5&nbsp;000 et 10&nbsp;000 heures (soit près de 5 à 10 ans d’utilisation)&nbsp;;une lampe à LED a une durée de vie pouvant atteindre 25&nbsp;000 heures (soit près de 25 ans d’utilisation et près de dix fois plus qu’une lampe halogène).Température de couleurChaque type de lampe produit une lumière à la «&nbsp;température de couleur&nbsp;» différente. Celle-ci peut être «&nbsp;froide&nbsp;» ou «&nbsp;chaude&nbsp;», ce qui peut fortement modifier l’ambiance d’une pièce.La température de couleur est exprimée en Kelvin (K). Plus cette température est basse, plus la lumière émise tend vers les couleurs chaudes (&lt; 4&nbsp;000 K). Plus elle est haute (&gt; 5&nbsp;300 K), plus elle tend vers le bleu. Pour comparaison, la lumière du jour, très vive, a une température de couleur de 6&nbsp;400 K.Parmi les différents types de lampes précédemment présentés&nbsp;:les lampes halogènes ont une température de couleur comprise entre 2&nbsp;500 et 3&nbsp;400 K&nbsp;;les lampes fluocompactes et tubes fluorescents ont des températures de couleur très variées, allant de 2&nbsp;700 / 3&nbsp;000 K (lampes «&nbsp;blanc chaud&nbsp;») à près de 6&nbsp;500 K (lampes «&nbsp;lumière du jour&nbsp;»)&nbsp;;les lampes à LED ont également des couleurs de températures variées allant du «&nbsp;blanc chaud&nbsp;» au «&nbsp;blanc dynamique&nbsp;» (2&nbsp;700 / 6 500 K)Conseils pratiques pour un éclairage optimalComprendre l’étiquette énergiePour choisir une lampe, il est conseillé de se référer à son étiquette énergie qui est obligatoire depuis septembre 2013. Celle-ci indique entre autres la consommation électrique en kWh pour 1&nbsp;000 heures d’éclairage.&nbsp; D’autres informations importantes sont indiquées sur les emballages telles que le flux lumineux de la lampe, la température de couleur ou encore le nombre de commutations (cycles allumage / extinction) supportées par la lampe.Bien éclairer son logementLe flux lumineux adapté pour éclairer un espace varie selon les pièces du logement. Les niveaux d’éclairage suivant sont généralement conseillés :100 lux (ou lm/m2) pour un hall d’entrée&nbsp;;200 lux pour une chambre&nbsp;;à partir de 300 lux pour une cuisine ou une salle à manger&nbsp;;400 à 500 lux pour un bureau.Économies d’énergieDes gestes pratiques de base peuvent permettre de réduire facilement la consommation d’éclairage&nbsp;: exploiter la lumière naturelle, éteindre l’éclairage hors présence humaine.&nbsp;C’est toutefois le choix des lampes en fonction des pièces d’un logement qui conditionne un bon équilibre entre confort et consommation réduite.Précautions d’usageSi les lampes halogènes ne contiennent pas d’élément dangereux, elles deviennent très chaudes en raison de la haute température atteinte par le filament. Elles peuvent ainsi créer des brûlures en l’absence de protection de l’ampoule. De plus, elles émettent des UV, ce qui nécessite un traitement du verre de la lampe pour les filtrer et protéger les yeux des personnes. Toutes les lampes ne bénéficient pas de ce traitement (privilégier les grandes marques)&nbsp;;les lampes fluocompactes peuvent également émettre des UV lorsque le verre de la lampe n’est pas uniformément recouvert de poudre. Elles génèrent par ailleurs d’avantage d’électrosmog (pollution électromagnétique) que les lampes halogènes et lampes à LED. Il est à ce titre recommandé de ne pas rester de manière prolongée à moins de 30 cm des ampoules fluocompactes. En cas de bris de ces dernières, des précautions doivent être prises pour collecter les débris (ne pas utiliser un aspirateur mais un ruban autocollant pour les ramasser, aérer la pièce) en raison du mercure et des poudres toxiques présents dans l’ampoule&nbsp;;les modèles de lampes à LED émettant beaucoup de lumière bleue seraient susceptibles de perturber le sommeil.RecyclageLorsqu’une lampe ne fonctionne plus, des mesures particulières doivent être prises pour s’en débarrasser selon son type&nbsp;:les lampes halogènes peuvent être jetées dans une poubelle classique, elles ne sont pas recyclées&nbsp;;les lampes fluocompactes doivent être déposées dans des bacs de collecte spécifiques (chez le distributeur ou à la déchetterie) car elles contiennent une faible quantité de mercure et peuvent être recyclées à 93%&nbsp;;les lampes à LED doivent aussi être déposées chez un distributeur ou la déchèterie, elles contiennent des métaux rares et doivent être recyclées.Consommation de l&#039;éclairage résidentielChaque ménage français&nbsp;possède en moyenne 25 points lumineux dans son logement et&nbsp;achète 3 lampes par an.Il consomme entre 325 et 450 kWh par an pour s’éclairer, ce qui représente un coût de l’ordre de 60 euros.Le secteur des&nbsp;bâtiments&nbsp;absorbe près de 44% de la consommation d’énergie finale en France. Dans le résidentiel(1), près de 12% de la consommation d’électricité des ménages est consacrée à l’éclairage de leurs logements. Pour réduire cette consommation, des actions d’efficacité énergétique peuvent être entreprises à différents niveaux.Pour émettre une même quantité de lumière, une lampe de classe A+ consomme 5 à 6 fois moins d’électricité qu’une lampe de classe C. Le saviez-vous ? Comme de nombreux pays, la France change d’heure depuis 1976 afin de mieux faire correspondre les heures d’activité aux heures d’ensoleillement et réduire ainsi les besoins d’éclairage. Selon l’Ademe, ce dispositif (qui touche autant l’éclairage public que l’éclairage résidentiel) permettrait de réduire annuellement l’équivalent de la consommation en éclairage de 800&nbsp;000 ménages.dernière modification le 17 mai 2024 Sources / Notes(1) Logements des ménages.(2)&nbsp;Métal très dur qui a le plus haut point de fusion. Température à laquelle il passe à l’état liquide&nbsp;: 3&nbsp;422 °C dans le cas du tungstène.«&nbsp;Bien choisir son éclairage&nbsp;», Ademe, juillet 2014Sur le même sujet  ÉTUDES ET DOSSIERS ÉTUDES ET DOSSIERSBien choisir son éclairageétude par  Ademe INNOVATIONS ET INSOLITES INNOVATIONS ET INSOLITESDes idées lumineuses pour l’éclairage public ? L’éclairage public traditionnel peut se révéler très énergivore. Il absorberait près de 50% de la consommation d’électricité des petites communes selon l’Ademe. Plusieurs initiatives&hellip; lire plusEn direct – Brèves AFP
+        10 déc. 2025 - 06h02
+      Un balisage ciblé des éoliennes peut protéger les chauves-souris
+        10 déc. 2025 - 05h02
+      Dans les Hauts-de-France, la vallée de la batterie à l&#039;heure de l&#039;Asie
+        10 déc. 2025 - 03h34
+      ExxonMobil va réduire ses investissements dans les projets bas-carbone
+        09 déc. 2025 - 21h02
+      Le pétrole se replie, plombé par les craintes de surplus
+        09 déc. 2025 - 20h00
+      Guyana: le groupe pétrolier ghanéen Cybele Energy signe un contrat d&#039;exploration de 17 millions de dollars (officiel)
+        09 déc. 2025 - 19h40
+      La filière des renouvelables salue les préconisations en faveur de l&#039;accélération de la France vers l&#039;électricité Toutes les « BRÈVES AFP »
+    Dernières parutions L&#039;ESSENTIEL DE L&#039;ACTUALITÉL&#039;ESSENTIEL DE L&#039;ACTUALITÉÉlectrification : à quand la grande « bascule » en France ?TRIBUNE D&#039;ACTUALITÉTRIBUNE D&#039;ACTUALITÉLa transition agroécologique peut-elle vraiment justifier le soutien politique à la méthanisation ?L&#039;ESSENTIEL DE L&#039;ACTUALITÉL&#039;ESSENTIEL DE L&#039;ACTUALITÉMix énergétique : les recommandations de l&#039;OPECST face à « l’ampleur des défis qui s’accumulent »ÉTUDES ET DOSSIERSÉTUDES ET DOSSIERSEn librairie : « Hautes tensions - 9 scénarios pour penser nos futurs énergétiques »TRIBUNE D&#039;ACTUALITÉTRIBUNE D&#039;ACTUALITÉSurprofits d’EDF et VNU : complexité inutile, équité discutableThèmes associésConsommation électriqueÉlectricité et hydrogèneEntre vous et nousAbonnement aux newsletters Consulter la dernière newsletter Consulter la dernière newsletter S'abonner ou abonner un amigratuitement aux newslettersRéseaux sociaux et contact
+                          Twitter
+                         @info_energies
+                          Facebook
+                                  
+                          LinkedIn
+                                  
+             Youtube 
+                                  
+                          RSS
+                                  
+                          Nous contacter
+                                  Twitter <a class="twitter-timeline"
+					 data-lang="fr"
+					 data-width="390"
+					 data-height="320"
+					 data-dnt="true"
+					 data-link-color="#999"
+					 data-chrome="noheader noborders transparent nofooter"
+					 href="https://twitter.com/info_energies">Tweets by info_energies&copy; 2011 – 2025 – Tous droits réservés – CONNAISSANCE DES ÉNERGIESMentions légalesPresseNous contacter
+  
+
+    
+    {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/15054","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dinoElements":{"translations":{"easySubscriptionOnly":"Easy subscription only"}},"google_analytics":{"account":"UA-23221853-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":false,"popup_agreed_enabled":false,"popup_hide_agreed":true,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":false,"use_mobile_message":false,"mobile_popup_html_info":false,"mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":false,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EParam\u00e8tres de confidentialit\u00e9\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003ERetirer le consentement\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":false,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"bottom","tooltip_selector":"","tooltip_trigger":"hover"},"user":{"uid":0,"permissionsHash":"4186afe88c125bb6410fbaabc264fcda3f437f374b1fc325fce202e5a20103d9"}}
+
+
+
+
+
+
+
+
+  
+

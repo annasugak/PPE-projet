@@ -1,0 +1,1605 @@
+
+
+
+Lumière : définition et explications
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Lumière : définition et explications",
+    "datePublished": "",
+    "author": "",
+    "publisher": {
+		"@type": "Organization",
+		"name": "Techno-Science.net",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://www.techno-science.net/graphisme/Logo/logo-amp.png?v=2",
+			"width": 550,
+			"height": 60
+		}
+	},
+    "image": [
+      "https://static.techno-science.net/illustration/Definitions/1200px/u/uv-led_8c584ddc8736f8364915282feb512af4.jpg"
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//sessionStorage.clear();
+// Enregistrer ou mettre à jour une ressource dans le localStorage
+function saveResource(id, resource) {
+    const currentTime = Math.floor(Date.now() / 1000);
+    const data = {
+        resource: resource,
+        timestamp: currentTime,
+    };
+    sessionStorage.setItem(id, JSON.stringify(data));
+}
+function getResource(id, duration = 600) {
+    const item = sessionStorage.getItem(id);
+    if(!item) return false; // Absent
+
+    const { resource, timestamp } = JSON.parse(item);
+    const currentTime = Math.floor(Date.now() / 1000);
+    if(currentTime > timestamp + duration) return false; // Expire
+
+    return resource;
+}
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8G13TGZT7Z');
+
+
+
+
+
+
+console.time('embarqueScriptNbCommentaireshtml STORAGE');
+console.time('embarqueScriptNbCommentaireshtml FETCH');
+	// Rafraichir toutes les x minutes
+	(function fetchResource() {
+		fetchembarqueScriptNbCommentaireshtml = fetch('/embarqueScriptNbCommentaires.html').then(response => {
+				if(response.ok)	return response.text();
+			}).then(html => {
+				if(elt = document.getElementById('embarqueScriptNbCommentaireshtml')) {
+					elt.outerHTML = html;
+					
+					console.timeEnd('embarqueScriptNbCommentaireshtml FETCH');
+					reloadScripts();
+				}
+				saveResource('embarqueScriptNbCommentaireshtml', html);
+			});
+		setTimeout(fetchResource, 5*60*1000);
+	})();
+
+
+console.time('embarqueSuggestionNewshtml STORAGE');
+console.time('embarqueSuggestionNewshtml FETCH');
+	// Rafraichir toutes les x minutes
+	(function fetchResource() {
+		fetchembarqueSuggestionNewshtml = fetch('/embarqueSuggestionNews.html').then(response => {
+				if(response.ok)	return response.text();
+			}).then(html => {
+				if(elt = document.getElementById('embarqueSuggestionNewshtml')) {
+					elt.outerHTML = html;
+					
+					console.timeEnd('embarqueSuggestionNewshtml FETCH');
+					reloadScripts();
+				}
+				saveResource('embarqueSuggestionNewshtml', html);
+			});
+		setTimeout(fetchResource, 5*60*1000);
+	})();
+
+
+
+
+
+
+
+
+  
+
+  
+		
+	    Techno-Science.net
+	  
+  
+
+
+	
+	Vendredi 5 Décembre 2025
+	
+		Actualités &#9660; Actualités&nbsp;&nbsp;A la Une&nbsp;&nbsp;ArchivesAutres&nbsp;&nbsp;Autres SujetsTechnologies&nbsp;&nbsp;Aéronautique&nbsp;&nbsp;Transports&nbsp;&nbsp;Spatial&nbsp;&nbsp;Energie&nbsp;&nbsp;Numérique&nbsp;&nbsp;ArchitectureSciences&nbsp;&nbsp;Mathématiques&nbsp;&nbsp;Physique&nbsp;&nbsp;Astrophysique&nbsp;&nbsp;Astronomie&nbsp;&nbsp;Vie et Terre&nbsp;&nbsp;Archéologie✕Encyclopédie✕Forum &#128172;✕
+		
+	
+	Rechercher &#128269;
+	
+
+  
+  	
+
+	
+		Les bloqueurs de pubs mettent en péril la gratuité de ce site.
+		Autorisez les pubs sur Techno-Science.net pour nous soutenir.
+		
+		▶ Poursuivre quand même la lecture ◀
+	
+
+  	
+		
+	    
+	    
+
+	Physique
+
+
+	Lumière - Définition
+
+	
+	Source: Wikipédia sous licence CC-BY-SA 3.0.
+						La liste des auteurs est disponible ici.
+	
+
+	
+		
+		
+	
+		
+			<ins class="adsbygoogle"
+			     style="display:block; height:0px"
+			     data-ad-client="ca-pub-6990544335324031"
+			     data-ad-slot="4492524291"
+			     data-ad-format="auto"
+			     data-full-width-responsive="false">
+			
+			     (adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+
+ La lumière désigne les ondes électromagnétiques visibles par l'œil humain, c'est-à-dire comprises dans des longueurs d'onde de 0,38 à 0,78 micron (380 nm à 780 nm ; le symbole nm désigne le nanomètre). La lumière est intimement liée à la notion de couleur. C'est Newton qui propose pour la première fois au XVIIe siècle un cercle des couleurs chromatiques basé sur la décomposition de la lumière blanche.
+
+ Outre la lumière visible, par extension, on appelle parfois " lumière " d'autres ondes électromagnétiques, telles que celles situées dans les domaines infrarouge et ultraviolet.
+
+ Même si certaines formes de vies, au fond des océans peuvent s'en passer, la lumière du soleil est la première source d'énergie des écosystèmes terrestres, via la photosynthèse. Elle contrôle donc les cycles écogéobiologiques et le stockage fossile du carbone tels qu'ils existent de puis 3,7 milliards d'années. Elle joue aussi un rôle important en entretenant la couche d'ozone et en limitant la pullulation des microbes sensibles aux ultra-violets et/ou à l'infrarouge. Cette sensibilité est utilisée par certaines techniques de stérilisation[1]. Elle contribue à certaines formes de pollution dites " photochimiques " (ozone troposphérique, oxydes d'azote) et inversement à dégrader (photodégradation) certains polluants de l'air, du sol superficiel ou de l'eau (certains pesticides présents dans l'air par exemple. C'est encore la lumière qui via la durée du jour corrige les horloges biologiques animales, par la production de mélatonine qui est une hormone uniquement produite la nuit, chez la plupart des animaux. Chez les plantes, la durée du jour contrôle aussi, avec la température, l'apparition des bourgeons, feuilles, fleurs, ou l'ouverture ou la fermeture de fleurs. C'est pourquoi la présence de lumière artificielle dans l'Environnement nocturne peut altérer le comportement ou les fonctions de certaines espèces ou des écosystèmes ; phénomène généralement décrit sous le nom de " Pollution lumineuse "
+
+
+ Historique : la lumière et les observations en astronomie
+
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+ Les observations astronomiques ont été réalisées depuis que l'homme existe : on aperçut des lumières dans le ciel : le Soleil, la Lune, des étoiles au firmament, des étoiles filantes… et l'on se rendit compte que cela gouvernait le cycle des journées (alternance jour / nuit), et le cycle des saisons (durée du jour tout au long de l'année). Le feu produisait également de la lumière.
+
+ Dans l'Antiquité, on observa les cycles astronomiques, et l'on comprit les cycles provenant de la Lune (semaine). Dans la Grèce Antique, les philosophes de l'École de Milet croyaient encore que la Terre était plate, mais à partir de Parménide , philosophe présocratique, on admit que la Terre était sphérique. Cependant, dans certains livres d'Aristote, que l'on appela ultérieurement, au XIIIe siècle environ, métaphysique (méta = au-delà, donc ce qui ce qui est au-delà de la physis, qui signifie nature en grec ancien), les théories astronomiques partageaient le monde en un monde sublunaire, imparfait, et un monde supralunaire supposé être parfait. Dans cette représentation, le feu (Soleil) était l'un des quatre éléments fondamentaux, puisque l'on se rendit compte que la combustion produisait une lumière comparable au phénomène observé en provenance du Soleil ou des étoiles. La Terre était au centre de l'univers (géocentrisme), représentation que reprit Ptolémée au IIe siècle.
+
+ C'est ainsi que, dans la Grèce antique, l'une des civilisations les plus évoluées de l'Antiquité, on se représentait le monde. Il faut évidemment rappeler que les Grecs de l'Antiquité, pas plus Platon qu'Aristote qui lui était postérieur, puisqu'il fut élève de Platon, ne disposaient des apports techniques du XVIIe siècle, et a fortiori de notre époque. Seul l'astronome Aristarque de Samos, un peu postérieur à nos deux grands philosophes grecs, comprit que la Terre tournait autour du Soleil (héliocentrisme).
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+
+ L'astronomie moderne apparaît lorsque Galilée, après l'invention de la lunette d'approche (probablement au début du XVIIe siècle par les Hollandais), en améliore les performances pour l'utiliser en astronomie (voir lunette astronomique). Il découvre des phénomènes qui n'étaient pas prévus par les théories existantes (taches solaires, montagnes sur la Lune, anneaux de Saturne, ...). Assez rapidement, on développe des télescopes, qui confirment les mouvement respectifs de la Terre et du Soleil, qui ne pouvaient s'expliquer, en grande partie, qu'avec des formulations mathématiques :
+
+
+trajectoire : lois de Kepler,
+mouvement : Galilée et le mouvement uniformément accéléré,
+force : Newton et la force de gravitation.
+
+ Ces théories héliocentriques bouleversent la représentation du monde au XVIIIe siècle, car les notions de mouvement et de force étaient habituellement auparavant employées avec un sens éthique.
+
+ En 1670, Ole Christensen Rømer mesure indirectement la vitesse de la lumière en observant les décalages de l'orbite de Io par rapport aux prévisions. Plus tard en 1849, Hippolyte Fizeau mesure directement la vitesse de la lumière avec un faisceau réfléchi par une roue dentée réfléchissante.
+
+ Comportement ondulatoire de la lumière
+En 1801, Thomas Young expérimente la diffraction et les interférences de la lumière, mais il faudra attendre près d'un siècle pour que James Clerk Maxwell explique ce phénomène : il publie en 1873 un traité sur les ondes électromagnétiques, définissant la lumière comme une onde qui se propage sous la forme d'un rayonnement, le spectre de ce rayonnement n'étant qu'une partie de l'ensemble du rayonnement électromagnétique, beaucoup plus large : infrarouge, ultraviolet, ondes radio, rayons X... les équations de Maxwell définissant le rayonnement électromagnétique auront de nombreuses applications dès le XIXe siècle, et encore plus au XXe siècle (radio, télévision, informatique, satellites...).
+
+ La photographie permet aussi de fixer sur le papier les images obtenues par les télescopes, ce qui en rend la diffusion beaucoup plus aisée.
+
+ Comportement corpusculaire de la matière
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+En 1887, Heinrich Rudolf Hertz décrit l'effet photoélectrique. En 1900, Max Planck énonce la théorie du corps noir, puis Albert Einstein en 1905 pousse plus loin l'étude de l'effet photoélectrique et démontre que la lumière à un comportement corpusculaire. Il postule alors que la lumière est composée de photons.
+
+ La découverte de cette dualité onde-corpuscule de la lumière vaudra son Prix Nobel à Albert Einstein. C'est un des premiers pas de la science moderne dans le domaine de la mécanique quantique. En 1927, De Broglie le postule également pour des particules matérielles.
+
+ Quelques années plus tard, la Théorie quantique des champs appronfondit le concept de photon.
+
+ Au XXe siècle, on applique les théories électromagnétiques à l'observation astronomique : après la Seconde Guerre mondiale, on met au point des télescopes qui recueillent les ondes électromagnétiques dans le spectre radio, les radiotélescopes. Cela présentait l'avantage de permettre de découvrir de nouveaux objets célestes. Ainsi naquit la radioastronomie. On emploie aussi maintenant des télescopes spatiaux pour éviter la pollution atmosphérique.
+
+ De nos jours, les astronomes font moins d'" observations " à l'œil nu. Les astronomes amateurs continuent néanmoins d'observer le ciel avec des lunettes astronomiques, qui sont dans leur principe, équivalentes à celle qu'employa Galilée à partir de 1609.
+
+
+ Théories
+
+ La lumière, comme tout phénomène de déplacement, peut se concevoir comme une onde ou comme un flux de particules (appelées en l'occurrence photons).
+
+ Les lois de Maxwell, ou à une échelle plus humaine les lois de l'optique géométrique, décrivent bien le comportement de ces ondes. Cette description classique est tout à fait valide et très utilisée au sein de la communauté scientifique. Cependant, elle n'explique pas la quantification de l'énergie transportée par le rayonnement, phénomène observé et expliqué par Albert Einstein dès 1913 en postulant l'existence des photons.
+
+ Toutefois, la physique moderne considère que chacun de ces photons peut lui-même être considéré comme une onde (ce qu'on appelle la dualité onde-particule ou onde-corpuscule en mécanique quantique).
+
+
+Photons
+Perception des couleurs
+
+
+ Vitesse
+
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+ La vitesse de la lumière dans le vide, c (comme célérité), est une constante de la physique. C'est la vitesse maximale permise pour tout déplacement d'information ou d'un objet matériel par la théorie de la relativité. Cette propriété a été induite de l'expérience d'interférométrie de Michelson et Morley et a été clairement énoncée par Albert Einstein en 1905.
+
+ De ce fait, la vitesse de la lumière est exacte, car elle ne dépend pas d'une mesure (imprécise et susceptible de changement avec des progrès de mesure). D'autres unités sont définies à partir de la vitesse de la lumière (cf. infra). Ainsi, la vitesse de la lumière dans le vide est de 299 792 458 m/s.
+
+
+ Addition des vitesses et célérité
+ La loi d'addition des vitesses v' = V+v est à peu près vraie pour des vitesses faibles par rapport à la vitesse de la lumière.
+
+
+Du point de vue de la physique classique, un voyageur marchant dans un train a, par rapport au sol, une vitesse égale à celle du train plus (vectoriellement) sa propre vitesse de marche dans le train. Et l'on écrit d = (V+v) t = Vt +vt = la distance parcourue par le train + la distance parcourue dans le train = la distance parcourue par le voyageur par rapport au sol dans le temps t qui est classiquement le même dans le train et, ce qui implique la loi classique d'addition des vitesses.
+
+ Ceci n'est qu'une approximation, qui devient de moins en moins précise à mesure que la vitesse v considérée augmente.
+
+ Un photon va à la même vitesse c que ce soit par rapport au sol ou par rapport au train ! La loi V + c = c' est donc fausse dès lors que c = c' pour V différent de zéro. La loi d'addition des vitesses n'est qu'une approximation de la loi dite de transformation sur les vitesses de Lorentz (appelée parfois d'addition des vitesses, ou plus correctement loi de composition des vitesses).
+
+ Ce résultat est l'une des caractéristiques de la relativité restreinte ; la loi de composition des vitesses issue des transformations mathématiques de Lorentz donne à la limite des faibles vitesses (par rapport à la vitesse c) les mêmes résultats que les transformations de Galilée.
+
+
+ Dans les matériaux
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+ À noter : la vitesse de la lumière n'est pas toujours la même dans tous les milieux et dans toutes les conditions. Par exemple, les écarts de vitesse observés entre deux milieux peuvent être reliés au phénomène de réfraction qui permet le fonctionnement des lentilles.
+
+ Les écarts sont généralement assez faibles, ce qui a permis à beaucoup de gens de parler de vitesse de la lumière au lieu de vitesse de la lumière dans le vide. Cependant, dans certains cas, une onde lumineuse peut être considérablement ralentie. Les physiciens sont parvenus à ralentir la propagation lumineuse jusqu'à quelques mètres par seconde dans des cas extrêmes.
+
+
+ Dans le Système International (SI)
+ De nos jours, la plupart des unités du système international sont définies à partir de la célérité de la lumière.
+
+ Une vitesse étant le quotient d'une longueur par une durée, on peut donc définir une distance comme étant le produit d'une durée par une vitesse (en l'occurrence c), ou une durée comme la division d'une distance par c.
+
+
+Mesure de temps
+
+ La seconde est définie dans le système international par un phénomène lumineux : c'est la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133.
+
+
+Mesure de distance
+
+
+Le mètre, unité du système international de longueur. De nos jours, il est défini comme la distance parcourue par la lumière en 1/299 792 458 de seconde. Il s'agit là d'une définition conventionnelle, car toute évolution dans la définition de la seconde aurait une incidence directe sur la longueur du mètre. Avec la définition actuelle de la seconde, le mètre est donc égal à
+
+
+
+
+    
+    
+ fois la longueur d'onde de la radiation choisie.
+
+ On peut également dire que la vitesse de la lumière dans le vide est précisément 299 792 458 m·s-1 : il n'y a pas la moindre incertitude sur cette valeur, l'incertitude ne résidant que dans la définition de la seconde.
+
+
+Le mètre, avec ses sous-multiples ou multiples (millimètre, kilomètre), est très pratique pour mesurer les distances sur la Terre ; par contre pour les astronomes, il est trop court et peu adapté (puisque les astronomes n'observent pratiquement que de la lumière). En effet, la Lune, l'astre le plus proche de nous, est à 380 000 000 mètres de nous.
+
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+ Le Soleil, l'étoile la plus proche, est à 150 000 000 000 mètres. Ce n'est pas très pratique !!
+
+ Avec le principe décrit précédemment (distance = c x durée), on définit l'année-lumière comme la distance que la lumière parcourt en 1 an. Ainsi le Soleil n'est qu'à 8,32 minutes-lumière de nous ; et la Lune est seulement à un peu plus d'1 seconde-lumière. L'année-lumière vaut environ 10 000 000 000 000 000 de mètres (10 millions de milliards de mètres, soit 1016 m).
+
+
+ En pratique
+
+
+ Monochromatisme et polychromatisme
+ La lumière est constituée d'ondes électromagnétiques. De manière générale, une onde est caractérisée par sa longueur d'onde et sa phase. La longueur d'onde correspond à la couleur de la lumière. Ainsi, une lumière constituée d'ondes de la même longueur d'onde, est dite monochromatique. Si en plus toutes les ondes ont la même phase, alors la lumière est cohérente : c'est ce qui se passe dans un laser.
+
+
+ Mesure
+ En matière de mesure de la lumière, il importe de bien définir de quoi on parle
+
+
+l'unité de flux lumineux est le lumen = candela.stéradian. Une ampoule électrique courante (15 watts basse consommation ou 75 watts à incandescence classique) produit environ 1500 lumens.
+L'unité internationale d'intensité lumineuse est la candela.
+
+ La mesure de la lumière est compliquée par le fait qu'on s'intéresse, en pratique, à la lumière visible, alors que la perception humaine dépend de la longueur d'onde : Cf. luminance et chrominance.
+
+
+ Lumières célestes
+
+Le Soleil et plus généralement les étoiles produisent plus de rayonnement qu'ils n'en reçoivent,
+La Lune et plus généralement les petits corps célestes (les planètes et leurs satellites, les astéroïdes, les comètes, etc.), produisent moins de rayonnement qu'ils n'en reçoivent. Certaines planètes géantes (comme Jupiter ou Saturne) produisent un peu plus de rayonnement qu'ils n'en reçoivent, mais pas suffisamment pour être facilement visibles à l'œil nu depuis la terre. Dans les deux cas, ces corps sont lumineux par réflexion de la lumière du Soleil.
+Les étoiles filantes sont échauffées par la friction avec l'air et finissent par y brûler. Ce phénomène est source de lumière.
+
+
+ Lumières chimiques
+
+Certains organismes vivants:poissons, mollusques, lucioles et vers luisants, sont le siège de réactions chimiques productrices de lumières.
+Les chauffages intenses, donc les combustions en général, le feu, les feux-follets, produisent de la lumière :
+
+
+liquide : les lampes à huile, à pétrole, ou à gaz,
+solide : les bougies, chandelle (chandelier), cierge.
+
+
+ Lumières électriques
+
+
+
+    
+    
+
+
+
+Une diode
+
+
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+ Les lumières électriques sont les sources les plus courantes de lumière aujourd'hui : lampadaires, spots, phares, lampes-torches, etc., elles peuvent utiliser un phénomène de chauffage ou un phénomène quantique.
+
+ L'ampoule électrique (" lampe à incandescence ") a révolutionné la vie quotidienne. La source de lumière provient de l'incandescence d'un filament lumineux. Le tube fluorescent, la diode électroluminescente sont des lumières électriques, ainsi que le tube cathodique qui emploie la technique d'un bombardement d'électrons.
+
+
+ Lumières quantiques
+
+la fluorescence, les lasers, les lampes à vapeur de mercure ou de sodium, les plasmas tels que ceux produits par les éclairs dans les orages, produisent de la lumière issue de phénomènes quantiques au cœur des atomes : l'excitation des électrons ("pompage optique"), peut être obtenu par excitation, puis désexcitation de ces électrons, qui en retournant à leur niveau d'énergie habituel, émettent des photons (lumière).
+
+
+ Autres lumières
+
+La phosphorescence est une source naturelle de lumière, de faible intensité.
+Les étincelles sont le produit d'une intense friction sur certains matériaux.
+L'émission de lumière due au frottement, ou triboluminescence, n'est pas d'origine thermique et elle ne se produit qu'avec des isolants électriques.
+Certains animaux et champignons sont capables de produire une lumière froide d'origine biochimique: en particulier des animaux nocturnes tels que différentes espèces de lucioles; ou des animaux marins des grandes profondeurs; ainsi que, en surface, certaines espèces de plancton.
+
+
+ Vision humaine
+
+ Voir l'article détaillé : Œil
+
+
+ Phénomènes optiques
+
+
+Diffraction
+Diffusion
+Interférences
+Réflexion
+Réfraction
+Lentille gravitationnelle
+
+
+ Symbolisme de la lumière
+
+ La lumière semble avoir fait l'objet d'une interprétation symbolique dès que les hommes se sont mis à croire dans un au-delà. Depuis la possible déification du feu, devenu élément vital pour l'Homme préhistorique, puis l'un des quatre éléments de la philosophie de la Grèce antique, jusqu'à la théologie chrétienne de Dieu comme "lumière des lumières", l'illumination étant présente dans de nombreuses religions, on n'a eu de cesse que de lui accorder des origines et vertus surnaturelles.
+
+ Ses symboles sont universels et se déclinent sous des formes multiples :
+
+
+le cercle solaire (symbole d'Aton, dieu de l'Egypte antique, rosace "rayonnante" des cathédrales gothiques),
+la flèche ou le triangle (à l'image du rayon solaire ou rapprochant l'homme du ciel comme pour les pyramides aztèques et égyptiennes).
+
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+						style="display:inline-block;width:300px;height:250px"
+						data-ad-client="ca-pub-6990544335324031"
+						data-ad-slot="7286811235">
+			
+						(adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+ Les philosophes ont utilisé cette symbolique ; Ainsi, Descartes affirmait-il dans les Principes de la philosophie (1644), que l'on pouvait s'appuyer sur les lumières naturelles, sans les lumières de la foi, ce même Descartes s'étant intéressé de près à l'optique (la Dioptrique, 1637). C'était à l'époque où l'on a admis que la Terre tournait autour du Soleil (voir Révolution copernicienne, ce qui a constitué un bouleversement dans les représentations du monde, et consécutivement dans les représentations sociales.
+
+ L'expression " Lumières " pour désigner le courant philosophique européen (en particulier en France) qui a dérivé de cette conception plutôt mécaniste du monde et de l'univers a également donné son nom au siècle pendant lequel cette représentation sociale s'est mise en place, communément appelé le siècle des Lumières, et que Michel Foucault analyse dans les mots et les choses (voir aussi épistémè).
+
+ Georges Duby, dans le temps des cathédrales (1975), décrit également, sous l'angle artistique, la théologie de la Lumière, initiée à la basilique Saint-Denis au XIIe siècle, qui est à l'origine de l'architecture dite gothique (mot apparu au XIXe siècle et de l'émergence des cathédrales dites gothiques dans toute l'Europe.
+Selon la théologie de la lumière, la lumière du ciel passe à travers les vitraux, où sont représentés des scènes de l'Ancien Testament et du Nouveau Testament, illustration imagée de notre catéchisme moderne, pour des populations qui étaient encore peu cultivées dans leur ensemble.
+
+<!--lazy
+	
+		
+			<ins class="adsbygoogle"
+			     style="display:block"
+			     data-ad-format="autorelaxed"
+			     data-ad-client="ca-pub-6990544335324031"
+			     data-ad-slot="5195528847">
+			
+			     (adsbygoogle = window.adsbygoogle || []).push({});
+			
+		
+	
+lazy-->
+
+	
+
+
+	
+	
+
+
+
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🚀 Inédit: un remorqueur spatial, lancé d'un avion, sauvera l'observatoire Swift
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	💊 Un complément alimentaire populaire pourrait raccourcir la vie des hommes
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	💪 La masse musculaire et la graisse viscérale influencent le vieillissement du cerveau
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🚀 Alors que la NASA économise, l'ESA adopte un budget record et se militarise
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🛰️ Ondes gravitationnelles: la construction de LISA est lancée !
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌿 Un remède traditionnel chinois contre l'infertilité testé en laboratoire: ça fonctionne !
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⏳ Les hommes vivent moins longtemps que les femmes, à cause de... cet aliment ?
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🚀 Embouteillage en orbite: la Station spatiale internationale accueille huit vaisseaux simultanément
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	2🔭 Voici ce qui pourrait être la première observation directe de matière noire !
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌡️ D'où viennent ces erreurs systématiques de température dans les modèles de climat ?
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	💥 Observation, dans un temps ralenti, d'une étoile massive déchirée par un trou noir
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🐊 Découverte d'un crocodile préhistorique, plus ancien encore que les dinosaures
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	5🔦 Einstein avait-il tort ? Une expérience sur la vitesse de la lumière livre ses résultats
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	💋 Le baiser était déjà pratiqué il y a 20 millions d'années
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🦎 Ces caméléons ont trompé les scientifiques pendant des décennies
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	💡 Et si nos muqueuses détenaient une clé pour freiner le VIH ?
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⚫ Observation de "trous noirs de deuxième génération"
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🏛️ Un structure monumentale des premiers romains découverte à 18 km de Rome
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	1💧 Améliorer considérablement l'efficacité de son moteur diesel avec juste... de l'eau ?
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🩺 Des chercheurs établissent un lien entre consommation précoce de cannabis et mauvaise santé
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⚫ Confirmation d'une prédiction d'Hawking sur la surface des trous noirs
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🧪 Quand l'intelligence artificielle apprend à flairer des molécules inédites
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🐺 Une étude révèle la grande disproportion d'ADN de loups dans les différentes races de chiens
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🚨 Des fraudes généralisées dans les publications mathématiques
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🏛️ Et si c'était l'urbanisation qui a causé le déclin maya ?
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌍 L'énigme de la vie sur Terre cachée dans ses profondeurs
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	💧 Eau contaminée: quand les intuitions empoisonnent
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌟 Des taches sur une étoile distante montrent un désalignement orbital majeur
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	1🧄 Étude: l'ail aussi efficace que les meilleurs antiseptiques
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌊 Des vagues gigantesques de 35 mètres de haut observées depuis l'espace
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⚛️ La gravité classique cachée sous l'intrication quantique ?
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🦈 Découverte d'un nouveau requin bioluminescent en Australie
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌍 Une faille en Turquie s'écarte au lieu de glisser: une découverte majeure
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⚫ Des scientifiques résolvent l'énigme d'une fusion "impossible" de trous noirs "interdits"
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌱 Incroyable: ce végétal a survécu à plusieurs mois de vide spatial
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	1🌟 Première observation d'une éjection de masse coronale sur une autre étoile
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🍕 Quels sont les produits ultra-transformés les plus nocifs pour votre santé mentale ?
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⚽ Comment votre cerveau réagit pendant un match de foot ?
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌟 Grace à l'IA, une équipe simule les 100 milliards d'étoiles de notre galaxie une par une
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🕰️ Quantique: lire l'heure est bien plus coûteux que faire tourner l'horloge
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🤔 Ni introverti ni extraverti ? Vous êtes peut-être ambiverti !
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🔭 Un paradoxe astronomique au cœur de notre Galaxie enfin résolu ?
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🕰️ ‍‍‍L'influence méconnue de nos relations sociales sur notre longévité
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	☄️ 3I/ATLAS: les panaches spectaculaires de l'objet interstellaire
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🌍 Un énigme du développement de la vie sur Terre résolue
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	✈️ Faire voler les avions actuels avec nos déchets ménagers, c'est possible !
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🐾 Chiens, chats, baleines... les animaux développent nos maladies, mais pourquoi ?
+  	
+	
+	
+
+<!--lazy
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-format="fluid"
+		 data-ad-layout-key="-h1+16-52-fv+1bz"
+	     data-ad-client="ca-pub-6990544335324031"
+	     data-ad-slot="3794245011">
+	
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	
+lazy-->
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	⚛️ Etoiles cannibales, étoiles de bosons... des astrophysiciens décrivent un univers tellement différent
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🚨 Pandémie alarmante de cancer colorectal chez les jeunes adultes
+  	
+	
+	
+
+
+	
+
+	
+	  
+
+    
+    
+
+	
+
+	
+  	🚢 La Chine dévoile un cargo nucléaire, pouvant rester des années sans ravitaillement
+  	
+	
+	
+
+
+
+
+	
+
+	    
+
+	(async () => {
+		if(htmlembarqueSuggestionNewshtml = getResource('embarqueSuggestionNewshtml')) {
+			document.getElementById('embarqueSuggestionNewshtml').outerHTML = htmlembarqueSuggestionNewshtml;
+			
+			console.timeEnd('embarqueSuggestionNewshtml STORAGE');
+			reloadScripts();
+		}
+	})();
+
+	  
+  
+  
+Page générée en 0.337 seconde(s) - site hébergé chez Contabo
+Ce site fait l'objet d'une déclaration à la CNIL sous le numéro de dossier 1037632
+A propos - Informations légales
+Version anglaise | Version allemande | Version espagnole | Version portugaise
+
+
+<!--lazy
+
+	window.impactifyTag = window.impactifyTag || [];
+	impactifyTag.push({
+		"appId": "techno-science.net",
+		"format": "screen",
+		"style": "impact",
+		"onNoAd": function(){}
+	});
+	(function(d, s, id) {
+		var js, ijs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+	    js.async = true; // Rend l'exécution asynchrone
+		js.src = 'https://ad.impactify.io/static/ad/tag.js';
+		ijs.parentNode.insertBefore(js, ijs);
+	}(document, 'script', 'impactify-sdk'));
+
+
+lazy-->
+
+
+	(async () => {
+		if(htmlembarqueScriptNbCommentaireshtml = getResource('embarqueScriptNbCommentaireshtml')) {
+			document.getElementById('embarqueScriptNbCommentaireshtml').outerHTML = htmlembarqueScriptNbCommentaireshtml;
+			
+			console.timeEnd('embarqueScriptNbCommentaireshtml STORAGE');
+			reloadScripts();
+		}
+	})();
+
+
+
+<!--
+caches set:
+9df0f234b2bbff93a3ce5740ed795f09: moduleGlossaire 0.271s
+caches hit:
+cd7b7503fc0b7f0cd9a7d8926167b6e3: selectSousCategoriesDefinitions 0s
+f4c9c3fcd8db5da72ed70985d5368747: moduleListeNewsRecentes 0s
+0b751faf41ed7389a00d18a4c76d19c8: selectCategories 0s
+3.02 | 2.54 | 2.06 | 2/1251 | 1743449 -- 194.163.136.68 -- 2025-12-05 19:02:10
+-->

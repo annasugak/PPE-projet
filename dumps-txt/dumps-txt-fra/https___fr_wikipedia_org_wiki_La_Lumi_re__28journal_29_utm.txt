@@ -1,0 +1,904 @@
+
+
+
+
+La Lumière (journal) — Wikipédia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )frwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"f58a1f4e-312a-40c1-8d7e-9a319a7b2687","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"La_Lumière_(journal)","wgTitle":"La Lumière (journal)","wgCurRevisionId":219752393,"wgRevisionId":219752393,"wgArticleId":9007279,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article utilisant une Infobox","Page utilisant P856","Page utilisant un modèle Bases inactif","Article utilisant le modèle Dictionnaires inactif","Page utilisant le modèle Autorité inactif","Portail:Presse écrite/Articles liés","Portail:Médias/Articles liés","Portail:Photographie/Articles liés","Portail:Arts/Articles liés","Portail:France au XIXe siècle/Articles liés","Portail:France/Articles liés","Portail:Europe/Articles liés","Portail:XIXe siècle/Articles liés","Portail:Époque contemporaine/Articles liés","Portail:Histoire/Articles liés","Titre de presse créé en 1851","Titre de presse disparu en 1867","Presse hebdomadaire disparue en France","Histoire de la photographie","Presse consacrée à la photographie","Photographie en France"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"La_Lumière_(journal)","wgRelevantArticleId":9007279,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgWMEPageLengthBucket":2,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q16763951","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":true,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ArchiveLinks","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aller au contenu
+
+	
+		
+			
+				
+
+	
+	
+
+Menu principal
+	
+	
+
+
+				
+		
+
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	Menu principal
+	déplacer vers la barre latérale
+	masquer
+
+
+	
+
+	
+		Navigation
+	
+	
+		
+		
+			
+			Page d’accueilPortails thématiquesArticle au hasardContact
+		
+		
+	
+
+
+	
+
+	
+		Contribuer
+	
+	
+		
+		
+			
+			Débuter sur WikipédiaAideCommunautéPages spécialesModifications récentes
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+Rechercher
+	
+	
+		
+			
+				
+					
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Rechercher sur Wikipédia" aria-label="Rechercher sur Wikipédia" autocapitalize="sentences" spellcheck="false" title="Rechercher sur Wikipédia [f]" accesskey="f" id="searchInput"
+							>
+						
+					
+					
+				
+				Rechercher
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+Apparence
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			Faire un don
+
+Créer un compte
+
+Se connecter
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+Outils personnels
+	
+	
+
+
+		
+
+	
+		
+		
+			
+			Faire un don Créer un compte Se connecter
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	Sommaire
+	déplacer vers la barre latérale
+	masquer
+
+
+
+	
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			
+				Début
+			
+		
+		<li id="toc-Histoire_du_support"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				1
+				Histoire du support
+			
+		
+		
+		
+		
+	
+	<li id="toc-Notes_et_références"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				2
+				Notes et références
+			
+		
+		
+		
+		
+	
+	<li id="toc-Bibliographie"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				3
+				Bibliographie
+			
+		
+		
+		
+		
+	
+	<li id="toc-Articles_connexes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				4
+				Articles connexes
+			
+		
+		
+		
+		
+	
+	<li id="toc-Liens_externes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		
+			
+				5
+				Liens externes
+			
+		
+		
+		
+		
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+Basculer la table des matières
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					La Lumière (journal)
+							
+
+	
+	
+
+2 langues
+	
+	
+
+		
+			
+			
+				
+				ItalianoLëtzebuergesch
+			
+			Modifier les liens
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleDiscussion
+		
+		
+	
+
+
+								
+
+	
+	français
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			LireModifierModifier le codeVoir l’historique
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Outils
+	
+	
+
+
+									
+						
+
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	Outils
+	déplacer vers la barre latérale
+	masquer
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			LireModifierModifier le codeVoir l’historique
+		
+		
+	
+
+
+
+	
+		Général
+	
+	
+		
+		
+			
+			Pages liéesSuivi des pages liéesTéléverser un fichierLien permanentInformations sur la pageCiter cette pageObtenir l&#039;URL raccourcieTélécharger le code QR
+		
+		
+	
+
+
+
+	
+		Imprimer / exporter
+	
+	
+		
+		
+			
+			Créer un livreTélécharger comme PDFVersion imprimable
+		
+		
+	
+
+
+
+	
+		Dans d’autres projets
+	
+	
+		
+		
+			
+			Élément Wikidata
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	Apparence
+	déplacer vers la barre latérale
+	masquer
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						Un article de Wikipédia, l&#039;encyclopédie libre.
+					
+					
+					
+					
+					
+
+
+Pour les articles homonymes, voir Lumière (homonymie).
+
+
+
+
+
+
+La Lumière.mw-parser-output .entete.presse{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Picto_infobox_newspaper.png")}
+
+
+ Une du premier numéro.
+   
+   
+
+
+
+
+
+Langue
+
+Français
+
+
+
+Périodicité
+
+Hebdomadaire
+
+
+
+
+
+Prix au numéro
+
+50 centimes
+
+
+
+
+
+Date de fondation
+
+9 février 1851
+
+
+
+Date du dernier numéro
+
+1867
+
+
+
+
+Ville d’édition
+
+Paris
+
+
+
+
+
+
+Directeur de publication
+
+Benito R. de Monfort, Marc Antoine Gaudin
+
+
+
+
+
+
+ISSN
+
+1954-6343
+
+
+
+
+
+
+
+
+
+modifier&#160;
+
+
+La Lumière est une publication française fondée à Paris en 1851 et disparue en 1867. Elle fut à ses débuts l'organe de presse de la Société héliographique et le premier périodique consacré aux expérimentations photographiques.
+
+
+Histoire du support[modifier | modifier le code]
+En janvier 1851 est fondée à Paris la Société héliographique dont le but premier est «&#160;par l'association, de hâter les perfectionnements de la photographie&#160;».
+Membre fondateur du bureau, Benito R. de Monfort s'empresse de publier le 9 février un hebdomadaire de 4 pages format journal dans les pages duquel il livre les statuts de la Société, revient sur l'invention de Nicéphore Niépce et annonce les activités à venir de l'association.
+Le siège est situé au 15 rue de l'Arcade soit dans les murs même de la Société héliographique, un immeuble qui appartient à Monfort. C'est à cette adresse que Roger Fenton se rendit lorsqu'il vint à Paris rencontrer les membres de la Société héliographiques dont il laissa une description assez minutieuse, révélant que «&#160;l'appartement, disposant de cinq pièces, ouvrant sur une terrasse spacieuse avec un excellent éclairage, est dédié aux fins de la société. Une salle est entièrement occupée (...) avec des échantillons (...), la plupart des métaux, une autre est adaptée pour le laboratoire, avec des rideaux jaunes abritant de la lumière... Au rez-de-chaussée, M. [Louis] Puech a ouvert une boutique-laboratoire, dédiée à la préparation et à la vente de matériel photographique&#160;»&#91;1&#93;.
+Sous-titré «&#160;journal non politique hebdomadaire, beaux-arts, héliographie, sciences&#160;», La Lumière eut pour cette première formule une existence assez courte puisque seulement 38 numéros sortirent des presses jusqu’au 29 octobre 1851. Durant cette période, Monfort s'entoure de François-Auguste Renard (1806-1890), un élève d'Hippolyte Bayard nommé secrétaire de rédaction, et de Jules-Claude Ziegler, principal rédacteur. Il y eut très peu d'illustrations (au moins deux gravures) pour un prix relativement élevé. La Lumière possède un correspondant à Londres nommé Charles Durand Gardissal.
+Dans la livraison du 11 mai, un article met en avant des vitraux héliographiques exposés lors de la Grande Exposition de Londres, tandis que certains philanthropes américains commencent par ailleurs à proposer des prix pour récompenser d'éventuelles avancées techniques.
+La majeure partie des savants intéressés par ces questions photographiques contribuent au journal. Des encarts publicitaires vantent les procédés daguerréotypes de Charles Chevalier, Lerebours et Secrétan, ou les produits chimiques de Véron et Fontaine,&#160;etc.
+En octobre, Monfort revend à Alexis Gaudin (1816-1894) son journal et part fonder Cosmos en mai 1852, un hebdomadaire consacré aux progrès scientifiques, embarquant avec lui une partie de la rédaction.
+Une deuxième formule sort le 16 novembre 1851, sous-titrée cette fois «&#160;revue de la photographie, beaux-arts, héliographie, sciences&#160;». La direction est reprise donc par Alexis Gaudin, spécialisé dans l'édition de vues stéréoscopiques, qui est le frère du chimiste Marc Antoine Gaudin, lui-même devenant en 1864 directeur de publication. La parution est désormais bimensuelle mais le prix reste inchangé. Alexis Gaudin s'entoure à la rédaction de son propre frère (qui est «&#160;calculateur du bureau des longitudes&#160;»), du jeune physicien italien Gilberto Govi (1826-1889) et d'Ernest Lacan (1828-1879) qui est nommé par la suite rédacteur en chef. Cette formule va durer jusqu'en 1867, devenant peu à peu une vitrine pour les frères Gaudin, puisque Charles (1825-1905), le troisième membre de cette fratrie, finit par devenir le propriétaire du journal, mettant en avant sa boutique parisienne de ventes et de productions photographiques située 9 rue de la Perle, tout en continuant à exposer les évolutions techniques des différents procédés chimico-photographiques.
+Une édition en fac-similé des dix premières années (1851 à 1860) de la revue est publiée en 1995 aux éditions Jeanne Laffitte&#91;2&#93;,&#91;3&#93;,&#91;4&#93;.
+
+Notes et références[modifier | modifier le code]
+
+↑ (en) André Jammes et Eugenia Parry Janis, The Art of French Calotype: With a Critical Dictionary of Photographers, 1845-1870, Princeton, Princeton University Press, 1982  (ISBN&#160;978-0691040028).
+
+↑ La Lumière &#160;: beaux-arts, héliographie, sciences (préf.&#160;Gilbert Beaugé), Marseille, Jeanne Laffitte, 1995, 2 vol. (ISBN&#160;2-86276-290-3).
+
+↑ Françoise Denoyelle, «&#160;"La Lumière (Sous la direction d'Alexis Gaudin et Ernest Lacan)" [compte-rendu]&#160;», Réseaux, vol.&#160;14, no&#160;76 «&#160;Le temps de l'événement II&#160;»,&#8206; 1996, p.&#160;185-186 (lire en ligne ).
+
+↑ Emmanuel Hermange, «&#160;La Lumière (1851-1860), intr. Gilbert Beaugé, Marseille, Jeanne Laffitte, 1996, 2 vol., 2160 p., ill. NB, ind., 3600 F. [compte-rendu]&#160;», Études photographiques, no&#160;2,&#8206; mai 1997 (lire en ligne ).
+
+
+
+Bibliographie[modifier | modifier le code]
+André Gunthert, «&#160;L’institution du photographique. Le roman de la Société héliographique&#160;», Études photographiques, no&#160;12 «&#160;L'«&#160;âge d'or&#160;» revisité / Alentours de Bayard&#160;»,&#8206; novembre 2002, p.&#160;37-63.
+Emmanuel Hermange, «&#160;La Lumière et l'invention de la critique photographique (1851-1860)&#160;», Études photographiques, no&#160;1,&#8206; 1996 (lire en ligne ).
+Ève Lepaon, «&#160;"L’art ne ferait pas mieux". Corrélations entre photographie et peinture dans La Lumière&#160;», Études photographiques, no&#160;31,&#8206; printemps 2014 (lire en ligne ).
+Articles connexes[modifier | modifier le code]
+Société française de photographie
+Société héliographique
+Liens externes[modifier | modifier le code]
+.mw-parser-output .autres-projets>.titre{text-align:center;margin:0.2em 0}.mw-parser-output .autres-projets>ul{margin:0;padding:0}.mw-parser-output .autres-projets>ul>li{list-style:none;margin:0.2em 0;text-indent:0;padding-left:24px;min-height:20px;text-align:left;display:block}.mw-parser-output .autres-projets>ul>li>a{font-style:italic}@media(max-width:720px){.mw-parser-output .autres-projets{float:none}}
+Sur les autres projets Wikimedia&#160;:
+
+La Lumière (journal), sur Wikimedia Commons
+
+
+
+
+Site officiel
+
+
+
+Années complètes de publication 1851-1867 sur Gallica.
+ Portail de la presse écrite   Portail de la photographie   Portail de la France au XIXe&#160;siècle                   
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.main‐54888f5cff‐jcsfr
+Cached time: 20251129005952
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.389 seconds
+Real time usage: 0.593 seconds
+Preprocessor visited node count: 1904/1000000
+Revision size: 8600/2097152 bytes
+Post‐expand include size: 35246/2097152 bytes
+Template argument size: 3126/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6489/5000000 bytes
+Lua time usage: 0.174/10.000 seconds
+Lua memory usage: 5823174/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  434.315      1 -total
+ 31.19%  135.471      1 Modèle:Liens
+ 20.62%   89.546      1 Modèle:Infobox_Presse_écrite
+ 16.67%   72.407      1 Modèle:Références
+  8.60%   37.369      1 Modèle:En
+  8.30%   36.053      1 Modèle:Portail
+  8.25%   35.810      1 Modèle:Indication_de_langue
+  7.19%   31.208      1 Modèle:Site_officiel
+  6.88%   29.867      1 Modèle:Homonymes
+  6.74%   29.288     23 Modèle:Infobox/Ligne_mixte_optionnelle
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:9007279:|#|:idhash:canonical and timestamp 20251129005952 and revision id 219752393. Rendering was triggered because: api-parse
+ -->
+
+Ce document provient de «&#160;https://fr.wikipedia.org/w/index.php?title=La_Lumière_(journal)&amp;oldid=219752393&#160;».
+					Catégories : Titre de presse créé en 1851Titre de presse disparu en 1867Presse hebdomadaire disparue en FranceHistoire de la photographiePresse consacrée à la photographiePhotographie en FranceCatégories cachées : Article utilisant une InfoboxPage utilisant P856Page utilisant un modèle Bases inactifArticle utilisant le modèle Dictionnaires inactifPage utilisant le modèle Autorité inactifPortail:Presse écrite/Articles liésPortail:Médias/Articles liésPortail:Photographie/Articles liésPortail:Arts/Articles liésPortail:France au XIXe siècle/Articles liésPortail:France/Articles liésPortail:Europe/Articles liésPortail:XIXe siècle/Articles liésPortail:Époque contemporaine/Articles liésPortail:Histoire/Articles liés
+				
+			
+			
+		
+		
+			
+
+	
+	 La dernière modification de cette page a été faite le 25 octobre 2024 à 21:11.
+	Droit d'auteur&#160;: les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions&#160;; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+
+
+	
+	Politique de confidentialité
+	À propos de Wikipédia
+	Avertissements
+	Contact
+	Code de conduite
+	Développeurs
+	Statistiques
+	Déclaration sur les témoins (cookies)
+	Version mobile
+
+
+	
+	
+	
+
+
+
+
+		
+	 
+ 
+
+	
+		
+			
+				
+
+Rechercher
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Rechercher sur Wikipédia">
+								
+							
+							
+						
+						Rechercher
+					
+				
+			
+		
+		
+				
+						
+					
+						
+						
+
+Basculer la table des matières
+						
+						
+					
+						
+						
+					
+						
+					
+			
+				La Lumière (journal)
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+2 langues
+			
+			
+
+Ajouter un sujet
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5c5cb4f54-nkmgs","wgBackendResponseTime":120,"wgPageParseReport":{"limitreport":{"cputime":"0.389","walltime":"0.593","ppvisitednodes":{"value":1904,"limit":1000000},"revisionsize":{"value":8600,"limit":2097152},"postexpandincludesize":{"value":35246,"limit":2097152},"templateargumentsize":{"value":3126,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6489,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  434.315      1 -total"," 31.19%  135.471      1 Modèle:Liens"," 20.62%   89.546      1 Modèle:Infobox_Presse_écrite"," 16.67%   72.407      1 Modèle:Références","  8.60%   37.369      1 Modèle:En","  8.30%   36.053      1 Modèle:Portail","  8.25%   35.810      1 Modèle:Indication_de_langue","  7.19%   31.208      1 Modèle:Site_officiel","  6.88%   29.867      1 Modèle:Homonymes","  6.74%   29.288     23 Modèle:Infobox/Ligne_mixte_optionnelle"]},"scribunto":{"limitreport-timeusage":{"value":"0.174","limit":"10.000"},"limitreport-memusage":{"value":5823174,"limit":52428800}},"cachereport":{"origin":"mw-api-int.codfw.main-54888f5cff-jcsfr","timestamp":"20251129005952","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"La Lumi\u00e8re (journal)","url":"https:\/\/fr.wikipedia.org\/wiki\/La_Lumi%C3%A8re_(journal)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16763951","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16763951","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Fondation Wikimedia, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-04-08T12:13:54Z","dateModified":"2024-10-25T20:11:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/46\/La_Lumi%C3%A8re_9_f%C3%A9vrier_1851.jpg","headline":"ancien journal fran\u00e7ais (1851-1867)"}
+
+
