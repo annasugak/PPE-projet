@@ -1,0 +1,1296 @@
+* [25]1 Electromagnetic spectrum and visible light
+
+
+* [26]2 Speed of light
+
+
+* [30]4 Light sources
+
+
+* [32]6 Light pressure
+
+
+* [33]7 Historical theories about light, in chronological order
+
+
+(BUTTON) Toggle Historical theories about light, in chronological
+
+
+* [42]8 Use for light on Earth
+
+
+Light
+
+
+For other uses, see [253]Light (disambiguation). "Visible light"
+
+
+redirects here. For other uses, see [254]Visible light
+
+
+[256]prism [257]dispersing a beam of white light. The longer
+
+
+* Light
+
+
+Light, visible light, or visible radiation is [386]electromagnetic
+
+
+eye.^[389][1]^[390][2] Visible light spans the [391]visible spectrum
+
+
+light" may refer more broadly to
+
+
+[406]microwaves and [407]radio waves are also light. This is why
+
+
+visible radiation is commonly termed visible light.^[408][7]^[409][8]
+
+
+The primary properties of light are [410]intensity, propagation
+
+
+Single, massless elementary particles, or [417]quanta, of light called
+
+
+light can be understood using [419]geometrical optics. [420]Quantum
+
+
+The main source of natural light on Earth is the [422]Sun.
+
+
+Historically, another important source of light for humans has been
+
+
+the development of [425]electric lights and [426]power systems,
+
+
+electric lighting has effectively replaced firelight.
+
+
+Electromagnetic spectrum and visible light
+
+
+lighted. The bottom graph (Visible
+
+
+[435]visible spectrum that we perceive as light, [436]ultraviolet,
+
+
+EMR in the visible light region consists of [443]quanta (called
+
+
+end of the visible light spectrum, EMR becomes invisible to humans
+
+
+Above the frequency range of visible light, ultraviolet light becomes
+
+
+that humans detect visible light.
+
+
+Various sources define visible light as narrowly as
+
+
+Plant growth is also affected by the colour spectrum of light, a
+
+
+Speed of light
+
+
+Main article: [461]Speed of light
+
+
+Beam of sun light inside the cavity of Rocca ill'Abissu at
+
+
+The speed of light in [464]vacuum is defined to be exactly
+
+
+of the speed of light in SI units results from the fact that the metre
+
+
+is now defined in terms of the speed of light. All forms of
+
+
+Different [465]physicists have attempted to measure the speed of light
+
+
+light in the seventeenth century. An early experiment to measure the
+
+
+speed of light was conducted by [467]Ole Rømer, a Danish physicist, in
+
+
+in the apparent period of Io's orbit, he calculated that light takes
+
+
+Another more accurate measurement of the speed of light was performed
+
+
+beam of light at a mirror several kilometers away. A rotating [475]cog
+
+
+wheel was placed in the path of the light beam as it traveled from the
+
+
+rate of rotation, Fizeau was able to calculate the speed of light as
+
+
+[478]Albert A. Michelson conducted experiments on the speed of light
+
+
+1926 using improved rotating mirrors to measure the time it took light
+
+
+The effective velocity of light in various transparent substances
+
+
+the speed of light in water is about 3/4 of that in vacuum.
+
+
+Two independent teams of physicists were said to bring light to a
+
+
+description of light being "stopped" in these experiments refers only
+
+
+to light being stored in the excited states of atoms, then re-emitted
+
+
+During the time it had "stopped", it had ceased to be light.
+
+
+The study of light and the interaction of light and [491]matter is
+
+
+works well when the wavelength of light is small in comparison to the
+
+
+A [498]transparent object allows light to [499]transmit or pass
+
+
+through. Conversely, an [500]opaque object does not allow light to
+
+
+light it receives. Most objects do not reflect or transmit light
+
+
+[503]specularly and to some degree [504]scatters the incoming light,
+
+
+objects, [509]translucent objects allow light to transmit through, but
+
+
+translucent objects also scatter certain wavelength of light via
+
+
+Refraction is the bending of light rays when passing through a surface
+
+
+When a beam of light crosses the boundary between a vacuum and another
+
+
+medium, or between two different media, the wavelength of the light
+
+
+changes, but the frequency remains constant. If the beam of light is
+
+
+light in order to change the apparent size of images. [522]Magnifying
+
+
+Light sources
+
+
+Lightsource" redirects here. For the solar energy developer named
+
+
+Lightsource, see [527]Lightsource Renewable Energy. For a particle
+
+
+accelerator used to generate X-rays, see [528]Synchrotron light source.
+
+
+Further information: [529]List of light sources
+
+
+There are many sources of light. A body at a given temperature emits a
+
+
+light, the radiation emitted by the [532]chromosphere
+
+
+example is [540]incandescent light bulbs, which emit only around 10% of
+
+
+their energy as visible light and the remainder as infrared. A common
+
+
+thermal light source in history is the glowing solid particles in
+
+
+Atoms emit and absorb light at characteristic energies. This produces
+
+
+light-emitting diodes, [550]gas
+
+
+light from the hot gas
+
+
+yellow light). Emission can also be [555]stimulated, as in a [556]laser
+
+
+Particles moving through a medium faster than the speed of light in
+
+
+example, [565]fireflies produce light by this means and boats moving
+
+
+Certain substances produce light when they are illuminated by more
+
+
+substances emit light slowly after excitation by more energetic
+
+
+lighting_at_night.jpg] [573]Hong Kong
+
+
+lighting
+
+
+Certain other mechanisms can produce light:
+
+
+When the concept of light is intended to include very-high-energy
+
+
+Light is measured with two main alternative sets of units:
+
+
+[583]radiometry consists of measurements of light power at all
+
+
+wavelengths, while [584]photometry measures light with wavelength
+
+
+lighting) intended for human use.
+
+
+in that they take into account how the human eye responds to light. The
+
+
+peaks at a wavelength of around 555 nm. Therefore, two sources of light
+
+
+which produce the same intensity (W/m^2) of visible light do not
+
+
+"bright" a light appears to be than raw intensity. They relate to raw
+
+
+Light pressure
+
+
+Light exerts physical pressure on objects in its path, a phenomenon
+
+
+easily explained by the particle nature of light: photons strike and
+
+
+transfer their momentum. Light pressure is equal to the power of the
+
+
+light beam divided by [595]c, the speed of light.  Due to the magnitude
+
+
+of c, the effect of light pressure is negligible for everyday objects.
+
+
+systems (NEMS), the effect of light pressure is more significant and
+
+
+exploiting light pressure to drive NEMS mechanisms and to flip
+
+
+area of research.^[602][27] At larger scales, light pressure can cause
+
+
+attributed to light pressure, this interpretation is incorrect; the
+
+
+light) motion caused by torque (though not
+
+
+enough for full rotation against friction) is directly caused by light
+
+
+pressure.^[612][32] As a consequence of light pressure, [613]Einstein
+
+
+Usually light momentum is aligned with its direction of motion.
+
+
+Historical theories about light, in chronological order
+
+
+properties of light. Euclid postulated that light travelled in straight
+
+
+Greek [624]atomists, wrote that "The light & heat of the sun; these are
+
+
+[626]refraction of light in his book Optics.^[627][37]
+
+
+on light. According to the Samkhya school, light is one of the five
+
+
+light as "the
+
+
+entities that are momentary flashes of light or energy. They viewed
+
+
+light as being an atomic entity equivalent to energy.^[639][38]
+
+
+[640]René Descartes (1596–1650) held that light was a [641]mechanical
+
+
+1637 he published a theory of the [648]refraction of light that
+
+
+assumed, incorrectly, that light travelled faster in a denser medium
+
+
+correct in assuming that light behaved like a wave and in concluding
+
+
+that refraction could be explained by the speed of light in different
+
+
+he clearly asserts that light is only a mechanical property of the
+
+
+luminous body and the transmitting medium, Descartes's theory of light
+
+
+Main article: [651]Corpuscular theory of light
+
+
+theory of light which was published posthumously in the 1660s.
+
+
+Hypothesis of Light of 1675 that light was composed of [656]corpuscles
+
+
+source. One of Newton's arguments against the wave nature of light was
+
+
+that waves were known to bend around obstacles, while light travelled
+
+
+[657]diffraction of light (which had been observed by [658]Francesco
+
+
+Grimaldi) by allowing that a light particle could create a localised
+
+
+Newton's theory could be used to predict the [660]reflection of light,
+
+
+light accelerated upon entering a denser [662]medium because the
+
+
+[665]particle theory of light to hold sway during the eighteenth
+
+
+century. The particle theory of light led [666]Pierre-Simon Laplace to
+
+
+argue that a body could be so massive that light could not escape from
+
+
+light became firmly established as the model for light (as has been
+
+
+translation of Newton's essay on light appears in The large scale
+
+
+The fact that light could be [670]polarized was for the first time
+
+
+theory explained all known phenomena of light polarization. At that
+
+
+developed a "pulse theory" and compared the spreading of light to that
+
+
+IX"). In 1672 Hooke suggested that light's vibrations could be
+
+
+Huygens (1629–1695) worked out a mathematical wave theory of light in
+
+
+1678 and published it in his [678]Treatise on Light in 1690. He
+
+
+proposed that light was emitted in all directions as a series of waves
+
+
+The wave theory predicted that light waves could interfere with each
+
+
+light behaved as waves.^[691][42]^: 101  He first publicly stated his
+
+
+[694]wavelengths of light and explained colour vision in terms of
+
+
+that the polarization of light can be explained by the wave theory if
+
+
+light were a [697]transverse wave.^[698][45] Later, Fresnel
+
+
+independently worked out his own wave theory of light and presented it
+
+
+that light must be transverse waves, not the longitudinal waves
+
+
+transverse wave theory of light with no longitudinal
+
+
+The weakness of the wave theory was that light waves, like sound waves,
+
+
+Newton's [707]corpuscular theory implied that light would travel faster
+
+
+the opposite. At that time, the [708]speed of light could not be
+
+
+of linearly polarized light is rotated when the light rays travel along
+
+
+rotation.^[722][47] This was the first evidence that light was related
+
+
+to [723]electromagnetism. In 1846 he speculated that light might be
+
+
+lines.^[724][47] Faraday proposed in 1847 that light was a
+
+
+electromagnetic radiation and light. Maxwell discovered that
+
+
+speed of light. From this, Maxwell concluded that light was a form of
+
+
+behaved exactly like visible light, exhibiting properties such as
+
+
+was needed to explain effects even with visual light that Maxwell's
+
+
+radiation, suggested that although light was a wave, these waves could
+
+
+Planck called these "lumps" of light energy "[735]quanta" (from a Latin
+
+
+word for "how much"). In 1905, Albert Einstein used the idea of light
+
+
+these light quanta had a "real" existence. In 1923 [737]Arthur Holly
+
+
+1926 [739]Gilbert N. Lewis named these light quanta particles
+
+
+Eventually [742]quantum mechanics came to picture light as (in some
+
+
+under some approximations light can be described sometimes with
+
+
+loses all qualities of one or the other. Visible light, which occupies
+
+
+In 1924–1925, [743]Satyendra Nath Bose showed that light followed
+
+
+photodetection and the [762]statistics of light (see [763]degree of
+
+
+a concept which addressed variations between laser light, thermal
+
+
+light, exotic [765]squeezed states, etc. as it became understood that
+
+
+light cannot be fully described just referring to the
+
+
+emitting one photon at a time, further compelling evidence that light
+
+
+consists of photons. Previously unknown quantum states of light with
+
+
+characteristics unlike classical states, such as [768]squeezed light
+
+
+mechanical forces of light on matter were studied. The latter led to
+
+
+Use for light on Earth
+
+
+light provides the [784]energy that [785]green plants use to
+
+
+things. Some species of animals generate their own light, a process
+
+
+called [789]bioluminescence. For example, [790]fireflies use light to
+
+
+* [801]Light beam – in particular about light beams visible from the
+
+
+Light Fantastic (TV series)
+
+
+Light mill
+
+
+* [804]List of light sources
+
+
+1. [807]^ [808]CIE (1987). [809]International Lighting Vocabulary
+
+
+By the International Lighting Vocabulary, the definition of light
+
+
+light, <photometric> noun". [816]CIE S
+
+
+017/E:2020 ILV: International Lighting Vocabulary, 2nd Edition.
+
+
+eye has the ability to respond to all the wavelengths of light from
+
+
+Light is a special class of radiant energy embracing
+
+
+[887]Color and Light in Nature (2nd ed.). Cambridge: Cambridge
+
+
+the human eye responds to light rays from 390 to 760 nm. This can
+
+
+Statistical Method and the Speed of Light". Statistical Science. 15
+
+
+Light" . In
+
+
+velocity of light between Mount Wilson and Mount San Antonio".
+
+
+Gazette: Researchers now able to stop, restart light".
+
+
+26. [935]^ Tang, Hong (1 October 2009). "May The Force of Light Be With
+
+
+Light
+
+
+39. ^ [994]^a [995]^b Theories of light, from Descartes to Newton A.I.
+
+
+lightenment and
+
+
+Light at Wikimedia Commons
+
+
+light at Wiktionary
+
+
+Light at Wikiquote
+
+
+* Light
+
+
+light
+
+
+light
+
+
++ Light
+
+
+Light-on-dark
+
+
+Lightness
+
+
+Lighting
+
+
+Light&oldid=132859262
+
+
+Light
+
+
+Light
+
+
+Light#bodyContent
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light#Electromagnetic_spectrum_and_visible_light
+
+
+Light#Speed_of_light
+
+
+Light#Optics
+
+
+Light#Surface_scattering
+
+
+Light#Refraction
+
+
+Light#Light_sources
+
+
+Light#Measurement
+
+
+Light#Light_pressure
+
+
+Light#Historical_theories_about_light,_in_chronological_order
+
+
+Light#Classical_Greece_and_Hellenism
+
+
+Light#Classical_India
+
+
+Light#Descartes
+
+
+Light#Particle_theory
+
+
+Light#Wave_theory
+
+
+Light#Electromagnetic_theory
+
+
+Light#Quantum_theory
+
+
+Light#Quantum_optics
+
+
+Light#Use_for_light_on_Earth
+
+
+Light#See_also
+
+
+Light#Notes
+
+
+Light#References
+
+
+Light#External_links
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light&action=edit
+
+
+Light&action=history
+
+
+Light
+
+
+Light&action=edit
+
+
+Light&action=history
+
+
+Light
+
+
+Light
+
+
+Light&oldid=1328592629
+
+
+Light&action=info
+
+
+Light&id=1328592629&wpFormIdentifier=titleform
+
+
+Light
+
+
+Light
+
+
+Light&action=show-download-screen
+
+
+Light&printable=yes
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light_(disambiguation)
+
+
+light_(disambiguation)
+
+
+Light#cite_note-1
+
+
+Light#cite_note-2
+
+
+Light#cite_note-Pal2001-3
+
+
+Light#cite_note-BuserImbert1992-4
+
+
+Light#cite_note-5
+
+
+Light#cite_note-6
+
+
+Light#cite_note-7
+
+
+Light#cite_note-8
+
+
+light
+
+
+Light#cite_note-LeClerq-9
+
+
+light
+
+
+Light#cite_note-10
+
+
+Light#cite_note-Bradt2004-11
+
+
+Light#cite_note-OhannesianStreeter2001-12
+
+
+Light#cite_note-AhluwaliaGoyal2000-13
+
+
+Light#cite_note-Sliney1976-14
+
+
+Light#cite_note-LynchLivingston2001-15
+
+
+Light#cite_note-Dash2009-16
+
+
+Light#cite_note-Saidman1933-17
+
+
+light
+
+
+Light#cite_note-18
+
+
+Light#cite_note-EB1911-19
+
+
+Light#cite_note-EB1911-19
+
+
+Light#cite_note-20
+
+
+Light#cite_note-21
+
+
+Light#cite_note-22
+
+
+Light#cite_note-23
+
+
+Lightsource_Renewable_Energy
+
+
+light_source
+
+
+light_sources
+
+
+light
+
+
+Light#cite_note-24
+
+
+Light#cite_note-25
+
+
+light_bulb
+
+
+Light-emitting_diode
+
+
+lighting_at_night.jpg
+
+
+Lighting
+
+
+lighting)
+
+
+light
+
+
+Light#cite_note-26
+
+
+Light#cite_note-27
+
+
+Light#cite_note-28
+
+
+Light#cite_note-29
+
+
+Light#cite_note-30
+
+
+Light#cite_note-31
+
+
+Light#cite_note-32
+
+
+Light#cite_note-33
+
+
+Light#cite_note-34
+
+
+Light#cite_note-35
+
+
+Light#cite_note-36
+
+
+Light#cite_note-37
+
+
+Light#cite_note-sifuae.com-38
+
+
+Light#cite_note-sifuae.com-38
+
+
+Light#cite_note-sifuae.com-38
+
+
+Light#cite_note-Theories_of_light-39
+
+
+Light#cite_note-Theories_of_light-39
+
+
+light
+
+
+light
+
+
+light
+
+
+Light
+
+
+Light#cite_note-40
+
+
+Light#cite_note-Rothman-41
+
+
+Light#cite_note-Whittaker-42
+
+
+Light#cite_note-43
+
+
+Light#cite_note-44
+
+
+Light#cite_note-45
+
+
+Light#cite_note-Whittaker-42
+
+
+Light#cite_note-Whittaker-42
+
+
+light
+
+
+light
+
+
+Light#cite_note-46
+
+
+Light#cite_note-LongairMalcolm-47
+
+
+Light#cite_note-LongairMalcolm-47
+
+
+Light#cite_note-48
+
+
+Light#cite_note-49
+
+
+light
+
+
+Light_beam
+
+
+Light_Fantastic_(TV_series)
+
+
+Light_mill
+
+
+light_sources
+
+
+Light#cite_ref-1
+
+
+Light#cite_ref-2
+
+
+lighting-vocabulary-2nd-edition-0
+
+
+Light#cite_ref-Pal2001_3-0
+
+
+Light#cite_ref-BuserImbert1992_4-0
+
+
+Light#cite_ref-5
+
+
+Light#cite_ref-6
+
+
+Light#cite_ref-7
+
+
+Light#cite_ref-8
+
+
+Light#cite_ref-LeClerq_9-0
+
+
+Light#cite_ref-10
+
+
+Light#cite_ref-Bradt2004_11-0
+
+
+Light#cite_ref-OhannesianStreeter2001_12-0
+
+
+Light#cite_ref-AhluwaliaGoyal2000_13-0
+
+
+Light#cite_ref-Sliney1976_14-0
+
+
+Light#cite_ref-LynchLivingston2001_15-0
+
+
+Light#cite_ref-Dash2009_16-0
+
+
+Light#cite_ref-Saidman1933_17-0
+
+
+Light#cite_ref-18
+
+
+Light#cite_ref-EB1911_19-0
+
+
+Light#cite_ref-EB1911_19-1
+
+
+Light
+
+
+Light#cite_ref-20
+
+
+Light#cite_ref-21
+
+
+light.html
+
+
+light.html
+
+
+Light#cite_ref-22
+
+
+Light#cite_ref-23
+
+
+Light#cite_ref-24
+
+
+Light#cite_ref-25
+
+
+Light#cite_ref-26
+
+
+Light#cite_ref-27
+
+
+Light#cite_ref-28
+
+
+Light#cite_ref-29
+
+
+Light#cite_ref-30
+
+
+Light#cite_ref-31
+
+
+Light#cite_ref-32
+
+
+Light#cite_ref-33
+
+
+Light#cite_ref-34
+
+
+Light#cite_ref-35
+
+
+Light#cite_ref-36
+
+
+Light_1.html
+
+
+Light_1.html
+
+
+Light#cite_ref-37
+
+
+Light#cite_ref-sifuae.com_38-0
+
+
+Light#cite_ref-sifuae.com_38-1
+
+
+Light#cite_ref-sifuae.com_38-2
+
+
+Light#cite_ref-Theories_of_light_39-0
+
+
+Light#cite_ref-Theories_of_light_39-1
+
+
+Light#cite_ref-40
+
+
+Light#cite_ref-Rothman_41-0
+
+
+Light#cite_ref-Whittaker_42-0
+
+
+Light#cite_ref-Whittaker_42-1
+
+
+Light#cite_ref-Whittaker_42-2
+
+
+Light#cite_ref-43
+
+
+Light#cite_ref-44
+
+
+Light#cite_ref-45
+
+
+Light#cite_ref-46
+
+
+Light#cite_ref-LongairMalcolm_47-0
+
+
+Light#cite_ref-LongairMalcolm_47-1
+
+
+Light#cite_ref-48
+
+
+Light#cite_ref-49
+
+
+Light
+
+
+light
+
+
+Light
+
+
+light
+
+
+light
+
+
+Lightness
+
+
+Lighting
+
+
+Light&oldid=1328592629
+
+
+Light
+
+
+Light&mobileaction=toggle_view_mobile
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+
+Light
+
+

@@ -1,0 +1,75 @@
+the vast bandwidth of the light spectrum, LiFi promises speeds that can
+
+
+straightforward as turning on a light. Utilizing LED-based light to
+
+
+At its essence, LiFi operates as a Visible Light Communications (VLC)
+
+
+this system are LED light bulbs. These bulbs emit swift light pulses,
+
+
+The modus operandi of LiFi, using light for data transfer, furnishes it
+
+
+confinement of light-bound data within its immediate environment,
+
+
+courtesy of light’s inability to traverse walls. This characteristic
+
+
+technology relies on a modulated light frequency emitted by LED light
+
+
+photosensitive detector captures these light signals. The detector then
+
+
+demodulates the light fluctuations back into electronic data. Given the
+
+
+intricate dance of light translates into digital communication.
+
+
+Light Fidelity)
+
+
+LiFi: LiFi transmits data using light sources (presently LED bulbs)
+
+
+LiFi: With LiFi, light is blocked by the walls and hence will provide
+
+
+is its coverage distance. Since light can’t pass through walls, the
+
+
+Although it functions similarly to WiFi, using light instead of radio
+
+
+LiFi technology, which stands for light fidelity, was introduced by
+
+
+lighting systems.
+
+
+with French lighting company Lucibel to launch the world’s first
+
+
+various industries such as defense, healthcare, lighting, IT
+
+
+and light fidelity could be the technology to meet this demand.
+
+
+* [98]Visible Light Communication
+
+
+* [106]Visible Light Communication
+
+
+light-communication/
+
+
+light-communication/
+
+
