@@ -1,0 +1,553 @@
+   #Healthy Food Guide » Feed Healthy Food Guide » Comments Feed JSON
+   oEmbed (JSON) oEmbed (XML)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KW729BM
+
+   [logo.png] Expert advice & dietitian-approved recipes
+   Search for: ____________________ 
+   Subscribe
+   (BUTTON)
+   Subscribe
+   (BUTTON) Log in
+   (BUTTON) X
+
+Log in to your account
+
+   Username ____________________
+   Password ____________________
+   Log In
+   [ ] Remember Me
+   Lost your password?
+
+Not a member yet?
+
+   Subscribe now
+   [hfg-logo.png]
+     *
+     * Expert advice
+          + Health advice
+          + Food and nutrients explained
+               o Alcohol
+               o Beverages
+               o Breads, cereals
+               o Calcium
+               o Carbohydrates, grains
+               o Chocolate
+               o Dairy products
+               o Eggs
+               o Fast food
+               o Fats
+               o Fibre
+               o Fruit, vegetables
+               o Herbs, spices
+               o Iron
+               o Legumes, pulses
+               o Meat, seafood
+               o Nuts, seeds
+               o Oils
+               o Omega-3
+               o Organic
+               o Pasta, rice and noodles
+               o Probiotics, prebiotics
+               o Protein
+               o Salt, sodium
+               o Soy
+               o Sugar
+               o Vitamins, minerals
+          + Shopping advice
+          + How much should we eat
+          + Weight Management
+               o Body fitness
+               o Healthy weight advice
+               o Popular diets
+          + News articles
+          + Podcasts
+          + Videos
+          + Life stage
+               o Babies’ health
+               o Children’s health
+               o Family health
+               o Men’s health
+               o Pregnancy
+               o Menopause
+               o Seniors’ health
+               o Teenagers’ health
+               o Women’s health
+          + Exercise
+          + Health and medical
+               o Allergies, intolerances
+               o Appetite
+               o Asthma
+               o Body fat
+               o Brain, cognition
+               o Cancer
+               o Diabetes
+               o Cholesterol
+               o COVID-19
+               o Energy
+               o Eyesight
+               o Gastrointestinal
+               o Glycaemic Index
+               o Heart
+               o Immunity
+               o Inside your body
+               o Low weight
+               o Measuring health
+               o Metabolism
+               o Migraines
+               o Obesity
+               o Oral health
+               o Osteoporosis, bone health
+               o Psychology, behaviour
+               o Mental health and wellbeing
+          + Lifestyle and environment
+               o Additives
+               o Christmas
+               o Community initiatives
+               o Cooking
+               o Eating out
+               o Eating well at work
+               o Entertaining
+               o Financial wellbeing
+               o Food safety
+               o Gardening
+               o Holidays, travel
+               o Myths
+               o School lunches
+               o Skin, sun, hair, nails
+               o Sleep
+               o Sustainability
+               o Vegetarianism
+          + Mental health and wellbeing
+          + Workplace wellbeing
+          + Schools
+          + Resources
+               o Calculators
+               o Challenges
+               o Charts and diaries
+               o Exercise and fitness
+               o FODMAP toolkit
+               o Guides and planners
+               o Weight-loss tools
+          + Diabetes Hub
+     * Recipes
+          + All Recipes
+          + Baking
+          + Beef
+          + Chicken
+          + Fish
+          + Lamb
+          + Pork
+          + Soups
+          + Dairy free
+          + Diabetes-friendly
+          + Gluten free
+          + Low FODMAP
+          + Vegan – Plant based
+          + Vegetarian
+          + Family favourites
+          + Kids in the kitchen
+          + Meals for one
+          + Ready in 20 minutes
+          + $AVER (low cost)
+          + School lunches
+          + Work lunches
+     * Meal plans
+          + Healthy meal plans
+          + Meal plans for two
+          + How to use meal plans
+     * Product Awards
+          + Healthy Food Guide Awards
+          + Special Diet Awards
+          + Lunchbox Awards
+     * User Guide
+     * Latest Podcast
+     * Favourites
+     * Digital Issues
+     * Store
+       Subscribe
+       (BUTTON) Log in
+       (BUTTON) X
+
+Log in to your account
+       Username ____________________
+       Password ____________________
+       Log In
+       [ ] Remember Me
+       Lost your password?
+
+Not a member yet?
+       Subscribe now
+
+     * Expert advice
+          + Health advice
+          + Food and nutrients explained
+               o Alcohol
+               o Beverages
+               o Breads, cereals
+               o Calcium
+               o Carbohydrates, grains
+               o Chocolate
+               o Dairy products
+               o Eggs
+               o Fast food
+               o Fats
+               o Fibre
+               o Fruit, vegetables
+               o Herbs, spices
+               o Iron
+               o Legumes, pulses
+               o Meat, seafood
+               o Nuts, seeds
+               o Oils
+               o Omega-3
+               o Organic
+               o Pasta, rice and noodles
+               o Probiotics, prebiotics
+               o Protein
+               o Salt, sodium
+               o Soy
+               o Sugar
+               o Vitamins, minerals
+          + Shopping advice
+          + How much should we eat
+          + Weight Management
+               o Body fitness
+               o Healthy weight advice
+               o Popular diets
+          + News articles
+          + Podcasts
+          + Videos
+          + Life stage
+               o Babies’ health
+               o Children’s health
+               o Family health
+               o Men’s health
+               o Pregnancy
+               o Menopause
+               o Seniors’ health
+               o Teenagers’ health
+               o Women’s health
+          + Exercise
+          + Health and medical
+               o Allergies, intolerances
+               o Appetite
+               o Asthma
+               o Body fat
+               o Brain, cognition
+               o Cancer
+               o Diabetes
+               o Cholesterol
+               o COVID-19
+               o Energy
+               o Eyesight
+               o Gastrointestinal
+               o Glycaemic Index
+               o Heart
+               o Immunity
+               o Inside your body
+               o Low weight
+               o Measuring health
+               o Metabolism
+               o Migraines
+               o Obesity
+               o Oral health
+               o Osteoporosis, bone health
+               o Psychology, behaviour
+               o Mental health and wellbeing
+          + Lifestyle and environment
+               o Additives
+               o Christmas
+               o Community initiatives
+               o Cooking
+               o Eating out
+               o Eating well at work
+               o Entertaining
+               o Financial wellbeing
+               o Food safety
+               o Gardening
+               o Holidays, travel
+               o Myths
+               o School lunches
+               o Skin, sun, hair, nails
+               o Sleep
+               o Sustainability
+               o Vegetarianism
+          + Mental health and wellbeing
+          + Workplace wellbeing
+          + Schools
+          + Resources
+               o Calculators
+               o Challenges
+               o Charts and diaries
+               o Exercise and fitness
+               o FODMAP toolkit
+               o Guides and planners
+               o Weight-loss tools
+          + Diabetes Hub
+     * Recipes
+          + All Recipes
+          + Baking
+          + Beef
+          + Chicken
+          + Fish
+          + Lamb
+          + Pork
+          + Soups
+          + Dairy free
+          + Diabetes-friendly
+          + Gluten free
+          + Low FODMAP
+          + Vegan – Plant based
+          + Vegetarian
+          + Family favourites
+          + Kids in the kitchen
+          + Meals for one
+          + Ready in 20 minutes
+          + $AVER (low cost)
+          + School lunches
+          + Work lunches
+     * Meal plans
+          + Healthy meal plans
+          + Meal plans for two
+          + How to use meal plans
+     * Product Awards
+          + Healthy Food Guide Awards
+          + Special Diet Awards
+          + Lunchbox Awards
+     * User Guide
+     * Latest Podcast
+     * Favourites
+     * Digital Issues
+     * Store
+
+
+
+   Advertisement
+
+   ADVICE
+
+What does ‘lite’ or ‘light’ mean?
+
+   Author: Rose Carr - MSc (Hons), Senior Nutritionist
+   Healthy Food Guide
+   Save to favs
+   Log in now in to enjoy this feature
+   Favs List PRINT
+
+   This could mean one of many things, so don't be fooled!
+
+   It might mean the product has less energy (kJ) or fat than the original
+   formula. But it could also mean it's light in colour or flavour, as in
+   'light' olive oil, or light in cut, as in 'lite' potato chips. Read the
+   nutrition panel to see what's really going on.
+
+   For more information on health claims made on packaging, read: Reading
+   labels: What the health claims really mean.
+   © Healthy Food GuideAll rights reservedReproduction without permission
+   prohibited
+   www.healthyfood.com
+
+Sign up for the [logo.png] newsletter
+
+   Delicious recipes and expert health advice you can trust, delivered to
+   your inbox.
+     * Email*
+       ____________________
+     * Country
+       ____________________
+     * Country Code
+       ____________________
+     * Newsletters
+          + [X] Monday: Plant-based recipes and lighter eating
+          + [X] Tuesday: Low-cost meals and healthy eating on a budget
+          + [X] Thursday: Family favourites ready in a flash!
+          + [X] Saturday: Most popular recipes and articles of the week
+     * Phone
+       ____________________
+       This field is for validation purposes and should be left unchanged.
+
+   Get Newsletter
+
+   IFRAME: gform_ajax_frame_44
+
+   See our privacy policy
+   Date modified: 3 April 2017
+   First published: May 2007
+
+Sign up to receive the latest dietitian-approved recipes and expert advice!
+
+     * Email*
+       ____________________
+     * Country
+       ____________________
+     * Country Code
+       ____________________
+     * Newsletters
+          + [X] Monday: Plant-based recipes and lighter eating
+          + [X] Tuesday: Low-cost meals and healthy eating on a budget
+          + [X] Thursday: Family favourites ready in a flash!
+          + [X] Saturday: Most popular recipes and articles of the week
+     * Phone
+       ____________________
+       This field is for validation purposes and should be left unchanged.
+
+   Get Newsletter
+
+   IFRAME: gform_ajax_frame_43
+
+   See our privacy policy
+
+More Advice
+
+   The most popular healthy recipes of 2025: Your year in delicious dishes
+
+The most popular healthy recipes of 2025: Your...
+
+   Cortisol diet: Can you really eat to beat stress and belly fat?
+
+Cortisol diet: Can you really eat to beat...
+
+   Advertisement
+   How wearable trackers can help you stick to fitness goals
+
+How wearable trackers can help you stick to...
+
+   Could the copper in your diet help prevent memory loss, as new study
+   suggests?
+
+Could the copper in your diet help prevent...
+
+   Advertisement
+   Canned vegetables: How to keep the salt in check
+
+Canned vegetables: How to keep the salt in...
+
+Recipes you may like
+
+   Spinach, pea, salmon and ricotta quiche
+
+Spinach, pea, salmon and ricotta quiche
+
+   Pasta e fagioli
+
+Pasta e fagioli
+
+   Corn and zucchini fritters with tomatoes
+
+Corn and zucchini fritters with tomatoes
+
+   Advertisement
+
+   Your discount has been applied!
+   Web + Digital Monthly Subscription for 1 this month*
+   *Renews on for /month
+
+   Email* ____________________
+
+   Password* ____________________
+
+   Password Again* ____________________
+
+   First Name* ____________________
+
+   Last Name* ____________________
+
+   ____________________
+
+   Register
+   You've reached your free limit
+   Join today from just 1 a month*
+   (BUTTON) Sign me up !
+     * [tick.svg]
+       Unlimited access on any device
+     * [tick.svg]
+       Cancel or change your membership level at any time
+     * [tick.svg]
+       Thousands of recipes, trustworthy news and advice you can live by
+     * [tick.svg]
+       Meal planning tools, health & weight-loss resources
+     * [tick.svg]
+       Online access to new Healthy Food Guide magazine issues + archive
+     * [tick.svg]
+       PLUS… sign up today and receive your FREE Starter Kit!
+
+   Already a subscriber? Log in Workplace subscriber? Click here
+   *Subsequent months will be /month
+
+   Advertisement
+
+     * About us
+     * Tips for using the website
+     * Terms of use
+     * Meet the team
+     * Meal planning and shopping lists
+     * Privacy policy
+     * Contact us
+     * Our recipes explained
+     * Cookie Policy
+     * Media kit and Advertising
+     * Workplace wellbeing
+     * FAQ
+     * Healthy Food Guide Pro
+
+   © 2025 Healthy Food Guide. All Rights Reserved.
+     * Email*
+       ____________________
+     * Country
+       ____________________
+     * Country Code
+       ____________________
+     * Newsletters
+          + [X] Monday: Plant-based recipes and lighter eating
+          + [X] Tuesday: Low-cost meals and healthy eating on a budget
+          + [X] Thursday: Family favourites ready in a flash!
+          + [X] Saturday: Most popular recipes and articles of the week
+     * Email
+       ____________________
+       This field is for validation purposes and should be left unchanged.
+
+   Get Newsletter
+
+   IFRAME: gform_ajax_frame_46
+
+   ____________________ ____________________ [BUTTON Input] (not
+   implemented)______ + LOG IN
+   (BUTTON) x
+
+   To use this feature you need to be a subscriber. Subscribe here or log
+   in
+
+   [hfg-shopping-list.png]
+   (BUTTON)
+   Shopping list saved to go to meal plans
+   (BUTTON) Email (BUTTON) Print (BUTTON) Save to meal plan (BUTTON) Clear
+   shopping list
+
+   [close-button.png]
+
+Join our over 50,000-strong Healthy Food Guide community who subscribe to
+dietitian-approved recipes, trustworthy news and advice you can live by
+
+   [nl-signup-check-icon.png] Plus we’ll send you a FREE download of our
+   Healthy Pantry Checklist!
+     * Email*
+       ____________________
+     * Country
+       ____________________
+     * Country Code
+       ____________________
+     * Newsletters
+          + [X] Monday: Plant-based recipes and lighter eating
+          + [X] Tuesday: Low-cost meals and healthy eating on a budget
+          + [X] Thursday: Family favourites ready in a flash!
+          + [X] Saturday: Most popular recipes and articles of the week
+     * Email
+       ____________________
+       This field is for validation purposes and should be left unchanged.
+
+   Subscribe
+
+   IFRAME: gform_ajax_frame_3
+
+   See our privacy policy

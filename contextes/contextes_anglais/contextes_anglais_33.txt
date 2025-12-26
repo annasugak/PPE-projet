@@ -1,0 +1,298 @@
+   by Chris Woodford. Last updated: November 28, 2024.
+
+   Lasers are amazing light beams powerful enough to zoom miles into the
+   sky or cut through lumps of metal. Although they seem pretty recent
+   inventions, they've actually been with us over half a century: the
+--
+
+   The basic idea of a laser is simple. It's a tube that concentrates
+   light over and over again until it emerges in a really powerful beam.
+   But how does this happen, exactly? What's going on inside a laser?
+   Let's take a closer look!
+--
+    1. What is a laser?
+    2. How lasers work
+    3. How do lasers make light?
+          + Spontaneous emission
+          + Stimulated emission
+          + What makes laser light so different?
+    4. Types of lasers
+    5. What are lasers used for?
+--
+What is a laser?
+
+   Lasers are more than just powerful flashlights.
+
+   The difference between ordinary light and laser light is like the
+   difference between ripples in your bathtub and huge waves on the sea.
+   You've probably noticed that if you move your hands back and forth in
+--
+   Imagine doing this a few million times in the open ocean. Before long,
+   you'd have mountainous waves towering over your head! A laser does
+   something similar with light waves. It starts off with weak light and
+   keeps adding more and more energy so the light waves become ever more
+   concentrated.
+
+   Photo: It's much easier to make laser beams follow precise paths than
+   ordinary light beams, as in this experiment to develop better solar
+   cells. Picture by Warren Gretz courtesy of US DOE/NREL (Department of
+   Energy/National Renewable Energy Laboratory).
+--
+   If you've even seen a laser in a science lab, you'll have noticed two
+   very important differences straightaway:
+     * Where a flashlight produces "white" light (a mixture of all
+       different colors, made by light waves of all different
+       frequencies), a laser makes what's called monochromatic light (of a
+       single, very precise frequency and color—often bright red or green
+       or an invisible "color" such as infrared or ultraviolet).
+     * Where a flashlight beam spreads out through a lens into a short and
+       fairly fuzzy cone, a laser shoots a much tighter, narrower beam
+       over a much longer distance (we say it's highly collimated).
+
+   There's a third important difference you won't have noticed:
+     * Where the light waves in a flashlight beam are all jumbled up (with
+       the crests of some beams mixed with the troughs of others), the
+       waves in laser light are exactly in step: the crest of every wave
+       is lined up with the crest of every other wave. We say laser light
+       is coherent. Think of a flashlight beam as a crowd of commuters,
+       pushing and shoving, jostling their way down the platform of a
+       railroad station; by comparison, a laser beam is like a parade of
+--
+
+   Before you can understand how a laser works, you need to know how an
+   atom can give off light. If you're not sure how this happens, take a
+   look at the box how atoms make light in our introductory article about
+   light.
+
+   A laser is effectively a machine that makes billions of atoms pump out
+   trillions of photons (light particles) all at once so they line up to
+   form a really concentrated light beam.
+
+What do you need to make a laser?
+--
+   medium, shown in the artwork below as a red bar) with a flash tube
+   (yellow zig-zag lines) wrapped around it. The flash tube looks a bit
+   like a fluorescent strip light, only it's coiled around the ruby
+   crystal and it flashes every so often like a camera's flash lamp.
+
+--
+       electrons jump to a higher energy level. After a few milliseconds,
+       the electrons return to their original energy level (ground state)
+       by giving off a photon of light (small blue blobs). This is called
+       spontaneous emission.
+    4. The photons that atoms give off zoom up and down inside the ruby
+       crystal, traveling at the speed of light.
+    5. Every so often, one of these photons stimulates an already excited
+       atom. When this happens, the excited atom gives off a photon and we
+       get our original photon back as well. This is called stimulated
+       emission. Now one photon of light has produced two, so the light
+       has been amplified (increased in strength). In other words, "light
+       amplification"(an increase in the amount of light) has been caused
+       by "stimulated emission of radiation" (hence the name "laser",
+       because that's exactly how a laser works!)
+--
+       back into the crystal but lets some escape.
+    8. The escaping photons form a very concentrated beam of powerful
+       laser light.
+
+   Sponsored links
+--
+   Atoms Under the Floorboards banner promotion [INS: :INS]
+
+How do lasers make light?
+
+   If that's as much detail as you want to know about lasers, you can stop
+--
+   detail, and a little bit more "theoretically."
+
+   You'll often read in books that "laser" stands for Light Amplification
+   by Stimulated Emission of Radiation. That's a complex and confusing
+   mouthful but, if you pull it apart slowly, it's actually a very clear
+   explanation of how lasers make their super-powerful beams of light.
+
+Spontaneous emission
+--
+   Geiger counters click, which atoms spew out when they smash together or
+   fall apart. Lasers make electromagnetic radiation, just like ordinary
+   light, radio waves, X rays, and infrared. Although it's still produced
+   by atoms, they make ("emit") it in a totally different way, when
+   electrons jump up and down inside them. We can think of electrons in
+--
+   atom's excited—but it's also unstable. It very quickly returns to the
+   ground state by giving off the energy it absorbed as a photon (a
+   particle of light). We call this process spontaneous emission of
+   radiation: the atom is giving off light (emitting radiation) all by
+   itself (spontaneously).
+
+   Flame, wick, and melted wax on top of a candle
+
+   Photo: Spontaneous emission—by candlelight.
+
+   From candles to light bulbs and fireflies to flashlights, all
+   conventional forms of light work through the process of spontaneous
+   emission. In a candle, combustion (the chemical reaction between oxygen
+   and fuel, in this case, wax) excites atoms and makes them unstable.
+   They give off light when they return to their original (ground) states.
+   Every photon produced by spontaneous emission inside this candle flame
+   is different from every other photon, which is why there's a mixture of
+   different wavelengths (and colors), making "white" light. The photons
+   emerge in random directions, with waves that are out of step with one
+   another ("out of phase"), which is why candlelight is much weaker than
+   laser light.
+
+Stimulated emission
+--
+   Normally, a typical bunch of atoms would have more electrons in their
+   ground states than their excited states, which is one reason why atoms
+   don't spontaneously give off light. But what if we excited those
+   atoms—pumped them full of energy—so their electrons were in excited
+   states. In that case, the "population" of excited electrons would be
+   bigger than the "population" in their ground states, so there would be
+   plenty of electrons ready and willing to make photons of light. We call
+   this situation a population inversion, because the usual state of
+   affairs in the atoms is swapped around (inverted).
+--
+   get radiation out of them, this process is called stimulated emission.
+   We get two photons out after putting one photon in, effectively
+   doubling our light and amplifying it (increasing it). These two photons
+   can stimulate other atoms to give off more photons, so, pretty soon, we
+   get a cascade of photons—a chain reaction—throwing out a brilliant beam
+   of pure, coherent laser light. What we've done here is amplify light
+   using stimulated emission of radiation—and that's how a laser gets its
+   name.
+--
+   out a quantum (packet of energy) as a photon (green wiggle). Right:
+   Stimulated emission: Fire a photon near a bunch of excited atoms and
+   you can trigger a cascade of identical photons. One photon of light
+   triggers many, so what we've got here is light amplification (making
+   more light) by stimulated emission of (electromagnetic)
+   radiation—LASER!.
+
+What makes laser light so different?
+
+   If that's how lasers make light, why do they make a single color and a
+   coherent beam? It boils down to the idea that energy can only exist in
+   fixed packets, each of which is called a quantum. It's a bit like
+--
+   two energy levels. When electrons flip back down from their excited to
+   their ground state, they give out the same, precise amount of energy,
+   which takes the form of a photon of light of a particular color.
+   Stimulated emission in lasers makes electrons produce a cascade of
+   identical photons—identical in energy, frequency, wavelength—and that's
+   why laser light is monochromatic. The photons produced are equivalent
+   to waves of light whose crests and troughs line up (in other words,
+   they are "in phase")—and that's what makes laser light coherent.
+
+   Sponsored links
+--
+   be doped, a process that replaces some of the solid's atoms with ions
+   of impurities, giving it just the right energy levels to produce laser
+   light of a certain, precise frequency.
+
+   Ruby red laser and red beam.
+--
+   the medium, pumped by something like an arc lamp, a flash lamp, or
+   another laser. Their big advantage is that they can be used to produce
+   a broader band of light frequencies than solid-state and gas lasers,
+   and they can even be "tuned" to produce different frequencies. [2]
+
+--
+   Photo: Dye laser: This dye laser (top layer) is used to separate
+   different isotopes (atomic forms) of uranium for nuclear power
+   production. It absorbs green, copper-vapor laser light from optical
+   fibers (bottom layer) and uses it to produce an intense red-orange
+   light at a very specific frequency. Photo courtesy of US Department of
+   Energy.
+
+--
+   expensive, semiconductor lasers are cheap, tiny, chip-like devices used
+   in things like CD players, laser printers, and barcode scanners. They
+   work like a cross between a conventional Light-emitting diode (LED) and
+   a traditional laser. Like an LED, they make light when electrons and
+   "holes" (effectively, "missing electrons") hop about and join together;
+   like a laser, they generate coherent, monochromatic light. That's why
+   they're sometimes referred to as laser diodes (or diode lasers). You
+   can read more about them in our separate article about semiconductor
+--
+   that scans discs inside a CD or DVD player. The small circle on the
+   bottom right is a semiconductor laser diode, while the larger blue
+   circle is the lens that reads the light from the laser after it's
+   bounced off the shiny surface of the disc.
+
+--
+   effect, a doped fiber-optic cable becomes the amplifying medium.
+   They're powerful, efficient, reliable, and make it easy to pipe laser
+   light to wherever it's needed.
+
+   Green femtosecond laser experiment.
+--
+   computer chip converts these numbers into movies, music, and sound.
+   Along with fiber-optic cables, lasers are widely used in a technology
+   called photonics—using photons of light to communicate, for example, to
+   send vast streams of data back and forth over the Internet. Facebook is
+   currently experimenting with using lasers (instead of radio waves) to
+--
+   Photo: Communicating with satellites (in this case, the Lunar
+   Reconnaissance Orbiter) using lasers. Photo courtesy of NASA Goddard
+   Space Flight Center.
+
+Defense
+--
+   We can trace the birth of lasers right back to the first two decades of
+   the 20th century. That's when Albert Einstein figured out the quantum
+   theory of light and photons (in 1905) and the mechanism of stimulated
+   emission (in 1917)—the two key components of laser science. But it was
+   another four decades before the first practical laser actually
+--
+
+   Lasers evolved from masers, which are similar but produce microwaves
+   and radio waves instead of visible light. Masers were invented in the
+   1950s by Charles Townes and Arthur Schawlow, both of whom went on to
+   win the Nobel Prize in Physics for their work (Townes in 1964 and
+--
+   Artwork: The original maser designed in the late 1950s by Arthur
+   Schawlow and Charles Townes, taken from their US Patent 2,929,922,
+   which I've colored to highlight the main components. You can see how
+   closely it resembles the laser in my artwork in the box up above.
+   Artwork courtesy of US Patent and Trademark Office.
+--
+   But did they invent the laser? In 1957, one of Townes' graduate
+   students, Gordon Gould, sketched in his lab notebook an idea for how a
+   visible light version of the maser could work, coining the word "laser"
+   that we've used ever since. Unfortunately, he didn't patent his idea at
+   the time and had to devote the next 20 years of his life to legal
+--
+
+   Artwork: Gordon Gould's alternative laser is a very different design,
+   but does essentially the same job: amplifying light. Artwork courtesy
+   of US Patent and Trademark Office.
+
+   Although Townes and Schawlow are often credited with inventing lasers,
+   the first person to build a working, visible light laser was actually
+   Theodore Maiman, who has never really gained the recognition he
+   deserved: his original writeup of his work was rejected by the journal
+--
+     * Holograms
+     * Laser printers
+     * Light
+     * Light-emitting diodes (LEDs)
+     * Semiconductor lasers
+
+--
+       paintings to their former glory.
+     * Wired: This Day in Tech: May 16, 1960: Researcher Shines a Laser
+       Light by Randy Alfred, Wired, May 16, 2011. Explains how laser
+       pioneer Theodore Maiman created the first ruby crystal laser.
+     * The Race to Make the First Laser by Jeff Hecht. A short account of
+--
+     * Lasers by James Bow. Gareth Stevens, 2016. A 48-page introduction
+       for ages 9–12.
+     * Lasers: The Technology and Uses of Crafted Light by Charlene
+       Billings and John Tabak. Facts on File, 2006. A deeper, 208-page
+       overview for ages 10+ (also a good as a non-mathematical
+       backgrounder for adult readers).
+     * Science Pathways: Light by Chris Woodford. Rosen, 2012. One of my
+       own books, this is the broader story of how scientists unraveled
+       the mysteries of light. Ages 9–12. (Previously published by
+       Blackbirch, 2004.)
+

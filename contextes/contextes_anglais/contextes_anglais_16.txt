@@ -1,0 +1,226 @@
+     * NASA+
+
+Highlights
+
+   Holidays in Space: 25 Years of Space Station Celebrations
+--
+     * Science in the Air
+     * NASA Aircraft
+     * Flight Innovation
+     * Supersonic Flight
+     * Air Traffic Solutions
+     * Green Aviation Tech
+--
+     * STEM Multimedia
+
+Highlights
+
+   Get In, We’re Going Moonbound: Meet NASA’s Artemis Closeout Crew
+--
+   article 1 week ago
+
+Highlights
+
+   Get In, We’re Going Moonbound: Meet NASA’s Artemis Closeout Crew
+--
+
+   article 2 days ago
+   Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch
+   4 min read
+
+Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch
+
+   article 2 days ago
+--
+   article 3 days ago
+
+Highlights
+
+   Dr. John Sullivan
+--
+   article 1 week ago
+
+Highlights
+
+   Betelgeuse and the Crab Nebula: Stellar Death and Rebirth
+--
+   article 1 week ago
+
+Highlights
+
+   NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets
+--
+   article 6 days ago
+
+Highlights
+
+   OPERA: Addressing Societal Needs with Satellite Data
+--
+   article 3 days ago
+
+Highlights
+
+   NASA Armstrong Advances Flight Research and Innovation in 2025
+   12 min read
+
+NASA Armstrong Advances Flight Research and Innovation in 2025
+
+   article 3 days ago
+--
+
+   article 1 week ago
+   2025 in Review: Highlights from NASA in Silicon Valley
+   9 min read
+
+2025 in Review: Highlights from NASA in Silicon Valley
+
+   article 1 week ago
+
+Highlights
+
+   NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam
+--
+   article 1 week ago
+
+Highlights
+
+   Join the Artemis Mission to the Moon
+--
+   article 1 month ago
+
+Highlights
+
+   Holidays in Space: 25 Years of Space Station Celebrations
+--
+   article 3 weeks ago
+
+Highlights
+
+   TRAPPIST-1 e — Guided Tour-es
+--
+    1. …
+    2. The Electromagnetic Spectrum...
+    3. Visible Light
+
+     * Electromagnetic Spectrum Overview
+--
+          + Infrared Waves
+          + Reflected Near-Infrared
+          + Visible Light
+          + Ultraviolet Waves
+          + X-Rays
+--
+
+
+Visible Light
+
+   Illustration of a visible wave on the electromagnetic spectrum
+--
+   IFRAME: https://www.youtube.com/embed/PMtC34pzKGc?feature=oembed
+
+What is the visible light spectrum?
+
+   The visible light spectrum is the segment of the electromagnetic
+   spectrum that the human eye can view. More simply, this range of
+   wavelengths is called visible light. Typically, the human eye can
+   detect wavelengths from 380 to 700 nanometers.
+
+WAVELENGTHS OF VISIBLE LIGHT
+
+   All electromagnetic radiation is light, but we can only see a small
+   portion of this radiation—the portion we call visible light.
+   Cone-shaped cells in our eyes act as receivers tuned to the wavelengths
+   in this narrow band of the spectrum. Other portions of the spectrum
+--
+   biological limitations of our perception.
+
+   As the full spectrum of visible light travels through a prism, the
+   wavelengths separate into the colors of the rainbow because each color
+   is a different wavelength. Violet has the shortest wavelength, at
+   around 380 nanometers, and red has the longest wavelength, at around
+   700 nanometers.
+   Left: A 3D illustration of 2 prisms. As light shine through one, it is
+   refracted into the colors of the rainbow. As the full spectrum of light
+   - the rainbow - travels through the second prism, the waves are
+   recombined into white light. Right: illustration of each wavelength in
+   the spectrum
+   (Left) Isaac Newton's experiment in 1665 showed that a prism bends
+   visible light andthat each color refracts at a slightly different angle
+   depending on the wavelength of the color.Credit: Troy Benesch.(Right)
+   Each color in a rainbow corresponds to a different wavelength of
+--
+THE SUN'S CORONA
+
+   The Sun is the dominant source for visible-light waves our eyes
+   receive. The outer-most layer of the Sun's atmosphere, the corona, can
+   be seen in visible light. But it is so faint it cannot not be seen
+   except during a total solar eclipse because the bright photosphere
+   overwhelms it. The photograph below was taken during a total eclipse of
+--
+   field lines extending millions of miles into space.
+   A photograph of a solar eclipse revealing the dramatic coronal
+   streamers that are normally too faint to see over the intense light of
+   the sun's chromosphere.
+   Credit: © 2008 Miloslav Druckmüller, Martin Dietzel, Peter Aniol,
+--
+   their temperature.
+
+   Our Sun produces more yellow light than any other color because its
+   surface temperature is 5,500°C. If the Sun's surface were cooler—say
+   3,000°C—it would look reddish, like the star Betelgeuse. If the Sun
+--
+
+   Isaac Newton's experiment in 1665 showed that a prism bends visible
+   light and that each color refracts at a slightly different angle
+   depending on the wavelength of the color.
+   An image of the surface of the Sun appearing warm yellow. A temperature
+--
+   The High Resolution Imaging Science Experiment (HiRISE) camera on board
+   the MarsReconnaissance Orbiter (MRO) captured this spectacular visible
+   light image of Victoria Crater.Credit: NASA/JPL/University of Arizona
+
+SPECTRA AND SPECTRAL SIGNATURES
+
+   Close examination of the visible-light spectrum from our Sun and other
+   stars reveals a pattern of dark lines—called absorption lines. These
+   patterns can provide important scientific clues that reveal hidden
+   properties of objects throughout the universe. Certain elements in the
+   Sun's atmosphere absorb certain colors of light. These patterns of
+   lines within spectra act like fingerprints for atoms and molecules.
+   Looking at the Sun's spectrum, for example, the fingerprints for
+   elements are clear to those knowledgeable about those patterns.
+   An image of the full spectrum of visible light - the rainbow - with
+   dark lines appearing in the red, orange-yellow, and green-blue areas of
+   the spectrum. These dark lines indicate that these specific wavelengths
+--
+   reflectance. A graph of an object's reflectance across a spectrum is
+   called a spectral signature. Spectral signatures of different Earth
+   features within the visible light spectrum ARE shown below.
+   A graph showing wavelengths in nanometers on the x-axis and percent
+   reflectance on the y-axis. Snow, ice and clouds show a high reflectance
+--
+
+   Laser altimetry is an example of active remote sensing using visible
+   light. NASA's Geoscience Laser Altimeter System (GLAS) instrument
+   onboard the Ice, Cloud, and land Elevation Satellite (ICESat) enabled
+   scientists to calculate the elevation of Earth's polar ice sheets using
+--
+   with a super-imposed vertical profile revealing the height of ice in
+   and around the streams.
+   Credit: NASA/Goddard Space Flight Center
+
+   Next: Ultraviolet Waves
+--
+
+   National Aeronautics and Space Administration, Science Mission
+   Directorate. (2010). Visible Light. Retrieved [insert date - e.g.
+   August 10, 2016], from NASA Science website:
+   http://science.nasa.gov/ems/09_visiblelight
+
+MLA
+
+   Science Mission Directorate. "Visible Light" NASA Science. 2010.
+   National Aeronautics and Space Administration. [insert date - e.g. 10
+   Aug. 2016] http://science.nasa.gov/ems/09_visiblelight
+   Keep Exploring
+

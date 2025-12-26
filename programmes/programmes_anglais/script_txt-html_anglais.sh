@@ -14,7 +14,7 @@ while read -r url || [ -n "$url" ]; do
         nom_fichier="anglais_${compteur}.html"
         echo "Téléchargement ($compteur): $url"
 
-        wget -q -U "Mozilla/5.0" "$url" -O "$DOSSIER_DESTINATION/$compteur.html"
+        wget -q -U "Mozilla/5.0" "$url" -O "$DOSSIER_DESTINATION/$nom_fichier.html"
         sleep 1
         
         compteur=$((compteur+1))

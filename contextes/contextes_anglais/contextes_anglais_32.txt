@@ -1,0 +1,108 @@
+   Emerging from this backdrop is LiFi, a transformative alternative
+   poised to reshape our wireless communication experiences. By harnessing
+   the vast bandwidth of the light spectrum, LiFi promises speeds that can
+   eclipse conventional Wi-Fi by up to 100 times. But it’s not just about
+   speed. With LiFi, connecting to the internet could be as
+   straightforward as turning on a light. Utilizing LED-based light to
+   convey data, this technological shift guarantees rapid data transfer,
+   while also excelling in environments where electromagnetic interference
+--
+Decoding the Mechanics of LiFi
+
+   At its essence, LiFi operates as a Visible Light Communications (VLC)
+   system, promising unparalleled wireless internet speeds. Central to
+   this system are LED light bulbs. These bulbs emit swift light pulses,
+   imperceptible to the human eye, laden with information. It’s akin to an
+   advanced, hyper-speed Morse code. Devices fitted with the requisite
+--
+LiFi’s Inherent Security Edge
+
+   The modus operandi of LiFi, using light for data transfer, furnishes it
+   with intrinsic security advantages. A standout feature is the
+   confinement of light-bound data within its immediate environment,
+   courtesy of light’s inability to traverse walls. This characteristic
+   ensures that data interception by unauthorized entities outside the
+   designated space becomes a near impossibility, adding a robust layer of
+--
+
+   LiFi’s underpinning is both innovative and straightforward. The
+   technology relies on a modulated light frequency emitted by LED light
+   sources. When data needs to be transmitted, the LED’s brightness
+   oscillates at ultra-high speeds, too rapid for the human eye to
+   perceive. These oscillations or ‘flickers’ represent binary codes of 1s
+   and 0s—essentially the language of computers. On the receiving end, a
+   photosensitive detector captures these light signals. The detector then
+   demodulates the light fluctuations back into electronic data. Given the
+   sheer speed of these oscillations, vast amounts of data can be
+   transferred in a fraction of a second. Accompanying an explainer image,
+   this should provide a clearer visual representation of how LiFi’s
+   intricate dance of light translates into digital communication.
+   How LiFi works
+
+--
+   FormCraft - WordPress form builder
+
+WiFi (Wireless Fidelity) vs. LiFi (Light Fidelity)
+
+Advantages
+--
+   WiFi: WiFi transmits data using radio waves with the help of WiFi
+   router
+   LiFi: LiFi transmits data using light sources (presently LED bulbs)
+
+Privacy
+--
+   WiFi: WiFi is less secure because the signal cannot be blocked by walls
+   and most objects
+   LiFi: With LiFi, light is blocked by the walls and hence will provide
+   more secure data transfer
+
+   Looking at the data above, the biggest disadvantage of LiFi technology
+   is its coverage distance. Since light can’t pass through walls, the
+   signal’s range is limited by physical barriers.
+
+--
+   LiFi technology is poised to revolutionize wireless communication,
+   providing faster and more secure data transfer than traditional WiFi.
+   Although it functions similarly to WiFi, using light instead of radio
+   waves to transmit data, LiFi boasts vastly greater bandwidth capacity,
+   making it ideal for use in densely populated urban areas. In fact,
+--
+A Brief History of LiFi
+
+   LiFi technology, which stands for light fidelity, was introduced by
+   Professor Harald Haas in his 2011 TED Global talk. Haas, who is the
+   Chair of Mobile Communications at the University of Edinburgh,
+   co-founded pureLiFi, a company that produces LiFi products for
+   integration with LED-lighting systems.
+
+   In 2013, pureLiFi released the world’s first commercially available
+   LiFi technology, the Li-1st. This marked a groundbreaking milestone in
+   wireless communication technology. Two years later, pureLiFi partnered
+   with French lighting company Lucibel to launch the world’s first
+   industrialized LiFi solution, which has been deployed in multiple
+   locations, including Microsoft’s Paris headquarters.
+--
+   LiFi technology has been in development for over a decade, and many
+   LiFi products have been created since its inception. Companies across
+   various industries such as defense, healthcare, lighting, IT
+   infrastructure, telcos, and device integrators are working on LiFi
+   solutions for various use cases.
+--
+   developing LiFi products and marketing LiFi as the primary wireless
+   technology. The demand for fast internet access is increasing every day
+   and light fidelity could be the technology to meet this demand.
+
+   Many LiFi products have been created and are in development, and more
+--
+     * What is LiFi?
+     * LiFi vs WiFi
+     * Visible Light Communication
+     * LiFi Products
+     * LiFi Applications
+--
+     * What is LiFi?
+     * LiFi vs WiFi
+     * Visible Light Communication
+     * LiFi Products
+     * LiFi Applications

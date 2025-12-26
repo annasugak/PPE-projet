@@ -1,0 +1,19 @@
+
+   'Red shift' is a key concept for astronomers. The term can be
+   understood literally - the wavelength of the light is stretched, so the
+   light is seen as 'shifted' towards the red part of the spectrum.
+
+   Something similar happens to sound waves when a source of sound moves
+--
+   recedes.
+
+   Light behaves like a wave, so light from a luminous object undergoes a
+   Doppler-like shift if the source is moving relative to us. Ever since
+   1929, when Edwin Hubble discovered that the Universe is expanding, we
+   have known that most other galaxies are moving away from us. Light from
+   these galaxies is shifted to longer (and this means redder) wavelengths
+   - in other words, it is 'red-shifted'.
+
+   Since light travels at such a great speed relative to everyday
+   phenomena (a million times faster than sound) we do not experience this
+   red shift in our daily lives.

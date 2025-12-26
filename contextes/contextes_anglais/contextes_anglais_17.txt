@@ -1,0 +1,532 @@
+               o The optical image
+               o Historical background
+                    # Light rays, waves, and wavelets
+                    # The pinhole camera
+                    # Resolution and the Airy disk
+--
+                    # Lenses
+                    # Mirrors
+                    # Light sources
+                    # Detectors
+                    # Projection screens
+--
+               o Impulse response
+               o Transfer function
+          + Partially coherent light
+               o Development and examples of the theory
+               o The mutual coherence function
+--
+   Images & Videos
+   Are invisibility cloaks possible in reality?
+   Understand how a pinhole focuses light and why lenses are better than
+   pinholes
+   Reflection of light law of refraction refractive indices and dispersive
+   powers fibre optics refraction ray tracing Gauss theory of lenses
+   telescopic rifle sight
+--
+   optics summary
+   Related Questions
+     * Why is light important for life on Earth?
+
+   (BUTTON)
+--
+     * RMIT University Pressbooks - Optics 1: lenses and ocular devices
+     * Physics LibreTexts - Optics
+     * University of Colorado Boulder - Department of Physics - Light and
+       Optics
+     * Journal of Emerging Technologies and Innovative Research - Laser
+--
+     * CiteSeerX - Optical Information Processing: Past, Present, and
+       Future
+     * VIVA Open Publishing - Introduction to Petrology - Light and Optics
+       Part 1: Electromagnetic Spectrum, Properties of Light
+     * The National Academies Press - Harnessing Light: Optical Science
+       and Engineering for the 21st Century - Overview
+
+--
+   Top Questions
+     * What is optics?
+     * What is light and how does it help us see things?
+     * What is reflection, and how does a mirror work?
+     * What is refraction, and why does a straw look bent in a glass of
+       water?
+     * What are lenses, and how do they change the direction of light?
+     * How are optics used in eyeglasses, cameras, and telescopes?
+
+--
+   See all videos for this article
+
+   optics, science concerned with the genesis and propagation of light,
+   the changes that it undergoes and produces, and other phenomena closely
+   associated with it. There are two major branches of optics, physical
+   and geometrical. Physical optics deals primarily with the nature and
+   properties of light itself. Geometrical optics has to do with the
+   principles that govern the image-forming properties of lenses, mirrors,
+   and other devices that make use of light. It also includes optical data
+   processing, which involves the manipulation of the information content
+   of an image formed by coherent optical systems.
+--
+   be developed, these were naturally called optical instruments, and the
+   meaning of the term optics eventually became broadened to cover any
+   application of light, even though the ultimate receiver is not the eye
+   but a physical detector, such as a photographic plate or a television
+   camera. In the 20th century optical methods came to be applied
+--
+
+   In the present article the image-forming properties of lenses, mirrors,
+   and other devices that make use of light are considered. The wave and
+   quantum nature of light, its velocity, wavelength, polarization,
+   diffraction, and interference may be found in light. The analysis of
+   light into its component colours by prisms and gratings forms the basis
+   of the extensive field of spectroscopy, the principles of which are
+   discussed in spectroscopy. For information about the reception of light
+   by the retina of the eye and the interpretation of images by the brain,
+   see eye, human.
+--
+
+   An optical image may be regarded as the apparent reproduction of an
+   object by a lens or mirror system, employing light as a carrier. An
+   entire image is generally produced simultaneously, as by the lens in a
+   camera, but images may also be generated sequentially by point-by-point
+--
+   pictures across long distances in space. Nevertheless, the final
+   detector of all images is invariably the human eye, and, whatever means
+   is used to transmit and control the light, the final image must either
+   be produced simultaneously or scanned so rapidly that the observer’s
+   persistence of vision will give him the mental impression of a complete
+--
+   vision, something moved from the object to the eye or whether something
+   reached out from the eye to the object. By the beginning of the 17th
+   century, however, it was known that rays of light travel in straight
+   lines, and in 1604 Johannes Kepler, a German astronomer, published a
+   book on optics in which he postulated that an extended object could be
+   regarded as a multitude of separate points, each point emitting rays of
+   light in all directions. Some of these rays would enter a lens, by
+   which they would be bent around and made to converge to a point, the
+   “image” of the object point whence the rays originated. The lens of the
+--
+   by aberrations, diffraction, or even defocussing. In 1957 the Italian
+   physicist Vasco Ronchi went the other way and defined an image as any
+   recognizable nonuniformity in the light distribution over a surface
+   such as a screen or film; the sharper the image, the greater the degree
+   of nonuniformity. Today, the concept of an image often departs from
+   Kepler’s idea that an extended object can be regarded as innumerable
+   separate points of light, and it is sometimes more convenient to regard
+   an image as being composed of overlapping patterns of varying
+   frequencies and contrasts; hence, the quality of a lens can be
+--
+   information and communication theory, which is treated at length below.
+
+Light rays, waves, and wavelets
+
+   A single point of light, which may be a point in an extended object,
+   emits light in the form of a continually expanding train of waves,
+   spherical in shape and centred about the point of light. It is,
+   however, often much more convenient to regard an object point as
+   emitting fans of rays, the rays being straight lines everywhere
+   perpendicular to the waves. When the light beam is refracted by a lens
+   or reflected by a mirror, the curvature of the waves is changed, and
+   the angular divergence of the ray bundle is similarly changed in such a
+--
+   perfect point, and the emerging waves are then not truly spherical.
+
+   In 1690 Christiaan Huygens, a Dutch scientist, postulated that a light
+   wave progresses because each point in it becomes the centre of a little
+   wavelet travelling outward in all directions at the speed of light,
+   each new wave being merely the envelope of all these expanding
+   wavelets. When the wavelets reach the region outside the outermost rays
+   of the light beam, they destroy each other by mutual interference
+   wherever a crest of one wavelet falls upon a trough of another wavelet.
+   Hence, in effect, no waves or wavelets are allowed to exist outside the
+   geometrical light beam defined by the rays. The normal destruction of
+   one wavelet by another, which serves to restrict the light energy to
+   the region of the rectilinear ray paths, however, breaks down when the
+   light beam strikes an opaque edge, for the edge then cuts off some of
+   the interfering wavelets, allowing others to exist, which diverge
+   slightly into the shadow area. This phenomenon is called diffraction,
+   and it gives rise to a complicated fine structure at the edges of
+   shadows and in optical images.
+--
+The pinhole camera
+
+   Understand how a pinhole focuses light and why lenses are better than
+   pinholes
+   Understand how a pinhole focuses light and why lenses are better than
+   pinholesLearn how a pinhole can focus light and about the advantages of
+   lenses over pinholes. (BUTTON) (more)
+   See all videos for this article
+--
+   the well-known pinhole camera. If the pinhole is large, the diverging
+   geometrical pencil of rays leads to a blurred image, because each point
+   in the object will be projected as a finite circular patch of light on
+   the film. The spreading of the light at the boundary of a large pinhole
+   by diffraction is slight. If the pinhole is made extremely small,
+   however, the geometrical patch then becomes small, but the diffraction
+   spreading is now great, leading once more to a blurred picture. There
+--
+   focal length to aperture. In this example, the f-number is 100/0.32 =
+   310, designated f/310. Modern camera lenses have much greater
+   apertures, in order to achieve light-gathering power, of around
+   f/1.2–f/5.6.
+
+--
+   diffraction spreading becomes small indeed. The image of a point formed
+   by a perfect lens is a minute pattern of concentric and progressively
+   fainter rings of light surrounding a central dot, the whole structure
+   being called the Airy disk after George Biddell Airy, an English
+   astronomer, who first explained the phenomenon in 1834. The Airy disk
+--
+   the f-number of the lens expressed in microns (0.001 millimetre). The
+   Airy disk of an f/4.5 lens is therefore about 0.0045 millimetre in
+   diameter (ten times the wavelength of blue light). Nevertheless, the
+   Airy disk formed by a telescope or microscope objective can be readily
+   seen with a bright point source of light if a sufficiently high
+   eyepiece magnification is used.
+
+--
+   The angular resolution of a telescope is equal to the angle subtended
+   by the least resolvable image separation at the focal length of the
+   objective, the light-gathering lens. This works out at about four and a
+   half seconds of arc divided by the diameter of the objective in inches.
+
+--
+
+   As noted above, when a perfect lens forms an image of a point source of
+   light, the emerging wave is a sphere centred about the image point. The
+   optical paths from all points on the wave to the image are therefore
+   equal, so that the expanding wavelets are all in phase (vibrating in
+--
+   are then not all equal. In such a case some wavelets will reach the
+   image as a peak, some as a trough, and there will be much destructive
+   interference leading to the formation of a sizable patch of light, much
+   different from the minute Airy disk characteristic of a perfectly
+   corrected lens. In 1879 Rayleigh studied the effects of phase
+--
+   will not be seriously degraded unless the path differences between one
+   part of the wave and another exceed one-quarter of the wavelength of
+   light. As this difference represents only 0.125 micron (5 × 10^−6
+   inch), it is evident that an optical system must be designed and
+   constructed with almost superhuman care if it is to give the best
+--
+Reflection
+
+   Reflection of light (BUTTON)
+   Reflection of lightIn the reflection of light, the angle of incidence
+   is equal to the angle of reflection, measured from the normal (the line
+   perpendicular to the point of impact). (BUTTON) (more)
+
+   The use of polished mirrors for reflecting light has been known for
+   thousands of years, and concave mirrors have long been used to form
+   real images of distant objects. Indeed, Isaac Newton greatly preferred
+--
+   of a mirror, all large telescopes today are of this type.
+
+   When a ray of light is reflected at a polished surface, the angle of
+   reflection between ray and normal (the line at right angles to the
+   surface) is exactly equal to the angle of incidence. It can be seen
+--
+   a concave mirror forms a real image. A plane mirror forms a virtual
+   image of near objects, as in the familiar looking glass. Plane mirrors
+   are often used in instruments to bend a beam of light into a different
+   direction.
+
+The law of refraction
+
+   When a ray of light meets the surface of separation between two
+   transparent media, it is sharply bent or refracted. Because rays are
+   really only directions and have no physical existence, the passage of
+   light waves through a surface must be considered if refraction is to be
+   understood. Refraction effects are based on the fact that light travels
+   more slowly in a denser medium. The ratio of the velocity of light in
+   air to its velocity in the medium is called the refractive index of the
+   medium for light of a particular colour or wavelength. The refractive
+   index is higher for blue light than for light at the red end of the
+   spectrum.
+   law of refraction (BUTTON)
+   law of refractionFigure 1: The law of refraction. Plane light wave at
+   position AA′ in medium of index n and BB′ in medium of index n′ (see
+   text). (BUTTON) (more)
+
+   In Figure 1, AA′ represents a plane wave of light at the instant that
+   A′ meets the plane refracting surface A′B separating two media having
+   refractive indices n and n′, respectively. During the time taken by the
+   light to travel from A to B in material n, light travels from A′ to B′
+   in material of refractive index n′, forming the new wave BB′ in the
+   second material, proceeding in direction BC. Hence, the relationship
+--
+   refracted waves, respectively.
+
+   Returning now to the convention of considering the movement of light in
+   terms of rays because entering and emerging rays are always
+   perpendicular to the light waves they represent, angles I and I′ also
+   denote the angles between the entering and emerging rays and the normal
+   (perpendicular) line to the refracting surface at B.
+--
+
+   The difference between the refractive indices of a transparent material
+   for a specific blue light and a specific red light is known as the
+   dispersion of the material. The usual choices of blue and red lights
+   are the so-called “F” and “C” lines of hydrogen in the solar spectrum,
+   named by Fraunhofer, with wavelengths 4861 and 6563 angstroms (the
+--
+Total internal reflection
+
+   When a ray of light emerges obliquely from glass into air, the angle of
+   refraction between ray and normal is greater than the angle of
+   incidence inside the glass, and at a sufficiently high obliquity the
+--
+   total internal reflection occurs, for there is no measurable loss if
+   the glass surface is perfectly clean. Dirt or dust on the surface can
+   cause a small loss of energy by scattering some light into the air.
+   fibre optics (BUTTON)
+   fibre opticsThe hair-thin fibres used in fibre optics. (BUTTON) (more)
+
+   Light is totally internally reflected in many types of reflecting prism
+   and in fibre optics, in which long fibres of high-index glass clad with
+   a thin layer of lower index glass are assembled side-by-side in precise
+   order. The light admitted into one end of each fibre is transmitted
+   along it without loss by thousands of successive internal reflections
+   at the interlayer between the glass and the cladding. Hence, an image
+--
+   photographed. Many modern medical instruments, such as cystoscopes and
+   bronchoscopes, depend for their action on this principle. Single thick
+   fibres (actually glass rods) are sometimes used to transmit light
+   around corners to an otherwise inaccessible location.
+
+--
+   where the emerging paraxial ray crosses the axis is called the focal
+   point F[2], the distance from P[2] to F[2] being the (posterior) focal
+   length f′. A similar situation exists for a parallel beam of light
+   entering from the right, giving the anterior principal point P[1], the
+   anterior focal point F[1], and the front focal length f. For a lens in
+--
+
+   An optical system consists of a succession of elements, which may
+   include lenses, mirrors, light sources, detectors, projection screens,
+   reflecting prisms, dispersing devices, filters and thin films, and
+   fibre-optics bundles.
+--
+
+   All optical systems have an aperture stop somewhere in the system to
+   limit the diameter of the beams of light passing through the system
+   from an object point. By analogy with the human eye, this limiting
+   aperture stop is called the iris of the system, its images in the
+--
+   elements cut into the oblique beams and prevent the beams from being
+   perfectly circular, and the pupils are then not fully filled with
+   light. This effect is known as vignetting and leads to a reduction in
+   illumination in the outer parts of the field of view.
+   telescopic rifle sight (BUTTON)
+--
+   in the common rifle sight shown diagrammatically in Figure 6. Here the
+   front lens A is the objective, forming an inverted image of the target
+   on the cross wire or reticle at B. The light then proceeds to the relay
+   lens C, which forms a second image, now erect, at D. Beyond this image
+   is the eyepiece E to render the light parallel so that the image may be
+   seen sharply by the observer. Unfortunately, the oblique beam from the
+   objective will usually miss the relay lens, and so a field lens must be
+--
+
+   Mirrors are frequently used in optical systems. Plane mirrors may be
+   employed to bend a beam of light in another direction, either for
+   convenience or to yield an image reversed left for right if required.
+   Curved mirrors, concave and convex, may be used in place of lenses as
+--
+   been tried, including one to support it on a bag of compressed air, the
+   problem of completely eliminating mirror distortion remains unsolved. A
+   metal mirror, if well ribbed on the back, may be lighter than a glass
+   mirror and therefore easier to handle, but most metals are slightly
+   flexible and require just as careful support as glass mirrors. Since
+   temperature changes can also cause serious distortion in a mirror,
+--
+   possible.
+
+Light sources
+
+   Many types of optical instruments form images by natural light, but
+   some, such as microscopes and projectors, require a source of
+   artificial light. Tungsten filament lamps are the most common, but if a
+   very bright source is required, a carbon or xenon arc is employed. For
+   some applications, mercury or other gas discharge tubes are used; a
+   laser beam is often employed in scientific applications. Laser light is
+   brilliant, monochromatic, collimated (the rays are parallel), and
+   coherent (the waves are all in step with each other), any or all of
+--
+   beyond it, have been developed. These include photoelectric cells of
+   various kinds in which either a voltage or a resistance is modified by
+   light falling on the device. Many new types of detectors are sensitive
+   far into the infrared spectrum and are used to detect the heat radiated
+   by a flame or other hot object. A number of image intensifiers and
+--
+   become common. An extreme example of electro-optics appears in some
+   space cameras, in which the film is exposed, processed, and then
+   scanned by a tiny point of light; the light passing through the film is
+   picked up by a photocell and transmitted to Earth by radio, where it is
+   made to control the brightness of another point of light scanning a
+   second piece of film in exact synchronism with the scanning spot in the
+   camera. The whole system thus produces a picture on Earth that is an
+--
+   Improved screen materials have been developed to increase the
+   brightness of the picture to suit the particular shape of the
+   auditorium. A screen covered with tiny beads tends to send the light
+   back in the general direction of the projector, and is suitable for use
+   at one end of a long, narrow auditorium. Another type of screen is
+   covered with fine embossed vertical grooves; this tends to distribute
+   the light in a horizontal band across the audience with little or no
+   vertical spread. A real advantage of these highly reflective screens is
+   that they tend to reflect ambient room light away from the viewer as by
+   a mirror, so that the pictures appear almost as bright and clear by day
+   as in a darkened room.
+--
+
+   Reflecting prisms are pieces of glass bounded by plane surfaces set at
+   carefully specified angles. Some of these surfaces transmit light, some
+   reflect light, while some serve both functions in succession. A prism
+   is thus an assembly of plane reflectors at relatively fixed angles,
+   which are traversed in succession by a beam of light.
+   Porro prism (BUTTON)
+   Porro prismFigure 7: Porro prism. (BUTTON) (more)
+--
+   The simplest prism is a triangular block of glass with two faces at
+   right angles and one at an angle of 45°. The face at 45° deflects a
+   beam of light through a right angle. The common Porro prism used in a
+   pair of binoculars contains four 45° reflecting surfaces, two to
+   reverse the beam direction in the vertical plane and two in the
+--
+   Prisms containing a semireflecting, semitransmitting surface are known
+   as beam splitters and as such have many uses. An important application
+   is found in some colour television cameras, in which the light from the
+   lens is divided by two beam splitters in succession to form red, green,
+   and blue images on the faces of three image tubes in the camera.
+--
+
+   There are two forms of dispersing element used to spread out the
+   constituent colours of a beam of light into a “spectrum,” namely a
+   prism and a grating. The prism, known to Newton, is the older; it
+   separates the colours of the spectrum because the refractive index of
+   the glass is lowest for red light and progressively increases through
+   the yellow and green to the blue, where it is highest. Prism
+   spectroscopes and spectrographs are made in a variety of forms and
+--
+   having many thousands of fine parallel grooves to the inch. It
+   separates the colours of the spectrum by a process of diffraction. Each
+   groove diffracts, or scatters, light in all directions, and in the case
+   of light of one particular wavelength, there will be one direction in
+   which the light wave from one groove lags behind the light wave from
+   the next groove by precisely one or more whole wavelengths. This
+   results in a strong beam of diffracted light in that direction and
+   darkness in all other directions. Since each spectral colour
+   corresponds to a different wavelength, the grating spreads out the
+--
+
+   A colour filter is a sheet of transparent material that modifies a
+   light beam by selective absorption of some colours in relation to
+   others. A neutral filter absorbs all wavelengths equally and merely
+   serves to reduce the intensity of a beam of light without changing its
+   colour.
+
+--
+   gelatin, and in some cases glass cells filled with liquid have been
+   used. Since World War II, another type of filter depending on the
+   interference of light has been developed in which one or more metallic
+   or other types of films of controlled thickness have been deposited on
+   a glass plate, the layers being so thin as to cause selective
+--
+   instead of being absorbed.
+
+   Polarizing filters have the property of transmitting light that
+   vibrates in one direction while absorbing light that vibrates in a
+   perpendicular direction. These filters are used extensively in
+   scientific instruments. In sunglasses and when placed over a camera
+--
+
+   optical fibre (BUTTON)
+   optical fibreLight ray passing through an optical fibre. (BUTTON)
+   (more)
+
+   As noted earlier, a thin rod or fibre of glass or other transparent
+   material transmits light by repeated internal reflections, even when
+   the rod is somewhat curved. An ordered bundle of rods or fibres is thus
+   capable of taking an image projected upon one end of the bundle and
+--
+   save weight, each ring being a portion of what would normally be a
+   continuous spherical surface but flattened out. On a large scale,
+   Fresnel lenses have been used in lighthouses, floodlights, and traffic
+   signals, and as cylindrical ship’s lanterns. With fine steps a few
+   thousandths of an inch wide, molded plastic Fresnel lenses are often
+--
+   source, lying along the lens axis; for this reason they are commonly
+   referred to as axicons. They have been used to produce a straight line
+   of light in space for aligning machines and shafting, but since about
+   1965 the beam from a gas laser has generally been used instead.
+
+--
+
+   If a lens were perfect and the object were a single point of
+   monochromatic light, then, as noted above, the light wave emerging from
+   the lens would be a portion of a sphere centred about the ideal image
+   point, lying in the paraxial image plane at a height above the axis
+   given by the Lagrange theorem. In practice, however, this condition is
+   most unlikely to occur; it is much more probable that the emerging wave
+   will depart slightly from a perfect sphere, the departure varying from
+   point to point over the lens aperture. This departure is extremely
+   small, being of the order of the wavelength of light that is only half
+   a micron, so it would be impossible to show this departure on a
+   drawing. It can be represented mathematically, however, in the
+--
+   times the minor axis. The images formed by all the smaller zones of the
+   lens fit into this ellipse and fill it out with a uniform intensity of
+   light. If the image plane is moved along the axis by a distance L, as
+   in focussing a camera, then, at L = 2f ^2h[0]′^2S[3], the ellipse
+   shrinks to a radial focal line (R). Twice this displacement yields a
+--
+   surface of the Sun down to about 3 × 10^−6 candle per square centimetre
+   (3 × 10^−6 stilb) for the luminous paint on a watch dial. Ordinary
+   outdoor scenes in daylight have an average luminance of several hundred
+   candles per square foot. The quantity of light flux flowing out from a
+   source is measured in lumens, the lumen being defined as the amount of
+   flux radiated by a small “point” source of one candle power into a cone
+   having a solid angle of one steradian. When light falls upon a surface
+   it produces illumination (i.e., illuminance), the usual measure of
+   illuminance being the foot-candle, which is one lumen falling on each
+--
+   It is often important to be able to calculate the brightness of an
+   image formed by an optical system, because photographic emulsions and
+   other light receptors cannot respond satisfactorily if the light level
+   is too low. The problem is to relate the luminance of an object with
+   the illuminance in the image, knowing the transmittance and aperture of
+   the optical system. A small area A of a plane object having a luminance
+   of B candles per square unit will have a normal intensity of AB
+   candles. This source radiates light into a cone of semi-angle U,
+   limited, for example, by the rim of a lens. The light flux (F) entering
+   the cone can be found by integration to be Equation.
+
+--
+   often important. In the absence of any lens, the small plane source
+   already considered radiates in a direction inclined at an angle ϕ to
+   the axis with an intensity AB cos ϕ. This light has to travel farther
+   than the axial light to reach a screen, and then it strikes the screen
+   at another angle ϕ. The net result is that the oblique illumination on
+   the screen is smaller than the axial illumination by the factor cos^4
+--
+
+   The same law can be applied to determine the oblique illumination due
+   to a lens, assuming a uniform extended diffusing source of light on the
+   other side of the lens. In this case, however, the exit pupil will not
+   in general be a perfect circle because of possible distortion of the
+--
+   telescope, can possibly make anything appear brighter than when viewed
+   directly. To be sure, a telescope having a large objective lens accepts
+   more light from an object in proportion to the area of the lens
+   aperture, but it magnifies the image area in the same proportion; so
+   the increased light is spread over an increased area of the retina, and
+   the illuminance remains unchanged. Actually, the telescopic view is
+   always dimmer than the direct view because of light losses in the
+   telescope due to glass absorption and surface reflections and because
+   the exit pupil of the telescope may be smaller than the pupil of the
+--
+   The case of a star being observed through a telescope is quite
+   different, because no degree of magnification can possibly make a star
+   appear as anything other than a point of light. Hence, star images
+   appear brighter in proportion to the area of the telescope objective
+   (assuming that the exit pupil is larger than the eye pupil), and the

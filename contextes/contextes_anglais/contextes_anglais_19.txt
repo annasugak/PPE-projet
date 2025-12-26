@@ -1,0 +1,181 @@
+     * Vibrations and Waves
+     * Sound Waves and Music
+     * Light and Color
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+     * Vibrations and Waves
+     * Sound Waves
+     * Light and Color
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+     * Electromagnetism
+     * Waves and Sound
+     * Light and Color
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+     * Vibrational Motion
+     * Waves and Sound
+     * Light and Color
+     * Reflection and Refraction
+     * Chemistry
+--
+     * Wave Motion
+     * Sound and Music
+     * Light and Color
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+     * Vibrations and Waves
+     * Sound Waves
+     * Light Waves
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+     * Waves
+     * Sound Waves
+     * Light Waves
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+     * Wave Basics
+     * Sound and Music
+     * Light and Color
+     * Reflection and Mirrors
+     * Refraction and Lenses
+--
+          + Vibrations and Waves
+          + Sound Waves and Music
+          + Light and Color
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+          + Vibrations and Waves
+          + Sound Waves
+          + Light and Color
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+          + Electromagnetism
+          + Waves and Sound
+          + Light and Color
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+          + Vibrational Motion
+          + Waves and Sound
+          + Light and Color
+          + Reflection and Refraction
+          + Chemistry
+--
+          + Wave Motion
+          + Sound and Music
+          + Light and Color
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+          + Vibrations and Waves
+          + Sound Waves
+          + Light Waves
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+          + Waves
+          + Sound Waves
+          + Light Waves
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+          + Wave Basics
+          + Sound and Music
+          + Light and Color
+          + Reflection and Mirrors
+          + Refraction and Lenses
+--
+   The Physics Classroom » Physics Tutorial » Refraction and Lenses »
+   Snell's Law
+   Refraction and the Ray Model of Light - Lesson 2 - The Mathematics of
+   Refraction
+
+--
+   Useful for the Check Your Understanding and See Answers.
+
+   Refraction is the bending of the path of a light wave as it passes
+   across the boundary separating two media. Refraction is caused by the
+   change in speed experienced by a wave when it changes medium. Lesson 1,
+   focused on the topics of "What causes refraction?" and "Which direction
+   does light refract?" In that lesson, we learned that light can either
+   refract towards the normal (when slowing down while crossing the
+   boundary) or away from the normal (when speeding up while crossing the
+   boundary). The focus of Lesson 2 is upon the question of "By how much
+   does light refract when it crosses a boundary?" In the first part of
+   Lesson 2, we learned that a comparison of the angle of refraction to
+   the angle of incidence provides a good measure of the refractive
+   ability of any given boundary. The more that light refracts, the bigger
+   the difference between these two angles. In this part of Lesson 2, we
+   will learn about a mathematical equation relating these two angles and
+--
+   exact center of the dish. The angle of incidence can be measured at the
+   point of incidence. This ray will refract, bending towards the normal
+   (since the light is passing from a medium in which it travels fast into
+   one in which it travels slow - FST). Once the light ray enters the
+   water, it travels in a straight line until it reaches the second
+   boundary. At the second boundary, the light ray is approaching along
+   the normal to the curved surface (this stems from the geometry of
+   circles). The ray does not refract upon exiting since the angle of
+   incidence is 0-degrees (recall the If I Were An Archer Fish page). The
+   ray of laser light therefore exits at the same angle as the refracted
+   ray of light made at the first boundary. These two angles can be
+   measured and recorded. The angle of incidence of the laser beam can be
+   changed to 5-degrees and new measurements can be made and recorded.
+--
+
+   The equation relating the angles of incidence (Θ[i]) and the angle of
+   refraction (Θ[r]) for light passing from air into water is given as
+
+                                [u14l2b3.gif]
+--
+   proportionality would be 1.51 - the index of refraction value of
+   Plexiglas. This is not just a coincidence. The same pattern would
+   result for light traveling from air into any material. Experimentally,
+   it is found that for a ray of light traveling from air into some
+   material, the following equation can be written.
+
+--
+           where n[material] = index of refraction of the material
+
+   This study of the refraction of light as it crosses from one material
+   into a second material yields a general relationship between the sines
+   of the angle of incidence and the angle of refraction. This general
+--
+   This relationship between the angles of incidence and refraction and
+   the indices of refraction of the two media is known as Snell's Law.
+   Snell's law applies to the refraction of light in any situation,
+   regardless of what the two media are.
+
+--
+
+   Snell's Law provides the quantitative means of answering the question
+   of "By how much does the light ray refract?" The task of answering this
+   question involves using indices of refraction and the angle of
+   incidence values in order to determine the angle of refraction. This
+--
+Flickr Physics Photo
+
+   Laser light is shown passing into and out of a hemi-cylindrical dish
+   filled with water. The light enters the water (at the curved side of
+   the dish) along the normal line; no bending occurs upon entry. The
+   light continues through the water along a straight line until it
+   reaches the boundary with air (at the flat side of the dish). The angle
+   of incidence in the water is approximately 39°. At this angle, the
+   light refracts out of the water into the surrounding air bending away
+   from the normal. The angle of refraction in the air is approximately
+   57°. These values for the angle of incidence and refraction are
+--
+   Interactives section of our website. These Interactives provide the
+   learner an interactive enivronment for exploring the refraction and/or
+   reflection of light at a boundary between two materials.
+   Visit:  Refraction Interactive  ||  Least Time Principle Interactive
+

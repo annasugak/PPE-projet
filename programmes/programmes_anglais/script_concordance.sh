@@ -7,39 +7,42 @@ MOTIF="[Ll]ight"
 mkdir -p "$DOSSIER_CIBLE"
 
 for fichier_txt in "$DOSSIER_SOURCE"/*.txt; do
-    [ -e "$fichier_txt" ] || continue
 
+    [ -e "$fichier_txt" ] || continue
 
     nom_fichier=$(basename "$fichier_txt" .txt)
     fichier_html="$DOSSIER_CIBLE/concordance_${nom_fichier}.html"
-    echo "<html>
-<html lang=\"en\">
-<head>
-    <meta charset=\"utf-8\" />
-    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-    <title>Key Word in Context - $nom_base</title>
-</head>
-<body>
-    <h1 class=\"title\">Key Word in Context : $nom_base</h1>
-    <table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">
-        <thead>
-            <tr>
-                <th class=\"has-text-right\">Left Context</th>
-                <th class=\"has-text-centered\">Keyword</th>
-                <th class=\"has-text-left\">Right Context</th>
-            </tr>
-        </thead>
-        <tbody>" > "$fichier_html"
+    
 
-    grep -Pio ".{0,80}$MOTIF.{0,80}" "$fichier_txt" | while read -r line; do
+    echo "<!DOCTYPE html>" > "$fichier_html"
+    echo "<html lang=\"en\">" >> "$fichier_html"
+    echo "<head>" >> "$fichier_html"
+    echo "    <meta charset=\"UTF-8\">" >> "$fichier_html"
+    echo "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">" >> "$fichier_html"
+    echo "    <title>Concordance - $nom_fichier</title>" >> "$fichier_html"
+    echo "</head>" >> "$fichier_html"
+    echo "<body>" >> "$fichier_html"
+    echo "    <div class=\"container\">" >> "$fichier_html"
+    echo "        <h1 class=\"title mt-5\">Concordance : $nom_fichier</h1>" >> "$fichier_html"
+    echo "        <table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">" >> "$fichier_html"
+    echo "            <thead>" >> "$fichier_html"
+    echo "                <tr>" >> "$fichier_html"
+    echo "                    <th class=\"has-text-right\" style=\"width:45%\">Contexte gauche</th>" >> "$fichier_html"
+    echo "                    <th class=\"has-text-centered has-text-danger\">Mot</th>" >> "$fichier_html"
+    echo "                    <th class=\"has-text-left\" style=\"width:45%\">Contexte droit</th>" >> "$fichier_html"
+    echo "                </tr>" >> "$fichier_html"
+    echo "            </thead>" >> "$fichier_html"
+    echo "            <tbody>" >> "$fichier_html"
 
-        echo "$line" | perl -C -pe "use utf8; s/^(.*?)($MOTIF)(.*)$/<tr><td class=\"has-text-right\">\$1<\/td><td class=\"has-text-danger has-text-centered\">\$2<\/td><td class=\"has-text-left\">\$3<\/td><\/tr>/" >> "$fichier_html"
-    done
 
-    echo "        </tbody>
-    </table>
-</body>
-</html>" >> "$fichier_html"
+    grep -h -E -o ".{0,30}${MOTIF}.{0,30}" "$fichier_txt" | \
+    sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' | \
+    sed -E "s/(.*)($MOTIF)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-centered has-text-danger\"><strong>\2<\/strong><\/td><td class=\"has-text-left\">\3<\/td><\/tr>/" >> "$fichier_html"
+
+    echo "            </tbody>" >> "$fichier_html"
+    echo "        </table>" >> "$fichier_html"
+    echo "    </div>" >> "$fichier_html"
+    echo "</body>" >> "$fichier_html"
+    echo "</html>" >> "$fichier_html"
+
 done
-

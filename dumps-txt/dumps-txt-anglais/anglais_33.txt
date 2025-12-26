@@ -1,0 +1,764 @@
+   Explain that Stuff
+
+     * Home
+     * A-Z index
+     * Random article
+     * Timeline
+     * Teaching guide
+     * About us
+     * Privacy & cookies
+
+   You are here: Home page > Science > Lasers
+
+   Laser align experiment showing red, green, and yellow laser beams
+   intersecting in a glass prism.
+
+Lasers
+
+     *
+     *
+     *
+     *
+
+       IFRAME:
+       https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.ex
+       plainthatstuff.com%2Flasers.html&width=90&layout=button_count&actio
+       n=like&size=small&share=false&height=21&appId=1678539732394615
+
+   by Chris Woodford. Last updated: November 28, 2024.
+
+   Lasers are amazing light beams powerful enough to zoom miles into the
+   sky or cut through lumps of metal. Although they seem pretty recent
+   inventions, they've actually been with us over half a century: the
+   theory was figured out in 1958; the first practical laser was built in
+   1960. At that time, lasers were thrilling examples of cutting-edge
+   science: secret agent 007, James Bond, was almost chopped in half by a
+   laser beam in the 1964 film Goldfinger. But apart from Bond villains,
+   no-one else had any idea what to do with lasers; famously, they were
+   described as "a solution looking for a problem." [1] Today, we all have
+   lasers in our homes (in CD and DVD players), in our offices (in laser
+   printers), and in the stores where we shop (in barcode scanners). Our
+   clothes are cut with lasers, we fix our eyesight with them, and we send
+   and receive emails over the Internet with signals that lasers fire down
+   fiber-optic cables. Whether we realize it or not, all of us use lasers
+   all day long, but how many of us really understand what they are or how
+   they work?
+
+   The basic idea of a laser is simple. It's a tube that concentrates
+   light over and over again until it emerges in a really powerful beam.
+   But how does this happen, exactly? What's going on inside a laser?
+   Let's take a closer look!
+
+   Photo: A scientific experiment to check the alignment of optical
+   equipment using laser beams, carried out at the US Navy's Naval Surface
+   Warfare Center (NSWC). Photo by Greg Vojtko courtesy of US Navy and
+   Wikimedia Commons.
+
+   Sponsored links
+
+   Atoms Under the Floorboards banner promotion [INS: :INS]
+
+Contents
+
+    1. What is a laser?
+    2. How lasers work
+    3. How do lasers make light?
+          + Spontaneous emission
+          + Stimulated emission
+          + What makes laser light so different?
+    4. Types of lasers
+    5. What are lasers used for?
+          + Tools
+          + Communications
+          + Defense
+    6. Who invented lasers?
+    7. Find out more
+
+What is a laser?
+
+   Lasers are more than just powerful flashlights.
+
+   The difference between ordinary light and laser light is like the
+   difference between ripples in your bathtub and huge waves on the sea.
+   You've probably noticed that if you move your hands back and forth in
+   the bathtub you can make quite strong waves. If you keep moving your
+   hands in step with the waves you make, the waves get bigger and bigger.
+   Imagine doing this a few million times in the open ocean. Before long,
+   you'd have mountainous waves towering over your head! A laser does
+   something similar with light waves. It starts off with weak light and
+   keeps adding more and more energy so the light waves become ever more
+   concentrated.
+
+   Photo: It's much easier to make laser beams follow precise paths than
+   ordinary light beams, as in this experiment to develop better solar
+   cells. Picture by Warren Gretz courtesy of US DOE/NREL (Department of
+   Energy/National Renewable Energy Laboratory).
+
+   Laser beams follow precise paths between mirrors in a laboratory
+   experiment.
+
+   If you've even seen a laser in a science lab, you'll have noticed two
+   very important differences straightaway:
+     * Where a flashlight produces "white" light (a mixture of all
+       different colors, made by light waves of all different
+       frequencies), a laser makes what's called monochromatic light (of a
+       single, very precise frequency and color—often bright red or green
+       or an invisible "color" such as infrared or ultraviolet).
+     * Where a flashlight beam spreads out through a lens into a short and
+       fairly fuzzy cone, a laser shoots a much tighter, narrower beam
+       over a much longer distance (we say it's highly collimated).
+
+   There's a third important difference you won't have noticed:
+     * Where the light waves in a flashlight beam are all jumbled up (with
+       the crests of some beams mixed with the troughs of others), the
+       waves in laser light are exactly in step: the crest of every wave
+       is lined up with the crest of every other wave. We say laser light
+       is coherent. Think of a flashlight beam as a crowd of commuters,
+       pushing and shoving, jostling their way down the platform of a
+       railroad station; by comparison, a laser beam is like a parade of
+       soldiers all marching precisely in step.
+
+   These three things make lasers precise, powerful, and amazingly useful
+   beams of energy.
+
+How lasers work
+
+   Before you can understand how a laser works, you need to know how an
+   atom can give off light. If you're not sure how this happens, take a
+   look at the box how atoms make light in our introductory article about
+   light.
+
+   A laser is effectively a machine that makes billions of atoms pump out
+   trillions of photons (light particles) all at once so they line up to
+   form a really concentrated light beam.
+
+What do you need to make a laser?
+
+   We need two basic parts:
+    1. A load of atoms (a solid, liquid, or gas) with electrons in them
+       that we can stimulate. This is known as the medium or, sometimes,
+       the amplifying or "gain" medium (because gain is another word for
+       amplification).
+    2. Something to stimulate the atoms with, such as a flash tube (like
+       the xenon flash lamp in a camera) or another laser.
+
+   A typical red laser would contain a long crystal made of ruby (the
+   medium, shown in the artwork below as a red bar) with a flash tube
+   (yellow zig-zag lines) wrapped around it. The flash tube looks a bit
+   like a fluorescent strip light, only it's coiled around the ruby
+   crystal and it flashes every so often like a camera's flash lamp.
+
+How do the flash tube and the crystal make a laser beam?
+
+   How a laser works
+    1. A high-voltage electric supply makes the tube flash on and off.
+    2. Every time the tube flashes, it "pumps" energy into the ruby
+       crystal. The flashes it makes inject energy into the crystal in the
+       form of photons.
+    3. Atoms in the ruby crystal (large green blobs) soak up this energy
+       in a process called absorption. Atoms absorb energy when their
+       electrons jump to a higher energy level. After a few milliseconds,
+       the electrons return to their original energy level (ground state)
+       by giving off a photon of light (small blue blobs). This is called
+       spontaneous emission.
+    4. The photons that atoms give off zoom up and down inside the ruby
+       crystal, traveling at the speed of light.
+    5. Every so often, one of these photons stimulates an already excited
+       atom. When this happens, the excited atom gives off a photon and we
+       get our original photon back as well. This is called stimulated
+       emission. Now one photon of light has produced two, so the light
+       has been amplified (increased in strength). In other words, "light
+       amplification"(an increase in the amount of light) has been caused
+       by "stimulated emission of radiation" (hence the name "laser",
+       because that's exactly how a laser works!)
+    6. A mirror at one end of the laser tube keeps the photons bouncing
+       back and forth inside the crystal.
+    7. A partial mirror at the other end of the tube bounces some photons
+       back into the crystal but lets some escape.
+    8. The escaping photons form a very concentrated beam of powerful
+       laser light.
+
+   Sponsored links
+
+   Atoms Under the Floorboards banner promotion [INS: :INS]
+
+How do lasers make light?
+
+   If that's as much detail as you want to know about lasers, you can stop
+   reading now or skip further down the page to types of lasers. This
+   section goes over the same points from the box above in a bit more
+   detail, and a little bit more "theoretically."
+
+   You'll often read in books that "laser" stands for Light Amplification
+   by Stimulated Emission of Radiation. That's a complex and confusing
+   mouthful but, if you pull it apart slowly, it's actually a very clear
+   explanation of how lasers make their super-powerful beams of light.
+
+Spontaneous emission
+
+   Let's start with the "R" of laser: radiation. The radiation lasers make
+   has nothing to do with dangerous radioactivity, the stuff that makes
+   Geiger counters click, which atoms spew out when they smash together or
+   fall apart. Lasers make electromagnetic radiation, just like ordinary
+   light, radio waves, X rays, and infrared. Although it's still produced
+   by atoms, they make ("emit") it in a totally different way, when
+   electrons jump up and down inside them. We can think of electrons in
+   atoms sitting on energy levels, which are a bit like rungs on a ladder.
+   Normally, electrons sit at the lowest possible level, which is called
+   the atom's ground state. If you fire in just the right amount of
+   energy, you can shift an electron up a level, onto the next rung of the
+   "ladder." That's called absorption and, in its new state, we say the
+   atom's excited—but it's also unstable. It very quickly returns to the
+   ground state by giving off the energy it absorbed as a photon (a
+   particle of light). We call this process spontaneous emission of
+   radiation: the atom is giving off light (emitting radiation) all by
+   itself (spontaneously).
+
+   Flame, wick, and melted wax on top of a candle
+
+   Photo: Spontaneous emission—by candlelight.
+
+   From candles to light bulbs and fireflies to flashlights, all
+   conventional forms of light work through the process of spontaneous
+   emission. In a candle, combustion (the chemical reaction between oxygen
+   and fuel, in this case, wax) excites atoms and makes them unstable.
+   They give off light when they return to their original (ground) states.
+   Every photon produced by spontaneous emission inside this candle flame
+   is different from every other photon, which is why there's a mixture of
+   different wavelengths (and colors), making "white" light. The photons
+   emerge in random directions, with waves that are out of step with one
+   another ("out of phase"), which is why candlelight is much weaker than
+   laser light.
+
+Stimulated emission
+
+   Normally, a typical bunch of atoms would have more electrons in their
+   ground states than their excited states, which is one reason why atoms
+   don't spontaneously give off light. But what if we excited those
+   atoms—pumped them full of energy—so their electrons were in excited
+   states. In that case, the "population" of excited electrons would be
+   bigger than the "population" in their ground states, so there would be
+   plenty of electrons ready and willing to make photons of light. We call
+   this situation a population inversion, because the usual state of
+   affairs in the atoms is swapped around (inverted).
+
+   Now suppose also that we could maintain our atoms in this state for a
+   little while so they didn't automatically jump back down to their
+   ground state (a temporarily excited condition known as a meta-stable
+   state). Then we'd find something really interesting. If we fired a
+   photon with just the right energy through our bunch of atoms, we'd
+   cause one of the excited electrons to jump back down to its ground
+   state, giving off both the photon we fired in and the photon produced
+   by the electron's change of state. Because we're stimulating atoms to
+   get radiation out of them, this process is called stimulated emission.
+   We get two photons out after putting one photon in, effectively
+   doubling our light and amplifying it (increasing it). These two photons
+   can stimulate other atoms to give off more photons, so, pretty soon, we
+   get a cascade of photons—a chain reaction—throwing out a brilliant beam
+   of pure, coherent laser light. What we've done here is amplify light
+   using stimulated emission of radiation—and that's how a laser gets its
+   name.
+
+   The theory of lasers: absorption, spontaneous emission, and stimulated
+   emission.
+
+   Artwork: How lasers work in theory: Left: Absorption: Fire energy
+   (green) into an atom and you can shift an electron (blue) from its
+   ground state to an excited state, which usually means pushing it
+   further from the nucleus (gray). Middle: Spontaneous emission: An
+   excited electron will naturally jump back to its ground state, giving
+   out a quantum (packet of energy) as a photon (green wiggle). Right:
+   Stimulated emission: Fire a photon near a bunch of excited atoms and
+   you can trigger a cascade of identical photons. One photon of light
+   triggers many, so what we've got here is light amplification (making
+   more light) by stimulated emission of (electromagnetic)
+   radiation—LASER!.
+
+What makes laser light so different?
+
+   If that's how lasers make light, why do they make a single color and a
+   coherent beam? It boils down to the idea that energy can only exist in
+   fixed packets, each of which is called a quantum. It's a bit like
+   money. You can only have money in multiples of the most basic unit of
+   your currency, which might be a cent, penny, rupee, or whatever. You
+   can't have a tenth of a cent or a twentieth of a rupee, but you can
+   have 10 cents or 20 rupees. The same is true of energy, and it's
+   particularly noticeable inside atoms.
+
+   Like the rungs on a ladder, the energy levels in atoms are in fixed
+   places, with gaps in between them. You can't put your foot anywhere on
+   a ladder, only on the rungs; and in exactly the same way, you can only
+   move electrons in atoms between the fixed energy levels. To make an
+   electron jump from a lower to a higher level, you have to feed in a
+   precise amount (quantum) of energy, equal to the difference between the
+   two energy levels. When electrons flip back down from their excited to
+   their ground state, they give out the same, precise amount of energy,
+   which takes the form of a photon of light of a particular color.
+   Stimulated emission in lasers makes electrons produce a cascade of
+   identical photons—identical in energy, frequency, wavelength—and that's
+   why laser light is monochromatic. The photons produced are equivalent
+   to waves of light whose crests and troughs line up (in other words,
+   they are "in phase")—and that's what makes laser light coherent.
+
+   Sponsored links
+
+   Atoms Under the Floorboards banner promotion [INS: :INS]
+
+Types of lasers
+
+   Since we can excite many different kinds of atoms in many different
+   ways, we can (theoretically) make many different kinds of lasers. In
+   practice, there are only a handful of common kinds, of which the five
+   best known are solid-state, gas, liquid dye, semiconductor, and fiber.
+
+   Solids, liquids, and gases are the three main states of matter—and give
+   us three different kinds of lasers. Solid-state lasers are like the
+   ones I illustrated up above. The medium is something like a ruby rod or
+   other solid crystalline material, and a flashtube wrapped around it
+   pumps its atoms full of energy. To work effectively, the solid has to
+   be doped, a process that replaces some of the solid's atoms with ions
+   of impurities, giving it just the right energy levels to produce laser
+   light of a certain, precise frequency.
+
+   Ruby red laser and red beam.
+
+   Photo: A classic solid-state ruby laser: Photo courtesy of US
+   Department of Energy.
+
+   Solid-state lasers produce high-powered beams, typically in very brief
+   pulses. Gas lasers, by contrast, produce continuous bright beams using
+   compounds of noble gases (in what are called excimer lasers) or carbon
+   dioxide (CO2) as their medium, pumped by electricity. CO2 lasers are
+   powerful, efficient, and typically used in industrial cutting and
+   welding. Liquid dye lasers use a solution of organic dye molecules as
+   the medium, pumped by something like an arc lamp, a flash lamp, or
+   another laser. Their big advantage is that they can be used to produce
+   a broader band of light frequencies than solid-state and gas lasers,
+   and they can even be "tuned" to produce different frequencies. [2]
+
+   Orange dye laser pumped by green solid-state laser.
+
+   Photo: Dye laser: This dye laser (top layer) is used to separate
+   different isotopes (atomic forms) of uranium for nuclear power
+   production. It absorbs green, copper-vapor laser light from optical
+   fibers (bottom layer) and uses it to produce an intense red-orange
+   light at a very specific frequency. Photo courtesy of US Department of
+   Energy.
+
+   While solid, liquid, and gas lasers tend to be large, powerful, and
+   expensive, semiconductor lasers are cheap, tiny, chip-like devices used
+   in things like CD players, laser printers, and barcode scanners. They
+   work like a cross between a conventional Light-emitting diode (LED) and
+   a traditional laser. Like an LED, they make light when electrons and
+   "holes" (effectively, "missing electrons") hop about and join together;
+   like a laser, they generate coherent, monochromatic light. That's why
+   they're sometimes referred to as laser diodes (or diode lasers). You
+   can read more about them in our separate article about semiconductor
+   laser diodes.
+
+   Close-up of laser diode in CD player.
+
+   Photo: Lasers—as most of us we know them: This is the laser and lens
+   that scans discs inside a CD or DVD player. The small circle on the
+   bottom right is a semiconductor laser diode, while the larger blue
+   circle is the lens that reads the light from the laser after it's
+   bounced off the shiny surface of the disc.
+
+   Finally, fiber lasers work their magic inside optical fibers; in
+   effect, a doped fiber-optic cable becomes the amplifying medium.
+   They're powerful, efficient, reliable, and make it easy to pipe laser
+   light to wherever it's needed.
+
+   Green femtosecond laser experiment.
+
+   Photo: Some lasers are designed to produce short, very intense beams.
+   Femtolasers (like this one) can make beams lasting only a millionth of
+   a billionth of a second (10^−15s)! Photo courtesy of US Department of
+   Energy.
+
+What are lasers used for?
+
+     “... none of us who worked on the first lasers imagined how many
+     uses there might eventually be... The people involved, motivated
+     mainly by curiosity, often have little ideas as to where their
+     research will lead.”
+
+     Charles Townes, How the Laser Happened, 1999.
+
+   When Theodore ("Ted") Maiman developed the first practical laser, few
+   people realized how important these machines would eventually become.
+   Goldfinger, the 1964 James Bond movie, offered a tantalizing glimpse of
+   a future where industrial lasers could slice like magic through
+   anything in their path—even secret agents!
+
+   Later the same year, reporting on the award of the Nobel Prize in
+   Physics to the laser pioneer Charles Townes, The New York Times
+   suggested that "a laser beam could, for example, carry all the radio
+   and television programs in the world plus several hundred thousand
+   telephone calls simultaneously. It is used extensively for
+   range-finding and missile-tracking." Over half a century later,
+   applications like this—precision tools, digital communication, and
+   defense—remain among the most important uses of lasers.
+
+   Hewlett Packard Laser printer
+
+   Photo: Every time it prints a document, the laser printer on your desk
+   is busily stimulating zillions of atoms! The laser inside it is used to
+   draw a very precise image of the page you want to print onto a large
+   drum, which picks up powered ink (toner), and transfers it onto paper.
+
+Tools
+
+   Cutting tools based on CO2 lasers are widely used in industry: they're
+   precise, easy-to-automate, and, unlike knives, never need sharpening.
+   Where pieces of cloth were once cut by hand to make things like denim
+   jeans, now fabrics are chopped by robot-guided lasers. They're faster
+   and more accurate than humans and can cut multiple thicknesses of
+   fabric at once, which improves efficiency and productivity. The same
+   precision is equally important in medicine: doctors routinely use
+   lasers on their patients' bodies. for everything from blasting cancer
+   tumors and cauterizing blood vessels to correcting problems with
+   people's vision (laser-eye surgery, fixing detached retinas, and
+   cataract treatments all involve lasers).
+
+   An eye surgeon carries out LASIK laser eye surgery
+
+   Photo: An eye surgeon carries out LASIK surgery. Photo by Larry A.
+   Simmons courtesy of US Air Force.
+
+Communications
+
+   Lasers form the bedrock of all kinds of 21st-century digital
+   technology. Every time you swipe your shopping through a grocery store
+   barcode scanner, you're using a laser to convert a printed barcode into
+   a number that the checkout computer can understand. When you watch a
+   DVD or listen to a CD, a semiconductor laser beam bounces off the
+   spinning disc to convert its printed pattern of data into numbers; a
+   computer chip converts these numbers into movies, music, and sound.
+   Along with fiber-optic cables, lasers are widely used in a technology
+   called photonics—using photons of light to communicate, for example, to
+   send vast streams of data back and forth over the Internet. Facebook is
+   currently experimenting with using lasers (instead of radio waves) to
+   make better connections to space satellites, which could lead to higher
+   data rates and much-improved Internet access in developing countries.
+
+   Laser beam sent from the NASA Lunar Ranging Facility to the Lunar
+   Reconnaissance Orbiter.
+
+   Photo: Communicating with satellites (in this case, the Lunar
+   Reconnaissance Orbiter) using lasers. Photo courtesy of NASA Goddard
+   Space Flight Center.
+
+Defense
+
+   The military has long been one of the biggest users of this technology,
+   mainly in laser-guided weapons and missiles. Despite its popularization
+   in movies and on TV, the sci-fi idea of laser weapons that can cut,
+   kill, or blind an enemy remained fanciful until the mid-1980s. In 1981,
+   The New York Times went so far as to quote one "military laser expert"
+   saying: "It's just silly. It takes more energy to kill a single man
+   with a laser than to destroy a missile." Two years later, long-range
+   laser weapons officially became the bedrock of US President Ronald
+   Reagan's controversial Strategic Defense Initiative (SDI), better known
+   as the "Star Wars program". The original idea was to use space-based, X
+   ray lasers (among other technologies) to destroy incoming enemy
+   missiles before they had time to do damage, though the plan gradually
+   fizzled out following the collapse of the Soviet Union and the end of
+   the Cold War.
+
+   Laser Weapon System (LaWS) on board the USS Ponce.
+
+   Photo: Are laser weapons the future? This is the US Navy's Laser Weapon
+   System (LaWS), which was tested onboard the USS Ponce in 2014. There
+   are no expensive bullets or missiles with a laser gun like this, just
+   an endless supply of fiercely directed energy. Photo by John F.
+   Williams courtesy of US Navy and Wikimedia Commons.
+
+   Even so, defense scientists have continued to transform laser-based
+   missiles from science fiction into reality. The US Navy first began
+   testing LaWS (Laser Weapon System) onboard the USS Ponce ship in the
+   Persian Gulf in 2014. Using solid-state lasers pumped by LEDs, it was
+   designed to damage or destroy enemy equipment more cheaply and
+   precisely than conventional missiles. The tests proved successful, and
+   the Navy announced contracts to build more LaWS systems in 2018.
+   Meanwhile, the development of space lasers continues, though none have
+   so far been deployed.
+
+   An overhead view of one of the laser bays at the National Ignition
+   Facility
+
+   Photo: Scientists at Lawrence Livermore National Laboratory in
+   California developed the world's most powerful laser, National Ignition
+   Facility (NIF), for nuclear research. Housed in a 10-story building
+   occupying an area as big as three football fields, it uses 192 separate
+   laser beams to deliver up to 500 trillion watts of power (100 times
+   more energy than any other laser), generating temperatures of up to 100
+   million degrees. NIF cost a total of $3.5 billion and is expected to
+   power cutting-edge nuclear research for the next 30 years. Above: One
+   of the twin laser bays at the National Ignition Facility. Below: How it
+   works: Beams from the laser are concentrated on a small pellet of fuel
+   in a chamber to produce intense temperatures (like those deep inside
+   stars). The idea is to produce nuclear fusion (make atoms join
+   together) and release a massive amount of energy. Photo credit:
+   Lawrence Livermore National Laboratory.
+
+   An artist's impression of how laser beams from the NIF are concentrated
+   on a fuel pellet to produce nuclear fusion
+
+Who invented lasers?
+
+   We can trace the birth of lasers right back to the first two decades of
+   the 20th century. That's when Albert Einstein figured out the quantum
+   theory of light and photons (in 1905) and the mechanism of stimulated
+   emission (in 1917)—the two key components of laser science. But it was
+   another four decades before the first practical laser actually
+   appeared.
+
+   Lasers evolved from masers, which are similar but produce microwaves
+   and radio waves instead of visible light. Masers were invented in the
+   1950s by Charles Townes and Arthur Schawlow, both of whom went on to
+   win the Nobel Prize in Physics for their work (Townes in 1964 and
+   Schawlow in 1981). They applied to protect their invention on July 30,
+   1958 and were granted US Patent #2,929,922 (Masers and maser
+   communication system) on March 22, 1960 (you can see one of the
+   drawings from it here).
+
+   Maser patent drawing by Arthur Schawlow and Charles Townes from US
+   patent 2,929,922 granted March 22, 1960.
+
+   Artwork: The original maser designed in the late 1950s by Arthur
+   Schawlow and Charles Townes, taken from their US Patent 2,929,922,
+   which I've colored to highlight the main components. You can see how
+   closely it resembles the laser in my artwork in the box up above.
+   Artwork courtesy of US Patent and Trademark Office.
+
+   But did they invent the laser? In 1957, one of Townes' graduate
+   students, Gordon Gould, sketched in his lab notebook an idea for how a
+   visible light version of the maser could work, coining the word "laser"
+   that we've used ever since. Unfortunately, he didn't patent his idea at
+   the time and had to devote the next 20 years of his life to legal
+   battles, eventually gaining a patent for part of the laser invention
+   (Method of energizing a material) and substantial back royalties in
+   1977. [3]
+
+   Laser patent drawing by Gordon Gould from US patent 4,161,436 granted
+   July 17, 1979.
+
+   Artwork: Gordon Gould's alternative laser is a very different design,
+   but does essentially the same job: amplifying light. Artwork courtesy
+   of US Patent and Trademark Office.
+
+   Although Townes and Schawlow are often credited with inventing lasers,
+   the first person to build a working, visible light laser was actually
+   Theodore Maiman, who has never really gained the recognition he
+   deserved: his original writeup of his work was rejected by the journal
+   Physical Review Letters and, despite twice being nominated for the
+   Nobel Physics Prize, he never won the ultimate accolade. He was,
+   however, inducted into the National Inventors Hall of Fame in 1984 and
+   won many other worldwide honors for his groundbreaking work. [4]
+
+     *
+     *
+     *
+     *
+
+       IFRAME:
+       https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.ex
+       plainthatstuff.com%2Flasers.html&width=90&layout=button_count&actio
+       n=like&size=small&share=false&height=21&appId=1678539732394615
+
+About the author
+
+   Chris Woodford is the author and editor of dozens of science and
+   technology books for adults and children, including DK's worldwide
+   bestselling Cool Stuff series and Atoms Under the Floorboards, which
+   won the American Institute of Physics Science Writing award in 2016.
+   You can hire him to write books, articles, scripts, corporate copy, and
+   more via his website chriswoodford.com.
+
+   Sponsored links
+
+   Atoms under the floorboards banner ad. [INS: :INS]
+
+Find out more
+
+On this website
+
+     * Energy
+     * Fiber optics
+     * History of communication
+     * Holograms
+     * Laser printers
+     * Light
+     * Light-emitting diodes (LEDs)
+     * Semiconductor lasers
+
+On other websites
+
+     * Laserfest: A superb website set up to mark the 50th anniversary of
+       the laser's invention. Includes excellent videos by laser pioneers,
+       including Charles Townes and Theodore Maiman, and many other useful
+       articles and resources. [Archived via the Wayback Machine.]
+
+Articles
+
+     * NASA Approves Mission to Launch "Artificial Star" by Charles Q.
+       Choi. IEEE Spectrum, June 27, 2024. A new laser-linked, satellite
+       "pseudostar" will help to make space telescopes more accurate.
+     * Researchers Use Lasers to Bring the Internet Under the Sea by
+       Michael Koziol. IEEE Spectrum, June 22, 2020. Could lasers carry
+       the Internet to places where conventional radio can't reach?
+     * Laser Destroys Cancer Cells Circulating in the Blood by Emily
+       Waltz. IEEE Spectrum, June 12, 2019. Lasers promise greatly
+       improved treatment for skin cancer.
+     * Facebook's Plans for Space Lasers Revealed by Mark Harris. IEEE
+       Spectrum, January 21, 2019. How Facebook is helping to pioneer
+       laser connections to communications satellites to provide improved
+       Internet access in developing countries.
+     * Creating Lasers in the Sky by Alexander Hellemans. IEEE Spectrum,
+       March 10, 2015. How can we create focused atmospheric laser beams?
+     * Giant Laser Complex Makes Fusion Advance, Finally by Kenneth Chang
+       and William J. Broad. The New York Times. February 12, 2014.
+       Exploring laser-powered progress at the National Ignition Facility.
+     * Lasers scan future possibilities by Jonathan Amos, BBC News, 12 May
+       2010. Explains how lasers became an indispensable part of everyday
+       life—and where the technology is heading next.
+     * Lasers lift dirt of ages from artworks by Doreen Walton, BBC News,
+       26 February 2010. Lasers can be used to blast away dirt, restoring
+       paintings to their former glory.
+     * Wired: This Day in Tech: May 16, 1960: Researcher Shines a Laser
+       Light by Randy Alfred, Wired, May 16, 2011. Explains how laser
+       pioneer Theodore Maiman created the first ruby crystal laser.
+     * The Race to Make the First Laser by Jeff Hecht. A short account of
+       laser history from Hecht's book Laser Pioneers (see below).
+     * Maser and Laser Similar Devices: Both Amplify Signals by the
+       Stimulation of Radiation: The New York Times, October 1964. An
+       early report signalling the likely future promise of lasers.
+
+Books
+
+For younger readers
+
+     * Lasers by James Bow. Gareth Stevens, 2016. A 48-page introduction
+       for ages 9–12.
+     * Lasers: The Technology and Uses of Crafted Light by Charlene
+       Billings and John Tabak. Facts on File, 2006. A deeper, 208-page
+       overview for ages 10+ (also a good as a non-mathematical
+       backgrounder for adult readers).
+     * Science Pathways: Light by Chris Woodford. Rosen, 2012. One of my
+       own books, this is the broader story of how scientists unraveled
+       the mysteries of light. Ages 9–12. (Previously published by
+       Blackbirch, 2004.)
+
+For older readers
+
+   Check out anything and everything by Jeff Hecht—for my money, the best
+   science writer by far covering laser-related topics. Jeff's own website
+   contains lots of laser- and optics-related resources.
+     * Beam: The Race to Make the Laser by Jeff Hecht. Oxford University
+       Press, 2005. The early years of the laser, focusing on the work of
+       Townes, Schawlow, and Maiman.
+     * Lasers by Anthony E. Siegman. University Science Books, 1990. One
+       of the best introductory books on lasers for college-level
+       students, written by a Stanford Professor.
+     * Principles of Lasers by Orazio Svelto. Springer, 1998. Another
+       detailed student text for undergraduates.
+     * Laser Pioneers by Jeff Hecht. Academic Press, 1992. The story of
+       the laser, including interviews with 15 of the key pioneers.
+     * How the Laser Happened: Adventures of a Scientist by Charles
+       Townes. Oxford University Press, 1999.
+
+Videos
+
+     * Inventing the laser at Bell Labs: Charles Townes and Arthur
+       Schawlow are interviewed in this great AT&T archive video from
+       1988, which explains why lasers were developed, how they work, and
+       what they've done for us.
+     * Theodore Maiman Explains the First Ruby Laser: The developer of the
+       first working laser explains his invention in this short archive
+       video from The Optical Society.
+
+Notes and references
+
+    1. ↑   "Solution looking for a problem" is a quote from Irnee
+       D'Haenens, one of Ted Maiman's assistants, speaking to Maiman.
+       Quoted in Beam: The Race to Make the Laser by Jeff Hecht. Oxford
+       University Press, 2005, p.9.
+    2. ↑    Laser Fabrication and Machining of Materials by Narendra B.
+       Dahotre, Sandip Harimkar. Springer, 2008, p.31.
+    3. ↑   Inventor Beams Over Laser Patents : After 30 Years, Gordon
+       Gould Gets Credit He Deserves by Carla Hall, LA Times, December 17,
+       1987.
+    4. ↑   Theodore Maiman, 79, Dies; Demonstrated First Laser, The New
+       York Times, May 11, 2007.
+
+   Please do NOT copy our articles onto blogs and other websites
+
+   Articles from this website are registered at the US Copyright Office.
+   Copying or otherwise using registered works without permission,
+   removing this or other copyright notices, and/or infringing related
+   rights could make you liable to severe civil or criminal penalties.
+
+   Text copyright © Chris Woodford 2006, 2024. All rights reserved. Full
+   copyright notice and terms of use.
+
+Follow us
+
+     * Follow us on → Facebook
+     * and find our photos on → Flickr
+
+Rate this page
+
+   Please rate or give feedback on this page and I will make a donation to
+   WaterAid.
+
+Tell your friends
+
+   If you've enjoyed this website, please kindly tell your friends about
+   us on your favorite social sites.
+
+   Press CTRL + D to bookmark this page for later, or email the link to a
+   friend.
+
+Cite this page
+
+   Woodford, Chris. (2006/2024) Lasers. Retrieved from
+   https://www.explainthatstuff.com/lasers.html. [Accessed (Insert date
+   here)]
+
+Bibtex
+
+   @misc{woodford_2FA, author = "Woodford, Chris", title = "Lasers",
+   publisher = "Explain that Stuff", year = "2006", url =
+   "https://www.explainthatstuff.com/lasers.html", urldate = "2024-11-28"
+   }
+
+Can't find what you want? Search our site below↓
+
+   Explain that Stuff
+
+More to explore on our website...
+
+     * Communications
+     * Computers
+     * Electricity & electronics
+     * Energy
+     * Engineering
+     * Environment
+     * Gadgets
+     * Home life
+     * Materials
+     * Science
+     * Tools & instruments
+     * Transportation
+
+     * Home
+     * A-Z index
+     * Send feedback
+     * Random article
+     * Timeline
+     * Teaching guide
+     * About us
+     * Privacy & cookies
+
+   ↑ Back to top

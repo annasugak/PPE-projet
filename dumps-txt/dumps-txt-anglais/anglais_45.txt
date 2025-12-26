@@ -1,0 +1,337 @@
+    #RSS feed for BeerAdvocate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WLBBVZS
+
+     * Home
+          + Welcome
+          + About
+          + Contact
+          + Follow
+          + Blog
+          + New Posts
+     * Forums
+          + Recent Posts
+     * Beers
+          + Add Beer
+          + Styles
+          + Trading
+     * Top Rated
+          + Top 250
+          + Styles
+          + Trending
+          + New
+          + Fame
+          + Popular
+          + Worst
+     * Places
+          + Add Place
+     * Society
+          + Terms
+     * Shop
+
+   Your name or email address:
+          ____________________
+
+   Password:
+          ____________________
+
+          Forgot your password?
+
+          Log in [ ] Stay logged in
+
+   BeerAdvocate
+   Rate. Talk. Respect. Beer.
+
+     * [beeradvocate-nav-brandmark.png]
+     * Menu
+     * Home
+
+Home
+       Quick Links
+          + Welcome
+          + About
+          + Contact
+          + Follow
+          + Blog
+          + New Posts
+     * Forums
+
+Forums
+       Quick Links
+          + Recent Posts
+     * Beers
+
+Beers
+       Quick Links
+          + Add Beer
+          + Styles
+          + Trading
+     * Top Rated
+
+Top Rated
+       Quick Links
+          + Top 250
+          + Styles
+          + Trending
+          + New
+          + Fame
+          + Popular
+          + Worst
+     * Places
+
+Places
+       Quick Links
+          + Add Place
+     * Society
+
+Society
+       Quick Links
+          + Terms
+     * Shop
+     * Menu
+
+     * Log in
+
+   BeerAdvocate
+   Home Beers >
+
+Beer Styles
+
+   Learn more about the wonderful world of beer styles.
+   Simply put, a beer style is a label given to a beer that describes its
+   overall character and, oftentimes, its place of origin. It's a name
+   that has been broadly accepted by brewers and consumers after years or
+   even centuries of trial and error, scientific research, and marketing.
+   The styles listed here reflect our own spin on the constantly evolving
+   world of beer, with short, jargon-free descriptions included to help
+   anyone understand the similarities and differences. Use these styles as
+   a guide when reviewing a beer's appearance, aroma, taste, and feel.
+   Click on any of the names below to learn more.
+   Amber / Red Ales
+     * American Amber / Red Ale
+     * Extra Special / Strong Bitter (ESB)
+     * Irish Red Ale
+
+   Amber / Red Lagers
+     * American Amber / Red Lager
+     * Czech Amber Lager
+     * Märzen
+     * Vienna Lager
+
+   Bocks
+     * Bock
+     * Doppelbock
+     * Eisbock
+     * Maibock
+     * Weizenbock
+
+   Brown Ales
+     * Altbier
+     * American Brown Ale
+     * English Brown Ale
+
+   Dark Ales
+     * Belgian Dark Ale
+     * English Dark Mild Ale
+     * Scottish Ale
+     * Winter Warmer
+
+   Dark Lagers
+     * Czech Dark Lager
+     * European Dark Lager
+     * Munich Dunkel
+     * Rotbier
+     * Schwarzbier
+
+   Farmhouse Ales
+     * Belgian Grisette
+     * Belgian Saison
+     * Finnish Sahti
+     * French Bière de Garde
+     * Specialty Saison
+
+   Hybrid / Specialty Beers
+     * Bière de Champagne / Bière Brut
+     * Braggot
+     * California Common / Steam Beer
+     * Chile Beer
+     * Cream Ale
+     * Fruit and Field Beer
+     * Gruit / Ancient Herbed Ale
+     * Herb and Spice Beer
+     * Kvass
+     * Low-Alcohol Beer
+     * Pumpkin Beer
+     * Rauchbier
+     * Roggenbier
+     * Rye Beer
+     * Smoked Beer
+
+   India Pale Ales
+     * American IPA
+     * Belgian IPA
+     * Black IPA
+     * Brut IPA
+     * Cold IPA
+     * English IPA
+     * Hazy Imperial IPA
+     * Hazy IPA
+     * Imperial IPA
+     * Milkshake IPA
+
+   Pale / Blonde Ales
+     * American Blonde Ale
+     * American Pale Ale
+     * Belgian Blonde Ale
+     * Belgian Pale Ale
+     * English Bitter
+     * English Pale Ale
+     * English Pale Mild Ale
+     * Hazy Pale Ale
+     * Kölsch
+
+   Pale Lagers
+     * American Adjunct Lager
+     * American Lager
+     * Czech / Bohemian Pilsner
+     * Czech Pale Lager
+     * European / Dortmunder Export Lager
+     * European Pale Lager
+     * European Strong Lager
+     * Festbier / Wiesnbier
+     * German Pilsner
+     * Helles
+     * Imperial Pilsner
+     * India Pale Lager (IPL)
+     * Italian Pilsner
+     * Japanese Rice Lager
+     * Kellerbier / Zwickelbier
+     * Light Lager
+     * Malt Liquor
+
+   Porters
+     * American Porter
+     * Baltic Porter
+     * English Porter
+     * Imperial Porter
+     * Robust Porter
+     * Smoked Porter
+
+   Stouts
+     * American Imperial Stout
+     * American Stout
+     * English Stout
+     * Foreign / Export Stout
+     * Imperial Pastry Stout
+     * Irish Dry Stout
+     * Oatmeal Stout
+     * Pastry Stout
+     * Russian Imperial Stout
+     * Sweet / Milk Stout
+
+   Strong Ales
+     * American Barleywine
+     * American Strong Ale
+     * Belgian Dark Strong Ale
+     * Belgian Dubbel
+     * Belgian Pale Strong Ale
+     * Belgian Quadrupel (Quad)
+     * Belgian Tripel
+     * English Barleywine
+     * English Strong Ale
+     * Imperial Red Ale
+     * Old Ale
+     * Scotch Ale / Wee Heavy
+     * Wheatwine
+
+   Wheat Beers
+     * American Dark Wheat Beer
+     * American Pale Wheat Beer
+     * Dunkelweizen
+     * Grodziskie
+     * Hefeweizen
+     * Kristallweizen
+     * Lichtenhainer
+     * Witbier
+
+   Wild / Sour Beers
+     * Belgian Faro
+     * Belgian Fruit Lambic
+     * Belgian Gueuze
+     * Belgian Lambic
+     * Berliner Weisse
+     * Brett Beer
+     * Flanders Oud Bruin
+     * Flanders Red Ale
+     * Fruited Sour Ale
+     * Gose
+     * Smoothie Sour Ale
+     * Sour Ale
+     * Sour IPA
+     * Wild Ale
+
+     * Assume "-style" applies to all listings outside of the origin
+       prefix.
+
+   Your name or email address:
+          ____________________
+
+   Do you already have an account?
+
+          + ( ) No, create an account now.
+          + (*) Yes, my password is:
+          + ____________________
+            Forgot your password?
+
+          Log in [ ] Stay logged in
+
+Hey, Lurker!
+
+   Looking to rate, talk, or find beer? Create a free account or log in
+   now!
+   Join or Log In
+
+   BeerAdvocate
+   Home Beers >
+
+     * Home
+     * Contact
+     * Top
+
+     *
+
+About
+       Founded in 1996, BeerAdvocate is the go-to beer resource for
+       millions of consumers each month, the benchmark for beer reviews,
+       and the voice of the beer geek.
+          + Learn more...
+     *
+
+Contribute
+          + Start a Thread
+          + Add a Beer
+          + Add a Place
+          + Respect Beer Society
+          + Shop
+          + Big 6-Pack!
+     *
+
+Fun
+          + The Bar
+          + What beer are you drinking now?
+          + New Beer Weekend
+          + BeerAdvocate magazine (archive)
+          + Beer Trading
+     *
+
+Boring
+          + Terms of Use
+          + Privacy Policy
+          + Cookie Policy
+          + Do Not Sell My Personal Information
+
+   Copyright © 1996-2025 BeerAdvocate®. All rights reserved. Respect
+   Beer®.
+
+   BeerAdvocate
+   Home Beers >
