@@ -1,0 +1,8 @@
+0
+
+   DJExtensions\DJCatalog2\YOOtheme\Builder\Source\TemplateListener::match
+   Template(): Argument #1 ($document) must be of type
+   Joomla\CMS\Document\Document, null given, called in
+   /home/virtualki/263173/templates/yootheme/packages/container/src/Contai
+   ner.php on line 262
+   Page d'accueil

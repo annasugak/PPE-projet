@@ -1,0 +1,112 @@
+   #La perception des couleurs par l'oeil La perception des couleurs La
+   perception des couleurs La photoréception
+
+   La perception des couleurs par l'oeil
+   Précédent Chapitre 2. La perception des couleurs Suivant
+   _______________________________________________________________________
+
+2.1. La lumière
+
+   La lumière est probablement la partie de la nature que nous rencontrons
+   le plus souvent, pourtant nous nous demandons pas d'où elle vient
+   exactement. Les physiciens se sont posé cette question de nombreuses
+   fois dans l'histoire, des philosophes grecs aux disputes entre les
+   physiciens supportant la théorie de Newton, sur la nature corpusculaire
+   de la lumière, et ceux partisans de la théorie de Descartes, sur sa
+   nature ondulatoire. La réponse fut finalement donnée par la physique
+   quantique, définie par Max Planck en 1900, et travaillée aussi par
+   Albert Einstein. Cette théorie donne place à une dualité assez
+   surprenante, la dualité onde-corpuscule.
+
+   Figure 2-1. Onde électro-magnétique
+
+   [onde-em.png]
+
+   La lumière est d'un côté une onde électromagnétique, se propageant dans
+   l'espace et le temps. En fait, nous baignons en permanence dans un
+   champ électromagnétique, créé par la présence de particules chargées et
+   leur déplacement. Une perturbation de ce champ se propagera: c'est une
+   onde électromagnétique. Ceci donne à ces ondes la propriété de pouvoir
+   se déplacer dans le vide, car même dans le vide il y a un champ
+   électromagnétique. Les ondes électromagnétiques sont caractérisées par
+   leur longueur d'onde, λ, trajet parcouru par l'onde pendant une
+   période, et leur fréquence, ν. Ceux-ci sont liés par la formule
+   [lambda-nu.png] , où c est la célérité de l'onde électromagnétique,
+   soit envirion 300 000 km.s^-1, que l'on appelle aussi vitesse de la
+   lumière dans le vide. Mais la lumière visible n'est en fait qu'une
+   fenêtre étroite de l'ensemble des ondes électromagnétiques, qui
+   comprennent les rayons gamma, X, ultraviolets, infrarouges, les ondes
+   radios, etc. Le spectre du visible s'étend à peu près de 400 nm
+   (violet) à 700 nm (rouge).
+
+   Figure 2-2. Le spectre des ondes électro-magnétiques
+
+   [spectre.png]
+
+   Les travaux de Max Planck et Albert Einstein sur la "lumière quantique"
+   ont montré que l'énergie de la lumière est aussi en quelque sorte
+   "granuleuse", ce "grain d'énergie" est appelé un photon. Chaque photon
+   d'un rayonnement (lumière, rayons X ...) porte une quantité d'énergie
+   caractéristique de sa fréquence. Le photon est une particule
+   élémentaire de la famille des bosons, et explique les échanges
+   d'énergie entre la lumière et la matière.
+
+   Ces échanges avec la matière expliquent en effet comment on peut voir
+   certains objets. Il existe deux types d'objets:
+
+     * les objets qui produisent de la lumière, comme le Soleil, les
+       flammes, les lampes à incandescence, etc. Ceux-ci produisent
+       souvent de la lumière par incandescence, le mouvemement perpétuel
+       d'agitation de la matière émettant des ondes électromagnétiques.
+       Ces ondes ne sont pas toujours visibles, ce sont les rayonnements
+       infrarouges, mais lorsque la température est assez élevée, elles
+       entrent dans le spectre du visible.
+     * les objets qui ne sont visibles que s'ils sont éclairés (invisibles
+       dans l'obscurité). Ils diffusent dans toutes les directions la
+       lumière qu'ils reçoivent, ce qui est appelé l'émission atomique ou
+       moléculaire. En fait, un atome ou une molécule peut s'exciter par
+       apport d'énergie de l'extérieur (par chaleur, lumière, ou décharge
+       électrique). Dans ce cas, un électron peut "grimper" à un niveau
+       d'énergie supérieur, mais ne tardera pas à reprendre sa place
+       d'origine à cause de l'instabilité de cet état. Lorsqu'il reprendra
+       sa place, il cèdera de l'énergie sous forme d'un photon émis vers
+       l'extérieur.
+
+   Figure 2-3. Émission atomique
+
+   [emission-atomique.png]
+
+   Le photon émis portera donc une certaine énergie, qui est
+   proportionnelle à la fréquence de la radiation, selon la formule
+   [hv.png] (ħ est la constante de Planck). Selon la complexité de
+   l'atome/de la molécule, l'émission lumineuse pourra être constituée
+   d'un grand nombre de longueurs d'onde, matérialisées par des raies dans
+   le spectre, ou même des bandes continues dans le cas des molécules. Une
+   couleur est donc définie par sa longueur d'onde, ou par un mélange de
+   longueurs d'onde. Par exemple, un vert "pur" est une radiation
+   monochromatique de longueur d'onde 530 nm, tandis que la lumière
+   blanche est un spectre continu contenant toutes les longueurs d'onde du
+   domaine du visible.
+
+   Une petite remarque sur l'infrarouge/l'ultraviolet: Pourquoi ne
+   percevons-nous pas ces rayonnements? Deux raisons:
+
+     * Ultraviolet: tout simplement, le cristallin n'est pas assez
+       transparent pour laisser passer ces radiations.
+     * Infrarouge: ici, c'est une autre affaire; l'onde parvient jusqu'au
+       photorécepteurs, mais nous ne possédons pas de pigments visuels
+       adaptés à cette longueur d'onde.
+
+   Au début de la perception, nous avons donc un rayon lumineux. Celui-ci
+   traversera les milieux transparents de l'oeil, et à cause de leurs
+   indices de réfraction différents, sera réfracté plusieurs fois, la
+   cornée et le cristallin assurant l'accommodation de l'image. La
+   lentille convergente formée par ces milieux transparents provoque aussi
+   une "inversion" de l'image sur la rétine, qui sera corrigée par
+   l'interprétation cérébrale. Puis le rayon traverse la rétine, pour
+   arriver finalement aux segments externes des photorécepteurs, où il
+   sera interprété. Nous verrons maintenant comment.
+   _______________________________________________________________________
+
+   Précédent                      Sommaire               Suivant
+   La perception des couleurs Niveau supérieur La photoréception

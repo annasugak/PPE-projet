@@ -1,0 +1,6 @@
+   REFRESH(360 sec):
+   file://localhost/Users/houssaynatou/Documents/M1-TAL/projet%20de%20prog
+   rammation%20encadr%C3%A9/PPE1-2025/PPE-projet/aspirations/francais_19.h
+   tml
+
+   Enable JavaScript and cookies to continue

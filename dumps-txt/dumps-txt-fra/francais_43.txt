@@ -1,0 +1,402 @@
+   Aller au contenu principal
+
+     * Abonnement aux newslettersNewsletters
+     * Rechercher
+     * Événements
+
+     * Le Comité des Experts
+     * Qui sommes-nous ?
+
+   (BUTTON) Toggle navigation
+   Connaissances des énergies : TOUTES LES ÉNERGIES EN LIBRE ACCÈS
+   Abonnez-vous aux nerwsletters
+     * Abonnez-vous gratuitement aux newsletters
+
+   Menu CDE
+   Fiches
+   pédagogiques
+   Questions
+   et Réponses
+   Idées
+   reçues
+   L'essentiel
+   de l'actualité
+   Innovations
+   et Insolites
+   Données
+   chiffrées
+   Prises
+   de position
+   Études
+   et Dossiers
+   Perspectives Energies 2050
+     * Rechercher
+
+     * Événements
+     * Le Comité des Experts
+     * Qui sommes-nous ?
+
+    1. Accueil
+    2. Consommation électrique
+    3. Fiches pédagogiques
+
+Éclairage dans l’habitat
+
+   Eclairage dans un logement
+
+   La puissance d'éclairage peut parfois sembler une grandeur assez
+   subjective : le flux lumineux dans une pièce peut varier d'un facteur 5
+   selon l'ambiance souhaitée. (©photo)
+
+   Sommaire
+     * Définition
+     * Systèmes d’éclairage
+     * Conseils pratiques
+     * Consommation
+
+L'éclairage dans le secteur résidentiel
+
+   Il existe aujourd’hui principalement 3 familles de lampes pour un usage
+   domestique : les lampes à incandescence halogène, les lampes
+   fluorescentes compactes et les lampes à LED.
+
+   Le flux lumineux, exprimé en lumens (lm), exprime le pouvoir éclairant
+   d’une lampe.
+
+   Pour rappel, on qualifie de « lampe » la source de lumière
+   artificielle. A strictement parler, le luminaire désignent le support
+   de la lampe. L’ampoule est quant à elle l’enveloppe en verre de la
+   lampe. Ce terme est souvent employé dans l’usage commun pour désigner
+   une lampe.
+
+Catégories de lampes
+
+   Il existe principalement trois grandes familles de lampes
+   commercialisées en France.
+
+Éclairage à incandescence halogène
+
+   Les lampes à incandescence halogène produisent de la lumière en portant
+   un filament de tungstène^(2) à incandescence.
+
+   Elles se distinguent des lampes à incandescence classique par la
+   présence de gaz « halogéné » (iode ou brome) dans l’ampoule : ce gaz
+   limite notamment la sublimation (passage de l’état solide à l’état
+   gazeux) du filament de tungstène et permet ainsi de le soumettre à des
+   températures plus élevées. Cela apporte une lumière plus intense pour
+   une même consommation électrique.
+
+Éclairage fluorescent compact
+
+   Les lampes fluorescentes compactes (LFC) ou lampes fluocompactes, qui
+   produisent de la lumière en soumettant du mercure à l’état gazeux
+   (enfermé dans l’ampoule, généralement un tube de verre) à un courant
+   électrique.
+
+   Les atomes de mercure émettent alors de la lumière ultraviolette (UV)
+   invisible qui est absorbée par de la poudre fluorescente présente à la
+   surface de l’ampoule. Les UV sont alors convertis en lumière blanche
+   visible.
+
+Éclairage à diodes électroluminescentes
+
+   Les lampes à diodes électroluminescentes ou lampes à LED (acronyme de
+   « Light Emitting Diode » en anglais), qui produisent de la lumière par
+   électroluminescence lorsqu’un courant électrique les traverse. Les
+   lampes à LED sont constituées de matériaux semi-conducteurs. Elles ne
+   laissent passer le courant électrique que dans un sens et émettent une
+   lumière monochromatique. Une couche de luminophore (substance qui émet
+   de la lumière lorsqu’elle subit une excitation) permet de convertir la
+   lumière monochromatique en une lumière au spectre plus large.
+
+   Notons qu’il existe encore des lampes à incandescence classiques.
+   Depuis fin 2012, les fabricants n’ont plus le droit d’en commercialiser
+   de nouvelles au sein de l’Union européenne en raison de leur caractère
+   énergivore : 90% de l’énergie consommée est perdue sous forme de
+   chaleur.
+
+   Les stocks restants peuvent toutefois encore être vendus.
+
+Mesures et caractéristiques des systèmes d'éclairage
+
+Puissance de l’éclairage
+
+   Traditionnellement, la puissance électrique (exprimée en watts) était
+   le principal critère retenu pour évaluer le flux lumineux fourni par
+   des lampes à incandescence classiques. Une lampe de 100 W était par
+   exemple choisie pour un éclairage puissant dans une pièce à vivre
+   tandis qu’une lampe de 15 W suffisait pour éclairer une table de nuit.
+
+   Aujourd’hui, le flux de lumière produit par les différents types de
+   lampe varie pour une puissance donnée. Il est donc nécessaire d’avoir
+   recours à un autre indicateur que la puissance électrique : le flux
+   lumineux en lumens (lm) qui indique le pouvoir éclairant d’une lampe.
+   Par exemple, 300 lumens peuvent suffire pour une lampe de chevet tandis
+   qu’un flux de 1 000 à 1 200 lumens est recommandé pour éclairer une
+   table à manger.
+
+   L’efficacité ou rendement lumineux permet de mesurer le flux lumineux
+   en fonction d’une puissance électrique donnée. Il est exprimé en lumens
+   par watt (lm/W). Concrètement, plus il est important, plus la lampe
+   émet de lumière pour une même consommation d’électricité.
+
+   Rendement lumineux moyen des différents types de lampes
+
+   Notons qu’une autre unité pour mesurer l’éclairement est parfois
+   employée : le lux (lx). Elle désigne le flux lumineux reçu par unité de
+   surface (1 lx = 1 lm/m^2).
+
+   Lors d’un achat, un consommateur peut entre autres lire les deux
+   grandes informations suivantes sur l’étiquette énergie d’une lampe :
+   son flux lumineux (lm) et sa consommation en kWh pour 1 000 heures
+   d’éclairage.
+
+   En fonction de différents critères d’efficacité énergétique, les lampes
+   peuvent être classées en différentes classes (allant de A++ pour les
+   plus performantes à G pour les plus énergivores) :
+     * les lampes à incandescence halogène sont de classe C ou D ;
+     * les LFC de classe A et B ;
+     * la plupart des lampes à LED de classe A+.
+
+Durée de vie
+
+   La durée de vie d’une lampe est, avec son flux lumineux et son
+   efficacité lumineuse, le principal paramètre qu’un consommateur doit
+   prendre en compte lors d’un achat. Elle varie également fortement en
+   fonction des modèles choisis :
+     * une lampe halogène a une durée de vie moyenne comprise entre 2 000
+       et 3 000 heures d’éclairage (consommation moyenne d’éclairage
+       durant 2 à 3 ans) ;
+     * une lampe fluocompacte a une durée de vie comprise entre 5 000 et
+       10 000 heures (soit près de 5 à 10 ans d’utilisation) ;
+     * une lampe à LED a une durée de vie pouvant atteindre 25 000 heures
+       (soit près de 25 ans d’utilisation et près de dix fois plus qu’une
+       lampe halogène).
+
+Température de couleur
+
+   Chaque type de lampe produit une lumière à la « température de
+   couleur » différente. Celle-ci peut être « froide » ou « chaude », ce
+   qui peut fortement modifier l’ambiance d’une pièce.
+   La température de couleur est exprimée en Kelvin (K). Plus cette
+   température est basse, plus la lumière émise tend vers les couleurs
+   chaudes (< 4 000 K). Plus elle est haute (> 5 300 K), plus elle tend
+   vers le bleu. Pour comparaison, la lumière du jour, très vive, a une
+   température de couleur de 6 400 K.
+
+   Parmi les différents types de lampes précédemment présentés :
+     * les lampes halogènes ont une température de couleur comprise entre
+       2 500 et 3 400 K ;
+     * les lampes fluocompactes et tubes fluorescents ont des températures
+       de couleur très variées, allant de 2 700 / 3 000 K (lampes « blanc
+       chaud ») à près de 6 500 K (lampes « lumière du jour ») ;
+     * les lampes à LED ont également des couleurs de températures variées
+       allant du « blanc chaud » au « blanc dynamique » (2 700 / 6 500 K)
+
+   Récapitulatif des caractéristiques de chaque type de lampe
+
+Conseils pratiques pour un éclairage optimal
+
+Comprendre l’étiquette énergie
+
+   Pour choisir une lampe, il est conseillé de se référer à son étiquette
+   énergie qui est obligatoire depuis septembre 2013. Celle-ci indique
+   entre autres la consommation électrique en kWh pour 1 000 heures
+   d’éclairage.  D’autres informations importantes sont indiquées sur les
+   emballages telles que le flux lumineux de la lampe, la température de
+   couleur ou encore le nombre de commutations (cycles allumage /
+   extinction) supportées par la lampe.
+
+   Comprendre l’étiquette énergie
+
+Bien éclairer son logement
+
+   Le flux lumineux adapté pour éclairer un espace varie selon les pièces
+   du logement. Les niveaux d’éclairage suivant sont généralement
+   conseillés :
+     * 100 lux (ou lm/m^2) pour un hall d’entrée ;
+     * 200 lux pour une chambre ;
+     * à partir de 300 lux pour une cuisine ou une salle à manger ;
+     * 400 à 500 lux pour un bureau.
+
+Économies d’énergie
+
+   Des gestes pratiques de base peuvent permettre de réduire facilement la
+   consommation d’éclairage : exploiter la lumière naturelle, éteindre
+   l’éclairage hors présence humaine. C’est toutefois le choix des lampes
+   en fonction des pièces d’un logement qui conditionne un bon équilibre
+   entre confort et consommation réduite.
+
+Précautions d’usage
+
+     * Si les lampes halogènes ne contiennent pas d’élément dangereux,
+       elles deviennent très chaudes en raison de la haute température
+       atteinte par le filament. Elles peuvent ainsi créer des brûlures en
+       l’absence de protection de l’ampoule. De plus, elles émettent des
+       UV, ce qui nécessite un traitement du verre de la lampe pour les
+       filtrer et protéger les yeux des personnes. Toutes les lampes ne
+       bénéficient pas de ce traitement (privilégier les grandes
+       marques) ;
+     * les lampes fluocompactes peuvent également émettre des UV lorsque
+       le verre de la lampe n’est pas uniformément recouvert de poudre.
+       Elles génèrent par ailleurs d’avantage d’électrosmog (pollution
+       électromagnétique) que les lampes halogènes et lampes à LED. Il est
+       à ce titre recommandé de ne pas rester de manière prolongée à moins
+       de 30 cm des ampoules fluocompactes. En cas de bris de ces
+       dernières, des précautions doivent être prises pour collecter les
+       débris (ne pas utiliser un aspirateur mais un ruban autocollant
+       pour les ramasser, aérer la pièce) en raison du mercure et des
+       poudres toxiques présents dans l’ampoule ;
+     * les modèles de lampes à LED émettant beaucoup de lumière bleue
+       seraient susceptibles de perturber le sommeil.
+
+Recyclage
+
+   Lorsqu’une lampe ne fonctionne plus, des mesures particulières doivent
+   être prises pour s’en débarrasser selon son type :
+     * les lampes halogènes peuvent être jetées dans une poubelle
+       classique, elles ne sont pas recyclées ;
+     * les lampes fluocompactes doivent être déposées dans des bacs de
+       collecte spécifiques (chez le distributeur ou à la déchetterie) car
+       elles contiennent une faible quantité de mercure et peuvent être
+       recyclées à 93% ;
+     * les lampes à LED doivent aussi être déposées chez un distributeur
+       ou la déchèterie, elles contiennent des métaux rares et doivent
+       être recyclées.
+
+Consommation de l'éclairage résidentiel
+
+   Chaque ménage français possède en moyenne 25 points lumineux dans son
+   logement et achète 3 lampes par an.
+
+   Il consomme entre 325 et 450 kWh par an pour s’éclairer, ce qui
+   représente un coût de l’ordre de 60 euros.
+
+   Le secteur des bâtiments absorbe près de 44% de la consommation
+   d’énergie finale en France. Dans le résidentiel^(1), près de 12% de la
+   consommation d’électricité des ménages est consacrée à l’éclairage de
+   leurs logements. Pour réduire cette consommation, des actions
+   d’efficacité énergétique peuvent être entreprises à différents niveaux.
+
+   Pour émettre une même quantité de lumière, une lampe de classe A+
+   consomme 5 à 6 fois moins d’électricité qu’une lampe de classe C.
+
+Le saviez-vous ?
+
+   Comme de nombreux pays, la France change d’heure depuis 1976 afin de
+   mieux faire correspondre les heures d’activité aux heures
+   d’ensoleillement et réduire ainsi les besoins d’éclairage. Selon
+   l’Ademe, ce dispositif (qui touche autant l’éclairage public que
+   l’éclairage résidentiel) permettrait de réduire annuellement
+   l’équivalent de la consommation en éclairage de 800 000 ménages.
+   dernière modification le 17 mai 2024
+
+   Sources / Notes
+
+   (1) Logements des ménages.
+   (2) Métal très dur qui a le plus haut point de fusion. Température �
+   laquelle il passe à l’état liquide : 3 422 °C dans le cas du tungstène.
+
+   « Bien choisir son éclairage », Ademe, juillet 2014
+
+   Sur le même sujet
+
+   ÉTUDES ET DOSSIERS
+   Consommations et usages - Connaissance des Énergies
+
+   ÉTUDES ET DOSSIERS
+   Bien choisir son éclairage
+   étude par Ademe
+
+   INNOVATIONS ET INSOLITES
+   CityBox
+
+   INNOVATIONS ET INSOLITES
+   Des idées lumineuses pour l’éclairage public ?
+   L’éclairage public traditionnel peut se révéler très énergivore. Il
+   absorberait près de 50% de la consommation d’électricité des petites
+   communes selon l’Ademe. Plusieurs initiatives… lire plus
+
+   En direct – Brèves AFP
+   26 déc. 2025 - 09h19
+   En Grèce, la fermeture des centrales au lignite provoque chômage et
+   exode
+   26 déc. 2025 - 07h34
+   Ukraine : la peur d'une nouvelle catastrophe à Tchernobyl
+   24 déc. 2025 - 21h23
+   Ukraine: Washington propose un gel du front, les questions
+   territoriales en suspens
+   24 déc. 2025 - 21h11
+   De la « Paypal mafia » à la Maison Blanche : David Sacks, ce proche
+   incontournable de Donald Trump
+   24 déc. 2025 - 20h56
+   Le pétrole apathique avant Noël
+   24 déc. 2025 - 19h29
+   Ukraine: Washington propose un gel du front, les questions
+   territoriales en suspens
+   Toutes les « BRÈVES AFP »
+
+   Dernières parutions
+
+   TRIBUNE D'ACTUALITÉ
+   Euros
+
+   TRIBUNE D'ACTUALITÉ
+   Fin de l’ARENH : des consommateurs exposés à la volatilité des prix de
+   marché ?
+
+   QUESTIONS ET RÉPONSES
+   Noël
+
+   QUESTIONS ET RÉPONSES
+   Fêtes de fin d'année : quel poids dans votre bilan carbone ?
+
+   TRIBUNE D'ACTUALITÉ
+
+   TRIBUNE D'ACTUALITÉ
+   L’excédent d’électricité, révélateur du potentiel de la politique
+   climatique française
+
+   INNOVATIONS ET INSOLITES
+   Éolienne aéroportée Wind Fisher
+
+   INNOVATIONS ET INSOLITES
+   L'éolien voit encore plus haut avec ce prototype
+
+   TRIBUNE D'ACTUALITÉ
+   Avion
+
+   TRIBUNE D'ACTUALITÉ
+   Avion : qui est prêt à payer plus pour émettre moins ?
+
+Thèmes associés
+
+   Consommation électrique
+   Électricité et hydrogène
+     __________________________________________________________________
+
+   Entre vous et nous
+
+   Abonnement aux newsletters
+   Abonnement à la newsletter « Le fil info énergies »
+   (BUTTON) Consulter la dernière newsletter
+   Abonnement à la newsletter « C'est mardi, un peu d'énergies ! »
+   (BUTTON) Consulter la dernière newsletter
+   S'abonner ou abonner un ami gratuitement aux newsletters
+   S'abonner ou abonner un ami
+   gratuitement aux newsletters
+
+   Réseaux sociaux et contact
+   X @info_energies
+   Facebook
+   LinkedIn
+   Youtube
+   RSS
+   Nous contacter
+
+   Twitter
+   Tweets by info_energies
+   © 2011 – 2025 – Tous droits réservés – CONNAISSANCE DES ÉNERGIES
+     * Mentions légales
+     * Presse
+     * Nous contacter

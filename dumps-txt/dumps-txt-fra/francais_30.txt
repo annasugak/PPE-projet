@@ -1,0 +1,1399 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Universalité : antécédents et sources
+     * 2 Thématiques de la philosophie des Lumières
+       (BUTTON) Afficher / masquer la sous-section Thématiques de la
+       philosophie des Lumières
+          + 2.1 Révolution dans les sciences et programme politique de la
+            philosophie des Lumières
+               o 2.1.1 Révolution galiléo-copernicienne et modernité
+                 philosophique
+               o 2.1.2 Promotion de la liberté individuelle
+          + 2.2 Valeurs et représentations sociales des Lumières
+               o 2.2.1 Changement de représentation
+               o 2.2.2 Idéal du philosophe
+               o 2.2.3 Idéal encyclopédique : tout connaître
+          + 2.3 Critique de l’organisation sociale
+          + 2.4 Sensibilité des Lumières
+          + 2.5 Attitudes face à l'esclavage
+     * 3 Acteurs et portée
+       (BUTTON) Afficher / masquer la sous-section Acteurs et portée
+          + 3.1 Philosophes des Lumières
+               o 3.1.1 Portraits
+               o 3.1.2 Représentants des Lumières
+          + 3.2 Diffusion des Lumières
+               o 3.2.1 Encyclopédie
+               o 3.2.2 Salons et cafés
+               o 3.2.3 Académies, bibliothèques et loges
+               o 3.2.4 Marchands ambulants et presse
+          + 3.3 Influence de la Philosophie des Lumières dans les
+            changements politiques
+               o 3.3.1 Influence des Lumières sur la révolution américaine
+               o 3.3.2 Influence des Lumières sur la Révolution française
+     * 4 Perception de la philosophie des Lumières du XVIII^e siècle à nos
+       jours
+     * 5 Lumières de la pensée juridique
+     * 6 Critiques
+     * 7 Notes et références
+     * 8 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 8.1 Bibliographie
+          + 8.2 Articles connexes
+          + 8.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Lumières (philosophie)
+
+   [ ] 8 langues
+     * العربية
+     * Deutsch
+     * English
+     * Esperanto
+     * فارسی
+     * Norsk bokmål
+     * Occitan
+     * Svenska
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Lumière (homonymie).
+   [250px-Voltaire_Philosophy_of_Newton_frontispiece.jpg] Image de
+   couverture de l'interprétation par Voltaire de l'œuvre d'Isaac Newton,
+   Éléments de la philosophie de Newton, mis à la portée de tout le monde
+   (1738). Le manuscrit du philosophe assis, qui traduit l'œuvre de
+   Newton, semble « éclairé » par une « lumière » quasi-divine venant de
+   Newton lui-même, lumière réfléchie par le miroir tenu par une muse, en
+   réalité la traductrice de l'œuvre de Newton, Émilie du Châtelet,
+   maîtresse de Voltaire.
+
+   Les Lumières^[1] sont un courant de pensée européen philosophique,
+   littéraire et intellectuel qui émerge dans la seconde moitié du
+   XVII^e siècle, influencé par des philosophes comme Descartes, Spinoza,
+   Locke, Bayle et Newton, avant de se développer dans toute l'Europe,
+   notamment en France, au XVIII^e siècle. Par extension, on a donné �
+   cette période le nom de siècle des Lumières.
+
+   Par leur engagement contre les oppressions religieuses et politiques,
+   les membres de ce mouvement se voyaient comme une élite avancée œuvrant
+   pour un progrès du monde. Combattant l’irrationnel, l’arbitraire,
+   l’obscurantisme et la « superstition » des siècles passés, ils ont
+   procédé au renouvellement du savoir, de l’éthique et de l’esthétique de
+   leur temps. L’influence de leurs écrits a été déterminante dans les
+   grands événements de la fin du XVIII^e siècle que sont la Déclaration
+   d'indépendance des États-Unis et la Révolution française^[2].
+
+   Le mouvement de renouveau intellectuel et culturel des Lumières reste,
+   au sens strict, européen avant tout, et il découle presque
+   exclusivement d’un contexte spécifique de maturation des idées héritées
+   de la Renaissance. La pensée des Lumières s’est étendue à l’Europe,
+   quoique la traduction de ce terme dans les autres langues européennes
+   ait toujours privilégié l'idée d'une « illumination » provenant de
+   l’extérieur, alors que le terme français privilégie le fait que les
+   Lumières viennent de soi-même. De manière très générale, sur les plans
+   scientifique et philosophique, les Lumières voient le triomphe de la
+   raison sur la foi et la croyance ; sur les plans politique et
+   économique, le triomphe de la bourgeoisie sur la noblesse et le clergé.
+
+Universalité : antécédents et sources
+
+   [modifier | modifier le code]
+
+   Selon Tzvetan Todorov, même si les Lumières sont identifiées �
+   l'Europe, plusieurs de ses idées fondamentales sont apparues à des
+   époques antérieures et dans d'autres continents. On trouve ainsi un
+   sentiment de bienveillance universelle chez l'empereur indien Asoka au
+   III^e siècle av. J.-C.. En Chine, le confucianisme « pose comme but le
+   perfectionnement de la personne par l'éducation et le travail ». Dans
+   le monde arabe du IX^e siècle, le médecin Al Razi prônait le
+   développement d'un « savoir strictement humain, puisé dans l'expérience
+   et encadré par la seule raison ». En 1615, le penseur africain Ahmed
+   Baba a écrit à Tombouctou un traité sur l'égalité des races. Pour
+   Todorov, « Ces développements multiples témoignent de l'universalité
+   des idées des Lumières »^[3].
+
+   Pour l'anthropologue David Graeber, le mouvement aurait été inspiré,
+   dans sa philosophie politique, par les récits de pirates. Il en veut
+   pour exemple que le fonctionnement démocratique qui prévalait à bord
+   des navires (élection du capitaine notamment) était l'une des seules
+   sources d'inspiration alors possible d'un autre mode de gouvernance �
+   l'époque. Il pointe l'influence de certains récits pirates populaires
+   de l'époque, des voyages réalisés et retranscrits, ainsi que les
+   supposées utopies pirates, imaginaires ou non (dont Libertalia), qui
+   étaient selon lui amplement débattus et commentés dans les villes
+   portuaires et dans les centres intellectuels du pays. Ces derniers ont
+   selon lui sûrement atteint et influencé des philosophes comme Rousseau,
+   Voltaire ou Montesquieu et inspiré leur philosophie politique^[4]. Il
+   est cependant important de mentionner qu'il n'existe pas de consensus
+   d'experts à ce sujet. Graeber pointe également la responsabilité des
+   femmes dans la formation du mouvement, qui étaient les principales
+   organisatrices des salons littéraires dans lesquels les idées étaient
+   débattues, construites et influencées, déplorant leur
+   invisibilisation^[4].
+
+   Les récits de voyageurs témoignant de l'organisation politique des
+   autochtones d'Amérique ont aussi joué un rôle selon Graeber et Wengrow,
+   notamment le livre Dialogues avec un sauvage (1703), dans lequel le
+   baron de Lahontan (Louis-Armand de Lom d'Arce) relate de longues
+   discussions qu'il a eues avec Adario (Kondiaronk) grand chef wendat qui
+   tente de démontrer la supériorité de sa société par rapport à la
+   société européenne. Les idées de liberté et d’égalité promues par
+   Adario auront une grande influence sur les penseurs des Lumières^[5] et
+   Rousseau pourrait s'en être inspiré pour sa conception du « bon
+   sauvage »^[6].
+
+Thématiques de la philosophie des Lumières
+
+   [modifier | modifier le code]
+
+Révolution dans les sciences et programme politique de la philosophie des
+Lumières
+
+   [modifier | modifier le code]
+
+Révolution galiléo-copernicienne et modernité philosophique
+
+   [modifier | modifier le code]
+   [250px-Encyclopedie_frontispice_section_256px.jpg] Fragment du
+   frontispice de l’Encyclopédie de Diderot et D’Alembert : on y voit la
+   Vérité rayonnante de lumière ; à droite, la Raison et la Philosophie
+   lui arrachent son voile (peint par Charles Nicolas Cochin et gravé par
+   Benoît-Louis Prévost en 1772.
+
+   Le mouvement des Lumières prend en partie son origine dans la défense
+   de l'héliocentrisme par Nicolas Copernic au XVI^e siècle, peu diffusées
+   de son vivant, puis surtout dans les théories physiques de Galileo
+   Galilei (1564-1642). La physique d'Aristote est abandonnée au profit
+   d'une nouvelle science mécanique fondée sur le principe d'inertie et
+   une nouvelle philosophie s'élabore conjointement avec elle. L'Église se
+   voit critiquée pour son enseignement du géocentrisme et sa défense plus
+   générale d'Aristote. René Descartes joue un rôle de premier plan dans
+   cette réforme de la philosophie, il élabore notamment une métaphysique
+   et une méthode nouvelle dans le but de remplacer l'aristotélisme. Cette
+   philosophie nouvelle se donne pour objectif de rechercher des premiers
+   principes certains - tel le cogito - à partir desquels la raison
+   pourrait déduire l'ensemble des connaissances humaines, aussi bien les
+   principes de la physique que l'existence de Dieu. L'autorité est
+   rejetée par Descartes comme justification des connaissances : la raison
+   est universelle, chaque personne peut en faire usage pour juger
+   correctement par soi-même. Gottfried Wilhelm Leibniz (1646-1716)
+   s'inscrit dans la postérité de Descartes, reprenant ce projet
+   rationaliste, et faisant progresser la physique par l'invention du
+   calcul infinitésimal.
+
+   En réaction au rationalisme des cartésiens, les philosophes
+   britanniques comme Thomas Hobbes, John Locke, puis David Hume,
+   défendirent l'empirisme : les connaissances proviennent des sens et
+   l’expérience plutôt que de la raison pure. Elles sont ainsi faillibles.
+   Il n'y a pas lieu de chercher un premier principe à partir duquel
+   fonder avec certitude toute la connaissance. En particulier,
+   l'existence de Dieu ne peut se prouver rationnellement. Elle relève de
+   la croyance et non du savoir.
+
+   Baruch Spinoza prit parti pour Descartes, surtout dans son Éthique^[7].
+   Il reprend de Descartes sa preuve ontologique de l'existence de Dieu.
+   Il se démarqua pourtant de son aîné dans son Traité de la réforme de
+   l'entendement (Tractatus intellectus amendatione), où il montra que le
+   processus de perception engage non seulement la raison, mais aussi les
+   sens et l’intuition. La conception de Spinoza était centrée sur une
+   vision de l’Univers où Dieu et la Nature ne font qu’un. Cette idée
+   deviendra centrale au siècle des Lumières^[8], depuis Isaac Newton
+   (1642-1727) jusqu’à Thomas Jefferson (1743-1826).
+
+   Un changement notable fut entre autres l’émergence de la philosophie
+   naturaliste à travers toute l’Europe, incarnée par Isaac Newton. Ses
+   idées, sa réussite indéniable à confronter et assembler les preuves
+   axiomatiques et les observations physiques en un système cohérent,
+   source de prédictions, donnèrent le ton de tout ce qui allait suivre
+   son exemplaire Philosophiae Naturalis Principia Mathematica (1687).
+   Pour montrer le progrès entre l’Âge de la Raison et le mouvement des
+   Lumières, l’exemple de Newton reste en effet indépassable, en ce que le
+   scientifique utilisa des faits observés empiriquement, comme la
+   dynamique des planètes de Johannes Kepler ou l’optique, pour construire
+   une théorie sous-jacente expliquant ces faits a priori : la théorie de
+   la gravitation universelle. Ce mouvement correspond à l’unification
+   d’un pur empirisme, comme celui de Francis Bacon et de l’approche
+   axiomatique de Descartes (1596-1650).
+
+   La croyance en un monde intelligible ordonné par le dieu chrétien a
+   représenté le plus fort élan du questionnement philosophique sur la
+   connaissance. D’un côté, la philosophie religieuse se concentrait sur
+   la piété, la toute-puissance et le mystère de la nature ultime de
+   Dieu ; de l’autre, des idées telles que le déisme soulignaient que le
+   monde était visiblement compréhensible par la raison humaine et que les
+   lois le gouvernant l’étaient tout autant. L’image de Dieu comme « Grand
+   Horloger » pénétra alors les esprits, tandis que les observateurs du
+   monde prenaient conscience que ce dernier semblait bel et bien
+   parfaitement ordonné et que, dans le même temps, on réalisait des
+   machines de plus en plus sophistiquées et précises^[9]. À cet égard, il
+   est intéressant de souligner la critique de cette théologie naturelle
+   portée par Buffon, le naturaliste du XVIII^e siècle, dans son œuvre
+   monumentale Histoire naturelle. Buffon rejette l'attitude qui consiste
+   à attribuer à l’intervention divine, surnaturelle, ce que la science ne
+   sait pas – pas encore – expliquer. Cette critique lui valut d’affronter
+   la Sorbonne qui, dominée par l’Église catholique, n’eut de cesse que de
+   vouloir le censurer. En 1751, il est ainsi sommé de se rétracter sur
+   « des propositions contraires à la croyance de l’Église », pour avoir
+   proposé un âge de 74 000 ans à la Terre, quand on admet alors le récit
+   biblique comme vérité scientifique et la datation de notre planète �
+   environ 6 000 ans. Hostile par ailleurs au système de classification de
+   son contemporain suédois Linné, il n’est pas loin de penser que l’ordre
+   n’existe pas dans la nature^[10].
+
+Promotion de la liberté individuelle
+
+   [modifier | modifier le code]
+
+   La philosophie naturelle a entraîné l'apparition d'une nouvelle
+   philosophie politique promouvant la liberté individuelle comme valeur
+   suprême. Si le sujet peut expliquer rationnellement le monde en
+   découvrant les lois de la nature établies par Dieu, pourquoi ne peut-il
+   pas également comprendre ses droits individuels en découvrant le droit
+   naturel établi par Dieu ? C'est le développement de l'individualisme :
+   chaque personne dispose de droits fondamentaux en vertu de la nature
+   humaine (droits humains) que chacun peut comprendre et connaître. Le
+   droit ne peut se fonder sur la tradition seule. On parle alors
+   d’avènement du sujet pensant, il peut décider par son raisonnement
+   propre et non plus sous le seul joug des us et coutumes. Ainsi, John
+   Locke rédigea ses deux Traités du gouvernement civil dans lesquels il
+   avance que le droit de propriété n’est pas familial, mais totalement
+   individuel et légitimé par le travail consacré au terrain concerné,
+   ainsi que de sa protection face à autrui. Une fois l’idée émise qu’il y
+   avait des lois naturelles et des droits naturels, il devenait possible
+   de s’aventurer dans les domaines nouveaux qu’on appelle maintenant
+   l’économie et la politique.
+
+   Dans son essai Was ist Aufklärung?, Emmanuel Kant donne des Lumières la
+   définition suivante : « Les Lumières c’est la sortie de l’homme hors de
+   l’état de tutelle dont il est lui-même responsable. L’état de tutelle
+   est l’incapacité de se servir de son entendement sans la conduite d’un
+   autre. On est soi-même responsable de cet état de tutelle quand la
+   cause tient non pas à une insuffisance de l’entendement mais à une
+   insuffisance de la résolution et du courage de s’en servir sans la
+   conduite d’un autre. Sapere aude ! Aie le courage de te servir de ton
+   propre entendement ! Telle est la devise des Lumières ».
+
+   Les Lumières se basent donc sur l'explication du monde par la raison,
+   exigeant de l’homme l’établissement d’une connaissance rationnelle et
+   organisée. Cela commence par l’idée que les lois gouvernent aussi bien
+   les cieux que les affaires humaines, et que le pouvoir du Prince émane
+   de la loi et non l’inverse. La conception de la loi en tant que contrat
+   social théorisée par Jean-Jacques Rousseau comme relation réciproque
+   entre les hommes, plutôt qu’entre les familles ou des groupes, devint
+   de plus en plus remarquable, accompagnée du souci de la liberté
+   individuelle comme réalité imprescriptible – le seul droit tiré de
+   Dieu. Le mouvement des Lumières conçut donc l'idée moderne de liberté,
+   telle qu’on la connaît toujours aujourd’hui : chaque individu est en
+   capacité et a le droit de décider par lui-même de ce qui est bon pour
+   lui, liberté que doit garantir l’État. Cette recherche aboutit, en
+   France, à la formulation des droits de l'homme, qui trouve son
+   expression dans la déclaration des droits de l'homme et du citoyen de
+   1789, qui influencera largement les déclarations de droits lors des
+   siècles suivants, et entraînera dans son sillage des bouleversements
+   politiques dans le monde entier. Tant en France qu'aux États-Unis, les
+   libertés d'opinion, de religion, de pensée, d'expression tiennent une
+   place fondamentale.
+
+   Pour comprendre quels changements interviennent réellement entre
+   « l’Âge de Raison » et le « mouvement des Lumières », la comparaison
+   entre la philosophie de Thomas Hobbes et celle de John Locke est une
+   bonne approche. Hobbes, qui traverse les trois quarts du XVII^e siècle,
+   a entrepris de classer de façon systématique les émotions humaines, ce
+   qui l’amena à construire un système rigide garantissant par coercition
+   la stabilité du chaos primaire – qui est la source de son travail (voir
+   le Léviathan). À l’inverse, Locke voit en la Nature la source de
+   l’unité et de tous les droits, que l’État doit s’assurer de reprendre
+   et de protéger, non pas d’étouffer. Ainsi, la « révolution » culturelle
+   entre les deux siècles fait intervenir la relation de l’homme à la
+   Nature.
+
+Valeurs et représentations sociales des Lumières
+
+   [modifier | modifier le code]
+   [250px-Rousseau.jpg] Jean-Jacques Rousseau.
+
+Changement de représentation
+
+   [modifier | modifier le code]
+
+   Les valeurs essentielles défendues par les hommes des Lumières dans
+   toute l’Europe sont la tolérance, la liberté et l’égalité. Ces valeurs
+   débouchent, en Angleterre, en Amérique et en France, sur la définition
+   de nouveaux droits naturels et sur une séparation des pouvoirs
+   politiques. À ces valeurs s'ajoutent le goût de la Nature et le culte
+   de la Raison.
+
+     « Aujourd’hui nous recevons trois éducations différentes ou
+     contraires : celles de nos pères, celles de nos maîtres, celle du
+     monde. Ce qu’on nous dit dans la dernière renverse toutes les idées
+     des premières. »
+
+   — Montesquieu^[11]
+
+   L'étude des articles d'astronomie de l'Encyclopédie de Diderot et
+   d'Alembert montre que c'est une représentation héliocentrique et une
+   philosophie mécaniste qui assurent la cohérence de l'ouvrage et
+   imprègnent l'esprit des Lumières^[12].
+
+Idéal du philosophe
+
+   [modifier | modifier le code]
+
+   La figure idéale des Lumières est le philosophe, homme de lettres avec
+   une fonction sociale qui exerce sa raison dans tous les domaines pour
+   guider les consciences, prôner une échelle de valeurs et militer dans
+   les problèmes d’actualité. C’est un intellectuel engagé qui intervient
+   dans la société, un « honnête homme qui agit en tout par raison »
+   (Encyclopédie), « qui s’occupe à démasquer des erreurs » (Diderot).
+
+   Le rationalisme des Lumières n’exclut en aucun cas la sensibilité.
+   Raison et sentiment dialoguent au sein même de la philosophie des
+   Lumières. Les penseurs des Lumières peuvent être capables de rigueur
+   intellectuelle mais aussi de sensibilité.
+
+Idéal encyclopédique : tout connaître
+
+   [modifier | modifier le code]
+
+   Cette époque cultive un goût particulièrement prononcé pour les écrits
+   totalisants qui rassemblent l’ensemble des connaissances de leur temps,
+   les bilans généraux du savoir. Cet idéal va trouver sa réalisation dans
+   l'Encyclopédie de Diderot et D’Alembert, publiée entre 1751 et 1772,
+   dont le but était de sortir le peuple de l’ignorance par une diffusion
+   très large du savoir.
+   Article détaillé : Encyclopédie ou Dictionnaire raisonné des sciences,
+   des arts et des métiers.
+
+Critique de l’organisation sociale
+
+   [modifier | modifier le code]
+
+   Le mouvement des Lumières est, sur toute sa durée, le substrat de deux
+   pressions sociologiques antagonistes : d’une part, une forte
+   spiritualité accompagnée d’une foi traditionaliste en la religion et
+   l’Église ; d’autre part, la montée d’un mouvement anticlérical
+   critiquant les divergences entre théorie religieuse et pratique, qui
+   s’est surtout manifesté en France.
+
+   L’anticléricalisme ne fut pas la seule source de tension en France :
+   certains nobles contestaient le pouvoir monarchique et la haute
+   bourgeoisie souhaitait bénéficier des fruits de ses efforts. La
+   libéralisation des mœurs engendrait la contestation de l’absolutisme et
+   de l’ordre ancien. Le courant janséniste en France fut aussi, selon
+   Dale K. Van Kley, une source de division^[13].
+
+   Le système judiciaire se révélait archaïque. Même si le droit du
+   commerce avait été codifié au XVII^e siècle, le droit civil n’était pas
+   unifié ni codifié.
+
+   Tel est l’arrière-plan social et juridique dans lequel s’exerce la
+   critique et se développe la contestation, qu’un auteur comme Voltaire a
+   pu incarner.
+
+   Exilé en Angleterre entre 1726 et 1729, il y étudie les travaux de John
+   Locke, Isaac Newton et la monarchie anglaise. Il se rend populaire par
+   sa dénonciation des injustices (affaires Calas, Sirven, de La Barre,
+   Lally-Tollendal). Le milieu du XVIII^e siècle correspond à l’apogée de
+   la philosophie des Lumières^[14].
+
+   Pour Voltaire, il est clair que si le Prince obtient du peuple qu’il
+   croie en des choses déraisonnables, alors ce peuple fera des choses
+   déraisonnables^[15]. Ce constat simple a introduit ce qui devait être
+   la principale critique faite aux Lumières, et que devait formuler la
+   pensée romantique : la construction raisonnable crée autant de
+   problèmes qu’elle en résout^[16].
+
+   Selon les philosophes des Lumières^[17], le point crucial du progrès
+   intellectuel consistait en la synthèse de la connaissance, éclairée par
+   la raison humaine, afin de créer une autorité morale qui serait seule
+   souveraine. Le point de vue contraire se développa, mettant en avant le
+   fait que de façon intrinsèque, ce processus serait corrompu par le
+   poids des conventions sociales, montrant ainsi la « nouvelle vérité »
+   raisonnable comme une mauvaise imitation de la Vérité immanente et
+   insaisissable.
+
+   Le mouvement des Lumières trouva alors un certain équilibre, entre
+   l’appel à la liberté « naturelle » et la liberté de cette liberté,
+   c’est-à-dire la reconnaissance d’une autonomie de la Nature face à la
+   raison. Correspondent à ce stade les réformes de plusieurs monarchies,
+   par l’intermédiaire de lois nouvelles allant dans le sens des sujets et
+   d’une réorganisation parcellaire de la société. L’idée d’un ordre
+   éclairé entre également dans la pensée scientifique avec, par exemple,
+   le travail du biologiste Carl von Linné.
+   [250px-Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2
+   C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg] Voltaire
+
+   En Allemagne, Emmanuel Kant se montra critique à la fois par rapport
+   aux prétentions de la Raison (Critique de la raison pure), mais aussi �
+   celles de l’empirisme anglais (Critique de la raison pratique). Par
+   rapport à la métaphysique très subjective de Descartes, le philosophe
+   allemand souhaita développer une vision plus objective de cette branche
+   de la philosophie.
+
+   Les grands penseurs de la fin du mouvement des Lumières (Adam Smith,
+   Thomas Jefferson ou encore le jeune Goethe) adoptèrent dans leurs
+   pensées le schème, dérivé d’une métaphore biologique, des forces
+   d’auto-organisation et d’évolution. L’achèvement des Lumières est alors
+   pressenti, avec le constat suivant : le Bien est le fondement de la
+   Nature, mais celle-ci n’est pas ordonnée par elle-même. Bien au
+   contraire, c’est la raison et la maturité humaine qui doivent en
+   trouver la constante structure, en retirer la stabilité naturelle. Le
+   romantisme en prendra le contre-pied parfait.
+
+Sensibilité des Lumières
+
+   [modifier | modifier le code]
+
+   « D’une façon générale, la sensibilité des Lumières porte à une
+   sentimentalité morale : le temps de l’ironie voltairienne passé, on
+   veut s’apitoyer, avec Rousseau (la Nouvelle Héloïse, 1761) et les
+   tableaux de Greuze, chercher le beau et le bon éternels. Plus le siècle
+   s’avance, plus la littérature et l’art répudient la gratuité des
+   formes, la légèreté, regardées comme aristocratiques et mondaines, pour
+   aller vers le sérieux, l’authentique et le naturel, c'est-à-dire vers
+   ce qui est conforme à la morale utilitaire du public bourgeois d’où le
+   goût croissant pour le néoclassicisme, qui met en avant l’antique, non
+   pas l’antique allégorique de l’époque classique mais un antique
+   historique plus sobre, à la façon du peintre David »^[18].
+   [250px-Boull%C3%A9e_-_Projet_d%27Op%C3%A9ra_-_%C3%A9l%C3%A9vation.jpg]
+   Projet de reconstruction de l’Opéra de Paris d’Étienne-Louis Boullée,
+   1781
+
+   Ceci se traduit dans les réflexions sur l'urbanisme^[19]. La ville des
+   Lumières est le fruit des efforts conjoints des pouvoirs publics et des
+   architectes soucieux de réaliser des bâtiments administratifs ou utiles
+   (hôtels de ville, hôpitaux, théâtres, intendances) tout en aménageant
+   des perspectives, des places, fontaines, promenades^[20]… L'Académie
+   royale d'architecture reste un des centres de la réflexion sur la
+   théorie : pour elle, le beau est ce qui plait. Pour l'abbé Laugier, au
+   contraire, ce qui est beau est conforme à la raison^[21]. Le modèle
+   naturel de toute architecture est la cabane primitive soutenue par
+   quatre troncs d'arbre, avec quatre parties horizontales et un toit qui
+   deviennent respectivement colonnes, entablements, frontons. Le modèle
+   du temple grec se répand alors jusque dans le décor et le mobilier. Ce
+   paradigme se traduit par un changement de style au milieu du siècle :
+   le rococo est abandonné, la Grèce antique et Palladio deviennent les
+   principales références du style néo-classique.
+
+   L’université de Virginie, inscrite au patrimoine mondial de l’Humanité
+   défini par l’UNESCO, a été fondée par Thomas Jefferson sur le projet de
+   son ami, Du Pont de Nemours, philosophe français émigré. Ce dernier
+   dessina les plans d’une partie du campus en suivant les valeurs des
+   Lumières.
+
+   La place Stanislas de Nancy est le cœur d’un ensemble urbanistique
+   classique, inscrite depuis 1983 sur la liste du patrimoine mondial de
+   l’UNESCO, ainsi que d’autres places de cette ville comme la place de la
+   Carrière et la place d’Alliance, autour desquelles s’articulent
+   administrations et services de l’époque.
+
+   Claude Nicolas Ledoux (1736-1806), membre de l'Académie d'architecture
+   est sans doute l’architecte dont les projets incarnent le mieux
+   l’utopie d’un habitat totalement rationnel. Il dirige, à partir de
+   1775, l’édification de la Saline royale d'Arc-et-Senans, dans le Doubs,
+   véritable cité usinière^[22].
+   [250px-UVa_Rotunda.jpg] La Rotonde de l’université de Virginie,
+   dessinée par Thomas Jefferson.
+
+   Les Lumières n’ont touché que les élites aristocratiques et les
+   fractions montantes des bourgeoisies^[23].
+
+   L’écho, dans ces milieux dominants, est certes considérable en
+   Angleterre et en France, mais plus restreint en Allemagne et en
+   Italie ; le public éclairé est très peu nombreux en Espagne ou en
+   Russie, où seuls quelques intellectuels, hauts fonctionnaires et
+   grandes familles participent au mouvement. Le peuple, lui, n’est pas
+   touché : l’immense majorité des paysans, même français, n’a jamais
+   entendu parler de Voltaire ou de Rousseau.
+
+   Malgré tout, les Lumières ont ébranlé les certitudes anciennes. Et
+   l’ébranlement ne s’est pas arrêté aux portes du social et du
+   politique : les Lumières ont inspiré la génération révolutionnaire. Ce
+   qui ne signifie nullement qu’elles aient consciemment appelé de leurs
+   vœux la Révolution de 1789.
+
+Attitudes face à l'esclavage
+
+   [modifier | modifier le code]
+   [250px-Histoire_philosophique_et_politique_des_%C3%A9tablissemens_et_du
+   _commerce_des_Europ%C3%A9ens_dans_les_deux_Indes._Tome_premier._1770.pn
+   g] L’Histoire des deux Indes de l’abbé Raynal, considérée comme
+   l'encyclopédie de l’anticolonialisme au XVIII^e siècle
+
+   Les Lumières étaient dévoués haut et fort à la liberté humaine et au
+   bonheur humain. Par exemple, il est bien connu que Montesquieu a
+   fortement critiqué le despotisme dans son chef-d’œuvre De l'esprit des
+   lois. Les premiers mots de la grande œuvre de Rousseau, Du contrat
+   social, sont : « L’homme est né libre ». C’était donc difficile
+   philosophiquement d’exclure certains peuples de la liberté et du
+   bonheur à cause de la race. Par conséquent, beaucoup des Lumières ont
+   dénoncé l’esclavage des noirs. Montesquieu a affirmé que l’esclavage
+   « n’est pas bon par sa nature ; il n’est utile ni au maître ni �
+   l’esclave »^[24]. De plus, dans son conte classique Candide, Voltaire a
+   inclus une rencontre du héros éponyme avec « un nègre étendu par terre,
+   n’ayant plus que la moitié de son habit » et manquant « la jambe gauche
+   et la main droite ». Ce pauvre homme explique que ses souffrances sont
+   le résultat de son travail aux sucreries et dit d’une façon frappante
+   que « C’est à ce prix que vous mangez du sucre en Europe »^[25]. Le
+   marquis de Condorcet a même écrit un ouvrage complet contre
+   l’esclavage, sous le titre Réflexions sur l'esclavage des nègres.
+
+   Cependant, il y avait de l’ambiguïté sur ce point dans les écrits des
+   Lumières, ce qui a provoqué de la controverse^[26]. Par exemple, on
+   peut trouver dans l’Encyclopédie, véritable bible de l’époque des
+   Lumières, des approches et pour et contre l’esclavage : le chevalier de
+   Jaucourt a dénoncé l’esclavage dans son article « Traite des nègres »
+   mais Jean-Baptiste-Pierre Le Romain a défendu cette institution dans
+   son article « Nègres, considérés comme esclaves dans les colonies de
+   l’Amérique »^[27]. D’une façon similaire, l'Histoire philosophique et
+   politique des établissements et du commerce des Européens dans les deux
+   Indes, qu’on s’accorde généralement à dire que c’était un ouvrage de
+   l'anticolonialisme, n’est pas sans équivoque sur ce point. Elle
+   contient des condamnations vigoureuses de l’esclavage, mais aussi des
+   portraits racistes des indigènes et des discussions pragmatiques sur la
+   valeur économique des esclaves. En effet, l’érudite Jenny Mander a
+   soutenu que « c’est un fait inconfortable que l’épanouissement de
+   l’époque des Lumières a coïncidé avec le sommet du système de la
+   plantation et le trait des esclaves »^[28].
+
+Acteurs et portée
+
+   [modifier | modifier le code]
+
+Philosophes des Lumières
+
+   [modifier | modifier le code]
+
+Portraits
+
+   [modifier | modifier le code]
+   [250px-Esquisse_d%27un_tableau_historique_des_progres_de_l%27esprit_hum
+   ain%2C_1795.png] Nicolas de Condorcet, Esquisse d'un tableau historique
+   des progrès de l'esprit humain, 1795.
+
+   Les humanistes de la Renaissance et les philosophes des Lumières^[29]
+   s’intéressent à divers domaines. L’Américain Thomas Jefferson avait
+   reçu une formation juridique mais pratiquait également l’archéologie et
+   l’architecture. Benjamin Franklin eut une carrière de diplomate et de
+   physicien. Condorcet écrivit sur des sujets aussi différents que le
+   commerce, les finances, l’éducation ou la science.
+   [250px-Adolph-von-Menzel-Tafelrunde2.jpg] La cour de Frédéric II de
+   Prusse avec le philosophe Voltaire.
+
+   Les origines sociales des philosophes sont diverses : beaucoup sont
+   issus de familles bourgeoises (Voltaire, Thomas Jefferson), d’autres de
+   milieux plus modestes (Emmanuel Kant, Benjamin Franklin, Denis Diderot)
+   ou encore de la noblesse (Montesquieu, Condorcet). Un certain nombre
+   d’entre eux avaient reçu une éducation religieuse (Denis Diderot, Louis
+   de Jaucourt) ou une formation juridique (Montesquieu, Thomas
+   Jefferson).
+
+   Les philosophes constituaient des réseaux et communiquaient par
+   lettres. On connaît la correspondance violente entre Rousseau et
+   Voltaire. Les grands esprits du XVIII^e siècle se rencontraient et
+   discutaient dans les salons, les cafés ou les académies. Les penseurs
+   et les savants formaient une communauté internationale. Benjamin
+   Franklin, Thomas Jefferson, Adam Smith, Hume ou Galiani séjournèrent
+   plusieurs années en France.
+
+   Parce qu’ils critiquaient l’ordre établi, les philosophes étaient
+   poursuivis par les autorités et devaient recourir à des subterfuges
+   pour éviter la prison. François-Marie Arouet prit le pseudonyme de
+   Voltaire. Thomas Jefferson rédigea en 1774 un rapport destiné aux
+   délégués de Virginie du Premier Congrès continental, qui se réunissait
+   pour discuter des griefs des colonies à l’égard de la Grande-Bretagne.
+   En raison du contenu du texte, il fut contraint de le publier
+   anonymement. La Lettre sur les aveugles à l'usage de ceux qui voient
+   valut à Denis Diderot d’être emprisonné au fort de Vincennes pour sa
+   remise en cause de la religion^[30]. Accusé d’avoir rédigé des
+   pamphlets contre le régent Philippe III d’Orléans, Voltaire fut
+   emprisonné à la Bastille. Montesquieu publia de façon anonyme les
+   Lettres persanes en 1721 en Hollande. De 1728 à 1734, il visita
+   plusieurs pays d’Europe.
+
+   Face à la censure et aux difficultés financières, les philosophes
+   recouraient souvent à la protection d’aristocrates et de mécènes :
+   Malesherbes et la marquise de Pompadour, favorite de Louis XV,
+   soutinrent ainsi Diderot. Marie-Thérèse Geoffrin (1699-1777)
+   subventionna une partie de la publication de l’Encyclopédie. Elle
+   organisait un salon bi-hebdomadaire, recevant des artistes, des
+   savants, des gens de lettres et des philosophes, de 1749 à 1777.
+   L’autre grand salon de l’époque des Lumières était celui de Claudine de
+   Tencin. Dans les années 1720, Voltaire dut s’exiler en Angleterre où il
+   s’enquit des idées de John Locke.
+
+   Les philosophes luttaient généralement moins contre le pouvoir royal
+   que contre l’hégémonie ecclésiastique et nobiliaire^[31] : dans sa
+   défense de Jean Calas, Voltaire défendait ainsi la justice royale
+   contre les excès d’une justice provinciale jugée plus fanatique^[32].
+   Bien des monarques européens — Charles III d'Espagne, Marie-Thérèse et
+   Joseph II d’Autriche, Catherine II de Russie, Gustave III de Suède —
+   lisaient et appréciaient les philosophes. Comme Voltaire, qui fut
+   accueilli à la cour de Frédéric II de Prusse ou Diderot, qui fut
+   accueilli à la cour de Catherine II, les philosophes comme d’Holbach se
+   montraient favorables au despotisme éclairé^[33] dans l’espérance de
+   voir leurs idées se répandre le plus rapidement possible en touchant
+   directement à la tête de l’État. La suite des événements devait montrer
+   aux philosophes les limites de leurs ambitions chez des souverains
+   « plus despotes qu’éclairés »^[34]. Seul Rousseau revendiqua avec
+   constance l’égalité politique, qui devint par la suite un idéal
+   révolutionnaire^[35].
+
+Représentants des Lumières
+
+   [modifier | modifier le code]
+
+   France : Pierre Bayle, Émilie du Châtelet, Étienne Bonnot de Condillac,
+   Nicolas de Condorcet, Denis Diderot, D'Alembert, Olympe de Gouges,
+   Vincent de Gournay, D'Holbach, Fontenelle, Claude-Adrien Helvétius,
+   Marquis de La Fayette, Antoine Laurent de Lavoisier, La Mettrie, Louis
+   de Jaucourt, Choderlos de Laclos, Marquis de Sade, Marivaux,
+   Jean-François Marmontel, Pierre Louis Moreau de Maupertuis,
+   Montesquieu, François Quesnay, Restif de la Bretonne, Antoine Destutt
+   de Tracy, Anne Robert Jacques Turgot, Voltaire, Buffon.
+
+   Angleterre : Anthony Collins, John Locke, Edward Gibbon, William
+   Godwin, Henri Saint Jean de Bolingbroke, Samuel Johnson, James
+   Oglethorpe, William Paley, Joseph Priestley, William Wilberforce, Mary
+   Wollstonecraft.
+
+   Écosse : James Boswell, David Hume, Francis Hutcheson, James Burnett,
+   Lord Monboddo, Adam Smith, James Watt^[réf. nécessaire].
+
+   Irlande : George Berkeley, Richard Cantillon, John Toland.
+
+   Allemagne : Johann Joachim Christoph Bode, Friedrich Heinrich
+   Jacobi^[36], Johann Gottlieb Fichte^[37], Johann Gottfried von Herder,
+   Emmanuel Kant^[38], Gotthold Ephraim Lessing, Moses Mendelssohn,
+   Friedrich Nicolai, Leibniz, Friedrich Melchior Grimm, Karl Leonhard
+   Reinhold, Johann Wolfgang von Goethe
+
+   Pologne : Hugo Kołłątaj, Jean Potocki, Ignacy Krasicki.
+
+   Portugal : Marquis de Pombal, Luis Antonio Verney, António Nunes
+   Ribeiro Sanches, Francisco de Oliveira, Duarte Ribeiro de Macedo,
+   Matias Aires Ramos da Silva Eça.
+
+   États-Unis : John Adams, Samuel Adams, Benjamin Franklin, Alexander
+   Hamilton, John Jay, Thomas Jefferson, James Madison, Thomas Paine,
+   George Washington.
+
+   Italie : Cesare Beccaria, Ferdinando Galiani, Mario Pagano,
+   Giambattista Vico, Pietro Verri, Alessandro Verri, Antonio Genovesi,
+   Carlo Goldoni, Giuseppe Parini, Gaetano Filangieri
+
+   Espagne : Leandro Fernández de Moratín, Gaspar Melchor de Jovellanos,
+   Antonio José Cavanilles, Lorenzo Hervás y Panduro, Benito Jerónimo
+   Feijoo, Pedro Rodríguez de Campomanes, José Celestino Mutis
+
+   Russie : Nikolaï Novikov, Mikhaïl Lomonossov
+
+   Roumanie : Ion Budai-Deleanu, Ienăchiţă Văcărescu, Anton Pann, Samuil
+   Micu, Gheorghe Șincai
+
+   Suisse (Genève) : Jean-Jacques Rousseau
+
+Diffusion des Lumières
+
+   [modifier | modifier le code]
+
+   Les progrès de l’alphabétisation et de la lecture^[39] permettent le
+   développement de ce qu’on a appelé un « espace public », les débats
+   intellectuels et politiques dépassent le cercle restreint de
+   l’administration et des élites, impliquant progressivement des secteurs
+   plus larges de la société.
+
+Encyclopédie
+
+   [modifier | modifier le code]
+   [250px-Jean_d%27Alembert.jpeg] Jean le Rond d’Alembert.
+
+   Un second changement important dans le mouvement des Lumières par
+   rapport au siècle précédent trouve son origine en France, avec les
+   Encyclopédistes. Ce mouvement intellectuel défend l’idée qu’il existe
+   une architecture scientifique et morale du savoir, une structure
+   prévalente et ordonnée, et que sa réalisation est un moyen de
+   libération de l’homme^[40]. Denis Diderot et D’Alembert publient �
+   partir de 1751 l’Encyclopédie ou Dictionnaire raisonné des sciences,
+   des arts et des métiers.
+
+   Le processus de diffusion des idées nouvelles se trouva amplifié par le
+   progrès des techniques de diffusion de l’information. Les passages de
+   l’Encyclopédie sont lus par les nobles, les ducs et les bourgeois dans
+   des salons, les personnes présentes donnent leur avis sur les écrits
+   des philosophes. Les journaux et la correspondance permettent des
+   échanges plus rapides dans toute l’Europe, réalisant une nouvelle forme
+   d’unité culturelle. Ceci ne fut pas sans poser des questions sur la
+   liberté d’accès et de diffusion de ces informations. On connaît le rôle
+   joué par la presse dans la diffusion des idées, pendant la Révolution
+   française notamment.
+
+Salons et cafés
+
+   [modifier | modifier le code]
+   Articles détaillés : Café littéraire et Salon littéraire.
+   [250px-Salon_de_Madame_Geoffrin.jpg] Lecture de la tragédie de
+   L'Orphelin de la Chine de Voltaire dans le salon de Madame Geoffrin de
+   Gabriel Lemonnier
+
+   Ce sont d’abord les cafés, où on lit et on débat, comme le café Procope
+   à Paris, qui sont le rendez-vous nocturne des jeunes poètes ou des
+   critiques qui discutent passionnément des derniers succès de théâtre ou
+   de librairie.
+
+   Mais ce sont surtout les salons mondains, ouverts par tous ceux qui ont
+   quelque ambition, ne serait-ce que celle de paraître. Ils sont
+   caractérisés par la mixité intellectuelle ; les gens s’y expriment, y
+   trouvent une occasion de satisfaire leur soif de savoir et y
+   entretiennent leur vision du monde. Mais il faut y être introduit. Les
+   grandes dames reçoivent artistes, savants et philosophes. Chaque
+   hôtesse a son jour, sa spécialité et ses invités de marque. Le modèle
+   est l’hôtel de Madame de Lambert, au début du siècle.
+
+   Les gens de talent s’y retrouvent régulièrement pour confronter leurs
+   idées ou tester sur un public privilégié leurs derniers vers. Mondaines
+   et cultivées, les créatrices de ces salons animent les soirées,
+   encouragent les timides et coupent court aux disputes. Ces fortes
+   personnalités, très libres par rapport à leurs consœurs, sont souvent
+   elles-mêmes écrivaines et épistolières.
+
+   La mixité est particulièrement réussie en France, au XVIII^e, dans ces
+   « États Généraux de l’esprit humain » où s’épanouit la philosophie des
+   Lumières. Des femmes cultivées, intelligentes y sont de véritables
+   partenaires avec qui on peut remettre en question des idées
+   religieuses, politiques, scientifiques, qui sont capables de donner un
+   élan aux débats ; on peut citer par exemple l’intervention d’Anne
+   Dacier dans la querelle des Anciens et des Modernes et les œuvres
+   d’Émilie du Châtelet.
+
+Académies, bibliothèques et loges
+
+   [modifier | modifier le code]
+   Articles détaillés : Académie et Loge maçonnique.
+   [250px-Image-Jean-Honor%C3%A9_Fragonard_018.jpg] La Lecture de
+   Fragonard
+
+   Les Académies étaient des sociétés savantes qui se réunissaient pour
+   s’occuper de Belles-lettres et de sciences et contribuer à la diffusion
+   du savoir. En France, après les fondations monarchiques du
+   XVII^e siècle (Académie française, 1634 ; Académie des inscriptions et
+   belles-lettres, 1663 ; Académie royale des sciences, 1666 ; Académie
+   royale d'architecture, 1671), naissent encore, à Paris, l’Académie
+   royale de chirurgie (1731) et la Société royale de médecine (1776). Le
+   clergé et, dans une moindre mesure, la noblesse y prédominent.
+
+   Ces sociétés provinciales regroupent les représentants de l’élite
+   intellectuelle des villes françaises. Leur composition sociale révèle
+   que les privilégiés y occupent une place moindre qu’à Paris : 37 % de
+   nobles, 20 % de gens d’Église. Les roturiers constituent 43 % des
+   effectifs : c’est l’élite des possédants tranquilles qui siège là.
+   Marchands et manufacturiers sont peu présents (4 %).
+
+   Voisines des Académies, souvent peuplées des mêmes hommes avides de
+   savoir, les bibliothèques publiques et chambres de lecture se sont
+   multipliées, fondées par de riches particuliers ou à partir de
+   souscriptions publiques. Elles collectionnent les travaux
+   scientifiques, les gros dictionnaires, offrent une salle de lecture et,
+   à côté, une salle de conversation. Toutes ces sociétés de pensée
+   fonctionnent comme des salons ouverts et forment entre elles des
+   réseaux provinciaux, nationaux, européens, échangeant livres et
+   correspondance, accueillant les étrangers éclairés, lançant des
+   programmes de réflexion, des concours de recherche. On y parle
+   physique, chimie, minéralogie, agronomie, démographie. Dans les Treize
+   colonies britanniques en Amérique du Nord, James Bowdoin (1726-1790),
+   John Adams (1735-1826) et John Hancock (1737-1793) fondent l’American
+   Academy of Arts and Sciences à Boston durant la Guerre d'indépendance
+   des États-Unis. En 1743, Benjamin Franklin fonde la Société
+   philosophique américaine. Au début du XIX^e siècle, Thomas Jefferson
+   avait l’une des plus riches bibliothèques privées du pays. Parmi les
+   réseaux éclairés, le plus développé est celui de la franc-maçonnerie,
+   quoique réservé aux couches supérieures.
+
+   Née en Angleterre et en Écosse, la franc-maçonnerie, groupement �
+   vocation humaniste et initiatique, concentre tous les caractères des
+   Lumières : elle est théiste, tolérante, libérale, humaniste,
+   sentimentale. Elle connaît un succès foudroyant dans toute l’Europe où
+   l’on compte des milliers de loges en 1789. Les milieux civils,
+   militaires et même religieux, liés aux appareils d’État, sont tout
+   particulièrement gagnés. Ni anticléricales (elles le seront au
+   XIX^e siècle) ni révolutionnaires, les loges ont contribué à répandre
+   les idées philosophiques et l’esprit de réforme dans les lieux
+   politiquement stratégiques. La discussion intellectuelle l’emporte sur
+   le caractère ésotérique ou sectaire. Surtout, les élites y font, plus
+   encore que dans les Académies, l’apprentissage du primat de l’égalité
+   des talents sur les privilèges de la naissance.
+
+Marchands ambulants et presse
+
+   [modifier | modifier le code]
+
+   La diffusion des idées des Lumières est également permise grâce aux
+   différents marchands ambulants. En effet, ces derniers, allant de
+   province en province, colportaient les informations et, par extension,
+   apportaient les idées aux analphabètes.
+
+   La presse a facilité la diffusion des textes philosophiques (notamment
+   l’Encyclopédie de Diderot et d’Alembert), et a déclenché les processus
+   de la réflexion chez le peuple. La presse contribue enfin à la
+   constitution de l’opinion publique, malgré la censure, toujours active.
+   Le Journal des Sçavans, le Mercure de France, les périodiques
+   économiques comme les Éphémérides du citoyen rédigées par Nicolas
+   Baudeau du parti des Économistes (parti des philosophes politiques ou
+   les Physiocrates comme aussi François Quesnay), sont en fait plutôt ce
+   que nous appellerions des revues. Par le recensement d’ouvrages et par
+   les abonnements collectifs des sociétés de pensée, un public éloigné
+   des centres de création peut prendre connaissance des idées et des
+   débats, des découvertes du mois, sinon du jour.
+
+Influence de la Philosophie des Lumières dans les changements politiques
+
+   [modifier | modifier le code]
+
+   Dès la fin du XVII^e siècle, John Locke avait défini la séparation des
+   pouvoirs entre l’exécutif et le législatif^[41]. Montesquieu reprit
+   l’idée de séparation des pouvoirs et l’étendit à un troisième pouvoir,
+   le pouvoir judiciaire dans De l'esprit des lois (1748).
+
+   Dans les années 1750, on tenta, en Angleterre, en Autriche, en Prusse
+   et en France, de « rationaliser » les monarchies et leurs lois.
+
+   L’idée lumineuse d’un gouvernement « rationnel » s’incarna dans la
+   Déclaration d’Indépendance américaine et, dans une moindre mesure, dans
+   le programme des Jacobins au cours de la Révolution française. On peut
+   citer également la Constitution américaine de 1787.
+
+Influence des Lumières sur la révolution américaine
+
+   [modifier | modifier le code]
+   [Thomas_Jefferson_rev.jpg] Thomas Jefferson, rédacteur de la
+   Déclaration d'Indépendance des États-Unis.
+
+   Cultivé et instruit, Thomas Jefferson, planteur originaire de Virginie,
+   est très marqué par le philosophe anglais John Locke et par
+   Jean-Jacques Rousseau. Il préside à l’élaboration de la Constitution de
+   Virginie au début de 1776, et en reprend certaines dispositions
+   lorsqu’il procède à la rédaction de la déclaration d'indépendance des
+   États-Unis, proclamée le 4 juillet 1776 au congrès de Philadelphie. Il
+   a l’occasion de rencontrer les personnalités des Lumières lors de son
+   séjour en Europe. Arrivé au cours de l’été 1784, il succède à Benjamin
+   Franklin comme ambassadeur des États-Unis et fréquente les salons
+   littéraires et les libraires de la capitale.
+
+   L’influence de la philosophie des Lumières transparaît ainsi nettement
+   dans la Déclaration d'indépendance des États-Unis, qui proclame que les
+   hommes ont été créés égaux en droit et qu'ils peuvent s’opposer à la
+   tyrannie. La Constitution des États-Unis d'Amérique (1787) reprend les
+   principes de Montesquieu de la séparation des pouvoirs législatif,
+   exécutif et judiciaire, qui forment la base de toute démocratie.
+
+Influence des Lumières sur la Révolution française
+
+   [modifier | modifier le code]
+
+   À mesure que se développe l’esprit philosophique, dans les salons, les
+   cafés ou les clubs, l’autorité monarchique se délite, sapée tant par
+   l’opposition aristocratique^[42] que par des tentatives de réformes
+   sans lendemain.
+
+   Pendant la période révolutionnaire, les idées des philosophes inspirent
+   les débats politiques. La plupart des députés de l’Assemblée nationale
+   sont des bourgeois cultivés qui se sont nourris des valeurs de liberté
+   et d’égalité. Par exemple, Robespierre est un rousseauiste convaincu.
+   Pourtant, la plupart des philosophes français sont morts avant d’avoir
+   vu l’œuvre de la Révolution française, sauf Condorcet, Louis Sébastien
+   Mercier et l'abbé Raynal. Les deux premiers, proches des Girondins en
+   l'an II, connaîtront des déboires avec la Révolution. Seul le troisième
+   ne sera jamais inquiété et aura même droit à un buste après sa mort en
+   1796 en hommage à ses écrits contre l'esclavage des Noirs, aboli le 16
+   pluviôse an II. Il était par ailleurs l'oncle d'un conventionnel
+   régicide, Simon Camboulas.
+
+   La Révolution française en particulier représente une application
+   violente de la philosophie des Lumières, notamment lors de la brève
+   période de pouvoir des Jacobins. Le désir de rationalité
+   révolutionnaire se coupe du rationalisme dit « spirituel » de
+   Descartes, jusqu'à conduire à une tentative d’éradiquer l’Église et le
+   christianisme dans son ensemble. Ainsi, la Convention nationale change
+   le calendrier, système de mesure du temps, et le système monétaire,
+   tout en plaçant l’idée d’égalité, sociale et économique, au plus haut
+   point des priorités de l’État^[43].
+
+Perception de la philosophie des Lumières du XVIII^e siècle à nos jours
+
+   [modifier | modifier le code]
+
+   Au moment de son élaboration, la philosophie des Lumières n'a pas été
+   partagée par toute la société. Certains groupes s'y sont opposés :
+   apologistes (jansénistes et jésuites), gens de lettre, adversaires
+   littéraires des encyclopédistes (voir article Contre-Lumières).
+
+   Par la suite, certains courants de pensée ont émis des critiques
+   vis-à-vis de la philosophie des Lumières : les romantiques, les
+   nationalistes, les antilibéraux, les néoconservateurs (voir article
+   Critique des Lumières).
+
+   Depuis son apparition au XVIII^e siècle, les principaux héritages des
+   Lumières (démocratie, droits de l'homme) ont fini par s'imposer dans le
+   monde occidental, et même dans une majorité de pays sur la planète, de
+   sorte que la perception des Lumières est globalement positive.
+
+   Certains penseurs ne partagent cependant pas cet optimisme, concernant
+   les conséquences de la philosophie des Lumières sur nos modes de vie et
+   ce que cela induit sur le plan de la crise écologique. Notamment, le
+   théologien orthodoxe Jean-Claude Larchet voit dans la philosophie des
+   Lumières, après l'humanisme, l'individualisme, le rationalisme déj�
+   apparus à la Renaissance, un des fondements spirituels de la crise
+   écologique. Selon ce penseur, qui appuie son argumentation sur une
+   étude approfondie des écrits des Pères de l'Église (en particulier
+   saint Maxime le Confesseur), les éléments suivants ont conduit à la
+   situation de crise que nous connaissons aujourd'hui^[44] :
+     * la conception de Dieu qui subsiste chez certains philosophes
+       théistes est celle d'un Dieu abstrait et lointain ; la religion
+       n'est plus vue comme ce qui relie, mais comme un ensemble de
+       superstitions à combattre et à détruire ;
+     * l'athéisme est souvent donné en exemple (Diderot) et sert de base
+       au naturalisme et au matérialisme ;
+     * l'homme est affirmé comme un centre de référence absolu, contre
+       Dieu ;
+     * la raison est affirmée comme la source de connaissance de
+       référence ;
+     * l'individu est affirmé contre la communauté.
+
+   Toujours selon Jean-Claude Larchet, la rationalisation de la perception
+   du monde réalisée par les Lumières n'est plus compensée par l'esprit
+   (ou intellect) dans une approche contemplative des êtres ouverte à la
+   transcendance et au sens du symbole, mais par le sentiment, ouvrant la
+   voie au siècle suivant, sous une forme exacerbée, au romantisme^[44].
+
+Lumières de la pensée juridique
+
+   [modifier | modifier le code]
+
+   Le concept de Lumières de la pensée juridique, définit la conjonction
+   de quatre transformations de la société qui engendre un changement
+   significatif de la pensée juridique. Les Lumières philosophiques, les
+   avancées techniques (en particulier le développement de l'imprimerie),
+   un climat économique favorable, les changements politiques rendent
+   possible la codification du droit. Ce phénomène est directement lié �
+   l'émergence de l'État-nation. L'État, dans la personne du souverain
+   devient l'unique source de droit. Cet élargissement des prérogatives
+   royales s'accompagnent de la nécessité de codifier le droit afin d'en
+   garantir la sécurité. Les Lumières sont toutefois marquées par les
+   résistances à la codification et l'échec des projets de code civil. Ce
+   n'est qu'au XIX^e siècle que les idées imaginées durant les Lumières de
+   la pensée juridique se réalisent et que les sociétés européennes
+   deviennent civilistes^[45].
+
+Critiques
+
+   [modifier | modifier le code]
+   Article détaillé : Critique des Lumières.
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Les dictionnaires écrivent le mot lumières, pris en ce sens, soit
+       uniquement avec une minuscule (voir Trésor de la langue française
+       informatisé et dictionnaires Le Robert) soit avec une minuscule ou
+       une majuscule, voir Dictionnaire de l’Académie française et
+       dictionnaires Larousse).
+    2. ↑ Josiane Boulad-Ayoub : « Ainsi explicitée, adaptée, transformée,
+       la Philosophie a pu servir de garant aux idées et aux valeurs que
+       la Démocratie française sur toute l’Europe, et qui, au nom des lois
+       de la République une et indivisible, au nom de la liberté, de
+       l’égalité, et de la fraternité, faisait trembler les tyrans sur les
+       champs de bataille ou, chez elle, guillotinait le roi » et « La vie
+       coloniale (de l’Amérique du Nord) s’organisa autour de quatre idées
+       inspirées par les philosophes des Lumières : les droits naturels,
+       la hiérarchie de lois (aucune loi des colonies n’est contraire à la
+       Couronne), la séparation des pouvoirs, le contrôle du
+       contre-pouvoir. Ces pensées influenceront les révolutionnaires
+       français de 1789. »
+    3. ↑ Tzvetan Todorov, « Tous les matins du monde », Télérama,‎ 2006,
+       p. 20, Hors série : Les Lumières. Des idées pour demain
+    4. ↑ ^a et b David Graeber, Pirates des lumières ou la véritable
+       histoire de Libertalia, Montreuil, Libertalia, 2019, 240 p.
+    5. ↑ Jacques Collin, Présentation, chronologie et notes. Louis-Armand
+       de Lom d'Arce, Nouveaux Voyages en Amérique septentrionale,
+       Montréal, 1983, p. 43
+    6. ↑ (en) David Graeber et David Wengrow, The dawn of everything… A
+       new history of humanity, Signal. McCleland & Stewart, 2021, 704 p.
+       (ISBN 978-0771049828) Traduction française par Élise Roy : Au
+       commencement était… Une nouvelle histoire de l’humanité, Paris, Les
+       Liens qui libèrent, 2021, 752 p., p. 536.
+    7. ↑ Franc̜ois Pillon, L’Année philosophique : Bibliothèque de
+       philosophie contemporaine, vol. 13, Paris, Félix Alcan, 1903,
+       308 p. (lire en ligne), p. 257.
+    8. ↑ Antoine Eugène Genoude, La Raison du christianisme : ou, Preuves
+       de la verité de la religion tirées des écrits des plus grands
+       hommes de la France, de l’Angleterre et de l’Allemagne, vol. 2,
+       Paris, Pourrat Frères, 1836, 620 p. (lire en ligne), p. 107.
+    9. ↑ J. S. Flotte, Leçons élémentaires de philosophie, vol. 2, Paris,
+       Brunot-Labbé, 1819 (lire en ligne), p. 226.
+   10. ↑ Yves Zarka (avec la collaboration de Marie-France Germain),
+       Buffon, le naturaliste philosophe, éditions Chemins de tr@verse,
+       2014
+   11. ↑ L’Esprit des lois, première partie, livre quatrième, Chap. IV
+       « Différence des effets de l’éducation chez les Anciens et parmi
+       nous. »
+   12. ↑ Colette Le Lay, sous la direction de Jacques Gapaillard, Les
+       articles d’astronomie dans l’Encyclopédie de Diderot et d’Alembert,
+       Mémoire de D.E.A. d’Histoire des Sciences et des Techniques,
+       Faculté des Sciences et des Techniques de Nantes Centre François
+       Viète, 1997, lire en ligne
+   13. ↑ Les Origines religieuses de la Révolution française : 1560-1791,
+       Paris, Éditions du Seuil, 2006, 572 p. (ISBN 978-2-02-085509-9)
+   14. ↑ Patrick Cabanel, Histoire de France, 1750-1995 : Monarchies et
+       républiques, vol. 1, Toulouse, Presses Univ. du Mirail, 1996,
+       303 p. (ISBN 978-2-85816-274-1, lire en ligne), p. 27.
+   15. ↑ Voir l’article « IMPIE » dans le Dictionnaire philosophique.
+   16. ↑ Voir Paul Bénichou, L’École du désenchantement. Sainte-Beuve,
+       Nodier, Musset, Nerval, Gautier, Paris, Gallimard, 1992, p. 594.
+   17. ↑ Lise Andriès, Le Partage des savoirs XVIII^e – XIX^e siècles
+       Littérature et idéologies, Lyon, Presses Universitaires de Lyon,
+       2003, p.  148 (ISBN 9782729707330).
+   18. ↑ « La philosophie des Lumières - Encyclopédie Hachette Multimédia
+       1998 », sur philonet.fr
+   19. ↑ Michel Le Moël et Sophie Descat, L’Urbanisme parisien au siècle
+       des Lumières : Paris et son patrimoine, Paris, Action artistique de
+       la ville de Paris, 1997, 229 p. (lire en ligne), p. 31.
+   20. ↑ L. Hautecoeur, Histoire de l'architecture classique en France, T.
+       III, 1950, T. IV, 1952.
+   21. ↑ Laugier, Marc-Antoine, Essai sur l'architecture Paris, 1753
+   22. ↑ Gérard Chouquer et Jean-Claude Daumas (dir.), Autour de Ledoux :
+       architecture, ville et utopie, Besançon, Presses universitaires de
+       Franche-Comté, 2008 (ISBN 978-2-84867-234-2 et 978-2-84867-812-2,
+       DOI 10.4000/books.pufc.25159, lire en ligne)
+   23. ↑ La philosophie des Lumières, exprimée par les livres, n'a
+       naturellement pas touché les classes populaires très
+       majoritairement analphabètes.
+   24. ↑ Montesquieu, De l'esprit des lois, Livre XV, Chapitre I.
+   25. ↑ Voltaire, Candide, Chapitre XIX.
+   26. ↑ Louis Sala-Molins Le Code Noir ou le calvaire de Caanan, Paris
+       PUF 1987 ; Les misères des Lumières ; sous la raison l'outrage,
+       Paris, Flammarion, 1992
+   27. ↑ Voir Jenny Mander, “Colonialism and Slavery,” dans The Cambridge
+       History of French Thought, publié sous la direction de Michael
+       Moriarty (Cambridge : Cambridge University Press, 2019), 273.
+   28. ↑ Mander, 272.
+   29. ↑ On parle parfois des Lumières (au substantif) pour désigner les
+       penseurs, écrivains et philosophes emblématiques de ce mouvement de
+       pensée, ce qui peut être regardé comme un abus de langage (on
+       préférera plutôt parler par exemple de « philosophe des
+       Lumières »).
+   30. ↑ Pierre Gamarra, L”Histoire de la laïcité, Paris, IDLivre, 2005,
+       (ISBN 2747900576), p. 67.
+   31. ↑ Jacques De Cock, Politique des Lumières, Fantasques éditions,
+       244 p. (ISBN 978-2-913846-16-6, lire en ligne), p. 116.
+   32. ↑ Gérard Lahouati, « Voltaire, la Henriade et l’histoire »,
+       Voltaire n^o 2, Université de Pau et des Pays de l’Adour, Presses
+       Paris Sorbonne, 2002, 271 p., (ISBN 9782840502555), p. 166.
+   33. ↑ « D’Holbach, qui a étudié à Leyde, est beaucoup plus au courant
+       que Voltaire du développement des sciences … tout en prônant lui
+       aussi le despotisme éclairé » Jacques J. Natanson, La Mort de
+       Dieu : essai sur l’athéisme moderne, Paris, Presses universitaires
+       de France, 1975, p. 66.
+   34. ↑ Ali Moussa Iye, Albert Ollé-Martin, Violaine Decang, Histoire de
+       l’humanité : 1789-1914, coll. Histoire plurielle, vol. 6, UNESCO,
+       2008, 1519 p., (ISBN 9789232028150), p. 727.
+   35. ↑ Tanguy L’Aminot, « Politique et révolution chez Jean-Jacques
+       Rousseau », Studies on Voltaire and the Eighteenth Century,
+       vol. 324, Voltaire Foundation, 1994.
+   36. ↑ Jacobi fut aussi un critique des Lumières, les accusant de
+       propager le spinozisme et l'athéisme.
+   37. ↑ Fichte écrit dans sa jeunesse la Revendication de la liberté de
+       penser et défend la Révolution française.
+   38. ↑ Auteur de Qu'est-ce que les Lumières ?.
+   39. ↑ Voir Daniel Roche, Le Peuple de Paris : essai sur la culture
+       populaire au XVIII^e siècle, Paris, Librairie Arthème Fayard, 1998
+       et Jean de Viguerie, « Une Forme nouvelle de vie consacrée :
+       enseignantes et hospitalières en France aux XVII^e et
+       XVIII^e siècles », Femmes et pouvoirs sous l’ancien régime, sous la
+       direction de Danielle Haase Dubosc et Éliane Viennot, Paris,
+       Rivages, 1991, p. 175-95.
+   40. ↑ Voir Jacques Domenech, L'éthique des Lumières, Vrin, 1989,
+       (ISBN 9782711609987).
+   41. ↑ Adhémar Esmein, Éléments de droit constitutionnel français et
+       comparé, Paris, Sirey, 1921, 600 p. (lire en ligne), p. 458.
+   42. ↑ Daniel Mornet, Les Origines intellectuelles de la Révolution
+       française (1715-1787), Paris, Armand Colin, 1933.
+   43. ↑ Prosper Poullet, Les institutions françaises de 1795 à 1814,
+       Paris, Plon-Nourrit, 1907, 975 p. (lire en ligne), p. 223.
+   44. ↑ ^a et b Jean-Claude Larchet, Les fondements spirituels de la
+       crise écologique, Syrtes, p. 77-79
+   45. ↑ Adrien Wyssbrod, De la coutume au code : Résistances à la
+       codification du droit civil à Neuchâtel sous l’Ancien Régime,
+       Wyssbrod, 6 mars 2019 (ISBN 978-1-7927-2266-0, lire en ligne),
+       p. 195ss
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Lumières (philosophie), sur Wikimedia Commons
+     * Lumières, sur le Wiktionnaire
+     * Lumières (philosophie), sur Wikisource
+     * Lumières (philosophie), sur Wikiquote
+
+Bibliographie
+
+   [modifier | modifier le code]
+   Article détaillé : Bibliographie des Lumières.
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Critique des Lumières
+     * Déclaration des droits de l'homme et du citoyen
+     * Despotisme éclairé
+     * Échiquier politique
+     * Encyclopédie
+     * Espagne des Lumières
+     * Franc-maçonnerie
+     * Gazette de Leyde
+     * Humanisme
+     * Lettres d'une Péruvienne de Françoise de Graffigny
+     * Littérature du XVIII^e siècle
+     * Lumières écossaises
+     * Lumières polonaises
+     * Modernité
+     * Qu'est-ce que les Lumières ? de Kant
+     * Rationalisme
+     * Siècle des Lumières
+     * Tolérance
+     * Universalisme (philosophie)
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     *
+     * Notice dans un dictionnaire ou une encyclopédie généraliste Voir et
+       modifier les données sur Wikidata  :
+          + Universalis
+     *
+     * L'esprit des Lumières par Tzvetan Todorov (Bibliothèque nationale
+       de France)
+     * Qu'est-ce que les Lumières ? Par Michel Foucault sur
+       1libertaire.free.fr
+     * Qu’est-ce que les Lumières aujourd’hui ? - de Valéry Rasplus sur
+       calle-luna.org
+     * Littérature des Lumières et Révolution site de la Bibliothèque
+       André-Desguine
+     * Textes sur les Lumières sur hypo.ge-dip.etat-ge.ch
+     * Analyse de l’ouvrage de Jonathan Israel sur les Lumières radicales
+       - par larissa- gokadi sur wodka.over-blog.com
+
+   v · m
+   Philosophie des Lumières
+   Mouvements philosophiques
+     * Rationalisme
+     * Empirisme
+     * Idéalisme
+     * Lumières radicales
+     * Contre-Lumières
+     * Libertinage érudit
+     * Franc-maçonnerie
+
+   Déclarations des droits
+     * Charte des droits de 1689
+     * Déclaration des droits de l'État de Virginie
+     * Déclaration d'indépendance des États-Unis
+     * Déclaration américaine des droits
+     * Déclaration des droits de l'homme et du citoyen de 1789
+
+   Événements politiques
+     * Révolution anglaise
+     * Révolution américaine
+     * Révolution française
+     * Constitution polonaise du 3 mai 1791
+
+        Œuvres majeures
+     * Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des
+       métiers
+
+   Philosophe
+     * Jean Le Rond d'Alembert
+     * Pierre Bayle
+     * Cesare Beccaria
+     * Edmund Burke
+     * Étienne Bonnot de Condillac
+     * Denis Diderot
+     * Claude-Adrien Helvétius
+     * Johann Gottfried von Herder
+     * David Hume
+     * Paul Thiry d'Holbach
+     * Johann Wolfgang von Goethe
+     * Samuel Johnson
+     * Emmanuel Kant
+     * John Locke
+     * Julien Offray de La Mettrie
+     * Moses Mendelssohn
+     * Jean Meslier
+     * Montesquieu
+     * Isaac Newton
+     * Thomas Paine
+     * Guillaume-Thomas Raynal
+     * Jean-Jacques Rousseau
+     * Marquis de Sade
+     * Adam Smith
+     * Voltaire
+
+   Lumières par pays
+     * Allemagne
+     * Autriche
+     * Écosse
+     * Espagne
+     * Italie
+     * Pologne
+     * Portugal
+     * Russie
+     * Treize Colonies / États-Unis d'Amérique
+
+     * icône décorative Portail de la philosophie
+     * icône décorative Portail des Lumières
+     * icône décorative Portail du XVIII^e siècle
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Lumières_(philosophie)&old
+   id=231535034 ».
+   Catégories :
+     * Lumières
+     * XVIIIe siècle
+     * Philosophie au XVIIIe siècle
+
+   Catégories cachées :
+     * Article à référence nécessaire
+     * Article avec une section vide ou incomplète
+     * Catégorie Commons avec lien local identique sur Wikidata
+     * Page utilisant un modèle Bases inactif
+     * Page utilisant P3219
+     * Page pointant vers des bases externes
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Page utilisant le modèle Autorité inactif
+     * Portail:Philosophie/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Lumières/Articles liés
+     * Portail:XVIIIe siècle/Articles liés
+     * Portail:Époque moderne/Articles liés
+     * Portail:Histoire/Articles liés
+
+     * La dernière modification de cette page a été faite le 17 décembre
+       2025 à 08:39.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Lumières (philosophie)
+   (BUTTON) 8 langues Ajouter un sujet

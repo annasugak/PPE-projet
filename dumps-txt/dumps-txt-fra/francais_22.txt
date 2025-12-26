@@ -1,0 +1,672 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Historique
+     * 2 Émission
+     * 3 Description
+     * 4 Propriétés
+       (BUTTON) Afficher / masquer la sous-section Propriétés
+          + 4.1 Polarisation
+          + 4.2 Comportement ondulatoire
+          + 4.3 Dualité onde-corpuscule
+     * 5 Notes et références
+     * 6 Articles connexes
+
+   [ ] Basculer la table des matières
+
+Onde électromagnétique
+
+   [ ] 50 langues
+     * Alemannisch
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * Беларуская
+     * Български
+     * Буряад
+     * Catal�
+     * Čeština
+     * Чӑвашла
+     * Deutsch
+     * English
+     * Esperanto
+     * Galego
+     * ગુજરાતી
+     * Kreyòl ayisyen
+     * Magyar
+     * 日本語
+     * La .lojban.
+     * Jawa
+     * Қазақша
+     * Къарачай-малкъар
+     * Kurdî
+     * Latina
+     * Lietuvių
+     * မြန်မာဘာသာ
+     * Nederlands
+     * Norsk bokmål
+     * ਪੰਜਾਬੀ
+     * Piemontèis
+     * پنجابی
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * සිංහල
+     * Shqip
+     * Sunda
+     * తెలుగు
+     * Tagalog
+     * Türkçe
+     * Татарча / tatarça
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * Walon
+     * Хальмг
+     * 中文
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Wikiversité
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir onde (homonymie).
+
+   L'onde électromagnétique est un modèle utilisé pour représenter les
+   rayonnements électromagnétiques.
+
+   Il convient de bien distinguer : le rayonnement électromagnétique, qui
+   est le phénomène étudié, et l'onde électromagnétique, qui est une des
+   représentations du phénomène. Une autre représentation — quantique (ou
+   corpusculaire) — prend en compte l'existence du photon.
+
+   Une onde lumineuse est une onde électromagnétique dont la longueur
+   d'onde correspond au spectre visible, soit environ entre les longueurs
+   d'onde 400 et 800 nm, ce qui correspond aux énergies de photon de 1,5 �
+   3 eV. Les ondes électromagnétiques sont des ondes transversales.
+
+Historique
+
+   [modifier | modifier le code]
+
+   La théorie ondulatoire de la lumière a été principalement développée
+   par Christian Huygens dans les années 1670, puis par Augustin Fresnel.
+   Elle s'opposait à l'époque à la théorie corpusculaire, défendue
+   principalement par Isaac Newton. Huygens travaillait essentiellement
+   sur les lois de la réflexion et de la réfraction, Fresnel développa
+   notamment les notions d'interférence et de longueur d'onde. La
+   conception de la lumière comme ondulation incita les physiciens �
+   imaginer un milieu de propagation, l'éther.
+
+   La grande avancée théorique fut la synthèse des lois de
+   l'électromagnétisme par James Clerk Maxwell, ses équations prédisaient
+   l'existence d'ondes électromagnétiques, et leur vitesse, permettant
+   l'hypothèse que la lumière soit une onde électromagnétique.
+
+   Les ondes radio, à basse fréquence et grande longueur d'onde, furent
+   découvertes à la fin du XIX^e siècle avec les travaux notamment
+   d'Alexandre Popov, Heinrich Hertz, Édouard Branly et de Nikola Tesla.
+   Les rayons X, à haute fréquence et faible longueur d'onde, furent
+   découverts par Wilhelm Röntgen en 1895.
+
+   Le problème du rayonnement du corps noir fut résolu par Max Planck, en
+   1901, en introduisant une constante et des discontinuités, qui seront
+   expliquées par Albert Einstein en 1905, dans ses travaux sur l'effet
+   photoélectrique, en proposant l'existence d'un quanta énergétique. Ce
+   quanta est le prémisse au modèle du photon, synthèse des approches
+   ondulatoire et corpusculaire de la lumière, donnant l'idée d'une
+   généralisation à toute la matière : la mécanique quantique.
+
+Émission
+
+   [modifier | modifier le code]
+
+   Les ondes électromagnétiques (perturbations des champs électrique et
+   magnétique) sont produites par des particules chargées accélérées^[1].
+
+   Dans le domaine des radio-fréquences et des micro-ondes, l'émission
+   d'une onde électromagnétique s’effectue en faisant circuler un courant
+   électrique variable dans un conducteur. La réception se fait en
+   détectant le courant électrique induit par le champ électromagnétique
+   de l'onde dans un conducteur.
+
+Description
+
+   [modifier | modifier le code]
+   [500px-Onde_electromagnetique.svg.png] Onde électromagnétique :
+   oscillation couplée du champ électrique et du champ magnétique, modèle
+   du dipôle vibrant (le trièdre
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mi>v</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow>
+   <mo>,</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo stretchy="false">→</mo>
+   </mover> </mrow> </mrow> <mo>,</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>B</mi> <mo
+   stretchy="false">→</mo> </mover> </mrow> </mrow> </mrow> <mo>)</mo>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle \left({\vec
+   {v}},{\vec {E}},{\vec {B}}\right)}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left({\vec {v}},{\vec {E}},{\vec
+   {B}}\right)} doit être direct).
+
+   Une onde électromagnétique est la propagation d'un champ électrique
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+   stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\vec
+   {E}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\vec {E}}} et d'un champ magnétique
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>B</mi> <mo
+   stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\vec
+   {B}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\vec {B}}} associés, perpendiculaires entre eux et à la
+   direction de propagation.
+
+   Comme toutes les ondes, une onde électromagnétique peut s'analyser en
+   utilisant l'analyse spectrale ; on peut décomposer l'onde en ondes
+   dites « monochromatiques » (voir aussi Spectre d'ondes planes).
+
+   Une onde électromagnétique monochromatique peut se modéliser par un
+   dipôle électrostatique vibrant, ce modèle reflétant convenablement, par
+   exemple, les oscillations du nuage électronique d'un atome intervenant
+   dans la diffusion Rayleigh (modèle de l'électron élastiquement lié).
+
+   Les variations des champs électriques et magnétiques sont liées par les
+   équations de Maxwell, on peut donc représenter l'onde par un seul de
+   ces champs, en général le champ électrique.
+
+   Il est alors possible d'écrire l'équation générale d'une onde plane
+   monochromatique :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+          <mi>E</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow>
+          <mo stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>,</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mi>cos</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi>
+          <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>⋅</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mover> <mi>r</mi> <mo stretchy="false">→</mo> </mover> </mrow>
+          </mrow> <mo>+</mo> <mi>φ</mi> <mo stretchy="false">)</mo>
+          <mspace width="thickmathspace" /> <msub> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+          <mi>E</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\vec {E}}({\vec
+          {r}},t)=\cos(\omega t-{\vec {k}}\cdot {\vec {r}}+\varphi
+          )\;{\vec {E}}_{0}}</annotation> </semantics> :MATH]
+          {\displaystyle {\vec {E}}({\vec {r}},t)=\cos(\omega t-{\vec
+          {k}}\cdot {\vec {r}}+\varphi )\;{\vec {E}}_{0}}
+
+   où
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>E</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>=</mo> <mo
+       fence="false" stretchy="false">‖</mo> <msub> <mrow
+       class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+       <mi>E</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow>
+       <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+       fence="false" stretchy="false">‖</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle E_{0}=\|{\vec
+       {E}}_{0}\|}</annotation> </semantics> :MATH]
+       {\displaystyle E_{0}=\|{\vec {E}}_{0}\|} est l'amplitude de
+       l'onde ;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ω</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \omega
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \omega } est la pulsation et vaut
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mn>2</mn> <mi>π</mi> <mi>c</mi> </mrow> <mi>λ</mi>
+       </mfrac> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {2\pi c}{\lambda
+       }}}</annotation> </semantics> :MATH]
+       {\displaystyle {\frac {2\pi c}{\lambda }}} ;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\vec
+       {r}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {r}}} est le vecteur position du point
+       considéré ;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\vec
+       {k}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {k}}} est le vecteur d'onde dont la norme vaut
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo fence="false"
+       stretchy="false">‖</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+       class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> <mo fence="false"
+       stretchy="false">‖</mo> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mi>λ</mi> </mfrac>
+       </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \|{\vec {k}}\|={\frac
+       {2\pi }{\lambda }}}</annotation> </semantics> :MATH]
+       {\displaystyle \|{\vec {k}}\|={\frac {2\pi }{\lambda }}} ^[2],
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>λ</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \lambda
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \lambda } étant la longueur d'onde ;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>φ</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \varphi
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \varphi } est la phase à l'origine.
+
+   On utilise aussi fréquemment la notation complexe :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+          <munder> <mi>E</mi> <mo>_</mo> </munder> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>,</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mo>=</mo> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mspace width="thinmathspace" />
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi>
+          <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>⋅</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mover> <mi>r</mi> <mo stretchy="false">→</mo> </mover> </mrow>
+          </mrow> <mo stretchy="false">)</mo> </mrow> </msup> <mspace
+          width="thickmathspace" /> <msub> <mrow class="MJX-TeXAtom-ORD">
+          <munder> <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> <mo>_</mo> </munder>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+          </msub> <mspace width="thickmathspace" /> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\vec
+          {\underline {E}}}({\vec {r}},t)=\mathrm {e} ^{\,\mathrm {i}
+          (\omega t-{\vec {k}}\cdot {\vec {r}})}\;{\underline {\vec
+          {E}}}_{0}\;}</annotation> </semantics> :MATH]
+          {\displaystyle {\vec {\underline {E}}}({\vec {r}},t)=\mathrm {e}
+          ^{\,\mathrm {i} (\omega t-{\vec {k}}\cdot {\vec
+          {r}})}\;{\underline {\vec {E}}}_{0}\;} .
+
+   Dans ce cas on obtiendra alors les grandeurs physiques réelles, en
+   prenant la partie réelle de cette forme complexe. On remarquera que
+   dans cette expression,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <mi>E</mi> <mo stretchy="false">→</mo> </mover> </mrow>
+   <mo>_</mo> </munder> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mo>=</mo> <msub> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo stretchy="false">→</mo>
+   </mover> </mrow> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mspace width="thinmathspace" /> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">i</mi> </mrow> <mi>φ</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\underline {\vec
+   {E}}}_{0}={\vec {E}}_{0}\,\mathrm {e} ^{\mathrm {i} \varphi
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle {\underline {\vec {E}}}_{0}={\vec {E}}_{0}\,\mathrm {e}
+   ^{\mathrm {i} \varphi }} . L'utilisation de la notation complexe, pur
+   artifice de calcul, a pour objectif de simplifier grandement les
+   opérations dans la majorité des cas.
+
+Propriétés
+
+   [modifier | modifier le code]
+
+Polarisation
+
+   [modifier | modifier le code]
+
+   La polarisation correspond à la direction et à l'amplitude du champ
+   électrique
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+   stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\vec
+   {E}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\vec {E}}} . Pour une onde non polarisée, ou naturelle,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+   stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\vec
+   {E}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\vec {E}}} tourne autour de son axe de façon aléatoire
+   et imprévisible au cours du temps. Polariser une onde correspond �
+   donner une trajectoire définie au champ électrique. Il y a plusieurs
+   sortes de polarisation :
+     * La polarisation rectiligne :
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\vec
+       {E}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {E}}} est toujours selon la même direction.
+     * La polarisation circulaire : le champ électrique tourne autour de
+       son axe en formant un cercle.
+     * La polarisation elliptique : le champ électrique tourne autour de
+       son axe et change d'amplitude pour former une ellipse.
+
+Comportement ondulatoire
+
+   [modifier | modifier le code]
+
+   Propagation
+          Dans un milieu homogène et isotrope, l'onde électromagnétique se
+          propage en ligne droite. Lors de la rencontre avec un obstacle,
+          il y a diffraction ; lors d'un changement de milieu, il y a
+          réflexion et réfraction ; il y a aussi réfraction si les
+          propriétés du milieu changent selon l'endroit (hétérogénéité).
+          Voir aussi Principe de Huygens-Fresnel.
+
+   Réflexion
+   Article détaillé : Réflexion (optique).
+          Lors d'un changement de milieu de propagation, une partie de
+          l'onde électromagnétique repart vers le milieu d'origine, c'est
+          la réflexion.
+          Le cas le plus connu de la réflexion est le miroir, mais
+          celle-ci concerne également les rayons X (miroir à rayons X) et
+          les ondes radio : réflexion sur la ionosphère des ondes
+          mégahertz, antenne parabolique, réflexion sur la Lune…
+
+   Réfraction
+   Article détaillé : Réfraction.
+          Lors d'un changement de milieu de propagation, si le second
+          milieu est transparent pour l'onde, celle-ci se propage au
+          travers mais avec une direction différente. Cela concerne la
+          lumière (lentille optique, mirage), mais aussi les ondes radio
+          (réfraction des ondes décamétriques dans la ionosphère).
+
+   Diffusion
+          Lorsqu'une onde rencontre un atome, elle se diffuse sur
+          celui-ci, elle change de direction. On distingue la diffusion
+          Rayleigh, dite « diffusion électronique », au cours de laquelle
+          l'onde ne change pas de longueur d'onde, la diffusion Raman qui
+          est une diffusion électronique avec diminution ou augmentation
+          de longueur d'onde, et la diffusion Compton, dans le cas des
+          rayons X diffusant sur des atomes légers, au cours de laquelle
+          la longueur d'onde augmente.
+
+   Interférences
+   Article détaillé : Interférence.
+          Comme toutes les ondes, les ondes électromagnétiques peuvent
+          interférer. Dans le cas des radiocommunications, cela provoque
+          un parasitage du signal (voir aussi Rapport signal sur bruit).
+
+   Diffraction
+   Article détaillé : Diffraction.
+          L'interférence d'ondes diffusées porte le nom de diffraction :
+
+          + théorie de la diffraction ;
+          + diffraction par une fente ;
+          + fentes de Young ;
+          + réseau de diffraction ;
+          + cristallographie aux rayons X ;
+          + espace réciproque.
+
+   Flux d'énergie
+          Le flux d'énergie à travers une surface est donné par le flux du
+          vecteur de Poynting.
+
+Dualité onde-corpuscule
+
+   [modifier | modifier le code]
+   Article détaillé : Dualité onde-corpuscule.
+
+   La notion d'onde électromagnétique est complémentaire de celle de
+   photon. En fait, l'onde fournit une description plus pertinente de la
+   radiation pour les faibles fréquences (c'est-à-dire les grandes
+   longueurs d'onde) comme les ondes radio.
+
+   En réalité, l'onde électromagnétique représente deux choses :
+     * la variation macroscopique du champ électrique et du champ
+       magnétique ;
+     * la fonction d'onde du photon, c'est-à-dire que la norme au carré de
+       l'onde est la probabilité de présence d'un photon.
+
+   Lorsque le flux d'énergie est grand devant l'énergie des photons, on
+   peut considérer que l'on a un flux quasi-continu de photons, et les
+   deux notions se recouvrent. Ceci n'est plus vrai lorsque le flux
+   d'énergie est faible (on envoie les photons un par un), la notion de
+   « variation macroscopique » (moyenne) n'a alors plus de sens.
+
+   Le flux d'énergie est donné par le vecteur de Poynting. Chaque photon
+   possède une quantité d'énergie déterminée, valant
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mi>E</mi> <mo>=</mo> <mi>h</mi>
+   <mspace width="thinmathspace" /> <mi>ν</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\textstyle E=h\,\nu
+   }</annotation> </semantics> :MATH]
+   {\textstyle E=h\,\nu } , où
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>h</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+   </semantics> :MATH]
+   {\displaystyle h} est la constante de Planck et
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ν</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \nu
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \nu } la fréquence. On peut ainsi calculer le flux de
+   photons à travers une surface.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Lev Landau et Evgueni Lifchits, Physique théorique, t. 2 :
+       Théorie des champs [détail des éditions], §67 : « les charges ne
+       peuvent rayonner que si elles sont animées d'un mouvement accéléré.
+       Ce résultat découle d'ailleurs du principe de relativité puisqu'on
+       peut rapporter une charge animée d'un mouvement uniforme à un
+       référentiel galiléen par rapport auquel elle est au repos ; on sait
+       que les charges au repos ne rayonnent pas ».
+    2. ↑
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\vec
+       {k}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {k}}} est parfois défini comme étant de norme
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="false" scriptlevel="0"> <mn>1</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>λ</mi> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\textstyle
+       1/\lambda }</annotation> </semantics> :MATH]
+       {\textstyle 1/\lambda } . L'équation de l'onde s'écrit alors :
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> <mo
+       stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+       class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>,</mo>
+       <mi>t</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mi>cos</mi>
+       <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi>
+       <mo>−</mo> <mn>2</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>⋅</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+       <mi>r</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow>
+       <mo>+</mo> <mi>φ</mi> <mo stretchy="false">)</mo> <mspace
+       width="thickmathspace" /> <msub> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>E</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\vec {E}}({\vec {r}},t)=\cos(\omega t-2\pi {\vec {k}}\cdot {\vec
+       {r}}+\varphi )\;{\vec {E}}_{0}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {E}}({\vec {r}},t)=\cos(\omega t-2\pi {\vec
+       {k}}\cdot {\vec {r}}+\varphi )\;{\vec {E}}_{0}}
+
+Articles connexes
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Onde électromagnétique, sur Wikiversity
+
+     * Spectre électromagnétique
+     * Propagation des ondes radio
+          + Éther luminifère
+     * Sensibilité électromagnétique
+     * Risques sanitaires des télécommunications
+
+     * icône décorative Portail de la physique
+     * icône décorative Portail de l’optique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Onde_électromagnétique&old
+   id=220952003 ».
+   Catégories :
+     * Électromagnétisme
+     * Optique ondulatoire
+
+   Catégories cachées :
+     * Portail:Physique/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Optique/Articles liés
+
+     * La dernière modification de cette page a été faite le 7 décembre
+       2024 à 22:45.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Onde électromagnétique
+   (BUTTON) 50 langues Ajouter un sujet

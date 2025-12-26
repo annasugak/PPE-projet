@@ -1,0 +1,1589 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 1.1 Essor des LED
+     * 2 Économie
+     * 3 Mécanisme d'émission
+     * 4 Techniques de fabrication
+     * 5 Efficacité lumineuse
+       (BUTTON) Afficher / masquer la sous-section Efficacité lumineuse
+          + 5.1 Effet Auger
+     * 6 Caractéristiques techniques
+       (BUTTON) Afficher / masquer la sous-section Caractéristiques
+       techniques
+          + 6.1 Forme
+          + 6.2 Luminosité
+          + 6.3 Couleurs
+          + 6.4 Modules communs
+          + 6.5 Câblage et alimentation électrique
+          + 6.6 Points forts et faiblesses
+               o 6.6.1 Avantages
+               o 6.6.2 Inconvénients
+               o 6.6.3 Perspectives
+     * 7 Utilisations
+       (BUTTON) Afficher / masquer la sous-section Utilisations
+          + 7.1 Familles
+               o 7.1.1 Classement selon la puissance
+               o 7.1.2 Classement selon le spectre d'émission
+               o 7.1.3 Autres classements
+          + 7.2 Diodes électroluminescentes ordinaires
+               o 7.2.1 Éclairage
+               o 7.2.2 Affichage
+               o 7.2.3 Source de lumière quasi monochromatique
+          + 7.3 Diodes électroluminescentes blanches
+     * 8 Santé
+     * 9 Environnement
+       (BUTTON) Afficher / masquer la sous-section Environnement
+          + 9.1 Effets sur la faune
+     * 10 Notes et références
+       (BUTTON) Afficher / masquer la sous-section Notes et références
+          + 10.1 Notes
+          + 10.2 Références
+     * 11 Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 11.1 Bibliographie
+          + 11.2 Articles connexes
+          + 11.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Diode électroluminescente
+
+   [ ] 79 langues
+     * العربية
+     * অসমীয়া
+     * Asturianu
+     * Azərbaycanca
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * বাংলা
+     * Bosanski
+     * Catal�
+     * کوردی
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Nordfriisk
+     * Gaeilge
+     * Galego
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * Latina
+     * Lombard
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * മലയാളം
+     * मराठी
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * Polski
+     * Piemontèis
+     * پنجابی
+     * Português
+     * Română
+     * Русский
+     * Scots
+     * Srpskohrvatski / српскохрватски
+     * සිංහල
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Српски / srpski
+     * Seeltersk
+     * Svenska
+     * தமிழ்
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Türkçe
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * 中文
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur les redirections
+
+   « Led » redirige ici. Pour les autres significations, voir LED.
+   Diodes de différentes couleurs.Symbole de la diode électroluminescente.
+
+   Une diode électroluminescente (abrégé en DEL en français, ou LED, de
+   l'anglais : light-emitting diode) est un dispositif opto-électronique
+   fait de matériau semi-conducteur, capable d'émettre de la lumière
+   lorsqu'il est parcouru par un courant électrique. Une diode
+   électroluminescente ne laisse passer le courant électrique que dans un
+   seul sens et produit un rayonnement monochromatique ou polychromatique
+   non cohérent par conversion d'énergie électrique lorsqu'un courant la
+   traverse.
+
+   Les premières LED commercialisées dès les années 1960 ont produit de la
+   lumière infrarouge, rouge, puis verte et jaune^[1]^,^[2]. Leur usage
+   commercial restait limité à des applications de télécommande et
+   d'indications lumineuses. L'arrivée de la LED bleue puis blanche,
+   associée aux progrès techniques et d'assemblage, a permis aux lampes
+   d'émettre dans une bande de longueurs d'onde plus large, correspondant
+   au spectre visible, et même au-delà^[3]. De nombreux appareils sont
+   aujourd'hui munis de LED composites (trois LED réunies en un
+   composant : rouge, vert et bleu) permettant d'afficher de très
+   nombreuses couleurs.
+
+   En raison de nombreux avantages, les lampes LED remplacent d'autres
+   types de lampes^[4]. Elles sont aussi utilisées dans la construction
+   des écrans : pour le rétroéclairage des écrans à cristaux liquides ou
+   comme source d'illumination principale dans les écrans à OLED, ces
+   dernières étant des LED où le semi-conducteur est un composé organique.
+
+Histoire
+
+   [modifier | modifier le code]
+
+   La première émission de lumière par un semi-conducteur date de 1907 et
+   est découverte par Henry Round, ingénieur chez Marconi. En 1927, le
+   russe Oleg Lossev dépose le premier brevet de ce qui sera appelé plus
+   tard une diode électroluminescente, mais les applications peinent �
+   émerger, le carbure de silicium alors utilisé comme semi-conducteur
+   ayant de piètres propriétés électroluminescentes.
+
+   La découverte de l'émission infrarouge à basse température de
+   l'arséniure de gallium et d'autres semi-conducteurs III-V par Rubin
+   Braunstein en 1955 à la RCA à Princeton permet d'envisager de
+   prometteurs développements^[5]. Nick Holonyak Jr. et S. Bevacqua créent
+   la première LED rouge en 1962. Durant quelques années, les chercheurs
+   se limitent à quelques couleurs telles que le rouge (1962), le jaune,
+   le vert et plus tard le bleu (1972)^[2]^,^[6].
+
+   Dans les années 1990, les recherches, entre autres, de Shuji Nakamura
+   et Takashi Mukai de Nichia, dans la technologie des semi-conducteurs
+   InGaN permettent la création de LED bleues de forte luminosité, ensuite
+   adaptées en LED blanches, par adjonction d'un luminophore jaune^[7].
+   Cette avancée permet de nouvelles applications majeures telles que
+   l'éclairage et le rétroéclairage des écrans de téléviseurs et des
+   écrans à cristaux liquides. Le 7 octobre 2014, Shuji Nakamura, Isamu
+   Akasaki et Hiroshi Amano reçoivent le prix Nobel de physique pour leurs
+   travaux sur les LED bleues^[8].
+
+Essor des LED
+
+   [modifier | modifier le code]
+
+   En 2007, Audi et Lexus bénéficient de dérogations de la Commission
+   européenne pour commercialiser des modèles munis de feux avant à LED.
+   En 2009, la Ferrari 458 Italia innove elle aussi avec des phares à LED.
+   En 2020, la majorité des automobiles avec un niveau d'équipement élevé
+   bénéficient de feux de route à LED désormais bien plus performants que
+   les éclairages à lampe à incandescence halogène.
+
+   Plusieurs villes remplacent leur éclairage public par des LED dans le
+   but de diminuer leur facture d'électricité et la pollution lumineuse du
+   ciel (éclairage dirigé vers le bas). Le recours aux LED est aussi
+   courant dans les feux tricolores. L'exemple de Grenoble est le plus
+   souvent cité : la ville a réalisé son retour sur investissement en
+   trois ans seulement. En effet, les LED permettent des économies
+   d'énergie, mais ce sont surtout les coûts de maintenance qui baissent,
+   du fait de leur robustesse.
+
+   En 2010, la Régie autonome des transports parisiens (RATP) expérimente
+   l'éclairage des espaces du métro parisien, notamment à la station
+   Censier-Daubenton première station de métro entièrement éclairée par
+   cette technologie. En 2012 estimant le produit mature la RATP décide de
+   modifier la totalité de son éclairage vers la technologie LED. ce sont
+   plus de 250 000 luminaires qui seront modifiés, faisant ainsi du métro
+   parisien le premier réseau de transport en commun d'envergure à adopter
+   le « tout LED »^[9]. Le remplacement des éclairages est finalisé en
+   2016^[10].
+
+Économie
+
+   [modifier | modifier le code]
+
+   Le développement de la technologie des LED suit une loi analogue à la
+   loi de Moore, appelée loi de Haitz (en), du nom de Roland Haitz
+   d'Agilent Technologies, et qui prévoit que les performances des LED
+   doublent tous les trois ans, pour des prix divisés par dix tous les dix
+   ans^[11].
+
+   L'intérêt des lampes à LED en matière de consommation électrique, de
+   durée de vie et de sécurité électrique s'est rapidement confirmé pour
+   l'automobile (dans l'habitacle et pour les phares et clignotants, où
+   les LED se montrent plus performantes que les sources xénon ou
+   halogène), l'éclairage urbain, l'éclairage d'infrastructures, les
+   usages dans la marine et l'aéronautique. Cet intérêt a, au début des
+   années 2000, dopé le marché, qui a dépassé en 2010 le seuil des dix
+   milliards de dollars américains (USD), soutenu par une croissance
+   annuelle globale de 13,6 % de 2001 à 2012, et devrait atteindre
+   14,8 milliards USD avant la fin 2015^[12]. Dans ce marché, la part de
+   l'éclairage augmente régulièrement de 2008 à 2014 et devrait se
+   stabiliser en 2018, alors que la part du rétro-éclairage devrait
+   décroître dès 2014 en raison d'évolutions techniques^[12].
+
+   La part destinée à l'automobile semble dans les années 2010-2015 stable
+   (environ 10 % du marché global) et pourrait le rester jusqu'�
+   2020^[12]. Les LED ont d'abord équipé des véhicules de luxe (Audi,
+   Mercedes) puis de moyenne gamme (Seat Léon, Volkswagen Polo en 2014).
+
+   En 2016, les principaux fabricants sur ce marché sont Nichia et Toyoda
+   Gosei au Japon, notamment pour les LED GaN de « forte » puissance (plus
+   de 1 watt), Philips Lumileds Lighting Company et OSRAM Opto
+   Semiconductors GmbH en Europe, Cree et General Electric aux États-Unis.
+   Samsung Electronics et Seoul Semiconductor (en) produisent des LED pour
+   l'automobile.
+
+Mécanisme d'émission
+
+   [modifier | modifier le code]
+
+   La recombinaison d'un électron et d'un trou d'électron dans un
+   semi-conducteur conduit à l'émission d'un photon. En effet, la
+   transition d'un électron entre la bande de conduction et la bande de
+   valence peut se faire avec la conservation du vecteur d'onde
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+   stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\vec
+   {k}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\vec {k}}} . Elle est alors radiative (émissive)
+   c'est-à-dire accompagnée de l'émission d'un photon. Dans une transition
+   émissive, l'énergie du photon créé est donnée par la différence des
+   niveaux d'énergie avant (E[i]) et après (E[f]) la transition :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>h</mi> <mi>ν</mi>
+          <mo>=</mo> <msub> <mi>E</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> </mrow> </msub> <mo>−</mo> <msub> <mi>E</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>f</mi> </mrow> </msub> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          h\nu =E_{i}-E_{f}}</annotation> </semantics> :MATH]
+          {\displaystyle h\nu =E_{i}-E_{f}} (eV)
+
+   Une diode électroluminescente est une jonction P-N qui doit être
+   polarisée en sens direct lorsqu'on veut émettre de la lumière. Le
+   potentiel imposé aux bornes doit être supérieur à celui imposé par la
+   jonction P-N. La plupart des recombinaisons sont radiatives. La face
+   émettrice de la LED est la zone P car c'est la plus radiative^[13].
+     * Gros-plan d'une diode électroluminescente rouge-vert-bleu à 4
+       pôles.
+       Gros-plan d'une diode électroluminescente rouge-vert-bleu à 4
+       pôles.
+     * Fonctionnement d'une LED.
+       Fonctionnement d'une LED.
+
+Techniques de fabrication
+
+   [modifier | modifier le code]
+
+   La longueur d'onde du rayonnement émis dépend de la largeur de la
+   « bande interdite » et donc du matériau utilisé. Toutes les valeurs du
+   spectre lumineux peuvent être atteintes avec les matériaux actuels.
+   L'infrarouge est obtenu grâce à l'arséniure de gallium (GaAs) dopé au
+   silicium (Si) ou au zinc (Zn). Les fabricants proposent de nombreux
+   types de diodes aux propriétés différentes. Les diodes à l'arséniure de
+   gallium sont les plus économiques et les plus utilisées. Les diodes �
+   l'arséniure de gallium-aluminium (AlGaAs) offrent une plus grande
+   puissance de sortie mais nécessitent une tension directe plus élevée et
+   ont une longueur d'onde plus courte (< 950 nm, ce qui correspond au
+   maximum de sensibilité des détecteurs au silicium) ; elles présentent
+   une bonne linéarité jusqu'à 1,5 A. Enfin, les diodes à double
+   hétérojonction (DH) AlGaAs offrent les avantages des deux techniques
+   précédentes (faible tension directe) avec des temps de commutation très
+   courts (durée nécessaire pour qu'un courant croisse de 10 % à 90 % de
+   sa valeur finale ou pour décroître de 90 % à 10 %), permettant des
+   débits de données très élevés dans les transmissions de données
+   numériques par fibres optiques. Les temps de commutation dépendent de
+   la capacité de la jonction dans la diode.
+
+Efficacité lumineuse
+
+   [modifier | modifier le code]
+   [250px-Plastic_polar_bear_with_LED_lights.jpg] Un ours éclairé par des
+   diodes électroluminescentes.
+
+   L'efficacité lumineuse varie selon le type de diodes, de 20 à 100 lm/W,
+   et atteint en laboratoire 200 lm/W^[14]. Une grande disparité de
+   performances existe selon la couleur (température de couleur pour le
+   blanc), la puissance ou encore la marque. Les diodes bleues n'excèdent
+   pas 30 lm/W alors que les vertes ont une efficacité lumineuse
+   atteignant 100 lm/W^[15].
+
+   La limite théorique d'une source qui transformerait intégralement toute
+   l'énergie électrique en lumière visible est de 683 lm/W^[16], mais il
+   faudrait qu'elle possède un spectre monochromatique de longueur d'onde
+   555 nm. L'efficacité lumineuse théorique d'une LED blanche est de
+   l'ordre de 250 lm/W^[17]. Ce chiffre est inférieur à 683 lm/W du fait
+   que le maximum de sensibilité de l'œil se situe vers 555 nm.
+
+   L'efficacité lumineuse des LED blanches de dernière génération est
+   supérieure à celle des lampes à incandescence mais aussi à celle des
+   lampes fluocompactes ou encore de certains modèles de lampes �
+   décharge. Le spectre de la lumière émise est presque intégralement
+   contenu dans le domaine du visible (les longueurs d'onde sont comprises
+   entre 400 nm et 700 nm). Contrairement aux lampes à incandescence et
+   aux lampes à décharge, les diodes électroluminescentes n'émettent
+   quasiment pas d'infrarouge, sauf celles fabriquées spécifiquement dans
+   ce but.
+
+   L'efficacité lumineuse dépend de la conception de la LED. Pour sortir
+   du dispositif (semi-conducteur puis enveloppe externe en époxy), les
+   photons doivent traverser (sans être absorbés) le semi-conducteur, de
+   la jonction jusqu'à la surface, puis traverser la surface du
+   semi-conducteur sans subir de réflexion et, notamment, ne pas subir la
+   réflexion totale interne qui représente la grosse majorité des cas. Une
+   fois arrivé dans l'enveloppe externe en résine époxy (quelquefois
+   teintée pour des raisons pratiques et non pour des raisons optiques),
+   la lumière traverse les interfaces vers l'air à incidence proche de la
+   normale ainsi que le permet la forme de dôme avec un diamètre bien plus
+   grand que la puce (3 à 5 mm au lieu de 300 µm). Dans les diodes
+   électroluminescentes de dernière génération, notamment pour
+   l'éclairage, ce dôme plastique fait l'objet d'une attention
+   particulière car les puces sont plutôt millimétriques dans ce cas et le
+   diagramme d'émission doit être de bonne qualité. À l'inverse, pour des
+   gadgets, on trouve des LED quasiment sans dômes.
+
+Effet Auger
+
+   [modifier | modifier le code]
+
+   Aux fortes intensités, l'efficacité lumineuse des LED chute au cours de
+   leur vie. Il a été suspecté en 2007-2008^[18]^,^[19], mieux compris en
+   2010-2011^[20]^,^[21] puis confirmé début 2013 que cette diminution est
+   attribuable à un « effet Auger » qui dissipe une partie de l'énergie
+   sous forme de chaleur^[22]^,^[23]. Des projets de recherche visent �
+   limiter ou contrôler cet effet^[24].
+
+Caractéristiques techniques
+
+   [modifier | modifier le code]
+
+Forme
+
+   [modifier | modifier le code]
+   [250px-2007-07-24_High-power_light_emitting_diodes_%28Luxeon%2C_Lumiled
+   %29.jpg] Lampe à LED de 1 W.
+
+   Ce composant peut être encapsulé dans divers boîtiers destinés �
+   canaliser le flux de lumière émis de façon précise : cylindrique à bout
+   arrondi en 3, 5, 8 et 10 mm de diamètre, cylindrique à bout plat, ou de
+   forme plate (LED SMD^[25]), rectangulaire, sur support coudé, en
+   technologie traversante ou à monter en surface (composant monté en
+   surface, CMS).
+
+   Les LED de puissance ont des formes plus homogènes : la Luxeon 1 W
+   ci-contre est assez représentative. Ces types de LED sont également
+   disponibles en version « multicœur », « multipuces », ou « multichips »
+   en anglais, dont la partie émissive est composée de plusieurs puces
+   semi-conductrices.
+
+   L'enveloppe transparente, ou « capot », est généralement en résine
+   époxy, parfois colorée ou recouverte de colorant.
+
+Luminosité
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   L'intensité lumineuse des diodes électroluminescentes basse puissance
+   est assez faible, mais suffisante pour la signalisation sur tableau ou
+   appareils, voire en montage de multiples unités dans les feux de
+   circulation (feux tricolores, passages piétons). Les bleues sont
+   également suffisamment puissantes pour signaliser les bords de route,
+   la nuit, aux abords des villes. Les LED de puissance sont aussi
+   utilisées dans la signalisation maritime comme sur les bouées
+   permanentes. Deux de ces diodes sont situées l'une par-dessus l’autre
+   et suffisent à un éclairement important et visible par les bateaux de
+   nuit.
+   [250px-Ampoules.jpg] Lampes à diode électroluminescente.
+
+   Des LED de forte puissance ont vu le jour au début des années 2000.
+   Dans la première décennie du XXI^e siècle, des rendements lumineux
+   d'environ 130 lumens/watt sont ainsi atteints. Par comparaison, les
+   ampoules à filament de tungstène de 60 W atteignent un rendement
+   lumineux d'environ 15 lumens/watt et le rendement lumineux maximum
+   théorique étant de 683 lumen par watt (découlant de la définition de la
+   candela et du lumen).
+
+   Les LED sont, dès 2014, suffisamment puissantes pour servir d'éclairage
+   principal dans le secteur de l'automobile. Employées d'abord pour les
+   feux de position, stop, clignotants ou de recul, celles-ci remplaceront
+   certainement, à terme, toutes les lampes à incandescence.
+
+Couleurs
+
+   [modifier | modifier le code]
+   [250px-LED_spectra.svg.png] Spectres LED pour divers semi-conducteurs
+
+   La couleur de la lumière d'une diode électroluminescente peut être
+   produite de différentes manières^[26]^,^[27] :
+     * couleur due à la nature du semi-conducteur (capot transparent) : la
+       longueur d'onde émise correspond directement au gap du matériau
+       utilisé ;
+     * coloration modifiée par le capot de la diode (émission bleue ou UV
+       + revêtement à base de luminophores) ;
+     * coloration par plusieurs émissions de longueur d'onde différentes
+       (diodes électroluminescentes polychromatiques). Elles permettent
+       notamment de proposer une vaste gamme de couleurs^[28].
+
+   Voici quelques colorations en fonction du semi-conducteur utilisé :
+   Couleur Longueur d'onde (nm) Tension de seuil (V)^[29] Semi-conducteur
+   utilisé
+   Infrarouge λ > 760 ΔV < 1,63 arséniure d'aluminium-gallium (AlGaAs)
+   Phosphure d'indium (InP)
+   Rouge 610 < λ < 760 1,63 < ΔV < 2,03 arséniure d'aluminium-gallium
+   (AlGaAs)
+   phospho-arséniure de gallium (GaAsP)
+   Orange 590 < λ < 610 2,03 < ΔV < 2,10 phospho-arséniure de gallium
+   (GaAsP)
+   Jaune 570 < λ < 590 2,10 < ΔV < 2,18 phospho-arséniure de gallium
+   (GaAsP)
+   Vert 500 < λ < 570 2,18 < ΔV < 2,48 nitrure de gallium (GaN)
+   phosphure de gallium (GaP)
+   Bleu 450 < λ < 500 2,48 < ΔV < 2,76 séléniure de zinc (ZnSe)
+   nitrure de gallium-indium (InGaN)
+   carbure de silicium (SiC)
+   Violet 400 < λ < 450 2,76 < ΔV < 3,1 nitrure de gallium-indium
+   (InGaN)^[30]
+   Ultraviolet λ < 400 ΔV > 3,1 diamant (C)
+   nitrure d'aluminium (AlN)
+   nitrure d'aluminium-gallium (AlGaN)
+   Arséniure d'indium (InAs)
+   Blanc Chaude à froide, spectre large ΔV = 3,5 séléniure de zinc (ZnSe)
+   nitrure d'aluminium-gallium (AlGaN)
+
+   On peut remarquer dans le tableau ci-dessus qu'en multipliant la
+   longueur d'onde λ par la tension de seuil de la diode, on obtient
+   chaque fois une valeur proche de 1240. Cette valeur est à rapprocher de
+   l'énergie d'un photon exprimée en électronvolt.
+
+   En exprimant la longueur d'onde en nanomètre (nm) et la tension de
+   seuil en volt, on a :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>T</mi> <mi>s</mi>
+          <mi>e</mi> <mi>u</mi> <mi>i</mi> <mi>l</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>1239</mn> <mo>,</mo>
+          <mn>841875</mn> </mrow> <mi>λ</mi> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          Tseuil={\frac {1239,841875}{\lambda }}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle Tseuil={\frac {1239,841875}{\lambda }}} proche de
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1240</mn> <mi>λ</mi>
+          </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {1240}{\lambda }}}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {1240}{\lambda }}}
+
+   Pour le blanc, on ne parle pas de longueur d'onde mais de température
+   de couleur proximale. Celle des diodes électroluminescentes est assez
+   variable en fonction du modèle.
+
+Modules communs
+
+   [modifier | modifier le code]
+   Module Dimensions
+
+   (mm x mm)
+   Puissance
+
+   (watt)
+   Flux lumineux
+
+   (lumen)
+   Index couleur
+
+   (Ra)
+   Intensité
+
+   (candela)
+   Angle
+
+   (degrés)
+   radiateur
+
+   (oui / non)
+   Efficience (minimum)
+
+   (lm/W)
+   Efficience (maximum)
+
+   (lm/W)
+   Couleurs
+   8520 8,5 x 2,0 0,5 & 1 55-60 80 110 120 Monochrome
+   7020 7,0 x 2,0 0,5 & 1 40-55 75-85 80 110 Monochrome
+   7014 7,0 x 1,4 0,5 & 1 35-50 70-80 70 100 Monochrome
+   5736 5,7 x 3,6 0,5 40-55 80 15-18 120 non 80 110
+   5733 5,7 x 3,3 0,5 35-50 80 15-18 120 non 70 100
+   5730 5,7 x 3,0 0,5 30-45 75 15-18 120 non 60 90
+   5630 5,6 x 3,0 0,5 30-45 70 18.4 120 non 60 90
+   5060 5,0 x 6,0 0,2 26 non 130 Monochrome
+   5050 5,0 x 5,0 0,2 24 non 120 Monochrome ou RGB
+   4014 4,0 x 1,4 0,2 22-32 75-85 110 160
+   3535 3,5 x 3,5 0,5 35-42 75-80 70 84
+   3528 3,5 x 2,8 0,06-0,08 4-8 60-70 3 120 non 70 100
+   3258 3,2 x 5,8
+   3030 3,0 x 3,0 0,9 110-120 120 130
+   3020 3,0 x 2,0 0,06 5,4 2,5 120 non 80 90
+   3014 3,0 x 1,4 0,1 9-12 75-85 2,1-3,5 120 oui 90 120
+   2835 2,8 x 3,5 0,2 14-25 75-85 8,4-9,1 120 oui 70 125
+   1206 1,2 x 0,6 3-6 55-60
+   1104 1,1 x 0,4
+
+Câblage et alimentation électrique
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Comme toutes les diodes, les diodes électroluminescentes sont
+   polarisées, elles présentent un « sens passant » et un « sens
+   bloquant ». Dans le sens bloquant, la tension d'avalanche est plus
+   faible que sur une diode dite de redressement. Dans le sens passant, on
+   trouve un effet de seuil et un courant nominal à ne pas dépasser : on
+   raccorde le pôle « - » à la cathode « - » et donc le pôle « + » �
+   l'anode « + »^[31]. Les diodes à dôme basse puissance ont généralement
+   trois détrompeurs : la cathode est plus courte, l'électrode �
+   l'intérieur du dôme est plus grosse et le bord extérieur du dôme est
+   plat. Inversement, l'anode est plus longue, l'électrode à l'intérieur
+   du dôme est plus petite et le bord extérieur du dôme est arrondi (cf.
+   illustration).
+     * Gros-plan d'une diode électroluminescente.
+       Gros-plan d'une diode électroluminescente.
+     * L'anode et la cathode d'une LED. Les signes indiquent la
+       polarisation (courant conventionnel) lorsque la diode est utilisée
+       en sens direct.
+       L'anode et la cathode d'une LED. Les signes indiquent la
+       polarisation (courant conventionnel) lorsque la diode est utilisée
+       en sens direct.
+
+   Sur tous les modèles et pour toutes les puissances, il est
+   indispensable de ne pas dépasser l'intensité admissible (typiquement :
+   10 à 30 mA pour une LED de faible puissance et de l'ordre de 350 �
+   1 000 mA pour une LED de forte puissance). On intercale pour cette
+   raison un circuit limiteur de courant, souvent une résistance en série
+   pour les faibles puissances. Les données du fabricant permettent de
+   calculer la résistance en fonction de cette intensité désirée I, de
+   V[alim] la tension d'alimentation, de V[LED] la tension directe de la
+   LED et du nombre n de LED en série (loi d'Ohm : R = (V[alim] - n ×
+   V[LED]) / I). On peut regrouper plusieurs diodes dans un schéma série
+   ou série-parallèle : les tensions directes s'additionnant en mode
+   série ; ce qui permet de diminuer la résistance en série et donc
+   d'augmenter le rendement du dispositif. Le courant maximal admissible
+   est multiplié par le nombre de diodes en parallèle.
+
+   Une méthode peu dispendieuse en énergie et adaptée aux plus forte
+   puissances consiste à utiliser un circuit de régulation du courant
+   construit sur des principes analogues à ceux mis en œuvre dans les
+   alimentations électriques à découpage. Cette méthode est employée pour
+   les lampes LED d'éclairage, le circuit est intégré dans les culots des
+   lampes.
+
+   Pour conserver leurs caractéristiques colorimétriques (température de
+   couleur proximale, IRC…), il est primordial d'apporter un soin
+   particulier à l'alimentation électrique des LED^[32].
+
+Points forts et faiblesses
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+   Article connexe : Points forts et faiblesses des lampes
+   électroluminescentes.
+
+Avantages
+
+   [modifier | modifier le code]
+     * Petite taille : on peut par exemple construire des LED de la taille
+       d'un pixel (ce qui ouvre la possibilité d'utiliser des diodes pour
+       construire des écrans de haute résolution).
+     * Facilité de montage sur un circuit imprimé, traditionnel ou
+       composant monté en surface (CMS).
+     * Consommation inférieure aux lampes à incandescence et du même ordre
+       de grandeur que les tubes fluorescents.
+     * Excellente résistance mécanique (chocs, écrasement, vibrations).
+     * Taille beaucoup plus réduite que les lampes classiques, ce qui
+       offre la possibilité de réaliser des sources de lumière très
+       ponctuelles, de faible à très faible consommation électrique
+       (quelques dizaines de milliwatts) et avec un bon rendement. En
+       assemblant plusieurs LED, on peut réaliser des éclairages avec des
+       formes novatrices.
+     * Durée de vie (20 000 à 50 000 heures environ) beaucoup plus longue
+       qu'une lampe à incandescence (1 000 heures) ou qu'une lampe
+       halogène (2 000 heures), mais du même ordre de grandeur que les
+       lampes fluorescentes (5 000 à 70 000 heures). Les lampes puissantes
+       voient leur durée de vie limitée, mais pouvant néanmoins atteindre
+       10 000, voire 15 000 heures selon le type d'utilisation qui en est
+       fait^[33]^[source insuffisante]^,^[34].
+     * Fonctionnement en très basse tension (TBT), gage de sécurité et de
+       facilité de transport. Pour les campeurs, des lampes de poche à LED
+       peuvent être actionnées par une simple dynamo à main (« lampe �
+       manivelle ») de mouvement lent.
+     * En matière de sécurité, par rapport aux systèmes lumineux
+       classiques, l'inertie lumineuse est quasiment nulle. Elles
+       s'allument et s'éteignent en un temps très court, ce qui permet
+       l'utilisation en transmission de signaux à courte distance
+       (optocoupleurs) ou longue (fibres optiques). Les LED atteignent
+       immédiatement leur intensité lumineuse nominale.
+     * Les LED classiques de 5 mm ne chauffent presque pas. Pour les
+       montages de puissance supérieure à 1 W, il faut prévoir une
+       dissipation de la chaleur, faute de quoi la diode sera fortement
+       endommagée, voire détruite du fait de l'échauffement. En effet, une
+       diode électroluminescente convertit environ 20 % de l'énergie
+       électrique en lumière, le reste étant dégagé sous forme de chaleur.
+     * Les LED RVB (rouge-vert-bleu) permettent des mises en valeur
+       colorées avec des possibilités de variations sans limite.
+
+Inconvénients
+
+   [modifier | modifier le code]
+   [250px-LED01_Spectrum_vignette.png] Spectre du rayonnement émis par une
+   lampe à LED blanche.
+     * L'indice de rendu de couleur (IRC) s'est amélioré depuis 2010. Les
+       LED dites blanches sont généralement des LED bleues ou émettant
+       dans l'UV, dont une partie de la lumière produite est transformée
+       par fluorescence en lumière jaune au moyen d'un luminophore qui est
+       souvent un grenat d'yttrium et d'aluminium dopé par des ions de
+       terres rares tels que le cérium trivalent Ce3+ (d'autres matériaux
+       luminescents pouvant être utilisés pour produire un blanc plus
+       chaud)^[35]^,^[36] : le spectre est moins régulier que celui d'une
+       lampe halogène. Plus rarement, le blanc est obtenu au moyen de
+       trois diodes de couleurs différentes.
+     * Les LED, comme tout composant électronique, ont des limites
+       maximales de température de fonctionnement, de même que certains
+       composants passifs constitutifs de leur circuit d'alimentation
+       (comme les condensateurs chimiques qui s'échauffent en fonction du
+       courant efficace), ce qui conditionne en partie la durée de vie des
+       lampes à LED. La dissipation thermique des composants des ampoules
+       à LED est un facteur limitant leur montée en puissance, notamment
+       en assemblages multipuces^[37]. Les recherches portent sur des
+       moyens de limiter la température et de mieux dissiper la chaleur
+       des LED de puissance (par exemple pour des lampadaires ou phares
+       automobiles)^[37]^,^[38].
+     * Selon le constructeur Philips, l'efficacité lumineuse de certaines
+       LED baisse rapidement (comme pour la plupart des technologies
+       lumineuses) pour ne plus produire en fin de vie que 20 % de la
+       quantité de lumière initiale, mais pour les LED les plus
+       performantes du marché, la quantité de lumière produite en fin de
+       vie serait encore d'au moins 70 %^[note 1]. La température accélère
+       la baisse de l'efficacité lumineuse. Philips précise que la couleur
+       peut varier sur certaines LED blanches et tirer sur le vert en
+       vieillissant^[39].
+
+Perspectives
+
+   [modifier | modifier le code]
+
+   En octobre 2016, le Laboratoire d'électronique et de technologie de
+   l'information (LETI) du CEA et son voisin, l'Institut des nanosciences
+   et cryogénie (INAC), mettent au point une diode électroluminescente
+   quatre fois moins chère à produire et produisant trois fois plus de
+   lumière^[40]^,^[41]^,^[42].
+
+Utilisations
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+   [250px-Verschiedene_LEDs.jpg] Différents types de
+   LED.[250px-LED_Costume_by_Beo_Beyond.jpg] Costume LED.
+
+Familles
+
+   [modifier | modifier le code]
+
+   Il existe plusieurs manières de classer les diodes
+   semi-électroluminescentes :
+
+Classement selon la puissance
+
+   [modifier | modifier le code]
+
+   La première est un classement par puissance :
+     * les diodes électroluminescentes de faible puissance < 1 W. Ce sont
+       les plus connues du grand public car elles sont présentes dans
+       notre quotidien depuis des années. Ce sont elles qui jouent le rôle
+       de voyant lumineux sur les appareils électroménagers par exemple ;
+     * les LED de forte puissance > 2 W. Elles sont en plein essor dans
+       les années 2010 et leurs applications sont de plus en plus connues
+       du grand public : flash de téléphones portables, éclairage
+       domestique, éclairage de spectacle, lampe de poche ou frontales… Le
+       principe de fonctionnement est identique. Certaines différences
+       significatives existent entre les deux familles, consacrées chacune
+       à un champ d'application spécifique.
+
+Classement selon le spectre d'émission
+
+   [modifier | modifier le code]
+
+   Une autre manière de les classer est de considérer la répartition de
+   l'énergie dans la gamme de longueur d'onde couvrant le visible
+   (longueurs d'onde de l'ordre de 380 à 780 nm) ou l'invisible
+   (principalement l'infrarouge). La raison de la distinction réside dans
+   le fait que certaines diodes peuvent servir à éclairer :
+     * les chromatiques : l'énergie est concentrée sur une plage étroite
+       de longueur d'onde (20 à 40 nm). Ces sources ont un spectre
+       quasiment monochromatique ;
+     * les blanches : l'énergie est répartie dans le visible sur toute la
+       gamme de longueurs d'onde (380 à 780 nm environ) ;
+     * les infrarouges : l'énergie est émise hors du spectre de la lumière
+       visible (au-delà de 700 nm de longueur d'onde). Elles sont
+       utilisées pour transmettre des signaux de télécommandes ou pour de
+       la télémesure exploités par exemple dans la détection de position
+       des consoles de jeux telles que la Wii, ou servir d'éclairage pour
+       les caméras infrarouge, etc.
+
+Autres classements
+
+   [modifier | modifier le code]
+
+   D'autres classements sont possibles, par exemple selon le caractère
+   monopuce ou multipuce, la durée de vie, la consommation d'énergie ou
+   encore la robustesse en cas de sollicitations sous contraintes (comme
+   pour certains matériels industriels, militaires, spatiaux…).
+
+Diodes électroluminescentes ordinaires
+
+   [modifier | modifier le code]
+
+Éclairage
+
+   [modifier | modifier le code]
+   Ampoule LED éteinte.
+   éteinte
+   Ampoule LED allumée.
+   allumée
+   Ampoule LED
+     * Signalisation routière, éclairage de voitures, motos, camions ou de
+       bicyclettes.
+     * Signalisation ferroviaire.
+     * Éclairage invisible pour caméras de surveillance (dans
+       l'infrarouge).
+     * Luminaires et éclairage public (plus récemment), avec par exemple
+       Los Angeles, première métropole qui a remplacé ses 140 000 ampoules
+       d'éclairage urbain par des diodes électroluminescentes de 2009 �
+       2014, ce qui devrait réduire de l'équivalent de 40 500 tonnes de
+       carbone les émissions annuelles de cette ville (soit l'équivalent
+       des émissions de 6 700 voitures)^[43]. Après le remboursement de
+       l'investissement, la ville pense aussi diminuer ses charges
+       d'éclairage en économisant annuellement 10 millions de
+       dollars^[43].
+
+Affichage
+
+   [modifier | modifier le code]
+   [250px-4_port_netgear_ethernet_hub.jpg] Un hub Ethernet à 4 ports,
+   équipé de deux LED vertes sur chacune des quatre prises RJ-45, sur la
+   gauche une LED verte de mise sous tension et une LED jaune d'indication
+   de collision[250px-Smartswitch6000.jpg] Diodes vertes et rouges
+   allumées dans un switch modulaire professionnel Cabletron SmartSwitch
+   6000 (2000).
+     * Signalisation d'état d'appareils divers (lampes témoins en face
+       avant ou sur le circuit, tableaux de bord de voitures, équipements
+       de sécurité).
+     * Affichage alphabétique ou numérique d'appareils de mesure, de
+       calculatrices, d'horloges.
+     * Affichages de niveaux de mesures (niveaux de cuves, VU-mètres).
+     * Affichage statique ou dynamique de messages (journaux lumineux).
+
+Source de lumière quasi monochromatique
+
+   [modifier | modifier le code]
+     * Photocoupleur.
+     * Transmission de signaux par fibre optiques.
+     * Télécommandes (LED infrarouges).
+     * Cellules photoélectriques (LED infrarouges).
+     * Faisceau laser pour les appareils de mesure.
+     * Faisceau laser pour la lecture et la gravure des CD et DVD.
+     * Luminothérapie contre l'acné.
+     * Photobiomodulation par LED
+
+Diodes électroluminescentes blanches
+
+   [modifier | modifier le code]
+
+   L'amélioration du rendement des LED permet de les employer en
+   remplacement de lampes à incandescence ou fluorescence, à condition de
+   les monter en nombre suffisant :
+     * LED noyées dans le bitume pour la matérialisation des pistes la
+       nuit ou par temps de brouillard ;
+     * signalisation portative individuelle (piéton, cycliste) ;
+     * éclairages de sécurité ;
+     * éclairage de courte portée portatif ;
+     * feux de signalisation automobile ou motocycliste (clignotant,
+       veilleuses, feux de position) ;
+     * signalisation ferroviaire (feu blanc, feu blanc clignotant et
+       œilleton notamment, sur le réseau ferré national) ;
+     * éclairage stroboscopique ;
+     * lampes de poche à piles ou accumulateur à génératrice de recharge
+       incorporé ;
+     * lampes de balisage des jardins alimentées par panneaux solaires
+       photovoltaïques.
+
+   En 2006, le groupe américain Graffiti Research Lab a lancé le mouvement
+   Led throwies (« lancer de LED ») qui consiste à égayer les lieux
+   publics en ajoutant de la couleur sur des surfaces magnétiques. Pour
+   ceci, on combine une LED, une pile au lithium et un aimant, et on lance
+   l'ensemble sur une surface magnétique^[44].
+
+   Les LED sont utilisées pour réaliser des écrans vidéo de très grande
+   taille (plateaux TV salon dans des grands halls, stade…).
+
+   Le rétroéclairage de l'écran par des diodes électroluminescentes permet
+   de fabriquer des écrans plus fins, plus lumineux, ayant une étendue
+   colorimétrique plus importante et plus économes que son prédécesseur
+   ACL à rétroéclairage par tube fluorescent (technologie CCFL)^[45].
+
+Santé
+
+   [modifier | modifier le code]
+   Article connexe : Inconvénients des lampes électroluminescentes.
+   [250px-Leds_sodium_spectrum_fr.jpg] Spectres de lampes 1) sodium haute
+   pression et 2) LED testées selon leur caractère plus ou moins attractif
+   sur les insectes^[46] (l'étude a montré que le spectre lumineux de la
+   LED était beaucoup plus attractif pour les insectes^[46]).
+
+   La méthode la plus rentable économiquement pour fabriquer des LED
+   consiste à combiner une diode émettant une longueur d'onde courte (dans
+   le bleu) avec un luminophore jaune pour produire de la lumière
+   blanche ; la lumière bleue est particulièrement connue pour perturber
+   l'horloge circadienne^[47]^,^[48].
+
+   Sur cette question, en France, l'Agence nationale de sécurité sanitaire
+   de l'alimentation, de l'environnement et du travail (ANSES) recommande
+   de ne plus commercialiser auprès du grand public que les LED ne
+   présentant pas de risque lié à la lumière bleue, ainsi qu'une mise �
+   jour de la norme franco-européenne NF EN 62 471^[49]^,^[50]^,^[51].
+
+Environnement
+
+   [modifier | modifier le code]
+
+   Le bilan environnemental des diodes électroluminescentes est discuté,
+   car leur développement considérable pourrait augmenter les tensions sur
+   le marché de certaines ressources non renouvelables (terres rares ou
+   métaux précieux) et parce que la conversion des éclairages urbains aux
+   LED semble souvent susciter une augmentation de l'illumination globale
+   du ciel nocturne, et donc de la pollution lumineuse, visible depuis
+   l'espace^[52].
+
+   En contrepartie, les LED ont un fort potentiel d'économies d'énergie,
+   si leur utilisation est raisonnée pour éviter le risque d'effet
+   rebond^[53].
+
+Effets sur la faune
+
+   [modifier | modifier le code]
+
+   Des préoccupations concernent également l'impact sanitaire de lampes
+   mal utilisées. Ainsi, selon une étude publiée en 2014 dans la revue
+   Ecological Applications, alors que l'éclairage nocturne municipal et
+   industriel a déjà changé la répartition des différentes espèces
+   d'invertébrés autour des sources lumineuses^[54] et semble contribuer �
+   la régression ou la disparition de nombreuses espèces de
+   papillons^[55], l'éclairage public tend à utiliser à grande échelle les
+   diodes électroluminescentes^[46]. La question de l'impact des spectres
+   lumineux des lampes prend donc de l'importance^[56]. Ces spectres
+   lumineux ont récemment^[C'est-à-dire ?] beaucoup changé, et ils
+   changeront encore avec le développement des LED^[57]. Or, il apparaît
+   que le spectre lumineux émis par les LED mises sur le marché dans les
+   années 2000-2014 attire les papillons de nuit et certains autres
+   insectes plus que la lumière jaune des ampoules à vapeur de sodium, en
+   raison d'une sensibilité élevée de ces invertébrés nocturnes aux parts
+   vert-bleue et UV du spectre. Des pièges lumineux à insectes volants
+   équipés de LED capturent 48 % plus d'insectes que les mêmes pièges
+   utilisant des lampes à vapeur de sodium, avec un effet également lié �
+   la température de l'air (les invertébrés sont des animaux à sang froid,
+   naturellement plus actifs quand la température s'élève). Lors de cette
+   étude, plus de 20 000 insectes ont été capturés et identifiés : les
+   espèces les plus fréquemment piégées étaient des papillons et des
+   mouches^[46].
+
+   Ces lampes sont froides et ne brûlent pas les insectes comme pouvaient
+   le faire des lampes halogènes, mais le caractère très attractif des LED
+   pour de nombreux invertébrés peut leur être fatal ; leur vol est
+   perturbé et, dans la zone d'attraction, ils sont mis en situation de
+   « piège écologique », car largement surexposés à des prédateurs de type
+   araignées et chauve-souris, avec de possibles effets écologiques plus
+   globaux si ces lampes étaient utilisées à grande échelle (perturbation
+   des réseaux trophiques et possible renforcement des infestations de
+   certaines cultures ou sylvicultures par des « ravageurs
+   phytosanitaires » attirés par ces lampes, tels que le Bombyx disparate,
+   qui est source de dégâts importants depuis qu'il a été introduit aux
+   États-Unis et qui se montre très attiré par la lumière^[58] (les
+   auteurs pointent les ports où un éclairage LED pourrait directement
+   attirer des ravageurs ou des espèces exotiques envahissantes
+   accidentellement apportées par des bateaux^[46]). Ces espèces
+   anormalement favorisées pourraient à leur tour mettre en péril des
+   espèces natives rares ou menacées^[59].
+
+   L'étude de 2014 n'a pas pu conclure que manipuler la température de la
+   couleur des LED diminuait leur impact, mais les auteurs estiment
+   qu'utiliser des filtres ou une combinaison de LED rouges, vertes, et
+   bleues pourrait peut-être diminuer cette attraction fatale, au prix
+   d'une consommation électrique et d'énergie grise^[46] ou de terres
+   rares accrue. Ils concluent qu'il existe un besoin urgent de recherche
+   collaborative entre écologues et ingénieurs de la lumière pour
+   minimiser les conséquences potentiellement négatives des développements
+   futurs de la technologie LED^[46]. En amont, l'écoconception des LED
+   pourrait faciliter le recyclage des lampes usagées et, en aval, le
+   ré-usage de LED d'objets désuets ou en fin de vie. De même, des
+   systèmes intelligents d'asservissement de l'éclairage aux besoins réels
+   sont possibles : lampes équipées de filtres limitant les émissions dans
+   le bleu-vert et le proche-UV, mieux bafflées, c'est-à-dire produisant
+   moins de halo et moins éblouissantes, ne s'allumant qu'à l'intensité
+   nécessaire et uniquement quand on en a besoin, via un processus
+   d'éclairage intelligent comportant la détection de présence et de
+   luminosité ambiante, si possible intégré dans un smart grid ou un
+   système écodomotique plus global. En 2014, quatre villes, Bordeaux,
+   Riga en Lettonie, Piaseczno en Pologne et Aveiro au Portugal testent ce
+   type de solution dans le cadre du programme européen « LITES »^[60] (�
+   l'installation, ces systèmes sont 60 % plus chers, mais ce surcoût doit
+   être rapidement récupéré par les économies d'électricité et
+   l'amélioration de la qualité de l'environnement nocturne).
+   Article détaillé : Pollution lumineuse.
+
+Notes et références
+
+   [modifier | modifier le code]
+
+Notes
+
+   [modifier | modifier le code]
+    1. ↑ La législation^[Où ?] impose aux fabricants d'indiquer la
+       puissance lumineuse de leurs ampoules LED au bout de 6 000 heures
+       d'utilisation.
+
+Références
+
+   [modifier | modifier le code]
+    1. ↑ Jonathan Parienté, « La belle histoire des LED », Le Monde, 24
+       mars 2009 (consulté le 9 octobre 2023).
+    2. ↑ ^a et b C. Noé, Photobiomodulation en dermatologie : Comprendre
+       et utiliser les LED, John Libbey Eurotext - Doin, coll. « Lasers et
+       technologies apparentées », 2014, 182 p..
+    3. ↑ B. Chambion, Étude de la fiabilité de modules à base de LEDs
+       blanches pour applications automobile (thèse de doctorat), 253 p.
+       (lire en ligne [PDF]), chap. I (« État de l'art des LED blanches de
+       puissance pour l'éclairage automobile »), p. 16.
+    4. ↑ « Éclairage led : 5 points-clés et 4 nouveautés », Le moniteur,‎
+       5 mars 2020 (lire en ligne, consulté le 26 juin 2020)
+    5. ↑ Benjamin Monteil, « Historique des LEDs », sur LED-fr.net, 30
+       septembre 2003 (consulté le 19 novembre 2017).
+    6. ↑ (en) « Nobel Shocker: RCA Had the First Blue LED in 1972 », IEEE
+       Spectrum (consulté le 21 octobre 2015).
+    7. ↑ Nicolas Pousset, « Caractérisation du rendu des couleurs des
+       LED » [PDF] (thèse de doctorat), sur tel.archives-ouvertes.fr, 2009
+       (consulté le 10 septembre 2021), p. 44-45.
+    8. ↑ (en) « The Nobel Prize in Physics 2014 », sur Site officiel du
+       prix Nobel, 7 octobre 2014 (consulté le 10 septembre 2021).
+    9. ↑ « La RATP lance un appel d’offres pour remplacer l’ensemble des
+       points lumineux par un éclairage à LED » [PDF]
+   10. ↑ Aurélie Barbaux, « La RATP fait école avec son éclairage 100 %
+       LED », L'Usine Nouvelle,‎ 11 janvier 2018 (lire en ligne).
+   11. ↑ (en) « Haitz's law », Nature Photonics, vol. 1, n^o 1,‎ 2007,
+       p. 23 (ISSN 1749-4885, DOI 10.1038/nphoton.2006.78,
+       Bibcode 2007NaPho...1...23).
+   12. ↑ ^a b et c B. Chambion, op. cit., chapitre I (« État de l’art des
+       LED blanches de puissance pour l’éclairage automobile »),
+       p. 19/253.
+   13. ↑ Nicolas Pousset, Caractérisation du rendu des couleurs des LED
+       (thèse de doctorat), 2009 (lire en ligne), p. 48-49, 52.
+   14. ↑ (en) « Delivering up to 200 lumens per watt », Cree (consulté le
+       28 janvier 2013).
+   15. ↑ (en) « LUXEON Rebel direct color specification » [PDF], sur
+       philipslumileds.com.
+   16. ↑ Cette valeur dérive directement de la définition de la
+       candela^[Comment ?] et, par extension, du lumen.
+   17. ↑ Le fabricant Cree a annoncé réaliser 254 lm/W en laboratoire :
+       (en) « Cree sets new R&D performance record with 254 lumen per watt
+       power LED », sur Cree.
+   18. ↑ (en) Bulashevich, K. A., & Karpov, S. Y. (2008). Is Auger
+       recombination responsible for the efficiency rollover in
+       III‐nitride light‐emitting diodes?. physica status solidi (c),
+       5(6), 2066-2069.
+   19. ↑ Gardner, N. F., Müller, G. O., Shen, Y. C., Chen, G., Watanabe,
+       S., Götz, W., & Krames, M. R. (2007). Blue-emitting InGaN–GaN
+       double-heterostructure light-emitting diodes reaching maximum
+       quantum efficiency above 200A∕ cm2. Applied physics letters,
+       91(24), 243506 (résumé).
+   20. ↑ Li, X., Liu, H., Ni, X., Özgür, Ü., & Morkoç, H. (2010). Effect
+       of carrier spillover and Auger recombination on the efficiency
+       droop in InGaN-based blue LED. Superlattices and Microstructures,
+       47(1), 118-122 (résumé).
+   21. ↑ (en) Kioupakis, E., Rinke, P., Delaney, K. T., & Van de Walle, C.
+       G., Indirect Auger recombination as a cause of efficiency droop in
+       nitride light-emitting diodes. Applied Physics Letters, 98(16),
+       2011, 161107.
+   22. ↑ « On sait enfin pourquoi les LED sont peu efficaces », Le Monde,
+       6 mai 2013.
+   23. ↑ (en) « Direct measurement of Auger electrons emitted from a
+       semiconductor light-emitting diode under electrical injection »,
+       Physical Review Letters, 25 avril 2013 (consulté le 8 novembre
+       2019) et (en) « 1304.5469v1 » [PDF], sur arXiv.
+   24. ↑ Bae, W. K., Park, Y. S., Lim, J., Lee, D., Padilha, L. A.,
+       McDaniel, H.,... & Klimov, V. I. (2013). Controlling the influence
+       of Auger recombination on the performance of quantum-dot
+       light-emitting diodes. Nature communications, 4.
+   25. ↑ « LED SMD », sur espaceampouleled.fr (consulté en avril 2014).
+   26. ↑ Laurent Massol, « LED blanches : les différentes technologies »,
+       Led Engineering Development [PDF] (consulté le 14 novembre 2015).
+   27. ↑ Nicolas Pousset, Caractérisation du rendu des couleurs des LED
+       (thèse de doctorat), 2009 (lire en ligne [archive du 2 février
+       2012]), p. 50-52.
+   28. ↑ « Nous savons aujourd’hui produire des LED de toutes les couleurs
+       de l’arc-en-ciel et même d’un très grand nombre de couleurs qui ne
+       sont « pas » présentes dans l’arc-en-ciel ». Des couleurs comme le
+       marron ne sont en effet pas présentes dans l'arc-en-ciel, et
+       produites par panachages de longueurs d'onde (LED
+       polychromatiques).
+   29. ↑ tension de bascule entre lampe en émission et éteinte
+   30. ↑ https://visualled.com/fr/glossaire/led-light-emitting-diode/
+   31. ↑ Jean-Jacques ROUSSEAU Professeur de physique à l'UFR Sciences de
+       l'Université du Maine, « Caractéristiques des LED », 2018 (consulté
+       le 11 février 2020)
+   32. ↑ N. Pousset, B. Rougié, S. Aubert et A. Razet, « LED de puissance
+       blanches : sources de lumière de demain » [PDF], sur
+       nicolas.pousset.pagesperso-orange.fr/, 2009.
+   33. ↑ F. Bedu et al., Support de formation sur l'éclairage automobile,
+       Renault, 2012.
+   34. ↑ OSRAM, Reliability of the OSLON Product Family, 2012 [PDF].
+   35. ↑ Nicolas Grandjean, « Les LED blanches », Pour la science,
+       n^o 421,‎ décembre 2002, p. 32-38.
+   36. ↑ N. Pradal, Synthèses, mise en forme et caractérisations de
+       luminophores nanostructurés pour une nouvelle génération de
+       dispositifs d'éclairage sans mercure (thèse de doctorat),
+       université Blaise Pascal-Clermont-Ferrand II, 2012.
+   37. ↑ ^a et b R. Ait Lhadj, A. Khamlichi et F. Mata Cabrera,
+       Optimisation de la conception d'un dissipateur thermique pour
+       luminaire à diode électroluminescente, Besançon, 20^e Congrès
+       français de mécanique, 28 août-2 septembre 2011.
+   38. ↑ (en) P. Panaccione, T. Wang, X. Chen, L. SUSAN et G. Q. Lu,
+       « Improved heat dissipation and optical performance of high-power
+       LED packaging with sintered nanosilver die-attach material »,
+       Journal of Microelectronics and Electronic packaging, n^o 7(3),
+       2010, p. 164-168.
+   39. ↑ « Les lampes à LED : tout savoir avant d'acheter »^(Archive.org •
+       Wikiwix • Archive.is • Google • Que faire ?) (consulté le 30
+       septembre 2009).
+   40. ↑ « Le prix EARTO Innovation Awards 2016 remis au Leti et �
+       l’Inac », sur inac.cea.fr, 2 décembre 2016.
+   41. ↑ « EARTO Innovation Awards 2016 », sur earto.eu, 12 octobre 2016.
+   42. ↑ « Le CEA récompensé par le prix EARTO Innovation Awards 2016 pour
+       une LED 3D révolutionnaire », CEA, 28 octobre 2016.
+   43. ↑ ^a et b « L’éclairage public de Los Angeles se met aux LED »,
+       Enerzine.com, 23 février 2009.
+   44. ↑ (en) LED-Throwies.
+   45. ↑ (en) « Greener LCD-TVs, more contrast with smarter LED
+       backlights », sur EETimes, 14 novembre 2008 (consulté le 29
+       décembre 2019).
+   46. ↑ ^a b c d e f et g (en) S.M Pawson, M. K.-F. Bader, « LED lighting
+       increases the ecological impact of light pollution irrespective of
+       color temperature », Société américaine d'écologie, octobre 2014.
+   47. ↑ (en) Christophe Martinsons, Dina Attia, Francine Behar-Cohen,
+       Samuel Carré, Olivier Enouf, Jack Falcón, Claude Gronfier, David
+       Hicks, Arnaud Metlaine, Leena Tahkamo, Alicia Torriglia et
+       Françoise Viénot, « Correspondence: An appraisal of the effects on
+       human health and the environment of using light-emitting diodes »,
+       Lighting Research & Technology, vol. 51, n^o 8,‎ 17 décembre 2019,
+       p. 1275-1276 (ISSN 1477-1535, e-ISSN 1477-0938, OCLC 8511536037,
+       DOI 10.1177/1477153519891878, HAL inserm-02455393, lire en ligne
+       [PDF]).
+   48. ↑ « Avis et rapport de L'Anses relatif aux effets sur la santé
+       humaine et sur l'environnement (faune et flore) des systèmes
+       utilisant des diodes électroluminescentes (LED) », sur ANSES, 5
+       avril 2019.
+   49. ↑ « LED - Diodes électroluminescentes », sur Agence nationale de
+       sécurité sanitaire de l'alimentation, de l'environnement et du
+       travail, 2 février 2018.
+   50. ↑ « Systèmes d’éclairage utilisant des diodes
+       électroluminescentes : des effets sanitaires à prendre en compte »
+       [PDF], sur ANSES, 25 octobre 2010 (consulté le 19 mai 2019).
+   51. ↑ « NF EN 62471 », Sécurité photobiologique des lampes et des
+       appareils utilisant des lampes, sur AFNOR, décembre 2008 (consulté
+       le 19 mai 2019).
+   52. ↑ (en) Christine Nguyen et Julia Calderone, « Astronauts found
+       something troubling in these shots from space »,
+       businessinsider.com, 12 janvier 2016 [vidéo].
+   53. ↑ Bruno Gayral, « LEDs for lighting: Basic physics and prospects
+       for energy savings », Comptes Rendus. Physique, vol. 18, n^os 7-8,‎
+       2017, p. 453–461 (ISSN 1878-1535, DOI 10.1016/j.crhy.2017.09.001,
+       lire en ligne, consulté le 16 janvier 2025)
+   54. ↑ (en) Thomas W. Davies, Jonathan Bennie et Kevin J. Gaston,
+       « Street lighting changes the composition of invertebrate
+       communities », Biology Letters, 23 octobre 2012 (en ligne le 23 mai
+       2012).
+   55. ↑ (en) Richard Fox, « The decline of moths in Great Britain: a
+       review of possible causes », Insect Conservation and Diversity,
+       2013 [PDF].
+   56. ↑ (en) Thomas W. Davies, Jonathan Bennie, Richard Inger, Natalie
+       Hempel de Ibarra et Kevin J. Gaston, « Artificial light pollution:
+       are shifting spectral signatures changing the balance of species
+       interactions? », Global Change Biology, vol. 19, n^o 5,‎ mai 2013,
+       p. 1417–1423 (lire en ligne).
+   57. ↑ (en) E. F. Schubert, J. K. Kim, « Solid-state light sources
+       getting smart, » Science, 27 mai 2005.
+   58. ↑ (en) Willian E. Walliner, Lee M. Humble, Robert E. Levin, Yuri N.
+       Baranchikov et Ring T. Card, « Response of adult lymantriid moths
+       to illumination devices in the Russian far east », Journal of
+       Economic Entomology, vol. 88, n^o 2, avril 1955.
+   59. ↑ (en) David L. Wagner, Roy G. Van Driesche, « Threats posed to
+       rare or endangered insects by invasions of nonnative species »,
+       Annual Review of Entomology, 2010 [PDF].
+   60. ↑ (en) Commission européenne, « LITES: Led-based intelligent street
+       lighting for energy saving », (archive, consulté le 11 octobre
+       2014), courte présentation [PDF] et notice, sur CORDIS.
+
+Annexes
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Diode électroluminescente, sur Wikimedia Commons
+     * diode électroluminescente, sur le Wiktionnaire
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Frank Wohlrabe, Guide pratique de l’infrarouge : télécommande,
+       télémétrie, tachymétrie, Publitronic, 29 mai 2002
+       (ISBN 2866611284).
+     * Libero Zuppiroli et Daniel Schlaepfer, Lumières du futur, Presses
+       polytechniques et universitaires romandes, 2011
+       (ISBN 9782880749422).
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Diode électroluminescente organique
+     * Lampe électroluminescente
+     * Boîte quantique (« quantum dot » ou QD pour les anglophones)
+     * État solide (électronique)
+     * Plan lumière
+     * Charlieplexing
+
+Liens externes
+
+   [modifier | modifier le code]
+   Une catégorie est consacrée à ce sujet : Diode électroluminescente.
+
+     *
+     *
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Britannica
+          + Den Store Danske Encyklopædi
+          + Store norske leksikon
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + GND
+          + Japon
+          + Tchéquie
+     * (en) [vidéo] [vidéo] « Fonctionnement du diode
+       électroluminiscente », sur YouTube
+     * Portail d'information sur les LED et l'éclairage
+     * fiches techniques de LED (rechercher sous le nom de « solid state
+       lamps »)
+     * Fabrication d'une LED Diodes électroluminescentes LED pour
+       l'éclairage - Panorama et tendances technologiques
+
+   v · m
+   Diodes
+        Tubes
+     * Diode à vide
+     * Diode à vapeur de mercure
+
+   Semi-conducteurs
+     * Diode à pointe
+     * Diode Schottky
+     * Diode électroluminescente
+     * Diode à avalanche
+          + Diode Zener
+          + Diode IMPATT (en)
+     * Diode Transil
+     * Photodiode
+          + Photodiode à avalanche (en)
+          + Photodiode PIN
+     * Diode laser
+     * Diode Gunn
+     * Diode PIN
+     * Diode varicap
+     * Diode à effet tunnel
+     * Diac
+
+   v · m
+   Électronique
+   Analogique
+     * Alimentation électrique
+     * Amplificateur
+          + Mesure
+          + Opérationnel
+     * Bobine
+     * Capteur
+     * Circuit intégré
+     * Composants analogiques programmables (FPAA)
+     * Commutateur
+     * Condensateur
+     * Diode
+     * Filtre
+     * Potentiomètre
+     * Radiocommunication
+     * Résistance
+     * Thyristor
+     * Transistor
+     * Triac
+     * Tube
+
+   Numérique
+     * ASIC
+     * Circuit logique programmable (CPLD/EPLD/FPGA/PAL/PLA/PLD)
+     * Convertisseur analogique-numérique
+     * Convertisseur numérique-analogique
+     * DSP
+     * µContrôleur
+     * µProcesseur
+     * Ordinateur
+     * Porte logique
+
+   Opto-électronique
+     * Cellule photoélectrique
+     * Cellule photovoltaïque
+     * LED
+     * Diode laser
+     * OLED
+     * Photocoupleur
+     * Photodiode
+
+   Microélectronique MEMS
+     * Automatique
+     * Électricité
+     * Électrochimie
+     * Électromagnétisme
+     * Électrotechnique
+     * Robotique
+     * Traitement du signal
+
+   v · m
+   Technologies d'éclairage
+   Chronologie et histoire
+     * Chronologie des techniques d'éclairage
+     * Éclairage des rues à Paris
+
+   Ampoule à incandescence
+   Incandescence
+   Combustion
+     * Acétylène
+     * Bougie
+     * Chandelle
+     * Cierge
+     * Essence
+     * Gaz
+     * Huile
+     * Lanterne
+     * Pétrole
+     * Sécurité
+     * Manchon à incandescence
+     * Torche
+
+   Lampes à filament
+     * Classique
+     * Halogène
+     * Nernst
+
+   Luminescence
+   Décharge basse pression
+     * Cathode froide
+     * Néon
+     * Germicide
+     * Lampe de Wood
+     * Lumière noire
+     * Plasma
+     * Vapeur de sodium
+
+   Décharge haute-pression
+     * Halogénures métalliques
+     * Vapeur de mercure
+     * Vapeur de sodium
+     * Lampe à arc au xénon
+
+   Fluorescence
+     * Tube fluorescent
+     * Lampe fluorescente
+     * Induction
+
+   Électroluminescence
+     * Diode électroluminescente (LED)
+     * Lampe LED
+     * Diode électroluminescente organique (OLED)
+
+   Arc électrique
+     * Xénon
+     * Stroboscope
+     * Bougie Jablochkoff
+
+   Autres
+     * Chimiluminescence
+          + bâton lumineux
+     * Radioluminescence
+
+   Support des lampes électriques
+   v · m
+   Technologies des écrans
+   Vidéo
+   Ancienne génération
+   Afficheur fluorescent (VFD)
+     * 7 segments
+     * 9 segments
+     * 14 segments
+     * 16 segments
+     * 22 segments
+
+     * Tube cathodique (CRT)
+     * Surface-conduction Electron-emitter Display (SED)
+     * Field Emission Display (FED)
+     * Écran à plasma (PDP)
+
+   Génération actuelle
+     * Écran plat
+          + écran à cristaux liquides (LCD)
+          + diode électroluminescente organique (OLED)
+          + matrice active à diodes électroluminescentes organiques
+            (AMOLED)
+          + MicroLED
+     * Vidéoprojecteur
+          + Digital Light Processing (DLP)
+          + cristaux liquides sur silicium
+          + 3LCD
+
+   Génération suivante
+     * Écran laser
+     * Écran à liquide ferroélectrique (FLD)
+     * Écran modulateur interférométrique (IMOD)
+     * Technologie à couche épaisse à diélectrique électroluminescent
+       (TDEL)
+     * Écran à nanocristaux
+     * Écran à boîte quantique (QD-LED)
+     * Time-multiplexed optical shutter (TMOS)
+     * Telescopic pixel display (TPD)
+     * Liquid crystal lasers (LCL)
+     * Laser Phosphor Display (LPD)
+
+   [120px-HD_Television.svg.png]
+   Non vidéo
+     * Tube Nixie
+     * Papier électronique
+     * Électromécanique
+          + girouette à pastilles
+          + afficheur à palettes
+          + affichage à sept segments
+     * Rollable display
+     * Eggcrate
+
+   Écran en 3D
+     * Stéréoscopie
+     * Autostéréoscopie
+     * Holographie générée par ordinateur
+     * Écran volumétrique
+     * Écran à éclairage laser
+
+   Média statique
+     * Hologramme
+     * Projection cinématographique
+     * Enseigne lumineuse
+     * Projecteur de diapositives
+     * Rétroprojecteur
+     * Roll sign
+
+   Articles liés
+     * Technique d'affichage
+     * Imagerie à grande gamme dynamique (HDRI)
+     * Distance d'observation HDTV optimale
+
+     * icône décorative Portail de l’électricité et de l’électronique
+     * icône décorative Portail des micro et nanotechnologies
+     * icône décorative Portail de l’énergie
+     * icône décorative Portail de l’optique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Diode_électroluminescente&
+   oldid=231405226 ».
+   Catégories :
+     * Diode électroluminescente
+     * Transducteur
+     * Technologie d'affichage
+     * Technologie du transport
+     * Technologie automobile
+     * Composant de motocyclette
+
+   Catégories cachées :
+     * Page utilisant le modèle op. cit.
+     * Article contenant un lien mort
+     * Article contenant un appel à traduction en anglais
+     * Article manquant de références depuis novembre 2019
+     * Article manquant de références/Liste complète
+     * Article à référence insuffisante
+     * Catégorie Commons avec lien local identique sur Wikidata
+     * Page utilisant un modèle Bases inactif
+     * Page utilisant P1417
+     * Page utilisant P8313
+     * Page utilisant P4342
+     * Page pointant vers des bases externes
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Électricité et électronique/Articles liés
+     * Portail:Technologies/Articles liés
+     * Portail:Micro et nanotechnologie/Articles liés
+     * Portail:Énergie/Articles liés
+     * Portail:Optique/Articles liés
+     * Portail:Physique/Articles liés
+     * Portail:Sciences/Articles liés
+
+     * La dernière modification de cette page a été faite le 12 décembre
+       2025 à 20:51.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Diode électroluminescente
+   (BUTTON) 79 langues Ajouter un sujet

@@ -1,0 +1,1079 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Modélisation analytique
+       (BUTTON) Afficher / masquer la sous-section Modélisation analytique
+          + 1.1 Vibration sinusoïdale
+          + 1.2 Onde progressive sinusoïdale
+          + 1.3 Onde stationnaire sinusoïdale
+          + 1.4 Vibration quasi-sinusoïdale
+     * 2 Domaines d'application
+       (BUTTON) Afficher / masquer la sous-section Domaines d'application
+          + 2.1 Optique
+          + 2.2 Acoustique
+     * 3 Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 3.1 Bibliographie
+          + 3.2 Articles connexes
+          + 3.3 Notes et références
+
+   [ ] Basculer la table des matières
+
+Onde monochromatique
+
+   [ ] 22 langues
+     * Catal�
+     * Čeština
+     * Чӑвашла
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Español
+     * فارسی
+     * Suomi
+     * Galego
+     * Magyar
+     * 日本語
+     * 한국어
+     * Nederlands
+     * Polski
+     * Português
+     * Русский
+     * Српски / srpski
+     * ไทย
+     * Українська
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Cet article concerne les ondes. Pour la vision des couleurs, voir
+   monochromatisme.
+
+   Une onde monochromatique, ou onde harmonique^[1]^,^[2] est une onde qui
+   peut être décrite par une fonction sinusoïdale du temps^[1]. Sa densité
+   spectrale d'énergie ne présente qu'une seule fréquence, qu'une seule
+   longueur d'onde. On parle également d'onde sinusoïdale^[1], et, s'il
+   s'agit d'une onde électromagnétique, d'onde monoénergétique^[a]^,^[2].
+
+   L'étude des ondes sinusoïdales a une grande importance dans les divers
+   domaines d'étude des ondes et de leur propagation du fait de la
+   simplicité de l'approche mathématique et parce qu'une onde quelconque
+   peut être décomposée en une somme d'ondes sinusoïdales par l'analyse
+   harmonique.
+
+   Le terme monochromatique^[b] vient du domaine de l'optique : dans le
+   cas d'un rayonnement électromagnétique monochromatique du domaine
+   visible, on parle de couleur pure. Le terme harmonique vient du domaine
+   de l'acoustique : dans le cas d'une onde de pression acoustique
+   sinusoïdale, on parle d'un son pur^[3] ; un son périodique est
+   caractérisé par ses harmoniques. Par extension, ces termes sont
+   également utilisés dans les domaines de l'électricité et de la
+   mécanique.
+
+   En pratique, il n'existe pas d'onde parfaitement monochromatique, ne
+   serait-ce que du fait qu'aucune source n'émet jamais de façon
+   permanente : il y a toujours une dispersion autour de la fréquence ou
+   de la longueur d'onde centrale du rayonnement. Aussi peut-on au mieux
+   mesurer, produire, utiliser des ondes quasi-monochromatiques : leurs
+   spectres n'occupent qu'une bande très étroite de fréquence (Dic.
+   Phys.).
+
+Modélisation analytique
+
+   [modifier | modifier le code]
+
+Vibration sinusoïdale
+
+   [modifier | modifier le code]
+
+   Une vibration harmonique est la variation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ψ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \psi
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \psi } d'une grandeur physique autour d'une valeur
+   moyenne suivant une fonction sinusoïdale du temps. Cette notion est
+   particulièrement adaptée pour l'étude des oscillateurs mécaniques (pour
+   lesquels il n'y a pas de propagation) et des circuits électriques (pour
+   lesquels la propagation est considérée instantanée compte tenu des
+   dimensions du circuit et des fréquences mises en jeu). On peut
+   écrire^[1] :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>ψ</mi> <mo
+          stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mi>A</mi> <mo>⋅</mo> <mi>cos</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo>+</mo>
+          <mi>ϕ</mi> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \psi
+          (t)=A\cdot \cos(\omega t+\phi )}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \psi (t)=A\cdot \cos(\omega t+\phi )} .
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       A}</annotation> </semantics> :MATH]
+       {\displaystyle A} est l'amplitude et correspond à la valeur
+       maximale prise par
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ψ</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \psi
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \psi } ,
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ω</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \omega
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \omega } est la pulsation en radian par seconde
+       (rad s^−1),
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ϕ</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \phi
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \phi } est le retard de phase en radian.
+
+   La pulsation est liée à la fréquence
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f} ou à la période temporelle
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+   </semantics> :MATH]
+   {\displaystyle T} par :
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ω</mi> <mo>=</mo> <mn>2</mn>
+   <mi>π</mi> <mi>f</mi> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mi>T</mi> </mfrac> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \omega =2\pi f={\frac {2\pi
+   }{T}}}</annotation> </semantics> :MATH]
+   {\displaystyle \omega =2\pi f={\frac {2\pi }{T}}} .
+
+   La représentation complexe, également nommée représentation analytique,
+   peut souvent simplifier les calculs. Selon les conventions utilisées on
+   note :
+     * soit
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <munder> <mi>ψ</mi> <mo>_</mo> </munder> </mrow> <mo
+       stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+       <mo>=</mo> <mi>A</mi> <mo>⋅</mo> <msup> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo
+       stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo>+</mo> <mi>ϕ</mi>
+       <mo stretchy="false">)</mo> </mrow> </msup> <mo>=</mo> <mi>A</mi>
+       <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+       <mi>j</mi> <mi>ϕ</mi> </mrow> </msup> <mo>⋅</mo> <msup> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mi>ω</mi> <mi>t</mi>
+       </mrow> </msup> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\underline {\psi
+       }}(t)=A\cdot \mathrm {e} ^{j(\omega t+\phi )}=A\cdot \mathrm {e}
+       ^{j\phi }\cdot \mathrm {e} ^{j\omega t}}</annotation> </semantics>
+       :MATH]
+       {\displaystyle {\underline {\psi }}(t)=A\cdot \mathrm {e}
+       ^{j(\omega t+\phi )}=A\cdot \mathrm {e} ^{j\phi }\cdot \mathrm {e}
+       ^{j\omega t}} ,
+     * soit
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <munder> <mi>ψ</mi> <mo>_</mo> </munder> </mrow> <mo
+       stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+       <mo>=</mo> <mi>A</mi> <mo>⋅</mo> <msup> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow>
+       <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi>j</mi> <mo
+       stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo>+</mo> <mi>ϕ</mi>
+       <mo stretchy="false">)</mo> </mrow> </msup> <mo>=</mo> <mi>A</mi>
+       <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+       <mo>−</mo> <mi>j</mi> <mi>ϕ</mi> </mrow> </msup> <mo>⋅</mo> <msup>
+       <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi>
+       </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi>j</mi>
+       <mi>ω</mi> <mi>t</mi> </mrow> </msup> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\underline {\psi
+       }}(t)=A\cdot \mathrm {e} ^{-j(\omega t+\phi )}=A\cdot \mathrm {e}
+       ^{-j\phi }\cdot \mathrm {e} ^{-j\omega t}}</annotation>
+       </semantics> :MATH]
+       {\displaystyle {\underline {\psi }}(t)=A\cdot \mathrm {e}
+       ^{-j(\omega t+\phi )}=A\cdot \mathrm {e} ^{-j\phi }\cdot \mathrm
+       {e} ^{-j\omega t}} .
+
+   Dans tous les cas :
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ψ</mi> <mo
+   stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">R</mi> <mi mathvariant="normal">e</mi> </mrow> <mo
+   stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <munder>
+   <mi>ψ</mi> <mo>_</mo> </munder> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \psi (t)=\mathrm {Re}
+   ({\underline {\psi }}(t))}</annotation> </semantics> :MATH]
+   {\displaystyle \psi (t)=\mathrm {Re} ({\underline {\psi }}(t))} .
+
+Onde progressive sinusoïdale
+
+   [modifier | modifier le code]
+   Article détaillé : Propagation des ondes.
+
+   Dans le cas d'une onde sinusoïdale progressive, la vibration se propage
+   à la vitesse
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>c</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+   </semantics> :MATH]
+   {\displaystyle c} , on peut écrire :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>ψ</mi> <mo
+          stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>,</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mi>A</mi> <mo
+          stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo
+          stretchy="false">)</mo> <mo>⋅</mo> <mi>cos</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+          <mi>k</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow>
+          <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+          stretchy="false">→</mo> </mover> </mrow> </mrow> <mo>+</mo>
+          <mi>φ</mi> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \psi
+          ({\vec {r}},t)=A({\vec {r}})\cdot \cos(\omega t-{\vec {k}}\cdot
+          {\vec {r}}+\varphi )}</annotation> </semantics> :MATH]
+          {\displaystyle \psi ({\vec {r}},t)=A({\vec {r}})\cdot
+          \cos(\omega t-{\vec {k}}\cdot {\vec {r}}+\varphi )} .
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\vec
+       {r}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {r}}} est le vecteur position du point étudié.
+     * L'amplitude
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo
+       stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+       class="MJX-TeXAtom-ORD"> <mover> <mi>r</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> <mo
+       stretchy="false">)</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle A({\vec
+       {r}})}</annotation> </semantics> :MATH]
+       {\displaystyle A({\vec {r}})} dépend de la position du fait d'une
+       atténuation, d'une directivité de la source, etc.
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>φ</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \varphi
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \varphi } est la phase à l'origine (pour
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       t}</annotation> </semantics> :MATH]
+       {\displaystyle t} et
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       x}</annotation> </semantics> :MATH]
+       {\displaystyle x} nuls).
+     * Le vecteur
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>k</mi> <mo
+       stretchy="false">→</mo> </mover> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\vec
+       {k}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\vec {k}}} est le vecteur d'onde. Sa norme
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>k</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       k}</annotation> </semantics> :MATH]
+       {\displaystyle k} est appelée nombre d'onde et s'exprime en
+       rad m^−1 ; elle est liée à la longueur d'onde (période spatiale)
+       par :
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>k</mi> <mo>=</mo> <mo
+       fence="false" stretchy="false">‖</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+       <mi>k</mi> <mo stretchy="false">→</mo> </mover> </mrow> </mrow> <mo
+       fence="false" stretchy="false">‖</mo> <mo>=</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+       </mrow> <mi>λ</mi> </mfrac> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle k=\|{\vec {k}}\|={\frac
+       {2\pi }{\lambda }}}</annotation> </semantics> :MATH]
+       {\displaystyle k=\|{\vec {k}}\|={\frac {2\pi }{\lambda }}} .
+
+   La célérité (vitesse de propagation) de l'onde permet de relier les
+   grandeur temporelles et spatiales entre elles :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>c</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>λ</mi> <mi>T</mi> </mfrac>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mi>ω</mi> <mi>k</mi> </mfrac> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle c={\frac
+          {\lambda }{T}}={\frac {\omega }{k}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle c={\frac {\lambda }{T}}={\frac {\omega }{k}}} .
+
+Onde stationnaire sinusoïdale
+
+   [modifier | modifier le code]
+   Article détaillé : Onde stationnaire.
+
+   Une onde stationnaire harmonique est la conséquence de l'interférence
+   d'au moins deux ondes progressives harmoniques. C'est une vibration
+   harmonique particulière. Ce type de phénomène est particulièrement
+   étudié en mécanique, en acoustique ou dans le domaine des
+   transmissions.
+   [250px-Standing_wave_2.gif] Illustration.
+   Exemple le plus simple de deux ondes planes se propageant en sens
+   inverse :
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ψ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mi>A</mi> <mi>cos</mi> <mo>⁡</mo>
+   <mo stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo>−</mo> <mi>k</mi>
+   <mi>x</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \psi _{1}(x,t)=A\cos(\omega
+   t-kx)}</annotation> </semantics> :MATH]
+   {\displaystyle \psi _{1}(x,t)=A\cos(\omega t-kx)}
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ψ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mi>A</mi> <mi>cos</mi> <mo>⁡</mo>
+   <mo stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo>+</mo> <mi>k</mi>
+   <mi>x</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \psi _{2}(x,t)=A\cos(\omega
+   t+kx)}</annotation> </semantics> :MATH]
+   {\displaystyle \psi _{2}(x,t)=A\cos(\omega t+kx)}
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ψ</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <msub> <mi>ψ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>+</mo> <msub> <mi>ψ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mn>2</mn> <mi>A</mi> <mo>⋅</mo>
+   <mi>cos</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">(</mo> <mi>ω</mi> <mi>t</mi> <mo
+   stretchy="false">)</mo> </mrow> <mo>⋅</mo> <mi>cos</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>k</mi> <mi>x</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \psi (x,t)=\psi
+   _{1}(x,t)+\psi _{2}(x,t)=2A\cdot \cos {(\omega t)}\cdot
+   \cos(kx)}</annotation> </semantics> :MATH]
+   {\displaystyle \psi (x,t)=\psi _{1}(x,t)+\psi _{2}(x,t)=2A\cdot \cos
+   {(\omega t)}\cdot \cos(kx)}
+
+   La grandeur physique vibre sinusoïdalement en chaque point à la
+   pulsation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ω</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \omega
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \omega } . Son amplitude dépend de sa position : des
+   nœuds et des ventres se forment.
+
+Vibration quasi-sinusoïdale
+
+   [modifier | modifier le code]
+
+   On peut considérer une vibration ou une onde comme quasi-sinusoïdale si
+   sa densité spectrale de puissance occupe une bande très étroite de
+   fréquences.
+   [250px-Vibration_quasi_monochromatique.png] Répartition spectrale de
+   l'énergie.
+   Exemple d'un signal sinusoïdal tronqué :
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow> <mo>{</mo> <mtable columnalign="left left" rowspacing=".2em"
+   columnspacing="1em" displaystyle="false"> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mi>ψ</mi> <mo>_</mo> </munder>
+   </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mi>A</mi> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <msub> <mi>ϕ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> </msup>
+   <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>.</mo>
+   <mi>t</mi> </mrow> </msup> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>si</mtext> </mrow> <mtext> </mtext>
+   <mi>t</mi> <mo>∈</mo> <mrow> <mo>[</mo> <mrow> <mn>0</mn> <mo>;</mo>
+   <mi>τ</mi> </mrow> <mo>]</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mi>ψ</mi> <mo>_</mo> </munder>
+   </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mn>0</mn> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>sinon</mtext> </mrow> </mtd> </mtr>
+   </mtable> <mo fence="true" stretchy="true" symmetric="true"></mo>
+   </mrow> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\begin{cases}{\underline
+   {\psi }}(t)=A\cdot \mathrm {e} ^{j\phi _{0}}\cdot \mathrm {e} ^{j.2\pi
+   .f_{0}.t}\ {\text{si}}\ t\in \left[0;\tau \right]\\{\underline {\psi
+   }}(t)=0\ {\text{sinon}}\end{cases}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\begin{cases}{\underline {\psi }}(t)=A\cdot \mathrm {e}
+   ^{j\phi _{0}}\cdot \mathrm {e} ^{j.2\pi .f_{0}.t}\ {\text{si}}\ t\in
+   \left[0;\tau \right]\\{\underline {\psi }}(t)=0\
+   {\text{sinon}}\end{cases}}}
+
+   Il faut déterminer sa transformée de Fourier :
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <munder> <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>ψ</mi> <mo
+   stretchy="false">^</mo> </mover> </mrow> <mo>_</mo> </munder> </mrow>
+   <mo stretchy="false">(</mo> <mi>f</mi> <mo stretchy="false">)</mo>
+   <mo>=</mo> <msubsup> <mo>∫</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mo>−</mo> <mi mathvariant="normal">∞</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>+</mo> <mi mathvariant="normal">∞</mi>
+   </mrow> </msubsup> <mrow class="MJX-TeXAtom-ORD"> <munder> <mi>ψ</mi>
+   <mo>_</mo> </munder> </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi>j</mi> <mn>.2</mn> <mi>π</mi>
+   <mo>.</mo> <mi>f</mi> <mo>.</mo> <mi>t</mi> </mrow> </msup> <mo>⋅</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> </mrow>
+   <mi>t</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\underline {\hat {\psi
+   }}}(f)=\int _{-\infty }^{+\infty }{\underline {\psi }}(t)\cdot \mathrm
+   {e} ^{-j.2\pi .f.t}\cdot \mathrm {d} t}</annotation> </semantics>
+   :MATH]
+   {\displaystyle {\underline {\hat {\psi }}}(f)=\int _{-\infty }^{+\infty
+   }{\underline {\psi }}(t)\cdot \mathrm {e} ^{-j.2\pi .f.t}\cdot \mathrm
+   {d} t} ,
+
+   pour connaître sa densité spectrale d'énergie :
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>|</mo> <mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <munder> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <mi>ψ</mi> <mo stretchy="false">^</mo> </mover> </mrow>
+   <mo>_</mo> </munder> </mrow> <mo stretchy="false">(</mo> <mi>f</mi> <mo
+   stretchy="false">)</mo> </mrow> <mo>|</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo> <msup>
+   <mi>τ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   <mo>⋅</mo> <msup> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mo>⋅</mo> <msup> <mrow> <mo>(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>sin</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <mi>f</mi> <mo>−</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <mi>f</mi> <mo>−</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow> </mfrac> </mrow>
+   <mo>)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+   </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left|{\underline {\hat
+   {\psi }}}(f)\right|^{2}=\tau ^{2}\cdot A^{2}\cdot \left({\frac
+   {\sin(\pi .(f-f_{0}).\tau )}{\pi .(f-f_{0}).\tau
+   }}\right)^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle \left|{\underline {\hat {\psi }}}(f)\right|^{2}=\tau
+   ^{2}\cdot A^{2}\cdot \left({\frac {\sin(\pi .(f-f_{0}).\tau )}{\pi
+   .(f-f_{0}).\tau }}\right)^{2}}
+
+   On peut considérer la vibration comme quasi monochromatique si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <mi>τ</mi> </mfrac> </mrow> <mo>≪</mo> <msub>
+   <mi>f</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\frac {1}{\tau }}\ll
+   f_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {1}{\tau }}\ll f_{0}} c'est-à-dire,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>T</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   T_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle T_{0}} étant la période du signal sinusïdal, si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>τ</mi> <mo>≫</mo> <msub>
+   <mi>T</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \tau \gg
+   T_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle \tau \gg T_{0}}
+   Démonstration
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtable columnalign="right left right left right left right left right
+   left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em
+   2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <mi>ψ</mi> <mo stretchy="false">^</mo> </mover> </mrow>
+   <mo>_</mo> </munder> </mrow> <mo stretchy="false">(</mo> <mi>f</mi> <mo
+   stretchy="false">)</mo> </mtd> <mtd> <mi></mi> <mo>=</mo> <msubsup>
+   <mo>∫</mo> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi
+   mathvariant="normal">∞</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mo>+</mo> <mi mathvariant="normal">∞</mi> </mrow> </msubsup> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mi>ψ</mi> <mo>_</mo> </munder>
+   </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi>j</mi> <mn>.2</mn> <mi>π</mi>
+   <mo>.</mo> <mi>f</mi> <mo>.</mo> <mi>t</mi> </mrow> </msup> <mo>⋅</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> </mrow>
+   <mi>t</mi> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd>
+   <mi></mi> <mo>=</mo> <mi>A</mi> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <msub> <mi>ϕ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> </msup>
+   <mo>⋅</mo> <msubsup> <mo>∫</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>τ</mi> </mrow>
+   </msubsup> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>.</mo>
+   <mi>t</mi> </mrow> </msup> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi>j</mi> <mn>.2</mn> <mi>π</mi>
+   <mo>.</mo> <mi>f</mi> <mo>.</mo> <mi>t</mi> </mrow> </msup> <mo>⋅</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> </mrow>
+   <mi>t</mi> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd>
+   <mi></mi> <mo>=</mo> <mi>A</mi> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <msub> <mi>ϕ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> </msup>
+   <mo>⋅</mo> <msubsup> <mo>∫</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>τ</mi> </mrow>
+   </msubsup> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>t</mi> </mrow>
+   </msup> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">d</mi> </mrow> <mi>t</mi> </mtd> </mtr> <mtr>
+   <mtd> <mtext> </mtext> </mtd> <mtd> <mi></mi> <mo>=</mo> <mi>A</mi>
+   <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <msub> <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> </mrow> </msup> <mo>⋅</mo> <msubsup> <mrow> <mo>[</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo>
+   <mo stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>t</mi> </mrow>
+   </msup> <mrow> <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> </mrow> </mfrac> </mrow>
+   <mo>]</mo> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>τ</mi> </mrow> </msubsup> </mtd>
+   </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mi>A</mi> <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <msub> <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> </mrow> </msup> <mo>⋅</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo>
+   <mo stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow>
+   </msup> <mo>−</mo> <mn>1</mn> </mrow> <mrow> <mi>j</mi> <mn>.2</mn>
+   <mi>π</mi> <mo>.</mo> <mo stretchy="false">(</mo> <msub> <mi>f</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mtd>
+   </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mi>A</mi> <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <msub> <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> </mrow> </msup> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>.</mo> <mi>π</mi> <mo>.</mo>
+   <mo stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow>
+   </msup> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>.</mo> <mi>π</mi>
+   <mo>.</mo> <mo stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow>
+   </msup> <mo>−</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mo>−</mo> <mi>j</mi> <mo>.</mo> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow>
+   </msup> </mrow> <mrow> <mi>j</mi> <mn>.2</mn> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mtd>
+   </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mi>A</mi> <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <msub> <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> </mrow> </msup> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>.</mo> <mi>π</mi> <mo>.</mo>
+   <mo stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow>
+   </msup> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mn>2.</mn> <mi>j</mi> <mo>.</mo> <mi>sin</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <mi>j</mi> <mn>.2</mn>
+   <mi>π</mi> <mo>.</mo> <mo stretchy="false">(</mo> <msub> <mi>f</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mtd>
+   </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mi>τ</mi> <mo>⋅</mo> <mi>A</mi> <mo>⋅</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>j</mi> <msub> <mi>ϕ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> </msup>
+   <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <mo>.</mo> <mi>π</mi> <mo>.</mo> <mo stretchy="false">(</mo>
+   <msub> <mi>f</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+   </msub> <mo>−</mo> <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo>
+   <mi>τ</mi> </mrow> </msup> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mi>sin</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+   <mi>π</mi> <mo>.</mo> <mo stretchy="false">(</mo> <msub> <mi>f</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> <mo stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow>
+   </mfrac> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd>
+   <mtd> <mi></mi> <mo>=</mo> <mi>τ</mi> <mo>⋅</mo> <mi>A</mi> <mo>⋅</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>sin</mi> <mo>⁡</mo>
+   <mo stretchy="false">(</mo> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <mi>f</mi> <mo>−</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <mi>f</mi> <mo>−</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow> </mfrac> </mrow>
+   <mo>⋅</mo> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mi>j</mi> <mo>.</mo> <mrow> <mo>(</mo> <mrow> <mi>π</mi> <mo>.</mo>
+   <mrow> <mo>(</mo> <mrow> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> </mrow> <mo>)</mo> </mrow> <mo>.</mo> <mi>τ</mi> <mo>+</mo>
+   <msub> <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+   </msub> </mrow> <mo>)</mo> </mrow> </mrow> </msup> </mtd> </mtr>
+   </mtable> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\begin{aligned}{\underline
+   {\hat {\psi }}}(f)&=\int _{-\infty }^{+\infty }{\underline {\psi
+   }}(t)\cdot \mathrm {e} ^{-j.2\pi .f.t}\cdot \mathrm {d} t\\\ &=A\cdot
+   \mathrm {e} ^{j\phi _{0}}\cdot \int _{0}^{\tau }\mathrm {e} ^{j.2\pi
+   .f_{0}.t}\cdot \mathrm {e} ^{-j.2\pi .f.t}\cdot \mathrm {d} t\\\
+   &=A\cdot \mathrm {e} ^{j\phi _{0}}\cdot \int _{0}^{\tau }\mathrm {e}
+   ^{j.2\pi .(f_{0}-f).t}\cdot \mathrm {d} t\\\ &=A\cdot \mathrm {e}
+   ^{j\phi _{0}}\cdot \left[{\frac {\mathrm {e} ^{j.2\pi
+   .(f_{0}-f).t}}{j.2\pi .(f_{0}-f)}}\right]_{0}^{\tau }\\\ &=A\cdot
+   \mathrm {e} ^{j\phi _{0}}\cdot {\frac {\mathrm {e} ^{j.2\pi
+   .(f_{0}-f).\tau }-1}{j.2\pi .(f_{0}-f)}}\\\ &=A\cdot \mathrm {e}
+   ^{j\phi _{0}}\cdot \mathrm {e} ^{j.\pi .(f_{0}-f).\tau }\cdot {\frac
+   {\mathrm {e} ^{j.\pi .(f_{0}-f).\tau }-\mathrm {e} ^{-j.\pi
+   .(f_{0}-f).\tau }}{j.2\pi .(f_{0}-f)}}\\\ &=A\cdot \mathrm {e} ^{j\phi
+   _{0}}\cdot \mathrm {e} ^{j.\pi .(f_{0}-f).\tau }\cdot {\frac
+   {2.j.\sin(\pi .(f_{0}-f).\tau )}{j.2\pi .(f_{0}-f)}}\\\ &=\tau \cdot
+   A\cdot \mathrm {e} ^{j\phi _{0}}\cdot \mathrm {e} ^{j.\pi
+   .(f_{0}-f).\tau }\cdot {\frac {\sin(\pi .(f_{0}-f).\tau )}{\pi
+   .(f_{0}-f).\tau }}\\\ &=\tau \cdot A\cdot {\frac {\sin(\pi
+   .(f-f_{0}).\tau )}{\pi .(f-f_{0}).\tau }}\cdot \mathrm {e}
+   ^{j.\left(\pi .\left(f_{0}-f\right).\tau +\phi
+   _{0}\right)}\end{aligned}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\begin{aligned}{\underline {\hat {\psi }}}(f)&=\int
+   _{-\infty }^{+\infty }{\underline {\psi }}(t)\cdot \mathrm {e}
+   ^{-j.2\pi .f.t}\cdot \mathrm {d} t\\\ &=A\cdot \mathrm {e} ^{j\phi
+   _{0}}\cdot \int _{0}^{\tau }\mathrm {e} ^{j.2\pi .f_{0}.t}\cdot \mathrm
+   {e} ^{-j.2\pi .f.t}\cdot \mathrm {d} t\\\ &=A\cdot \mathrm {e} ^{j\phi
+   _{0}}\cdot \int _{0}^{\tau }\mathrm {e} ^{j.2\pi .(f_{0}-f).t}\cdot
+   \mathrm {d} t\\\ &=A\cdot \mathrm {e} ^{j\phi _{0}}\cdot \left[{\frac
+   {\mathrm {e} ^{j.2\pi .(f_{0}-f).t}}{j.2\pi
+   .(f_{0}-f)}}\right]_{0}^{\tau }\\\ &=A\cdot \mathrm {e} ^{j\phi
+   _{0}}\cdot {\frac {\mathrm {e} ^{j.2\pi .(f_{0}-f).\tau }-1}{j.2\pi
+   .(f_{0}-f)}}\\\ &=A\cdot \mathrm {e} ^{j\phi _{0}}\cdot \mathrm {e}
+   ^{j.\pi .(f_{0}-f).\tau }\cdot {\frac {\mathrm {e} ^{j.\pi
+   .(f_{0}-f).\tau }-\mathrm {e} ^{-j.\pi .(f_{0}-f).\tau }}{j.2\pi
+   .(f_{0}-f)}}\\\ &=A\cdot \mathrm {e} ^{j\phi _{0}}\cdot \mathrm {e}
+   ^{j.\pi .(f_{0}-f).\tau }\cdot {\frac {2.j.\sin(\pi .(f_{0}-f).\tau
+   )}{j.2\pi .(f_{0}-f)}}\\\ &=\tau \cdot A\cdot \mathrm {e} ^{j\phi
+   _{0}}\cdot \mathrm {e} ^{j.\pi .(f_{0}-f).\tau }\cdot {\frac {\sin(\pi
+   .(f_{0}-f).\tau )}{\pi .(f_{0}-f).\tau }}\\\ &=\tau \cdot A\cdot {\frac
+   {\sin(\pi .(f-f_{0}).\tau )}{\pi .(f-f_{0}).\tau }}\cdot \mathrm {e}
+   ^{j.\left(\pi .\left(f_{0}-f\right).\tau +\phi
+   _{0}\right)}\end{aligned}}}
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>|</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <mi>ψ</mi> <mo stretchy="false">^</mo> </mover> </mrow>
+   <mo>_</mo> </munder> </mrow> <mo stretchy="false">(</mo> <mi>f</mi> <mo
+   stretchy="false">)</mo> </mrow> <mo>|</mo> </mrow> <mo>=</mo>
+   <mi>τ</mi> <mo>⋅</mo> <mi>A</mi> <mo>⋅</mo> <mrow> <mo>(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>sin</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <mi>f</mi> <mo>−</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <mi>π</mi> <mo>.</mo> <mo
+   stretchy="false">(</mo> <mi>f</mi> <mo>−</mo> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>.</mo> <mi>τ</mi> </mrow> </mfrac> </mrow>
+   <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left|{\underline {\hat
+   {\psi }}}(f)\right|=\tau \cdot A\cdot \left({\frac {\sin(\pi
+   .(f-f_{0}).\tau )}{\pi .(f-f_{0}).\tau }}\right)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \left|{\underline {\hat {\psi }}}(f)\right|=\tau \cdot
+   A\cdot \left({\frac {\sin(\pi .(f-f_{0}).\tau )}{\pi .(f-f_{0}).\tau
+   }}\right)}
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">r</mi> <mi
+   mathvariant="normal">g</mi> </mrow> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <munder> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <mi>ψ</mi> <mo stretchy="false">^</mo> </mover> </mrow>
+   <mo>_</mo> </munder> </mrow> <mo stretchy="false">(</mo> <mi>f</mi> <mo
+   stretchy="false">)</mo> </mrow> <mo>)</mo> </mrow> <mo>=</mo>
+   <mi>π</mi> <mo>.</mo> <mrow> <mo>(</mo> <mrow> <msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>−</mo>
+   <mi>f</mi> </mrow> <mo>)</mo> </mrow> <mo>.</mo> <mi>τ</mi> <mo>+</mo>
+   <msub> <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {arg}
+   \left({\underline {\hat {\psi }}}(f)\right)=\pi
+   .\left(f_{0}-f\right).\tau +\phi _{0}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {arg} \left({\underline {\hat {\psi
+   }}}(f)\right)=\pi .\left(f_{0}-f\right).\tau +\phi _{0}}
+
+Domaines d'application
+
+   [modifier | modifier le code]
+
+Optique
+
+   [modifier | modifier le code]
+
+   L'optique s'intéresse à la propagation des ondes électromagnétiques.
+   Dans ce cadre, une onde monochromatique désigne une onde
+   électromagnétique dont le champ électrique et le champ magnétique
+   varient selon une fonction sinusoïdale du temps. Cette dénomination
+   peut être aussi bien utilisée pour les rayonnements du domaine visible
+   que des domaines invisibles, notamment infrarouge et ultraviolet.
+
+   Dans le domaine de la photométrie et de la colorimétrie, qui se
+   limitent à la partie visible du spectre électromagnétique, une couleur
+   pure ou spectrale, est la sensation produite sur le système visuel
+   humain par une onde électromagnétique monochromatique du domaine
+   visible. Ces couleurs sont celles que l'on observe lors de la
+   dispersion de la lumière par un prisme ou un réseau de diffraction dans
+   une chambre noire, et aussi, lavées de blanc, dans un arc-en-ciel. Pour
+   obtenir expérimentalement des ondes quasi-monochromatiques, on utilise
+   généralement un monochromateur.
+
+   CAPTION: Spectre visible et dénomination des teintes^[c]^,^[4]
+
+   Couleur perçue^[d] Longueur d'onde
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>λ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \lambda
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lambda }
+   dans le vide (nm) Fréquence
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f} (THz)
+   infrarouge   > 780 < 385
+   rouge   622 - 780 482 - 385
+   rouge-orangé   605 – 622 482 - 496
+   orangé-rouge   593 – 605 496 - 506
+   orange   588 – 593 506 - 510
+   orangé-jaune   584 – 588 510 - 514
+   jaune-orangé   579 – 584 514 - 518
+   jaune   575 - 579 518 - 522
+   jaune-vert   573 - 575 522 - 524
+   vert-jaune   541 - 573 524 - 555
+   vert   510 - 541 555 - 588
+   vert-bleu   490 - 510 588 - 612
+   bleu-vert   483 - 490 612 - 621
+   bleu   478 - 483 621 - 628
+   bleu-violet   466 - 478 628 - 644
+   violet-bleu   449 - 466 644 - 668
+   violet   380 - 449 668 - 789
+   ultraviolet   < 380 > 789
+
+   Le terme monochromatique ne doit pas être confondu avec celui de
+   monochrome, qui est un terme signifiant qu'une seule couleur, et
+   souvent plus largement un seul champ chromatique est perçu sur
+   l'ensemble d'une surface. Cette couleur ne correspond pas en général �
+   une onde monochromatique.
+
+Acoustique
+
+   [modifier | modifier le code]
+
+   Les ondes acoustiques résultent la variation de la pression acoustique
+   due à une source. Un son pur est une variation sinusoïdale de pression
+   acoustique dans le domaine des fréquences audibles^[3].
+   Exemple — Propagation d'un son pur émis par une source ponctuelle
+   omnidirectionnelle :
+
+   Dans le cas d'une onde sphérique,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r} étant la distance à la source et
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+   stretchy="false">(</mo> <mn>1</mn> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">m</mi> </mrow> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle P(1\ \mathrm {m}
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle P(1\ \mathrm {m} )} la pression acoustique efficace à 1
+   m de la source, le champ de pression acoustique est défini par :
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo
+   stretchy="false">(</mo> <mi>r</mi> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mi>P</mi> <mo stretchy="false">(</mo> <mn>1</mn>
+   <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">m</mi> </mrow> <mo stretchy="false">)</mo>
+   <mo>.</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> </msqrt>
+   </mrow> </mrow> <mi>r</mi> </mfrac> </mrow> <mo>⋅</mo> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>ω</mi> <mo>.</mo> <mi>t</mi>
+   <mo>−</mo> <mi>k</mi> <mo>.</mo> <mi>r</mi> <mo>+</mo> <mi>φ</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle p(r,t)={\frac {P(1\ \mathrm
+   {m} ).{\sqrt {2}}}{r}}\cdot \cos(\omega .t-k.r+\varphi )}</annotation>
+   </semantics> :MATH]
+   {\displaystyle p(r,t)={\frac {P(1\ \mathrm {m} ).{\sqrt {2}}}{r}}\cdot
+   \cos(\omega .t-k.r+\varphi )} .
+
+Annexes
+
+   [modifier | modifier le code]
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Eugène Hecht, Optique, Paris, Pearson Education France, 2005,
+       4^e éd., 724 p. (ISBN 2-7440-7063-7)
+     * José-Philippe Pérez, Optique. Fondements et applications, Paris,
+       Dunod, 2004, 7^e éd. [détail des éditions] (ISBN 2-10-048497-4)
+     * Richard Taillet, Loïc Villain et Pascal Febvre, Dictionnaire de
+       physique, Bruxelles, De Boeck, 2013, p. 450 « monochromatique »
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Monochromateur
+     * Harmonique (musique)
+     * Interférométrie
+     * Diffraction
+     * Lumière polychromatique
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Les ondes électromagnétiques seules sont caractérisées de façon
+       équivalente par la fréquence, la longueur d'onde ou l'énergie
+       photonique.
+    2. ↑ Du grec ancien μόνος, mónos, « seul » et χρῶμα, khrôma,
+       « couleur ».
+    3. ↑ Le nom des couleurs et les limites des intervalles de longueurs
+       d'onde sont extraits de la norme AFNOR X 08-010 « Classification
+       méthodique générale des couleurs » ( annulée le 30 août 2014). Les
+       noms de plage de couleur ne pouvant correspondre à des ondes
+       monochromatiques (ligne des pourpres) ne sont pas donnés ici.
+    4. ↑ Un écran d'ordinateur ne pouvant produire une lumière
+       monochromatique, les cadres colorés donnent une référence
+       approximative. Les tables des fonctions colorimétriques de la CIE
+       XYZ donnent la position trichromatique des lumières
+       monochromatiques. Elles sont (1) converties en coordonnées
+       (positives et négatives) linéaires par la matrice de conversion
+       sRGB, (2) ramenées à des valeurs positives par l'ajout de la
+       quantité juste suffisante de lumière achromatique (gris de
+       luminosité égale à celle de la couleur), sauf dans le cas du
+       rouge-orangé (3) multipliées composante par composante par un
+       coefficient pour obtenir une luminosité proportionnelle à l'indice
+       d'efficacité lumineuse spectrale et (4) converties en code
+       non-linéaire selon les prescriptions sRGB. Deux couleurs ont exigé
+       des corrections, en raison des caractéristiques des primaires sRGB.
+       La pureté maximale du rouge-orangé, région de la primaire rouge,
+       est réduite à cause de la condition de luminosité, arrivant à une
+       valeur intermédiaire entre les couleurs adjacentes. La pureté du
+       bleu-violet a été réduite pour se trouver comme celle des couleurs
+       voisines, afin de ne pas apparaître comme plus colorée que
+       celles-ci.
+     __________________________________________________________________
+
+    1. ↑ ^a b c et d José-Philippe Pérez 2005, p. 214-216
+    2. ↑ ^a et b Eugène Hecht 2005, p. 16-18
+    3. ↑ ^a et b Mario Rossi, Audio, Lausanne, Presses polytechniques et
+       universitaires romandes, 2007, 1^re éd., 782 p.
+       (ISBN 978-2-88074-653-7, lire en ligne), p. 5-6
+    4. ↑ Robert Sève, Science de la couleur : Aspects physiques et
+       perceptifs, Marseille, Chalagam, 2009, 374 p.
+       (ISBN 978-2-9519607-5-6 et 2-9519607-5-1), p. 246-251
+
+     * icône décorative Portail de la physique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Onde_monochromatique&oldid
+   =224600170 ».
+   Catégorie :
+     * Mécanique ondulatoire
+
+   Catégories cachées :
+     * Portail:Physique/Articles liés
+     * Portail:Sciences/Articles liés
+
+     * La dernière modification de cette page a été faite le 7 avril 2025
+       à 01:12.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Onde monochromatique
+   (BUTTON) 22 langues Ajouter un sujet

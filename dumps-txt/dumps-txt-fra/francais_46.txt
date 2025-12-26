@@ -1,0 +1,566 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NCF2KZW
+
+   Aller au contenu
+
+   myMaxicours vous souhaite de belles fêtes de fin d’année !
+
+   myMaxicours vous souhaite de belles fêtes de fin d’année !
+   myMaxicours
+   S'abonner Connexion
+   picto telephone 01 49 08 38 00
+   (BUTTON)
+     * Par classe (BUTTON)
+          + Primaire
+               o CP
+               o CE1
+               o CE2
+               o CM1
+               o CM2
+          + Collège
+               o 6^e
+               o 5^e
+               o 4^e
+               o 3^e
+          + Lycée
+               o 2^de
+               o 1^re
+               o Terminale
+               o 1re techno
+               o Terminale techno
+               o 2^de pro
+               o 1^re pro
+               o Terminale pro
+     *
+     * Par matière (BUTTON)
+          + Liste des matières
+               o Mathématiques
+               o Français
+               o Anglais
+               o SVT
+               o Physique Chimie
+               o Histoire
+               o Géographie
+               o Philosophie
+     *
+     * Nos offres (BUTTON)
+          + Pour une année scolaire réussie
+               o Soutien scolaire en ligne
+               o Profs en ligne
+     *
+     * Qui sommes-nous ?
+     *
+     * Conseils pour les parents
+     *
+
+   myMaxicours
+   (BUTTON)
+   S'abonner Connexion
+   picto telephone 01 49 08 38 00
+     * Par classe (BUTTON)
+          + Primaire
+               o CP
+               o CE1
+               o CE2
+               o CM1
+               o CM2
+          + Collège
+               o 6^e
+               o 5^e
+               o 4^e
+               o 3^e
+          + Lycée
+               o 2^de
+               o 1^re
+               o Terminale
+               o 1re techno
+               o Terminale techno
+               o 2^de pro
+               o 1^re pro
+               o Terminale pro
+     *
+     * Par matière (BUTTON)
+          + Liste des matières
+               o Mathématiques
+               o Français
+               o Anglais
+               o SVT
+               o Physique Chimie
+               o Histoire
+               o Géographie
+               o Philosophie
+     *
+     * Nos offres (BUTTON)
+          + Pour une année scolaire réussie
+               o Soutien scolaire en ligne
+               o Profs en ligne
+     *
+     * Qui sommes-nous ?
+     *
+     * Conseils pour les parents
+     *
+
+   Fiche de cours
+
+Ondes lumineuses : mono/polychromatiques
+
+   Lycée   >   Terminale   >   Physique Chimie   >   Ondes lumineuses :
+   mono/polychromatiques
+     * Fiche de cours
+     * Quiz et exercices
+     * Vidéos et podcasts
+
+   Objectifs
+   • Rappeler quelques notions importantes relatives aux radiations
+   électromagnétiques, y compris la lumière visible.
+   • Expliquer le phénomène de dispersion de la lumière, utilisé par un
+   prisme optique pour décomposer la lumière.
+   • Caractériser alors une lumière polychromatique et monochromatique.
+   1. La lumière
+   a. Rappels
+   Dans le vide, toutes les radiations électromagnétiques, dont la
+   lumière, se propagent à la célérité . D'autre part, le lien entre la
+   fréquence f (en Hz) d'une onde électromagnétique et sa longueur d'onde
+   λ (en m) dans le vide est donné par , où la célérité est en m.s^-1.
+   Dans l'air, la célérité de la lumière est proche de c. Par contre, dans
+   un milieu matériel transparent, comme le verre ou l'eau, la célérité v
+   de la lumière est plus faible que dans le vide. Elle est donnée par
+   l'indice optique de réfraction n (sans dimension) du milieu de
+   propagation, car nous avons , avec n ≥ 1. Quand une radiation lumineuse
+   change de milieu, sa célérité et sa longueur d'onde peuvent varier,
+   mais pas sa fréquence.
+   b. Le domaine du visible
+   L’œil humain n’est sensible qu’à certaines fréquences du spectre
+   électromagnétique. Ce sont celles qui appartiennent au domaine de la
+   lumière visible, dont les fréquences sont comprises entre 3,8 .10^14 Hz
+   et 7,5.10^14 Hz. Cela correspond à un domaine en longueur d'onde dans
+   le vide compris entre 400 nm et 800 nm environ (1 nm = 10^–9 m).
+   c. Le spectre électromagnétique
+   → Les ultraviolets (UV) ont des longueurs d’onde dans le vide plus
+   faibles que celles du visible, comprises entre 10 nm et 400 nm.
+   Cela signifie que les photons UV sont plus énergiques que les photons
+   du visible (d'après la relation donnant l'énergie E d'un photon : , où
+   h est la constante de Planck).
+   Les UV à courtes longueurs d’onde émis par le Soleil, nocifs pour
+   l’Homme ou pour la vie en général, sont absorbés par la couche d’ozone
+   dans la haute atmosphère.
+   → Les infrarouges (IR) sont des longueurs d’ondes dans le vide plus
+   grandes que celles du visible, elles sont comprises entre 800 nm et 100
+   µm (1 µm = 10^–6 m).
+   Ils font partie du rayonnement thermique émis par les corps (cf loi de
+   Wien, vue en 1^ère S).
+   → D’autres domaines existent et sont utilisés dans la vie courante
+   (domaine hertzien, rayons X).
+   Illustration animée : Le spectre électromagnétique.
+   Longueurs d'onde et fréquences correspondantes de différents domaines.
+   (Cliquer puis faire glisser la règle pour savoir à quoi correspondent
+   les longueurs d'ondes situées au-delà du visible.)
+
+   2. La lumière polychromatique avec l'expérience de Newton
+   a. Le phénomène de dispersion de la lumière par un prisme
+   → On dit qu’un milieu est dispersif si la célérité d’une onde dans ce
+   milieu dépend de sa fréquence.
+   Dans le vide, toutes les radiations lumineuses ont la même célérité. On
+   dit donc que le vide est un milieu non dispersif. Par contre, certains
+   matériaux, comme le verre flint, sont fortement dispersifs pour les
+   radiations lumineuses visibles.
+   → Considérons deux milieux 1 et 2, d’indices de réfraction n[1] et
+   n[2], séparés par une surface (nommée dioptre en optique) que nous
+   considérerons comme plane. On définit la normale à cette surface par
+   une droite qui lui est perpendiculaire.
+   Quand un rayon lumineux passe d’un milieu à l’autre, l’angle qu’il fait
+   avec la normale est modifié. C’est le phénomène de réfraction, décrit
+   par la loi de Snell-Descartes sur la réfraction :
+   n[1] × sin(i[1]) = n[2] × sin(i[2])
+   i[1] (en degrés ou en radians) est l'angle fait avec la normale dans le
+   milieu 1, et i[2] celui dans le milieu 2.
+   → Puisque l'indice n est relié à la célérité de la radiation lumineuse
+   dans le milieu, et comme les radiations lumineuses n'ont pas la même
+   célérité dans un milieu dispersif, alors chaque radiation lumineuse a
+   son propre indice de réfraction dans un tel milieu.
+   Un prisme est composé d'un milieu dispersif, comme du verre flint.
+   L'idée est d'envoyer les radiations lumineuses selon un angle
+   d'incidence donné, non nul par rapport à la normale, afin de provoquer
+   une première réfraction sur l'interface air/verre (en entrée du
+   prisme), puis une autre sur l'interface verre/air (en sortie du
+   prisme).
+   Dans cette configuration, chaque radiation aura un angle de réfraction
+   différent des autres, et sera donc déviée différemment. Cela permet
+   ainsi de décomposer la lumière en fonction de la fréquence/longueur
+   d'onde des radiations qui la composent.
+   b. Dispersion de la lumière blanche par un prisme
+   Newton a constaté qu’en éclairant un prisme avec de la lumière blanche
+   émise par le Soleil, celle-ci sortait du prisme en étant déviée, et
+   qu’elle se décomposait en lumières de toutes les couleurs de
+   l’arc-en-ciel. Il en a déduit que la lumière blanche est composée de
+   toutes ces couleurs, que le prisme nous permet de séparer les unes des
+   autres.
+   On obtient alors un spectre continue s'étalant du violet (λ = 400 nm)
+   au rouge (λ = 800 nm). La lumière blanche, émise par le Soleil ou une
+   lampe, est donc composée de plusieurs longueurs d'onde (ici, une
+   infinité). En conséquence, on dit que la lumière blanche est
+   polychromatique.
+   Remarques :
+   → Le spectre solaire comporte des raies d’absorption, nommées raies de
+   Fraunhofer (cf programme de 1^ère S).
+   → Comme vu en 1^ère S, on peut obtenir de la lumière blanche avec trois
+   couleurs (ou même trois longueurs d’onde) différentes : du rouge, du
+   vert et du bleu (synthèse trichromatique additive). Une lumière blanche
+   artificielle n’a donc pas forcément un spectre continu comme celui que
+   nous venons de trouver, mais il est forcément polychromatique.
+   → Le prisme n’est pas le seul outil d’optique permettant d’établir un
+   spectre. Un réseau de diffraction peut également décomposer la lumière,
+   comme la surface d’un CD (cf cours sur la diffraction).
+   c. Spectre d'une lampe à vapeur de mercure
+   Il existe aussi des lumières polychromatiques qui ne sont constituées
+   que de quelques radiations de longueurs d’onde différentes. Dans ce
+   cas, on obtient un spectre de raies (spectre discontinu) dont les raies
+   correspondent aux longueurs d’onde constituant la lumière étudiée.
+   C’est par exemple le cas avec une lampe à vapeur de mercure. Le schéma
+   suivant donne une vision du montage qui nous permettrait d’établir ce
+   spectre.
+   3. Notion de radiation monochromatique
+   Une source lumineuse qui émet une lumière composée d'une unique
+   fréquence/longueur d'onde est une source monochromatique. Dans ce cas,
+   on obtient un spectre composé d'une seule raie qui correspond à la
+   radiation émise par la source.
+   Dans l'expérience du prisme, lorsqu’on remplace la source de lumière
+   blanche par un laser, le prisme dévie le faisceau du laser mais ne la
+   décompose pas : on a une seule raie brillante.
+   Le laser génère une lumière monochromatique qui est constituée d'une
+   radiation unique. Cette radiation est caractérisée par sa fréquence ou
+   sa longueur d'onde.
+   Ainsi, la lumière du laser utilisée pour notre expérience est
+   caractérisée par une radiation de longueur d'onde λ = 720.10^–9 m = 720
+   nm (rouge).
+   L'essentiel
+   Dans le spectre électromagnétique, la lumière visible se situe dans un
+   domaine en longueurs d'onde (dans l'air ou dans le vide) comprises
+   entre 400 nm et 800 nm. En deçà, se situent les ultraviolets (entre 10
+   nm et 400 nm) et au-delà, les infrarouges (entre 800 nm et 1 mm).
+   Pour établir le spectre d’une lumière, on peut faire appel à un prisme.
+   Via le phénomène de dispersion de la lumière, on décompose ainsi la
+   lumière pour obtenir les différentes radiations qui la composent.
+   Une lumière monochromatique ne contient qu’une seule radiation de
+   fréquence bien définie.
+   Une lumière polychromatique est constituée plusieurs fréquences. Il
+   peut s’agir de quelques fréquences (spectres de raies), ou d’une
+   infinité (spectre continu).
+
+   Vote en cours...
+
+   Vous avez déjà mis une note à ce cours.
+
+   Découvrez les autres cours offerts par myMaxicours !
+   Découvrez myMaxicours
+
+   Évalue ce cours !
+     *
+     *
+     *
+     *
+     *
+
+
+   Nous sommes désolés que ce cours ne te soit pas utile
+
+   N'hésite pas à nous écrire pour nous faire part de tes suggestions
+   d'amélioration
+   Contacte-nous
+
+   Puisque tu as trouvé ce cours utile
+
+   Je partage à mes amis
+   Note 4.1 / 5. Nombre de vote(s) : 191
+
+Des quiz et exercices pour mieux assimiler sa leçon
+
+   La plateforme de soutien scolaire en ligne myMaxicours propose des quiz
+   et exercices en accompagnement de chaque fiche de cours. Les exercices
+   permettent de vérifier si la leçon est bien comprise ou s’il reste
+   encore des notions à revoir.
+
+   S’abonner
+
+
+Des exercices variés pour ne pas s’ennuyer
+
+   Les exercices se déclinent sous toutes leurs formes sur myMaxicours !
+   Selon la matière et la classe étudiées, retrouvez des dictées, des mots
+   à relier ou encore des phrases à compléter, mais aussi des textes �
+   trous et bien d’autres formats !
+
+   Dans les classes de primaire, l’accent est mis sur des exercices
+   illustrés très ludiques pour motiver les plus jeunes.
+
+   S’abonner
+
+
+Des quiz pour une évaluation en direct
+
+   Les quiz et exercices permettent d’avoir un retour immédiat sur la
+   bonne compréhension du cours. Une fois toutes les réponses
+   communiquées, le résultat s’affiche à l’écran et permet à l’élève de se
+   situer immédiatement.
+
+   myMaxicours offre des solutions efficaces de révision grâce aux fiches
+   de cours et aux exercices associés. L’élève se rassure pour le prochain
+   examen en testant ses connaissances au préalable.
+
+   S’abonner
+
+Des vidéos et des podcasts pour apprendre différemment
+
+   Certains élèves ont une mémoire visuelle quand d’autres ont plutôt une
+   mémoire auditive. myMaxicours s’adapte à tous les enfants et
+   adolescents pour leur proposer un apprentissage serein et efficace.
+
+   Découvrez de nombreuses vidéos et podcasts en complément des fiches de
+   cours et des exercices pour une année scolaire au top !
+
+   S’abonner
+
+
+Des podcasts pour les révisions
+
+   La plateforme de soutien scolaire en ligne myMaxicours propose des
+   podcasts de révision pour toutes les classes à examen : troisième,
+   première et terminale.
+
+   Les ados peuvent écouter les différents cours afin de mieux les
+   mémoriser en préparation de leurs examens. Des fiches de cours de
+   différentes matières sont disponibles en podcasts ainsi qu’une
+   préparation au grand oral avec de nombreux conseils pratiques.
+
+   S’abonner
+
+
+Des vidéos de cours pour comprendre en image
+
+   Des vidéos de cours illustrent les notions principales à retenir et
+   complètent les fiches de cours. De quoi réviser sa prochaine évaluation
+   ou son prochain examen en toute confiance !
+
+   S’abonner
+
+Profs en ligne
+
+   [ProfEnLigne@2x-1.png] [ProfEnLigne@2x-1.png] [CoursVideo@2x.png]
+   [ExercicesCorriges@2x.png] [Examens@2x.png]
+   S'abonner
+
+Découvrez le soutien scolaire en ligne avec myMaxicours
+
+   Plongez dans l'univers de myMaxicours et découvrez une approche
+   innovante du soutien scolaire en ligne, conçue pour captiver et éduquer
+   les élèves de CP à la terminale. Notre plateforme se distingue par une
+   riche sélection de contenus interactifs et ludiques, élaborés pour
+   stimuler la concentration et la motivation à travers des parcours
+   d'apprentissage adaptés à chaque tranche d'âge. Chez myMaxicours, nous
+   croyons en une éducation où chaque élève trouve sa place, progresse �
+   son rythme et développe sa confiance en soi dans un environnement
+   bienveillant.
+
+   Profitez d'un accès direct à nos Profs en ligne pour une assistance
+   personnalisée, ou explorez nos exercices et corrigés pour renforcer vos
+   connaissances. Notre assistance scolaire en ligne est conçue pour vous
+   accompagner à chaque étape de votre parcours éducatif, tandis que nos
+   vidéos et fiches de cours offrent des explications claires et concises
+   sur une multitude de sujets. Avec myMaxicours, avancez sereinement sur
+   le chemin de la réussite scolaire, armé des meilleurs outils et du
+   soutien de professionnels dédiés à votre épanouissement académique.
+   EXERCE-TOI EN T'ABONNANT
+   Illustration écolière avec livre
+
+Fiches de cours les plus recherchées
+
+   background fiche cours
+
+   Physique Chimie
+   Troisième loi de Newton : le principe des actions réciproques
+   background fiche cours
+
+   Physique Chimie
+   Déterminer la vitesse de réaction et le temps de demi-réaction
+   background fiche cours
+
+   Physique Chimie
+   Principe des techniques d'analyse utilisées en cinétique
+   background fiche cours
+
+   Physique Chimie
+   Mise en évidence des facteurs cinétiques
+   background fiche cours
+
+   Physique Chimie
+   Étude d'un système solide-ressort et des forces de frottements
+   background fiche cours
+
+   Physique Chimie
+   Chaîne de transmission d'informations - signaux analogique et numérique
+   background fiche cours
+
+   Physique Chimie
+   Caractéristiques d'une image numérique
+   background fiche cours
+
+   Physique Chimie
+   Conversion d'un signal analogique en signal numérique
+   background fiche cours
+
+   Physique Chimie
+   Procédés physiques de transmission de données
+   background fiche cours
+
+   Physique Chimie
+   Caractéristiques d'une transmission numérique
+   (BUTTON) Flèche gauche
+   (BUTTON) Flèche droite
+   Croix fermeture popup Fermer
+
+Envie de progresser et de réussir votre année scolaire ?
+
+Testez gratuitement pendant 24h notre plateforme de soutien scolaire !
+
+   Fiches de cours et vidéos, exercices corrigés, podcasts de révisions
+
+   Un espace dédié aux parents pour suivre les progrès
+
+   Tout le programme scolaire du CP à la Terminale
+
+   Des profs expérimentés disponibles à la demande par tchat, audio ou
+   vidéo
+   ____________________ (BUTTON) OBTENIR MON ACCÈS
+
+   Une erreur s'est produite, veuillez ré-essayer
+
+   Merci pour votre inscription
+
+   * Votre code d'accès sera envoyé à cette adresse e-mail. En renseignant
+   votre e-mail, vous consentez à ce que vos données à caractère personnel
+   soient traitées par SEJER, sous la marque myMaxicours, afin que SEJER
+   puisse vous donner accès au service de soutien scolaire pendant 24h.
+   Pour en savoir plus sur la gestion de vos données personnelles et pour
+   exercer vos droits, vous pouvez consulter notre charte.
+   [ ] J’accepte de recevoir les actualités et des communications de la
+   part de myMaxicours.
+
+   Votre adresse e-mail sera exclusivement utilisée pour vous envoyer
+   notre newsletter. Vous pourrez vous désinscrire à tout moment, �
+   travers le lien de désinscription présent dans chaque newsletter. Pour
+   en savoir plus sur la gestion de vos données personnelles et pour
+   exercer vos droits, vous pouvez consulter notre charte.
+
+Inscrivez-vous à notre newsletter !
+
+   ____________________ (BUTTON) S'inscrire
+   [ ] J’accepte de recevoir les actualités et des communications de la
+   part de myMaxicours.
+
+   Votre adresse e-mail sera exclusivement utilisée pour vous envoyer
+   notre newsletter. Vous pourrez vous désinscrire à tout moment, �
+   travers le lien de désinscription présent dans chaque newsletter. Pour
+   en savoir plus sur la gestion de vos données personnelles et pour
+   exercer vos droits, vous pouvez consulter notre charte .
+
+   Une erreur s'est produite, veuillez ré-essayer
+
+   Merci pour votre inscription
+
+   PAIEMENT SÉCURISÉ
+
+   CONTACT
+
+   01 49 08 38 00 notre équipe est joignable pour répondre à toutes vos
+   questions du lundi au vendredi de 8 h 30 à 17 h 30.
+   CONTACTEZ-NOUS
+
+   7 JOURS D’ESSAI GRATUIT
+
+   Une période d’essai gratuite sur tous nos abonnements en ligne pour
+   tester avant de vous décider !
+   JE TESTE MYMAXICOURS
+
+   CYCLES
+     * Primaire
+     * Collège
+     * Lycée
+
+   COURS PAR CLASSE
+     * CP
+     * CE1
+     * CE2
+     * CM1
+     * CM2
+     * 6e
+     * 5e
+     * 4e
+     * 3e
+     * Seconde
+     * Seconde pro
+     * Première
+     * Première pro
+     * Première techno
+     * Terminale
+     * Terminale pro
+     * Terminale techno
+
+   EXAMENS
+     * Brevet
+     * Baccalauréat
+     * Bac pro
+
+   MATIERES
+     * Mathématiques
+     * Français
+     * Technologie
+     * Physique Chimie
+     * SVT
+     * Anglais
+     * Espagnol
+     * Allemand
+     * Histoire
+     * SES
+     * Sciences
+     * Philosophie
+     * EMC
+     * Histoire-Géographie géopolitique et sciences politiques
+     * Géographie
+     * Questionner le monde
+
+     * Soutien scolaire
+     * Profs en ligne
+
+   AIDE
+     * Contactez-nous
+     * FAQ
+
+   A PROPOS
+     * Qui sommes-nous ?
+     * Blog
+     * Entreprise
+     * Etablissements Scolaires
+     * Nos offres
+     * Promotions
+     * Nos engagements
+
+   NOUS SUIVRE
+     * [icon-fb@2x.png]
+     * [icon-ig@2x.png]
+     * [icon-yt@2x.png]
+
+   DÉCOUVREZ LES AUTRES SITES DU GROUPE
+     * Editions Nathan
+     * Editions Retz
+     * Le Robert
+     * Meet in class
+     * Lonely Planet
+     * Lisez.com
+     * Atelier des auteurs
+     * Lizzie
+
+     * Mentions légales
+     * Charte
+     * CGV
+     * Paramètres des cookies
+
+   Copyright © myMaxicours 2025

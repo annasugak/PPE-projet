@@ -1,0 +1,147 @@
+   #JSON oEmbed (JSON) oEmbed (XML)
+
+   Logo Logo Logo Logo Logo Logo
+   ____________________
+   Logo Logo Recherche
+   Logo Logo Youtube
+   Logo Logo Facebook
+   Logo Logo Instagram
+   Logo Logo Linkedin
+     * ENTREPRISE
+          + NATURE & CONFORT
+          + Nos partenaires
+          + Nos prestations
+          + Notre politique RSE
+     * ACTIVITÉS
+          + Eclairage Naturel
+               o Conduit de Lumière
+               o Réflecteur de Lumière
+          + Ventilation Naturelle
+               o Extracteur d’Air Solaire
+               o Purificateur d’Air
+          + Matériaux Naturels de Construction
+     * INFORMATIONS
+          + Actualités
+          + Le Blog
+          + Nos Réalisations
+          + F.A.Q
+          + Documentation
+          + Espace presse
+     * CONTACT
+          + Demande d’information
+          + Obtenir un devis
+          + Recrutement
+
+   Logo Logo
+     * ENTREPRISE
+          + NATURE & CONFORT
+          + Nos partenaires
+          + Nos prestations
+          + Notre politique RSE
+     * ACTIVITÉS
+          + Eclairage Naturel
+               o Conduit de Lumière
+               o Réflecteur de Lumière
+          + Ventilation Naturelle
+               o Extracteur d’Air Solaire
+               o Purificateur d’Air
+          + Matériaux Naturels de Construction
+     * INFORMATIONS
+          + Actualités
+          + Le Blog
+          + Nos Réalisations
+          + F.A.Q
+          + Documentation
+          + Espace presse
+     * CONTACT
+          + Demande d’information
+          + Obtenir un devis
+          + Recrutement
+
+   menu
+   arrow_drop_down_circle
+
+   Accueil / Qu’est-ce qu’un spectre lumineux ?
+
+Qu’est-ce qu’un spectre lumineux ?
+
+   Un spectre lumineux est l’ensemble des rayons lumineux de différentes
+   longueurs d’ondes formant une palette allant de l’ultraviolet �
+   l’infrarouge. Ce spectre peut être analysé en décomposant la lumière �
+   travers un prisme.
+
+   On distingue principalement 2 familles de spectres :
+   • les spectres continus -> lorsque l’on décompose la lumière blanche du
+   Soleil à l’aide d’un prisme, on observe un évantail de couleurs. On dit
+   que la lumière blanche possède un spectre continu car on passe d’une
+   couleur à une autre sans interruption dans la succession des couleurs.
+   La lumière naturelle est un spectre continu comme les conduits de
+   lumière.
+   • les spectres discontinus -> la majorité des lampes électriques ont un
+   spectre focalisés sur une longueur d’onde (ex : les LEDS éclairent
+   bleus). Il existe de l’éclairage plus polyvalent mais qui va associer
+   différents types de LED en réalité.
+
+   definition spectre lumineux definition spectre lumineux
+
+   Logo Logo
+
+   18, rue des rosiéristes
+   69410 Champagne au Mont d'Or
+   T. 04.81.65.01.01
+     * ENTREPRISE
+          + Partenaires
+          + Prestations
+          + Politique RSE
+     * ACTIVITÉS
+          + Eclairage Naturel
+          + Ventilation Naturelle
+          + Matériaux Naturels de Construction
+     * INFORMATIONS
+          + Actualités
+          + Blog
+          + Réalisation
+          + F.A.Q
+          + Documentation
+          + Espace presse
+          + RGPD
+     * CONTACT
+          + Demande d’information
+          + Obtenir un devis
+          + Recrutement
+
+   Logo Logo Logo Logo Logo Logo Logo Logo
+
+   Gérer le consentement aux cookies
+   Nous utilisons des cookies pour optimiser notre site web et notre
+   service.
+   Fonctionnelle [ ] Fonctionnelle Toujours activé
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Préférence[ ]_] Préférences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistiques [ ] Statistiques
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+   Gérer les options Gérer les services Gérer {vendor_count} fournisseurs
+   En savoir plus sur ces finalités
+   (BUTTON) Accepter tous les cookies (BUTTON) Refuser (BUTTON) Voir les
+   préférences (BUTTON) Enregistrer les préférences Voir les préférences
+   {title} {title} {title}
+
+   (BUTTON) Manage consent
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TB4QJM

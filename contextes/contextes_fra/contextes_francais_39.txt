@@ -1,0 +1,114 @@
+* Qu'est-ce que la lumière ?
+----------------------------
+Qu'est-ce que la lumière ?
+----------------------------
+La question de savoir si la lumière est une onde ou une particule a
+----------------------------
+l'affirmation de Newton selon laquelle la lumière est une particule et
+----------------------------
+de l'affirmation de Huygens selon laquelle la lumière est une onde. En
+----------------------------
+physique moderne, il est maintenant reconnu que, bien que la lumière
+----------------------------
+décrire la dualité de la lumière et la relation entre la matière et
+----------------------------
+l'absorbance de la lumière.
+----------------------------
+1. La Dualité de la Lumière
+----------------------------
+(1) Propriétés Ondulatoires de la Lumière
+----------------------------
+Fig.1 Champ Électrique et Champ Magnétique dans la Lumière/Fig.2
+----------------------------
+Bien que la lumière soit généralement considérée comme une onde,
+----------------------------
+lumière est composée d'un champ électrique et d'un champ magnétique qui
+----------------------------
+Lorsqu'on manipule la lumière, on rencontre des phénomènes qui sont
+----------------------------
+lumière et a conclu que la lumière était une onde est bien connue.
+----------------------------
+Comme montré dans la Fig. 2, la lumière monochromatique émise par une
+----------------------------
+démontre la nature ondulatoire de la lumière de manière intuitive.
+----------------------------
+UV-VIS crée de la lumière monochromatique en utilisant la nature
+----------------------------
+ondulatoire de la lumière qui se diffracte et provoque l'interférence.
+----------------------------
+La lumière est composée de certains types d'ondes électromagnétiques.
+----------------------------
+lumière" fait généralement référence aux ondes électromagnétiques dans
+----------------------------
+lumière visible. La lumière avec des longueurs d'onde dans une plage
+----------------------------
+lumière visible", et c'est la
+----------------------------
+lumière que nous, humains, pouvons voir à l'œil nu.
+----------------------------
+Par exemple, la lumière avec une longueur d'onde de 470 nm est bleue,
+----------------------------
+la lumière avec une longueur d'onde de 540 nm est verte, et
+----------------------------
+la lumière
+----------------------------
+avec une longueur d'onde de 650 nm est rouge. La lumière visible
+----------------------------
+pourrait être décrite comme le type de lumière dont nous, humains,
+----------------------------
+Fig.3 Classification de la Lumière Selon la Longueur d'Onde
+----------------------------
+Fig. 3 Classification de la Lumière Selon la Longueur d'Onde
+----------------------------
+(2) Propriétés de Particule de la Lumière
+----------------------------
+Ensuite, examinons le comportement de type particule de la lumière.
+----------------------------
+considérant la lumière comme une onde, mais ils pouvaient être
+----------------------------
+sur les aspects de type particule de la lumière, le terme "photon" est
+----------------------------
+lorsque la lumière la frappe. Les électrons émis sont appelés
+----------------------------
+"photoélectrons". Même si aucun électron n'est émis lorsque la lumière
+----------------------------
+lumière de longueur d'onde plus courte frappe la surface. Si la
+----------------------------
+longueur d'onde de la lumière frappant la surface est diminuée, le
+----------------------------
+augmente. Si la lumière frappant la surface est intensifiée, le nombre
+----------------------------
+Ces phénomènes ne peuvent pas être expliqués en considérant la lumière
+----------------------------
+lumière en utilisant l'effet photoélectrique.
+----------------------------
+Nous avons examiné la dualité de la lumière, avec son mélange de
+----------------------------
+lumière ait ces deux caractéristiques opposées peut sembler étrange,
+----------------------------
+mais c'est ainsi que la lumière est modélisée en physique moderne.
+----------------------------
+2. Absorption de la Lumière par la Matière
+----------------------------
+en l'irradiant avec de la lumière. Avec un spectrophotomètre UV-VIS,
+----------------------------
+l'irradiation d'une substance avec de la lumière ultraviolette et
+----------------------------
+Considérons l'absorption de la lumière par la matière. Cela est
+----------------------------
+Pour qu'un électron passe de E[0] à E[1], la lumière avec une énergie
+----------------------------
+"l'absorption" de la lumière. Les électrons ont des niveaux d'énergie
+----------------------------
+particuliers, et les rayons de lumière ultraviolette et visible ont
+----------------------------
+chaleur, l'énergie est libérée sous forme de lumière. Le phénomène
+----------------------------
+d'émission de lumière est bien connu sous le nom de fluorescence ou
+----------------------------
+leur couleur. Comme montré dans la Fig. 6, principalement la lumière
+----------------------------
+nm est absorbée. Parce que la lumière visible qui atteint l'œil de
+----------------------------
+Dans cet article, nous avons examiné les propriétés de la lumière et la
+----------------------------

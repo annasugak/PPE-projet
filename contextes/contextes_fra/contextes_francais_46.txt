@@ -1,0 +1,66 @@
+électromagnétiques, y compris la lumière visible.
+----------------------------
+• Expliquer le phénomène de dispersion de la lumière, utilisé par un
+----------------------------
+prisme optique pour décomposer la lumière.
+----------------------------
+• Caractériser alors une lumière polychromatique et monochromatique.
+----------------------------
+1. La lumière
+----------------------------
+lumière, se propagent à la célérité . D'autre part, le lien
+----------------------------
+Dans l'air, la célérité de la lumière est proche de c. Par contre, dans
+----------------------------
+de la lumière est plus faible que dans le vide. Elle est donnée
+----------------------------
+lumière visible, dont les fréquences sont comprises entre 3,8 .10^14 Hz
+----------------------------
+2. La lumière polychromatique avec l'expérience de Newton
+----------------------------
+a. Le phénomène de dispersion de la lumière par un prisme
+----------------------------
+ainsi de décomposer la lumière en fonction de la fréquence/longueur
+----------------------------
+b. Dispersion de la lumière blanche par un prisme
+----------------------------
+Newton a constaté qu’en éclairant un prisme avec de la lumière blanche
+----------------------------
+qu’elle se décomposait en lumières de toutes les couleurs de
+----------------------------
+l’arc-en-ciel. Il en a déduit que la lumière blanche est composée de
+----------------------------
+au rouge (λ = 800 nm). La lumière blanche, émise par le Soleil ou une
+----------------------------
+infinité). En conséquence, on dit que la lumière blanche est
+----------------------------
+Comme vu en 1^ère S, on peut obtenir de la lumière blanche avec trois
+----------------------------
+vert et du bleu (synthèse trichromatique additive). Une lumière blanche
+----------------------------
+spectre. Un réseau de diffraction peut également décomposer la lumière,
+----------------------------
+Il existe aussi des lumières polychromatiques qui ne sont constituées
+----------------------------
+correspondent aux longueurs d’onde constituant la lumière étudiée.
+----------------------------
+Une source lumineuse qui émet une lumière composée d'une unique
+----------------------------
+Dans l'expérience du prisme, lorsqu’on remplace la source de lumière
+----------------------------
+Le laser génère une lumière monochromatique qui est constituée d'une
+----------------------------
+Ainsi, la lumière du laser utilisée pour notre expérience est
+----------------------------
+Dans le spectre électromagnétique, la lumière visible se situe dans un
+----------------------------
+Pour établir le spectre d’une lumière, on peut faire appel à un prisme.
+----------------------------
+Via le phénomène de dispersion de la lumière, on décompose ainsi la
+----------------------------
+lumière pour obtenir les différentes radiations qui la composent.
+----------------------------
+Une lumière monochromatique ne contient qu’une seule radiation de
+----------------------------
+Une lumière polychromatique est constituée plusieurs fréquences. Il
+----------------------------

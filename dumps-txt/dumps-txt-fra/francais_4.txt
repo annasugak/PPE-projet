@@ -1,0 +1,240 @@
+   Sunology
+   (BUTTON) Solaire Plug & Play
+   PLAY2 La Station Toute-en-1
+   Découvrir PLAYMax Kit panneau solaire plug and play avec batterie
+   intégrée
+   Découvrir
+   (BUTTON) Installateur Solaire
+   HOME L’installateur solaire nouvelle génération
+   Découvrir
+   (BUTTON) Batterie
+   STOREY La Batterie Parfaite
+   Découvrir VAULT La 1ère batterie Tout-terrain
+   Découvrir
+   (BUTTON) Pilotage
+   STREAM Le copilote de votre énergie
+   Découvrir
+   (BUTTON) Communauté
+   Entrer au S-Club
+   Découvrir Devenir Conseiller Sunology
+   Découvrir
+   (BUTTON) Ressources
+
+   Ressources
+     * Notre mission
+       Découvrir
+     * Assistance & FAQ
+       Découvrir
+     * Guide Ultime
+       Découvrir
+     * Ebook
+       Découvrir
+     * Wiki de l'énergie
+       Découvrir
+     * Actualité
+       Découvrir
+
+   Bienvenue au S-Club
+   (BUTTON) (BUTTON)
+   (BUTTON)
+     * (BUTTON) Solaire Plug & Play
+          + PLAY2 La Station Toute-en-1
+          + PLAYMax Kit panneau solaire plug and play avec batterie
+            intégrée
+            À découvrir aussi :
+            Accessoires Promotions
+     * (BUTTON) Installateur Solaire
+          + HOME L’installateur solaire nouvelle génération
+     * (BUTTON) Batterie
+          + STOREY La Batterie Parfaite
+          + VAULT La 1ère batterie Tout-terrain
+     * (BUTTON) Pilotage
+          + STREAM Le copilote de votre énergie
+     * (BUTTON) Communauté
+          + Entrer au S-Club
+          + Devenir Conseiller Sunology
+     * (BUTTON) Ressources
+          + Notre mission
+          + Assistance & FAQ
+          + Guide Ultime
+          + Ebook
+          + Wiki de l'énergie
+          + Actualité
+     * Bienvenue au S-Club
+
+   02 52 33 14 33 Se connecter (BUTTON) Voir mon panier
+   (BUTTON) Retour
+   (BUTTON) Fermer
+
+   (BUTTON)
+
+   Bienvenue
+   Rénitialiser le mot de passe
+
+   Retrouvez ici vos commandes, vos factures, votre suivi de livraison, et
+   toutes vos intormations personnelles.
+   E-mail ____________________
+   Mot de passe ____________________
+
+   Vous n'avez pas de compte?
+   (BUTTON) Enregistrez-vous.
+   (BUTTON) Se connecter
+   E-mail ____________________
+   (BUTTON) Rénitialiser
+   (BUTTON) Mot de passe oublié?
+
+   (BUTTON) Enregistrez-vous ou  (BUTTON) Connectez-vous
+
+   Créez votre compte
+   Prénom_____________________
+   Nom ____________________
+   E-mail ____________________
+   Mot de passe ____________________
+
+   Déja client?
+   (BUTTON) Connectez-vous.
+   (BUTTON) Créez mon compte
+
+   Votre compte a été créé
+
+   Vous pouvez désormais vous connectez à votre espace client.
+   (BUTTON) Connectez-vous
+
+   Rénitialisez votre mot de passe
+   Mot de passe ____________________
+   Confirmer le mot de passe ____________________
+   (BUTTON) Modifier le mot de passe
+
+   Votre panier
+   (BUTTON) (BUTTON)
+   Total
+   (BUTTON) Un code de réduction?
+   (BUTTON)
+   ____________________ (BUTTON)
+   0€ 0€ 0€
+   0€ économisés
+   (BUTTON)
+
+   Que contient ma station solaire Sunology  ?
+   (BUTTON)
+
+   Retour au Sunnypedia
+
+Luminosité
+
+   La quantité de lumière perçue par un observateur humain. La luminance
+   est l'intensité lumineuse d'une source lumineuse dans une direction
+   donnée. Luminance et luminosité ne sont pas la même chose, c'est
+   pourquoi les photographes utilisent des posemètres. L'œil humain étant
+   très adaptable, nous sommes très mauvais pour juger des niveaux absolus
+   de lumière.‍
+
+Rôle de la luminosité dans l'énergie solaire
+
+   Dans le contexte de l'énergie solaire, la luminosité perçue n'est pas
+   aussi importante que l'irradiance, qui est la mesure de la puissance
+   solaire reçue par une surface, généralement exprimée en watts par mètre
+   carré (W/m²). Cependant, la luminosité joue un rôle indirect en
+   influençant la perception de la performance des panneaux solairespar
+   les utilisateurs. Par exemple, même par temps nuageux, lorsqu'il semble
+   moins lumineux, les panneaux solaires continuent de produire de
+   l'électricité, bien que leur rendement soit inférieur à celui obtenu
+   sous un soleil direct. C'est pourquoi comprendre la distinction entre
+   luminosité perçue et irradiance réelle est crucial pour bien évaluer
+   l'efficacité des systèmes solaires dans différentes conditions
+   météorologiques.
+
+Luminosité et performance des systèmes solaires : les défis de la perception
+
+   L'une des difficultés liées à la luminosité dans les systèmes solaires
+   réside dans la perception erronée des conditions d'ensoleillement. Par
+   exemple, un jour partiellement nuageux peut sembler beaucoup moins
+   lumineux, mais les panneaux solaires peuvent encore capter une quantité
+   significative de lumière diffuse, générant ainsi de l'électricité. Cela
+   peut conduire les utilisateurs à sous-estimer la performance de leurs
+   panneaux solaires. Pour remédier à cela, des outils tels que les
+   monitorings solaires sont utilisés pour fournir des données précises
+   sur la production d'énergie, indépendamment de la perception humaine de
+   la luminosité.
+
+Optimisation de l'énergie solaire en fonction de la luminosité
+
+   Bien que la luminosité perçue par l'œil humain ne soit pas un
+   indicateur direct de la production d'énergie solaire, elle peut être
+   prise en compte lors de la conception et de l'installation de systèmes
+   solaires. Par exemple, les panneaux solaires peuvent être orientés et
+   inclinés de manière à maximiser leur exposition à la lumière directe du
+   soleil, ce qui est essentiel pour optimiser leur performance. De plus,
+   les technologies comme les suiveurs solaires ajustent l'orientation des
+   panneaux tout au long de la journée pour capter le maximum de lumière,
+   y compris dans des conditions de luminosité variable. Ces stratégies
+   permettent d'améliorer le rendement des installations solaires, en
+   tirant parti de toutes les conditions lumineuses, même lorsque la
+   luminosité perçue est faible.
+
+   En résumé, bien que la luminosité soit une perception subjective, elle
+   influence indirectement la manière dont les systèmes solaires sont
+   conçus et évalués. Comprendre la différence entre la luminosité perçue
+   et l'irradiance réelle est essentiel pour maximiser l'efficacité des
+   panneaux solaires et pour faire des choix éclairés concernant
+   l'installation et l'utilisation de l'énergie solaire.
+
+   ‍
+
+Captez la moindre étincelle.
+
+   Pour tout connaître de l'actualité du solaire et profiter de nos
+   nouveautés, inscrivez-vous sans tarder.
+   ____________________ (BUTTON) Go !
+   [ ] En renseignant mon e-mail, j'accepte la politique de protection des
+   données.
+
+   Branchez-vous sur la ligne.
+
+   Pour tout connaître de l’actualité du solaire et profiter de nos
+   nouveautés.
+   ____________________
+   [ ] J'accepte la politique de confidentialité. (BUTTON) Je m'inscris
+
+   Produits
+     * PLAY2
+     * PLAY Max
+     * HOME
+     * STOREY
+     * VAULT
+     * STREAM
+     * ACCESSOIRES
+     * BON PLANS
+
+   Besoin d'aide ?
+     * Mon compte
+     * Question fréquentes
+     * Paiement
+     * Livraisons et retours
+     * Tout sur le solaire
+
+   Communauté
+     * Entrer au S-Club
+     * Devenir Conseiller Sunology
+     * Créateurs de contenus
+
+   À propos
+     * Notre mission
+     * Rejoindre Sunology
+     * Espace presse
+
+   (BUTTON) France fr
+     * France
+       fr
+
+   Conditions générales de vente ∙ Conditions générales d'utilisation ∙
+   Conditions de garantie produits ∙ Conditions générales Sunology HOME ∙
+   Politique de confidentialité ∙ Politique livraison ∙ Mentions légales ∙
+   Paiement et remboursement ∙ Installation panneaux solaires ∙ © 2025
+   Sunology
+   (BUTTON)
+   [French_Flag.svg?crop=center&amp;height=24&amp;v=1742477202&amp;width=2
+   4]
+   (BUTTON)
+
+   (BUTTON)

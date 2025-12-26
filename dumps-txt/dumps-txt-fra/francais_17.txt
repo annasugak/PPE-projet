@@ -1,0 +1,218 @@
+   Colorful-flowers-fresh-paint-and-happy-people
+
+   Datacolor
+
+Les bases de la couleur
+
+Explorer la complexité de la couleur.
+
+   Voir où cela commence
+
+Qu’est-ce que la lumière ?
+
+La lumière est une forme d’énergie qui se propage sous forme d’ondes
+électromagnétiques.
+
+   Bien qu’il existe de nombreuses formes d’ondes dans le spectre
+   électromagnétique (rayons X, ondes radio, micro-ondes, etc.), la
+   lumière est la seule forme de rayonnement électromagnétique visible par
+   l’œil humain. - la lumière est la seule forme de rayonnement
+   électromagnétique visible par l’œil humain.
+
+   La lumière est produite par diverses sources, notamment le soleil, les
+   ampoules électriques et les écrans électroniques, et joue un rôle
+   fondamental dans notre perception du monde qui nous entoure.
+
+   Nos yeux ne font pas la différence entre les différentes longueurs
+   d’onde, mais possèdent des récepteurs qui réagissent à la lumière
+   rouge, verte et bleue.
+
+   light-travels-in-electromagnetic-waves
+
+Introduction
+
+Qu’est-ce que la lumière ?
+
+La lumière bleue a une longueur d’onde plus courte
+
+La lumière verte a une longueur d’onde plus grande
+
+La lumière rouge a la plus grande longueur d’onde pour les couleurs visibles
+
+   wavelengths-of-light-in-different-sizes
+     * Bleu
+     * Vert
+     * Rouge
+
+Voir comment ça marche
+
+Explorer le spectre des couleurs visibles
+
+   La lumière peut se comporter comme une onde, avec des propriétés telles
+   que la longueur d’onde, la fréquence et l’amplitude, ou comme une
+   particule, avec des propriétés telles que l’énergie et la quantité de
+   mouvement.
+
+   La lumière est caractérisée par sa longueur d’onde, qui correspond aux
+   crêtes et aux creux successifs d’une onde lumineuse.
+
+   La longueur d’onde de la lumière visible par l’homme va de 400
+   nanomètres (nm) pour la lumière violette à 700 nm pour la lumière
+   rouge.
+
+   Voyez comment les différentes longueurs d’onde correspondent aux
+   différentes couleurs perçues.
+
+Comment percevons-nous les couleurs ?
+
+La couleur est une lumière réfléchie
+
+   La lumière est le stimulus de la perception des couleurs. Nous pouvons
+   percevoir la couleur d’un objet grâce à la réflexion de la lumière.
+
+   Lorsque la lumière frappe un objet, une partie de la lumière est
+   absorbée tandis qu’une autre est réfléchie.
+
+   Lorsque nous voyons une pomme rouge, par exemple, la pomme reflète plus
+   de grandes longueurs d’onde que de longueurs d’onde moyennes ou
+   courtes. Nos yeux envoient un signal à notre cerveau qui interprète la
+   distribution des longueurs d’onde du spectre visible et nous fait
+   percevoir le rouge.
+
+   Puisque nous voyons de la lumière rouge réfléchie par la pomme, la
+   source lumineuse elle-même doit contenir de la lumière de longueur
+   d’onde rouge. Sans longueur d’onde de lumière rouge dans la source
+   lumineuse, la pomme ne paraîtrait pas rouge.
+
+   woman-with-glasses-observing-a-computer-screen
+
+Perception des couleurs
+
+Comment percevons-nous les couleurs ?
+
+   apple-reflecting-different-wavelengths-of-light
+   apple-reflecting-different-wavelengths-of-light
+   apple-reflecting-different-wavelengths-of-light
+   apple-reflecting-different-wavelengths-of-light
+     * Spectre complet
+     * Pas de rouge
+     * Pas de bleu
+     * Pas de vert
+
+Voir comment ça marche
+
+Source lumineuse, objet, observateur
+
+   Trois éléments sont nécessaires à la perception des couleurs : une
+   source lumineuse, un objet et un observateur.
+
+   Comme le dit l’adage : „Si un arbre tombe dans la forêt et que personne
+   n’est là pour l’entendre, est-ce qu’il fait un bruit ?“. …Si la lumière
+   frappe un objet mais que personne n’est là pour l’observer, y a-t-il
+   une couleur ?
+
+Comprendre les couleurs
+
+Mélanger les couleurs
+
+   La couleur peut être créée en combinant ou en supprimant de la lumière.
+
+   Le mélange additif et le mélange soustractif des couleurs sont deux
+   façons différentes de combiner les couleurs pour en créer de nouvelles.
+
+   Le mélange additif des couleurs est utilisé lorsque l’on travaille avec
+   la lumière. Si des lumières de couleurs différentes sont combinées,
+   elles créent une nouvelle couleur.
+
+   Par exemple, lorsque des lumières rouge, verte et bleue sont mélangées
+   en quantités égales, elles créent de la lumière blanche. En ajoutant
+   moins de couleurs ou en réduisant l’intensité des couleurs combinées,
+   on obtient des nuances et des teintes différentes. C’est ainsi que les
+   écrans d’ordinateur, les téléviseurs et les autres écrans électroniques
+   créent des couleurs.
+
+   Le mélange soustractif des couleurs est utilisé lorsque l’on travaille
+   avec des pigments, des encres ou des teintures. Lorsque différents
+   pigments sont mélangés, ils soustraient des longueurs d’onde de la
+   lumière et le résultat est une nouvelle couleur qui est une combinaison
+   des longueurs d’onde restantes.
+
+   Par exemple, lorsque des pigments cyan, magenta et jaune sont mélangés
+   en quantités égales, ils créent le noir. En ajoutant moins de couleurs
+   ou en réduisant la quantité de couleurs combinées, on obtient des
+   nuances et des teintes différentes. C’est ainsi que les imprimantes
+   créent des couleurs.
+
+   palette-knife-mixing-yellow-and-red-paint
+
+Explorer le code des couleurs
+
+Comprendre les couleurs
+
+   demonstrating-additive-color-model-versus-subtractive-color-model
+   demonstrating-additive-color-model-versus-subtractive-color-model
+     * Additif
+     * Soustractif
+
+Voir comment ça marche
+
+Mélange des couleurs
+
+   Le mélange additif des couleurs consiste à ajouter de la lumière pour
+   créer de nouvelles couleurs.
+
+   Le mélange soustractif des couleurs consiste à soustraire de la lumière
+   en utilisant des pigments ou des colorants.
+
+Comment voyons-nous les couleurs ?
+
+Les bâtonnets et les cônes
+
+   Nous percevons les couleurs grâce à un processus complexe qui implique
+   nos yeux, notre cerveau et le milieu environnant. Lorsque la lumière
+   pénètre dans nos yeux, elle est focalisée par le cristallin sur une
+   couche de cellules sensibles à la lumière située à l’arrière de l’œil,
+   appelée rétine.
+
+   La rétine contient deux types de cellules responsables de la vision des
+   couleurs : les bâtonnets et les cônes.
+
+   Woman-illuminated-by-colorful-light-across-her-face
+
+La biologie de la couleur
+
+Comment voyons-nous les couleurs ?
+
+   Rods-in-eyes-detect-light-cones-detect-color
+   Rods-in-eyes-detect-light-cones-detect-color
+     * Bâtonnets
+     * Cônes
+
+Voir comment ça marche
+
+Les bâtonnets détectent la lumière dans des conditions de faible luminosité.
+Les cônes détectent les couleurs dans une lumière plus intense.
+
+   Il existe trois types de cônes, chacun étant sensible à une gamme
+   différente de longueurs d’onde de la lumière : les courtes longueurs
+   d’onde (bleu), les longueurs d’onde moyennes (vert) et les grandes
+   longueurs d’onde (rouge).
+
+   Lorsque la lumière pénètre dans l’œil et frappe ces cônes, ceux-ci
+   envoient des signaux électriques au cerveau par l’intermédiaire du nerf
+   optique, puis le cerveau traite ces signaux de différentes manières
+   pour créer la perception de différentes couleurs.
+
+   Par exemple, lorsque les signaux des cônes rouges et verts sont
+   combinés, le cerveau perçoit le jaune. De même, lorsque les signaux des
+   trois types de cônes sont combinés, le cerveau perçoit le blanc.
+
+LES BASES DE LA COULEUR : DEUXIÈME PARTIE
+
+Pourquoi ne parvenons-nous pas à nous mettre d’accord sur les couleurs ?
+
+   Découvrez pourquoi les couleurs sont perçues de manière si différente
+   selon les personnes.
+   Voir pourquoi
+
+   Arrangement-of-bottles-changing-color

@@ -1,0 +1,594 @@
+   #RSS Techno-Science.net RSS Techno-Science.net - Aéronautique RSS
+   Techno-Science.net - Transports RSS Techno-Science.net - Spatial RSS
+   Techno-Science.net - Energie RSS Techno-Science.net - Numérique RSS
+   Techno-Science.net - Architecture RSS Techno-Science.net -
+   Mathématiques RSS Techno-Science.net - Physique RSS Techno-Science.net
+   - Astrophysique RSS Techno-Science.net - Astronomie RSS
+   Techno-Science.net - Vie et Terre RSS Techno-Science.net - Archéologie
+   RSS Techno-Science.net - Autres Sujets
+
+   Techno-Science.net
+   Vendredi 19 Décembre 2025
+     * Actualités ▼
+          + Actualités
+          +   A la Une
+          +   Archives
+          + Autres
+          +   Autres Sujets
+          + Technologies
+          +   Aéronautique
+          +   Transports
+          +   Spatial
+          +   Energie
+          +   Numérique
+          +   Architecture
+          + Sciences
+          +   Mathématiques
+          +   Physique
+          +   Astrophysique
+          +   Astronomie
+          +   Vie et Terre
+          +   Archéologie
+       ✕
+     * Encyclopédie
+       ✕
+     * Forum 💬
+       ✕
+
+   Rechercher 🔍
+   Les bloqueurs de pubs mettent en péril la gratuité de ce site.
+   Autorisez les pubs sur Techno-Science.net pour nous soutenir.
+   ▶ Poursuivre quand même la lecture ◀
+   Physique
+
+Lumière - Définition
+
+   Source: Wikipédia sous licence CC-BY-SA 3.0.
+   La liste des auteurs est disponible ici.
+   [INS: :INS]
+
+   La lumière désigne les ondes électromagnétiques visibles par l'œil
+   humain, c'est-à-dire comprises dans des longueurs d'onde de 0,38 à 0,78
+   micron (380 nm à 780 nm ; le symbole nm désigne le nanomètre). La
+   lumière est intimement liée à la notion de couleur. C'est Newton qui
+   propose pour la première fois au XVII^e siècle un cercle des couleurs
+   chromatiques basé sur la décomposition de la lumière blanche.
+
+   Outre la lumière visible, par extension, on appelle parfois " lumière "
+   d'autres ondes électromagnétiques, telles que celles situées dans les
+   domaines infrarouge et ultraviolet.
+
+   Même si certaines formes de vies, au fond des océans peuvent s'en
+   passer, la lumière du soleil est la première source d'énergie des
+   écosystèmes terrestres, via la photosynthèse. Elle contrôle donc les
+   cycles écogéobiologiques et le stockage fossile du carbone tels qu'ils
+   existent de puis 3,7 milliards d'années. Elle joue aussi un rôle
+   important en entretenant la couche d'ozone et en limitant la
+   pullulation des microbes sensibles aux ultra-violets et/ou �
+   l'infrarouge. Cette sensibilité est utilisée par certaines techniques
+   de stérilisation^[1]. Elle contribue à certaines formes de pollution
+   dites " photochimiques " (ozone troposphérique, oxydes d'azote) et
+   inversement à dégrader (photodégradation) certains polluants de l'air,
+   du sol superficiel ou de l'eau (certains pesticides présents dans l'air
+   par exemple. C'est encore la lumière qui via la durée du jour corrige
+   les horloges biologiques animales, par la production de mélatonine qui
+   est une hormone uniquement produite la nuit, chez la plupart des
+   animaux. Chez les plantes, la durée du jour contrôle aussi, avec la
+   température, l'apparition des bourgeons, feuilles, fleurs, ou
+   l'ouverture ou la fermeture de fleurs. C'est pourquoi la présence de
+   lumière artificielle dans l'Environnement nocturne peut altérer le
+   comportement ou les fonctions de certaines espèces ou des écosystèmes ;
+   phénomène généralement décrit sous le nom de " Pollution lumineuse "
+
+Historique : la lumière et les observations en astronomie
+
+   Les observations astronomiques ont été réalisées depuis que l'homme
+   existe : on aperçut des lumières dans le ciel : le Soleil, la Lune, des
+   étoiles au firmament, des étoiles filantes… et l'on se rendit compte
+   que cela gouvernait le cycle des journées (alternance jour / nuit), et
+   le cycle des saisons (durée du jour tout au long de l'année). Le feu
+   produisait également de la lumière.
+
+   Dans l'Antiquité, on observa les cycles astronomiques, et l'on comprit
+   les cycles provenant de la Lune (semaine). Dans la Grèce Antique, les
+   philosophes de l'École de Milet croyaient encore que la Terre était
+   plate, mais à partir de Parménide , philosophe présocratique, on admit
+   que la Terre était sphérique. Cependant, dans certains livres
+   d'Aristote, que l'on appela ultérieurement, au XIII^e siècle environ,
+   métaphysique (méta = au-delà, donc ce qui ce qui est au-delà de la
+   physis, qui signifie nature en grec ancien), les théories astronomiques
+   partageaient le monde en un monde sublunaire, imparfait, et un monde
+   supralunaire supposé être parfait. Dans cette représentation, le feu
+   (Soleil) était l'un des quatre éléments fondamentaux, puisque l'on se
+   rendit compte que la combustion produisait une lumière comparable au
+   phénomène observé en provenance du Soleil ou des étoiles. La Terre
+   était au centre de l'univers (géocentrisme), représentation que reprit
+   Ptolémée au II^e siècle.
+
+   C'est ainsi que, dans la Grèce antique, l'une des civilisations les
+   plus évoluées de l'Antiquité, on se représentait le monde. Il faut
+   évidemment rappeler que les Grecs de l'Antiquité, pas plus Platon
+   qu'Aristote qui lui était postérieur, puisqu'il fut élève de Platon, ne
+   disposaient des apports techniques du XVII^e siècle, et a fortiori de
+   notre époque. Seul l'astronome Aristarque de Samos, un peu postérieur �
+   nos deux grands philosophes grecs, comprit que la Terre tournait autour
+   du Soleil (héliocentrisme).
+
+   L'astronomie moderne apparaît lorsque Galilée, après l'invention de la
+   lunette d'approche (probablement au début du XVII^e siècle par les
+   Hollandais), en améliore les performances pour l'utiliser en astronomie
+   (voir lunette astronomique). Il découvre des phénomènes qui n'étaient
+   pas prévus par les théories existantes (taches solaires, montagnes sur
+   la Lune, anneaux de Saturne, ...). Assez rapidement, on développe des
+   télescopes, qui confirment les mouvement respectifs de la Terre et du
+   Soleil, qui ne pouvaient s'expliquer, en grande partie, qu'avec des
+   formulations mathématiques :
+     * trajectoire : lois de Kepler,
+     * mouvement : Galilée et le mouvement uniformément accéléré,
+     * force : Newton et la force de gravitation.
+
+   Ces théories héliocentriques bouleversent la représentation du monde au
+   XVIII^e siècle, car les notions de mouvement et de force étaient
+   habituellement auparavant employées avec un sens éthique.
+
+   En 1670, Ole Christensen Rømer mesure indirectement la vitesse de la
+   lumière en observant les décalages de l'orbite de Io par rapport aux
+   prévisions. Plus tard en 1849, Hippolyte Fizeau mesure directement la
+   vitesse de la lumière avec un faisceau réfléchi par une roue dentée
+   réfléchissante.
+
+   Comportement ondulatoire de la lumière
+   En 1801, Thomas Young expérimente la diffraction et les interférences
+   de la lumière, mais il faudra attendre près d'un siècle pour que James
+   Clerk Maxwell explique ce phénomène : il publie en 1873 un traité sur
+   les ondes électromagnétiques, définissant la lumière comme une onde qui
+   se propage sous la forme d'un rayonnement, le spectre de ce rayonnement
+   n'étant qu'une partie de l'ensemble du rayonnement électromagnétique,
+   beaucoup plus large : infrarouge, ultraviolet, ondes radio, rayons X...
+   les équations de Maxwell définissant le rayonnement électromagnétique
+   auront de nombreuses applications dès le XIX^e siècle, et encore plus
+   au XX^e siècle (radio, télévision, informatique, satellites...).
+
+   La photographie permet aussi de fixer sur le papier les images obtenues
+   par les télescopes, ce qui en rend la diffusion beaucoup plus aisée.
+
+   Comportement corpusculaire de la matière
+   En 1887, Heinrich Rudolf Hertz décrit l'effet photoélectrique. En 1900,
+   Max Planck énonce la théorie du corps noir, puis Albert Einstein en
+   1905 pousse plus loin l'étude de l'effet photoélectrique et démontre
+   que la lumière à un comportement corpusculaire. Il postule alors que la
+   lumière est composée de photons.
+
+   La découverte de cette dualité onde-corpuscule de la lumière vaudra son
+   Prix Nobel à Albert Einstein. C'est un des premiers pas de la science
+   moderne dans le domaine de la mécanique quantique. En 1927, De Broglie
+   le postule également pour des particules matérielles.
+
+   Quelques années plus tard, la Théorie quantique des champs appronfondit
+   le concept de photon.
+
+   Au XX^e siècle, on applique les théories électromagnétiques �
+   l'observation astronomique : après la Seconde Guerre mondiale, on met
+   au point des télescopes qui recueillent les ondes électromagnétiques
+   dans le spectre radio, les radiotélescopes. Cela présentait l'avantage
+   de permettre de découvrir de nouveaux objets célestes. Ainsi naquit la
+   radioastronomie. On emploie aussi maintenant des télescopes spatiaux
+   pour éviter la pollution atmosphérique.
+
+   De nos jours, les astronomes font moins d'" observations " à l'œil nu.
+   Les astronomes amateurs continuent néanmoins d'observer le ciel avec
+   des lunettes astronomiques, qui sont dans leur principe, équivalentes �
+   celle qu'employa Galilée à partir de 1609.
+
+Théories
+
+   La lumière, comme tout phénomène de déplacement, peut se concevoir
+   comme une onde ou comme un flux de particules (appelées en l'occurrence
+   photons).
+
+   Les lois de Maxwell, ou à une échelle plus humaine les lois de
+   l'optique géométrique, décrivent bien le comportement de ces ondes.
+   Cette description classique est tout à fait valide et très utilisée au
+   sein de la communauté scientifique. Cependant, elle n'explique pas la
+   quantification de l'énergie transportée par le rayonnement, phénomène
+   observé et expliqué par Albert Einstein dès 1913 en postulant
+   l'existence des photons.
+
+   Toutefois, la physique moderne considère que chacun de ces photons peut
+   lui-même être considéré comme une onde (ce qu'on appelle la dualité
+   onde-particule ou onde-corpuscule en mécanique quantique).
+     * Photons
+     * Perception des couleurs
+
+Vitesse
+
+   La vitesse de la lumière dans le vide, c (comme célérité), est une
+   constante de la physique. C'est la vitesse maximale permise pour tout
+   déplacement d'information ou d'un objet matériel par la théorie de la
+   relativité. Cette propriété a été induite de l'expérience
+   d'interférométrie de Michelson et Morley et a été clairement énoncée
+   par Albert Einstein en 1905.
+
+   De ce fait, la vitesse de la lumière est exacte, car elle ne dépend pas
+   d'une mesure (imprécise et susceptible de changement avec des progrès
+   de mesure). D'autres unités sont définies à partir de la vitesse de la
+   lumière (cf. infra). Ainsi, la vitesse de la lumière dans le vide est
+   de 299 792 458 m/s.
+
+Addition des vitesses et célérité
+
+   La loi d'addition des vitesses v' = V+v est à peu près vraie pour des
+   vitesses faibles par rapport à la vitesse de la lumière.
+
+          Du point de vue de la physique classique, un voyageur marchant
+          dans un train a, par rapport au sol, une vitesse égale à celle
+          du train plus (vectoriellement) sa propre vitesse de marche dans
+          le train. Et l'on écrit d = (V+v) t = Vt +vt = la distance
+          parcourue par le train + la distance parcourue dans le train =
+          la distance parcourue par le voyageur par rapport au sol dans le
+          temps t qui est classiquement le même dans le train et, ce qui
+          implique la loi classique d'addition des vitesses.
+
+   Ceci n'est qu'une approximation, qui devient de moins en moins précise
+   à mesure que la vitesse v considérée augmente.
+
+   Un photon va à la même vitesse c que ce soit par rapport au sol ou par
+   rapport au train ! La loi V + c = c' est donc fausse dès lors que c =
+   c' pour V différent de zéro. La loi d'addition des vitesses n'est
+   qu'une approximation de la loi dite de transformation sur les vitesses
+   de Lorentz (appelée parfois d'addition des vitesses, ou plus
+   correctement loi de composition des vitesses).
+
+   Ce résultat est l'une des caractéristiques de la relativité
+   restreinte ; la loi de composition des vitesses issue des
+   transformations mathématiques de Lorentz donne à la limite des faibles
+   vitesses (par rapport à la vitesse c) les mêmes résultats que les
+   transformations de Galilée.
+
+Dans les matériaux
+
+   À noter : la vitesse de la lumière n'est pas toujours la même dans tous
+   les milieux et dans toutes les conditions. Par exemple, les écarts de
+   vitesse observés entre deux milieux peuvent être reliés au phénomène de
+   réfraction qui permet le fonctionnement des lentilles.
+
+   Les écarts sont généralement assez faibles, ce qui a permis à beaucoup
+   de gens de parler de vitesse de la lumière au lieu de vitesse de la
+   lumière dans le vide. Cependant, dans certains cas, une onde lumineuse
+   peut être considérablement ralentie. Les physiciens sont parvenus �
+   ralentir la propagation lumineuse jusqu'à quelques mètres par seconde
+   dans des cas extrêmes.
+
+Dans le Système International (SI)
+
+   De nos jours, la plupart des unités du système international sont
+   définies à partir de la célérité de la lumière.
+
+   Une vitesse étant le quotient d'une longueur par une durée, on peut
+   donc définir une distance comme étant le produit d'une durée par une
+   vitesse (en l'occurrence c), ou une durée comme la division d'une
+   distance par c.
+
+   Mesure de temps
+
+   La seconde est définie dans le système international par un phénomène
+   lumineux : c'est la durée de 9 192 631 770 périodes de la radiation
+   correspondant à la transition entre les deux niveaux hyperfins de
+   l'état fondamental de l'atome de césium 133.
+
+   Mesure de distance
+
+     * Le mètre, unité du système international de longueur. De nos jours,
+       il est défini comme la distance parcourue par la lumière en
+       1/299 792 458 de seconde. Il s'agit là d'une définition
+       conventionnelle, car toute évolution dans la définition de la
+       seconde aurait une incidence directe sur la longueur du mètre. Avec
+       la définition actuelle de la seconde, le mètre est donc égal �
+
+          \frac{9\;192\;631\;770}{299\;792\;458} fois la longueur d'onde
+          de la radiation choisie.
+
+   On peut également dire que la vitesse de la lumière dans le vide est
+   précisément 299 792 458 m·s^-1 : il n'y a pas la moindre incertitude
+   sur cette valeur, l'incertitude ne résidant que dans la définition de
+   la seconde.
+     * Le mètre, avec ses sous-multiples ou multiples (millimètre,
+       kilomètre), est très pratique pour mesurer les distances sur la
+       Terre ; par contre pour les astronomes, il est trop court et peu
+       adapté (puisque les astronomes n'observent pratiquement que de la
+       lumière). En effet, la Lune, l'astre le plus proche de nous, est �
+       380 000 000 mètres de nous.
+
+   Le Soleil, l'étoile la plus proche, est à 150 000 000 000 mètres. Ce
+   n'est pas très pratique !!
+
+   Avec le principe décrit précédemment (distance = c x durée), on définit
+   l'année-lumière comme la distance que la lumière parcourt en 1 an.
+   Ainsi le Soleil n'est qu'à 8,32 minutes-lumière de nous ; et la Lune
+   est seulement à un peu plus d'1 seconde-lumière. L'année-lumière vaut
+   environ 10 000 000 000 000 000 de mètres (10 millions de milliards de
+   mètres, soit 10^16 m).
+
+En pratique
+
+Monochromatisme et polychromatisme
+
+   La lumière est constituée d'ondes électromagnétiques. De manière
+   générale, une onde est caractérisée par sa longueur d'onde et sa phase.
+   La longueur d'onde correspond à la couleur de la lumière. Ainsi, une
+   lumière constituée d'ondes de la même longueur d'onde, est dite
+   monochromatique. Si en plus toutes les ondes ont la même phase, alors
+   la lumière est cohérente : c'est ce qui se passe dans un laser.
+
+Mesure
+
+   En matière de mesure de la lumière, il importe de bien définir de quoi
+   on parle
+     * l'unité de flux lumineux est le lumen = candela.stéradian. Une
+       ampoule électrique courante (15 watts basse consommation ou 75
+       watts à incandescence classique) produit environ 1500 lumens.
+     * L'unité internationale d'intensité lumineuse est la candela.
+
+   La mesure de la lumière est compliquée par le fait qu'on s'intéresse,
+   en pratique, à la lumière visible, alors que la perception humaine
+   dépend de la longueur d'onde : Cf. luminance et chrominance.
+
+Lumières célestes
+
+     * Le Soleil et plus généralement les étoiles produisent plus de
+       rayonnement qu'ils n'en reçoivent,
+     * La Lune et plus généralement les petits corps célestes (les
+       planètes et leurs satellites, les astéroïdes, les comètes, etc.),
+       produisent moins de rayonnement qu'ils n'en reçoivent. Certaines
+       planètes géantes (comme Jupiter ou Saturne) produisent un peu plus
+       de rayonnement qu'ils n'en reçoivent, mais pas suffisamment pour
+       être facilement visibles à l'œil nu depuis la terre. Dans les deux
+       cas, ces corps sont lumineux par réflexion de la lumière du Soleil.
+     * Les étoiles filantes sont échauffées par la friction avec l'air et
+       finissent par y brûler. Ce phénomène est source de lumière.
+
+Lumières chimiques
+
+     * Certains organismes vivants:poissons, mollusques, lucioles et vers
+       luisants, sont le siège de réactions chimiques productrices de
+       lumières.
+     * Les chauffages intenses, donc les combustions en général, le feu,
+       les feux-follets, produisent de la lumière :
+
+          liquide : les lampes à huile, à pétrole, ou à gaz,
+          solide : les bougies, chandelle (chandelier), cierge.
+
+Lumières électriques
+
+   Une diode
+   Une diode
+
+   Les lumières électriques sont les sources les plus courantes de lumière
+   aujourd'hui : lampadaires, spots, phares, lampes-torches, etc., elles
+   peuvent utiliser un phénomène de chauffage ou un phénomène quantique.
+
+   L'ampoule électrique (" lampe à incandescence ") a révolutionné la vie
+   quotidienne. La source de lumière provient de l'incandescence d'un
+   filament lumineux. Le tube fluorescent, la diode électroluminescente
+   sont des lumières électriques, ainsi que le tube cathodique qui emploie
+   la technique d'un bombardement d'électrons.
+
+Lumières quantiques
+
+     * la fluorescence, les lasers, les lampes à vapeur de mercure ou de
+       sodium, les plasmas tels que ceux produits par les éclairs dans les
+       orages, produisent de la lumière issue de phénomènes quantiques au
+       cœur des atomes : l'excitation des électrons ("pompage optique"),
+       peut être obtenu par excitation, puis désexcitation de ces
+       électrons, qui en retournant à leur niveau d'énergie habituel,
+       émettent des photons (lumière).
+
+Autres lumières
+
+     * La phosphorescence est une source naturelle de lumière, de faible
+       intensité.
+     * Les étincelles sont le produit d'une intense friction sur certains
+       matériaux.
+     * L'émission de lumière due au frottement, ou triboluminescence,
+       n'est pas d'origine thermique et elle ne se produit qu'avec des
+       isolants électriques.
+     * Certains animaux et champignons sont capables de produire une
+       lumière froide d'origine biochimique: en particulier des animaux
+       nocturnes tels que différentes espèces de lucioles; ou des animaux
+       marins des grandes profondeurs; ainsi que, en surface, certaines
+       espèces de plancton.
+
+Vision humaine
+
+   Voir l'article détaillé : Œil
+
+Phénomènes optiques
+
+     * Diffraction
+     * Diffusion
+     * Interférences
+     * Réflexion
+     * Réfraction
+     * Lentille gravitationnelle
+
+Symbolisme de la lumière
+
+   La lumière semble avoir fait l'objet d'une interprétation symbolique
+   dès que les hommes se sont mis à croire dans un au-delà. Depuis la
+   possible déification du feu, devenu élément vital pour l'Homme
+   préhistorique, puis l'un des quatre éléments de la philosophie de la
+   Grèce antique, jusqu'à la théologie chrétienne de Dieu comme "lumière
+   des lumières", l'illumination étant présente dans de nombreuses
+   religions, on n'a eu de cesse que de lui accorder des origines et
+   vertus surnaturelles.
+
+   Ses symboles sont universels et se déclinent sous des formes
+   multiples :
+     * le cercle solaire (symbole d'Aton, dieu de l'Egypte antique, rosace
+       "rayonnante" des cathédrales gothiques),
+     * la flèche ou le triangle (à l'image du rayon solaire ou rapprochant
+       l'homme du ciel comme pour les pyramides aztèques et égyptiennes).
+
+   Les philosophes ont utilisé cette symbolique ; Ainsi, Descartes
+   affirmait-il dans les Principes de la philosophie (1644), que l'on
+   pouvait s'appuyer sur les lumières naturelles, sans les lumières de la
+   foi, ce même Descartes s'étant intéressé de près à l'optique (la
+   Dioptrique, 1637). C'était à l'époque où l'on a admis que la Terre
+   tournait autour du Soleil (voir Révolution copernicienne, ce qui a
+   constitué un bouleversement dans les représentations du monde, et
+   consécutivement dans les représentations sociales.
+
+   L'expression " Lumières " pour désigner le courant philosophique
+   européen (en particulier en France) qui a dérivé de cette conception
+   plutôt mécaniste du monde et de l'univers a également donné son nom au
+   siècle pendant lequel cette représentation sociale s'est mise en place,
+   communément appelé le siècle des Lumières, et que Michel Foucault
+   analyse dans les mots et les choses (voir aussi épistémè).
+
+   Georges Duby, dans le temps des cathédrales (1975), décrit également,
+   sous l'angle artistique, la théologie de la Lumière, initiée à la
+   basilique Saint-Denis au XII^e siècle, qui est à l'origine de
+   l'architecture dite gothique (mot apparu au XIX^e siècle et de
+   l'émergence des cathédrales dites gothiques dans toute l'Europe.
+   Selon la théologie de la lumière, la lumière du ciel passe à travers
+   les vitraux, où sont représentés des scènes de l'Ancien Testament et du
+   Nouveau Testament, illustration imagée de notre catéchisme moderne,
+   pour des populations qui étaient encore peu cultivées dans leur
+   ensemble.
+   miniature
+   ☄️ L'objet interstellaire 3I/ATLAS s'approche au plus près de la Terre
+   ce vendredi
+   miniature
+   🔭 Une planète 'Tatooine' découverte à une distance jamais vue de ses
+   étoiles jumelles
+   miniature
+   💔 En amour, sachez ce que vous voulez ! Selon une étude, le flou
+   amoureux nuirait à votre bien-être
+   miniature
+   🦖 Découverte exceptionnelle de plus de 16 000 empreintes de dinosaures
+   en Bolivie
+   miniature
+   🌡️ La chaleur cause un retard intellectuel chez les enfants
+   miniature
+   1
+   🌟 Ces photographies d'étoiles de matière noire qui intriguent les
+   scientifiques
+   miniature
+   🍬 Cet édulcorant populaire au sucre est transformé finalement par
+   l'organisme en... sucre
+   miniature
+   💥 Pourquoi l'Univers ne s'est-il pas auto-annihilé à sa naissance ?
+   miniature
+   🙊 Notre cerveau reconnaît la voix de nos cousins primates
+   miniature
+   🪐 Vie extraterrestre sur TRAPPIST-1 e: son atmosphère étudié de très
+   près
+   miniature
+   🌊 De millénaires à quelques heures: ils accélèrent un processus de
+   captation de carbone
+   miniature
+   ⚫ Comment les trous noirs pourraient révéler l'invisible matière noire
+   miniature
+   🌍 La taille du trou dans la couche d'ozone en 2025 surprend et rassure
+   miniature
+   ⚡ Une nouvelle explication pour les radiations extrêmes d'Uranus
+   miniature
+   🌋 Une éruption volcanique pourrait-elle être à l'origine de la peste
+   noire en Europe ?
+   miniature
+   ⚛️ Informatique quantique: un développement similaire à l'informatique
+   des années 1970 ?
+   miniature
+   👀 Pourquoi les yeux grandissent encore à l'âge adulte ?
+   miniature
+   🔭 Une surprenante jumelle de la Voie Lactée découverte dans l'Univers
+   bébé
+   miniature
+   🦠 Les mirusvirus, ces virus géants qui continuent à nous surprendre
+   miniature
+   🚪 Pyramides de Gizeh: découverte d'une potentielle entrée cachée
+   miniature
+   ⚫ Voici la plus fidèle simulation d'un trou noir à ce jour
+   miniature
+   ☕ Une étude révèle que, à cette consommation précise, le café
+   ralentirait le vieillissement
+   miniature
+   ⚛️ Les formules d'un génie du passé ressurgissent dans la physique des
+   trous noirs
+   miniature
+   🌊 Un tsunami médiéval exceptionnel dans les Caraïbes
+   miniature
+   🖋️ Les systèmes de sécurité les plus robustes des IA se laissent berner
+   par de simples poèmes
+   miniature
+   🌟 Une naine brune et une exoplanète géante observées directement avec
+   une précision inédite
+   miniature
+   🧠 Consommation de cannabis pendant la grossesse et retard du
+   développement cognitif
+   miniature
+   🔄 Ce filtre, inspiré des sardines, capte 99% des microplastiques d'un
+   lave-linge
+   miniature
+   ✨ Notre galaxie possède une signature chimique typique, l'explication
+   trouvée
+   miniature
+   ☠️ Quand la bactérie responsable de la tuberculose fabrique son propre
+   poison
+   miniature
+   🪐 Des astronomes découvrent une longue chaîne de galaxies en rotation
+   synchronisée
+   miniature
+   🧠 Une simple molécule contrôle vos habitudes et vos envies
+   irrésistibles
+   miniature
+   🧠 Cet implant cérébral ultra-mince permet de connecter efficacement son
+   cerveau à une IA
+   miniature
+   🦠 Evolution: nos défenses immunitaires semblables à celles des...
+   bactéries
+   miniature
+   🛰️ Une IA trouve une faille à la NASA permettant de prendre le contrôle
+   des missions spatiales
+   miniature
+   🌋 Un système hydrothermal majeur découvert en Méditerranée
+   miniature
+   🪐 Un espoir de vie extraterrestre sur TRAPPIST-1e, malgré les fureurs
+   de son étoile
+   miniature
+   🌱 Remplacer les engrais par des "déchets"
+   miniature
+   💥 Des physiciens éliminent une théorie majeure sur les neutrinos
+   miniature
+   💉 En test, un vaccin universel contre le cancer montre une efficacité
+   exceptionnelle
+   miniature
+   🕰️ Le temps sur Mars avance plus vite que sur Terre, et ce n'est pas
+   négligeable
+   miniature
+   🌍 Les tremblements de terre, un boost inattendu pour la vie invisible
+   miniature
+   ✨ Deux étoiles massives nous ont frôlé, laissant des traces encore
+   visibles
+   miniature
+   🧠 Cerveau: une autre source d'énergie que le sucre pour les neurones
+   miniature
+   🧬 La vie complexe est apparue près d'un milliard d'années plus tôt
+   qu'estimé
+   miniature
+   🌡️ Comment la température influence la conscience de notre propre corps
+   miniature
+   1
+   🔭 Un signal gravitationnel pourrait révéler des trous noirs primordiaux
+   miniature
+   🧠 Quand une petite fibre synthétique s'auto-réplique dans le cerveau
+   miniature
+   ⚡ Première détection d'éclairs sur Mars
+   miniature
+   💪 Ces tendons artificiels rendent les robots 30 fois plus forts
+   Page générée en 0.385 seconde(s) - site hébergé chez Contabo
+   Ce site fait l'objet d'une déclaration à la CNIL sous le numéro de
+   dossier 1037632
+   A propos - Informations légales
+   Version anglaise | Version allemande | Version espagnole | Version
+   portugaise

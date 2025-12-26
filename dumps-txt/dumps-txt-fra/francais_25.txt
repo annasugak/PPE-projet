@@ -1,0 +1,121 @@
+   S’inscrire Se connecter
+   Agenda
+   Formations + rencontres + parcours
+   + autres infos
+   ____________________
+   (BUTTON) Les infos du jeudi
+   (BUTTON) Menu
+   (BUTTON)
+   actus
+   accueil
+   agenda
+   spectacle vivant
+   parcs de matériels scéniques
+   organisme de formation
+   Formations, rencontres, parcours
+   appuis, conseils
+   ressources pédagogiques
+   treto
+   qui sommes-nous ?
+   nous contacter
+   s’inscrire
+   se connecter (BUTTON) s'abonner aux
+   Infos du jeudi
+   Agenda
+   Formations + rencontres + parcours
+   + autres infos
+   les Essentiels
+   –>
+   guide de la LED
+   –>
+   les préalables
+   –>
+   physique et technique
+   –>
+   la définition de la lumière
+    1. les Essentiels
+    2. guide de la LED
+    3. les préalables
+    4. physique et technique
+    5. la définition de la lumière
+
+physique et technique
+
+     * introduction
+     * la définition de la lumière
+     * la photométrie
+     * l’efficacité lumineuse
+     * la colorimétrie
+
+La définition de la lumière
+     __________________________________________________________________
+
+   Au XVII^e siècle, Isaac Newton affirme que la lumière est de nature
+   corpusculaire (particule de matière) tandis qu’au début du XIX^e
+   siècle, Thomas Young et Augustin Fresnel affirment au contraire que la
+   lumière est de nature ondulatoire. Depuis le début du XX^e siècle, à la
+   suite des travaux de Max Planck puis d’Albert Einstein, il est admis
+   que la lumière est un phénomène beaucoup plus complexe, à la fois
+   corpusculaire et ondulatoire.
+
+   La lumière est une énergie générée par la matière et peut se
+   représenter sous la forme d’une particule d’énergie (le photon) et
+   d’une onde électromagnétique. C’est le déplacement ondulatoire très
+   rapide (environ 300 000 km/seconde) du photon qui constitue le
+   rayonnement lumineux. L’ensemble de ces différents rayonnements
+   lumineux colorés, mis en évidence par Isaac Newton au XVII^e siècle,
+   compose toute la gamme du spectre « visible » par l’œil humain. Ces
+   rayonnements dont les longueurs d’ondes sont comprises entre 380 et 780
+   nanomètres environ, sont interprétés par notre système optique comme un
+   dégradé de couleur « arc-en-ciel ».
+
+Dispersion de la lumière par un prisme
+
+   © digiSchool
+
+   © digiSchool
+
+   Depuis l’apparition au XIX^e siècle d’appareils et de sources de
+   lumière de plus en plus performants, la nécessité d’évaluer la
+   « quantité de lumière » ainsi que ces différentes caractéristiques
+   colorimétriques est bien réelle. Malgré l’incontestable complexité de
+   compréhension et de perception humaine du phénomène lumineux, il était
+   nécessaire de trouver le moyen d’y parvenir.
+
+   Zoom sur le photon
+
+   Le photon est une particule de masse et de charge électrique nulles. A
+   l’échelle terrestre la vitesse du photon semble incroyablement élevée :
+   il parcourt 7,5 fois le tour de la terre en 1 seconde ; d’après la
+   théorie de la relativité d’Einstein cette vitesse est indépassable. Le
+   photon à la capacité de se propager dans le vide (particularité des
+   ondes électromagnétiques) et donc de voyager dans l’univers, ce qui
+   permet à la lumière du soleil de nous parvenir ; dès que l’on commence
+   à prendre un peu de recul en s’éloignant de la Terre, sa vitesse de
+   déplacement est beaucoup moins impressionnante : Le photon parcourt la
+   distance de la Terre à la Lune en 1,25 seconde ; il parcourt la
+   distance de la Terre à Mars en 3 minutes et 2 secondes ; il parcourt la
+   distance de la Terre à Proxima du Centaure (étoile la plus proche de
+   notre système solaire) en 4 ans et 3 mois ; il parcourt la distance de
+   la Terre jusqu’au centre de notre galaxie en plus de 25 000 ans ; il
+   parcourt la distance de la Terre à Andromède (galaxie la plus proche de
+   la nôtre) en 2,5 millions d’années !
+
+Nos
+appuis
+& conseils
+
+Formations, rencontres & parcours
+
+Treto, plateforme du spectacle vivant
+
+Ressources pédagogiques
+
+   qui
+   sommes-nous ?
+   Contactez-nous informations pratiques mentions légales
+   La Région Grand Est
+   Préfet Grand Est - Ministère de la culture
+   {{ props.message }}
+   ____________________
+   (BUTTON) OK

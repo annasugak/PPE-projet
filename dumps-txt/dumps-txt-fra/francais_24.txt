@@ -1,0 +1,278 @@
+   #Exo Terra FR » Flux Exo Terra FR » Flux des commentaires JSON oEmbed
+   (JSON) oEmbed (XML)
+
+   Exo Terra FR Official Brand Site
+
+     * Accueil
+     * Produits
+          + Terrariums
+          + Éclairage
+          + Chauffage
+          + Substrats
+          + Hydratation
+          + Ornements
+          + Nutrition
+          + Accessoires
+          + Pièces De Rechange
+     * Explorer
+          + Guides De Soins
+          + Académie
+          + Expéditions
+          + À Propos De Nous
+          + 25 Ans
+     * Rester Branché
+          + Enregistrer Votre Produit
+          + Infolettre
+          + Réseaux Sociaux
+     * Besoin D’aide
+          + Détaillants en Ligne
+          + Localisateur De Magasins
+          + Service À La Clientèle
+          + FAQ
+          + Manuels D’instruction
+          + Contact
+     * Français
+          + Français
+          + English
+          + Deutsch
+          + Español
+
+   Sélectionner une page
+   Rechercher ____________________
+   ×
+
+   Qu'est-ce Que La Lumière ?
+
+   Accueil • Explorer • Académie • Éclairage • Qu’est-ce Que La Lumière ?
+
+Qu’est-ce Que La Lumière ?
+
+   Author
+
+Emmanuel Van Heygen
+
+   Exo Terra Brand Manager
+   Ultraviolet-, visible- and infrared light
+
+   Le soleil, avec son énergie rayonnante, est le fondement de la vie sur
+   Terre. Chaque mètre carré au-dessus de notre atmosphère reçoit environ
+   un kilowatt de cette énergie. Cette étreinte solaire alimente la
+   myriade de processus qui maintiennent la vie. Sans le soleil, la Terre
+   perdrait rapidement sa chaleur, plongeant tous les êtres vivants dans
+   le vide glacial de l’extinction.
+   Par essence, la lumière est un rayonnement électromagnétique. Elle est
+   composée de minuscules champs électromagnétiques appelés photons. Ces
+   derniers se présentent chacun sous différents niveaux d’énergie ou
+   différentes longueurs d’onde, tous étant exprimé en nanomètres (nm).
+   Parmi ces longueurs d’onde, celles qui nous sont le plus familières
+   font partie du spectre visible. C’est pourquoi le soleil, par exemple,
+   nous semble jaune : sa lumière est la plus puissante à la longueur
+   d’onde jaune.
+
+   Cependant, le spectre de la lumière s’étend au-delà de ce que nos yeux
+   peuvent percevoir. Allant des puissants rayons gamma jusqu’aux rayons X
+   familiers, en passant par la lumière ultraviolette, le spectre est
+   vaste. La lumière visible n’occupe qu’une infime partie de ce spectre,
+   nichée entre la lumière ultraviolette et la lumière infrarouge. La
+   lumière infrarouge, souvent associée à la chaleur, s’étend dans le
+   spectre jusqu’aux micro-ondes et se termine par les douces ondes radio.
+   Pour les soins des reptiles, nous nous concentrons sur trois éléments
+   essentiels : la lumière ultraviolette, la lumière visible et la lumière
+   infrarouge.
+
+   Lumière ultraviolette
+   La lumière ultraviolette (UV), segment à haute énergie situé juste
+   après la lumière visible, joue un rôle essentiel dans le bien-être et
+   les comportements des reptiles. Ce spectre est divisé en trois groupes
+   distincts :
+     * UVA (320-400 nm) : Cette gamme est d’une importance capitale pour
+       les reptiles et les amphibiens. Les rayons UVA affectent de
+       nombreux comportements, allant de l’agressivité aux conflits
+       territoriaux, des rituels d’accouplement jusqu’aux signaux de
+       communication. L’exposition aux rayons UVA peut améliorer les
+       comportements naturels de ces créatures, rendant ces dernières plus
+       actives et réactives. Ces rayons jouent également un rôle dans la
+       perception de l’environnement par les animaux, en aidant ces
+       derniers à identifier leur nourriture, leurs partenaires et les
+       menaces.
+     * UVB (290-320 nm) : Les rayons UVB sont indispensables à la synthèse
+       de la vitamine D3 chez les reptiles. Lorsque leur peau absorbe la
+       lumière UVB, la production de cette vitamine essentielle est
+       déclenchée, ce qui contribue à l’absorption du calcium, minéral
+       crucial pour la santé des os et la vitalité en général. Sans une
+       exposition adéquate aux rayons UVB, les reptiles peuvent souffrir
+       de la maladie métabolique osseuse, une affection débilitante. Pour
+       les propriétaires de reptiles, assurer une exposition adéquate aux
+       rayons UVB reproduisant l’habitat naturel des animaux est crucial
+       pour la santé de ces derniers.
+     * UVC (180-290 nm) : Bien qu’elle fasse partie du spectre naturel,
+       cette gamme est nocive pour tous les êtres vivants. Elle est connue
+       pour ses propriétés germicides et souvent utilisée dans les
+       processus de stérilisation. Cependant, une exposition prolongée
+       peut entraîner des dommages cellulaires chez les organismes
+       vivants.
+
+   La lumière visible
+   La lumière visible joue un rôle multiple. En plus de permettre de voir,
+   elle délimite le rythme du jour et de la nuit. Son spectre s’étend de
+   390 à 700 nm. La lumière et les couleurs que nos yeux perçoivent
+   dépendent de l’intensité de chaque longueur d’onde. L’indice de rendu
+   des couleurs (IRC) mesure la capacité d’une source lumineuse à éclairer
+   des objets comparativement à la lumière naturelle. La lumière du
+   soleil, sans surprise, affiche un IRC de 100. Aujourd’hui, les sources
+   de lumière artificielle dont l’IRC est supérieur à 95 sont considérées
+   comme des lumières à spectre complet. Elles peuvent éclairer des objets
+   tels qu’ils seraient sous le regard du soleil. La température de
+   couleur, mesurée en Kelvin (K), décrit également la teinte de la
+   lumière. Par exemple, la température moyenne de la lumière du jour se
+   situe autour de 5 600 K. Pour reproduire une lumière visible naturelle
+   dans les terrariums, une source lumineuse avec un IRC élevé et une
+   température de couleur d’environ 6 000 K est idéale. Cela permet
+   d’obtenir des couleurs éclatantes, tant chez les animaux que chez les
+   plantes. En outre, certaines longueurs d’onde du spectre visible sont
+   essentielles pour la photosynthèse, le processus par lequel les plantes
+   transforment la lumière en énergie.
+
+   Lumière infrarouge
+   Pour les reptiles et les amphibiens, lesquels sont ectothermes ou �
+   sang froid, le rayonnement infrarouge est essentiel pour la
+   thermorégulation. Ce segment du spectre, bien qu’invisible, est
+   ressenti comme de la chaleur. Le soleil émet la majeure partie de son
+   énergie dans ce segment. Pour les reptiles diurnes, la meilleure source
+   de chaleur artificielle est constituée de sources aériennes de chaleur
+   radiante telles que les ampoules incandescentes, qui émettent une
+   quantité importante de lumière infrarouge.
+
+     Comprenant les nuances de ces composantes de la lumière, Exo Terra a
+     conçu des solutions d’éclairage spécialisées dédiées aux reptiles.
+     Ces créatures, avec leurs besoins métaboliques distincts,
+     nécessitent un éclairage précis et de première qualité. Souvent, une
+     seule source d’éclairage ne suffit pas. Une combinaison devient
+     essentielle pour répondre à leurs besoins variés. Des facteurs tels
+     que les habitudes d’activité, les habitats naturels et la proximité
+     de la source lumineuse sont essentiels pour déterminer les besoins
+     en matière d’éclairage des reptiles.
+     Le soleil est le fondement de notre planète. Son énergie alimente
+     chaque organisme vivant, menant la danse complexe de la vie sur
+     Terre. Sans l’étreinte rayonnante du soleil, notre monde perdrait
+     rapidement sa vitalité, ce qui plongerait la vie dans l’obscurité et
+     engendrerait l’extinction. Bien que le spectre de la lumière soit
+     vaste et multiforme, trois composants principaux se distinguent pour
+     ce qui est des soins des reptiles : la lumière ultraviolette, la
+     lumière visible et la lumière infrarouge.
+     Reconnaissant le rôle critique de ces facettes de la lumière pour
+     l’élevage des reptiles, Exo Terra a innové dans le développement de
+     solutions d’éclairage spécialisées. Les reptiles, avec leurs besoins
+     métaboliques distincts, exigent un éclairage précis et de haute
+     qualité. Souvent, une seule source de lumière ne suffit pas pour
+     répondre à leurs besoins variés. Par conséquent, un mélange de
+     différentes sources de lumière devient impératif pour leur
+     bien-être.
+     Il est essentiel de comprendre que tous les reptiles n’ont pas les
+     mêmes besoins en rayons UVB. Des facteurs tels que leurs habitudes
+     d’activité (nocturnes ou diurnes), leur habitat naturel (forêt
+     tropicale ou désert) et même la proximité de la source lumineuse
+     jouent un rôle essentiel pour déterminer les besoins en matière
+     d’éclairage des reptiles.
+     Dans la nature, les reptiles ont évolué pour exploiter les bienfaits
+     des rayons UV tout en se protégeant de ses effets néfastes
+     potentiels. Ils lézardent au soleil, absorbant les rayons UV, et se
+     retirent dans des zones ombragées lorsqu’ils en ont suffisamment. En
+     captivité, il est essentiel de reproduire cet équilibre.
+     L’utilisation d’un éclairage spécialisé émettant le bon spectre UV
+     permet aux reptiles de tirer profit de la lumière naturelle du
+     soleil, ce qui favorise leur santé et leurs comportements naturels.
+
+   Author
+
+Emmanuel Van Heygen
+
+   Exo Terra Brand Manager
+
+   « Les reptiles et les amphibiens ont besoin d’un éclairage approprié et
+   de haute qualité pour répondre à différents besoins métaboliques. Comme
+   il est presque impossible de répondre à tous ces besoins avec une seule
+   source d’éclairage, une combinaison de différentes sources est
+   nécessaire dans la plupart des cas. »
+   Solar radiation
+
+   Spectre de rayonnement de la lumière du soleil.
+   Lighting chart with animal
+   Qu'est-ce Que La Lumière ?
+
+Thèmes de l'éclairage
+
+   Amélioration du bien-être des animaux dans les zoos
+
+Amélioration du bien-être des animaux dans les zoos
+
+   Découvrez comment les ampoules T5 UVB à rendement très élevé sont
+   installées dans les zoos dans cette vidéo très intéressante. Voyez les
+   bienfaits tangibles dont peuvent profiter une foule d’espèces grâce au
+   rendement supérieur de rayons UVA et UVB, car ce ne sont pas seulement
+   les reptiles qui devraient se sentir chez eux.
+
+   Comprendre Les Zones Ferguson
+
+Comprendre Les Zones Ferguson
+
+   Les zones de Ferguson ont été élaborées en 2010 par le professeur Gary
+   Ferguson de la Texas Christian University. Ferguson et son équipe
+   d'herpétologistes ont recueilli des données sur l'exposition
+   quotidienne aux rayons UV de 15 espèces de reptiles. Dans la
+   publication qui a suivi, ces 15 espèces ont été divisées en quatre
+   groupes en fonction de leur comportement thermorégulateur (exposition
+   quotidienne au soleil) et de leurs préférences en matière de
+   microhabitat : les "zones Ferguson". Les recommandations
+   correspondantes en matière d'UV ont été basées sur l'irradiance moyenne
+   de spécimens sauvages rencontrés au hasard : La zone 1 est la moins
+   exposée, la zone 4 la plus exposée.
+
+   Le Mythe Des Créatures Nocturnes Et De La Lumière UVB
+
+Le Mythe Des Créatures Nocturnes Et De La Lumière UVB
+
+   La croyance selon laquelle les animaux nocturnes n'ont pas besoin
+   d'être exposés aux UVB a longtemps prévalu dans le monde des soins aux
+   reptiles et aux amphibiens. L'argument "C'est un animal nocturne, il
+   n'a pas besoin d'UVB" a été le point de départ de nombreux passionnés
+   et éleveurs. Cependant, des études scientifiques récentes ont commencé
+   à remettre en question cette notion ancestrale, mettant en lumière
+   l'importance des UVB pour toutes les créatures, quel que soit leur
+   rythme diurne.
+
+   Nouvel éclairage UVB VHO T5
+
+Nouvel éclairage UVB VHO T5
+
+   Passionnés de reptiles, nous sommes ravis de vous présenter notre
+   dernière innovation en matière d'éclairage UVB : nos nouvelles ampoules
+   UVB VHO T5 ! Conçues en Allemagne pour répondre aux normes de qualité
+   les plus strictes, ces ampoules...
+
+   What is UVB-lighting
+
+Qu’est-ce Que Les UV-B ?
+
+   UVB signifie rayonnement ultraviolet B, un type de rayonnement
+   ultraviolet présent dans la lumière du soleil. La lumière ultraviolette
+   ou UV est une partie à haute énergie du spectre électromagnétique
+   au-delà de la lumière visible. Le spectre UV est divisé en trois
+   groupes de longueurs d'onde.
+
+   Vitamine D3 Et Reptiles : Un Lien Vital
+
+Vitamine D3 Et Reptiles : Un Lien Vital
+
+   La vitamine D3 joue un rôle essentiel dans la santé et le bien-être des
+   reptiles, tout comme des autres animaux. Cette hormone fait partie
+   intégrante du métabolisme des minéraux et du développement des os chez
+   les reptiles. L’un des rôles les plus importants de la vitamine D3 est
+   d’améliorer l’absorption du calcium par les intestins. Sans une
+   quantité suffisante de cette vitamine, les reptiles ne peuvent pas
+   absorber efficacement le calcium alimentaire, ce qui est crucial pour
+   la santé de leur squelette et leur bien-être général.
+
+Restez au courant de tout ce qui concerne l'exo terra.
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MBPRVQJV

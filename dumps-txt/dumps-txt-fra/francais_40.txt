@@ -1,0 +1,301 @@
+   [tr?id=1392960898182692 &ev=ViewContent &cd[content_name]=L’étude de la
+   lumière : une aventure qui a chamboulé notre représentation du monde
+   &cd[content_type]=content &cd[content_ids]=146139]
+
+   ____________________
+   (BUTTON)
+     * Page d'accueil
+     * Culture
+     * Économie + Entreprise
+     * Éducation + Jeunesse
+     * Environnement
+     * Histoire
+     * International
+     * Politique + Société
+     * Santé
+     * Science
+     * En anglais
+
+Édition
+
+   [France____________]
+
+   Nos newsletters
+
+   The Conversation
+   Édition:
+   (BUTTON) France
+     * Africa
+     * Australia
+     * Brasil
+     * Canada
+     * Canada (français)
+     * España
+     * Europe
+     * Global
+     * Indonesia
+     * New Zealand
+     * United Kingdom
+     * United States
+
+   s
+   Faire un don Nos newsletters
+   The Conversation
+   L’expertise universitaire, l’exigence journalistique
+   ____________________ (Recherche) (Recherche)
+   Culture Économie + Entreprise Éducation + Jeunesse Environnement
+   Histoire International Politique + Société Santé Science En anglais
+
+L’étude de la lumière : une aventure qui a chamboulé notre représentation
+du monde
+
+   Publié: 26 octobre 2020, 23:14 CET
+   Christophe Daussy, Université Sorbonne Paris Nord
+
+Auteur
+
+    1. Christophe Daussy
+       Physicien, Enseignant-Chercheur, Laboratoire de Physique des
+       Lasers, CNRS, Université Sorbonne Paris Nord
+
+Déclaration d’intérêts
+
+   Christophe Daussy ne travaille pas, ne conseille pas, ne possède pas de
+   parts, ne reçoit pas de fonds d'une organisation qui pourrait tirer
+   profit de cet article, et n'a déclaré aucune autre affiliation que son
+   organisme de recherche.
+
+Partenaires
+
+   Université Sorbonne Paris Nord
+
+   Université Sorbonne Paris Nord apporte un financement en tant que
+   membre adhérent de The Conversation FR.
+
+   Voir les partenaires de The Conversation France
+
+DOI
+
+   https://doi.org/10.64628/AAK.rekmdwf6a
+   Depuis des siècles, les scientifiques ont cherché à comprendre la
+   nature de la lumière. Université Sorbonne Paris Nord, Author provided
+   https://theconversation.com/letude-de-la-lumiere-une-aventure-qui-a-cha
+   mboule-notre-representation-du-monde-146139
+   https://theconversation.com/letude-de-la-lumiere-une-aventure-qui-a-cha
+   mboule-notre-representation-du-monde-146139
+   (BUTTON)
+   Lien copié
+   (BUTTON) Partager
+   (BUTTON)
+
+   Share article
+   (BUTTON) Copy link Partager par e-mail
+   Bluesky Facebook WhatsApp Messenger Linkedin X (anciennement Twitter)
+   (BUTTON)
+
+   Print article
+
+   Cet article est publié dans le cadre de la Fête de la science 2020 (du
+   2 au 12 octobre 2020 en métropole et du 6 au 16 novembre en Corse, en
+   outre-mer et à l’international) dont The Conversation France est
+   partenaire. Cette nouvelle édition a pour thème : « Planète Nature ».
+   Retrouvez tous les événements de votre région sur le site
+   Fetedelascience.fr.
+     __________________________________________________________________
+
+   Les technologies reposant sur la connaissance et la maîtrise de la
+   lumière sont devenues incontournables : écrans, télécommunications,
+   imagerie ou encore laser et ses nombreuses applications. Dans le
+   domaine de la recherche, l’optique et la photonique ont fourni ces
+   dernières décennies des instruments de haute sensibilité qui ont permis
+   par exemple la détection d’un trou noir au centre de notre galaxie
+   (grâce à l’optique adaptative), la détection des ondes
+   gravitationnelles (grâce à des interféromètres géants) ou encore la
+   réalisation des horloges les plus stables au monde. Au-delà de ces
+   succès remarquables, les travaux sur la lumière – ou avec la lumière –
+   ont marqué depuis des siècles nos représentations du monde physique.
+   Nous nous attacherons ici à montrer les liens étroits qui existent
+   entre les découvertes dans ce domaine de recherche et l’émergence au
+   XX^e siècle de théories qui ont chamboulé notre compréhension de la
+   lumière, mais aussi de l’espace, du temps et de la matière.
+
+La lumière, corpuscule ou onde ?
+
+   L’histoire qui nous intéresse débute au XVIIe siècle. L’étude
+   quantitative de la déviation des rayons de lumière permet alors à Snell
+   et Descartes d’établir les lois de l’optique géométrique. La
+   modélisation de ce phénomène conduit les scientifiques à prendre
+   position sur deux questions fondamentales : quelle est la nature de la
+   lumière et à quelle vitesse se propage-t-elle ? Ces deux problèmes vont
+   être débattus pendant plus de deux siècles et mèneront les physiciens
+   vers deux révolutions : la théorie de la relativité et la théorie
+   quantique.
+
+   Au XVIIe siècle, pour Descartes et Newton, la lumière est de nature
+   corpusculaire et elle se propage plus vite dans le verre que dans
+   l’air. De son côté, Huygens développe une théorie ondulatoire qui le
+   conduit à considérer que la lumière se propage plus lentement dans le
+   verre que dans l’air. Alors onde ou corpuscule ? Le succès écrasant de
+   la mécanique newtonienne va totalement éclipser le modèle ondulatoire
+   pendant plus d’un siècle. Au début du XIX^e siècle, les expériences
+   d’interférences lumineuses réalisées par Young mettent en défaut la
+   théorie corpusculaire de Newton. Le débat semble alors définitivement
+   tranché lorsqu’en 1850, Fizeau et Foucault montrent expérimentalement
+   que la vitesse de la lumière est plus faible dans l’eau que dans l’air.
+   Huygens avait donc raison : la lumière est bien une onde !
+
+   IFRAME:
+   https://www.youtube.com/embed/mam0X6rU340?wmode=transparent&start=0
+
+   Notre compréhension de la nature de cette onde doit ensuite beaucoup
+   aux travaux de Maxwell qui associe phénomènes électriques, magnétiques
+   et optiques et montre que la lumière est une onde électromagnétique.
+   Mieux, sa vitesse dans le vide doit être invariante : elle vaut
+   toujours c, quelle que soit la vitesse de la source ou de
+   l’observateur. Et là les choses se compliquent ! En effet cette
+   invariance de la vitesse de la lumière est incompatible avec une loi
+   centrale en mécanique newtonienne la loi galiléenne de composition des
+   vitesses. Malgré ce point noir ainsi qu’un autre problème non résolu,
+   le calcul de la quantité de lumière émise par rayonnement thermique (le
+   problème du corps noir), beaucoup de scientifiques considèrent à la fin
+   du XIX^e siècle notre représentation du monde physique comme pleinement
+   aboutie et la physique pratiquement achevée. Pourtant, les réponses qui
+   vont être apportées à ces deux problèmes seront les bases d’une
+   véritable révolution.
+
+Relativité restreinte
+
+   La solution qui permettra de réconcilier électromagnétisme et mécanique
+   est apportée en 1905 par Einstein. L’invariance galiléenne cède la
+   place à l’invariance relativiste pour donner naissance à la relativité
+   restreinte. Cette nouvelle théorie va chambouler notre vision de
+   l’espace, du temps, de la matière. c n’est plus simplement la vitesse
+   de toutes les ondes électromagnétiques dans le vide, elle devient une
+   vitesse limite infranchissable. Elle acquerra en 1983 le statut de
+   constante fondamentale de référence lorsqu’elle sera fixée pour
+   redéfinir l’unité de longueur du nouveau Système International.
+   L’existence d’une telle limite impose de revoir la notion de
+   simultanéité de deux événements : Elle dépend du mouvement de
+   l’observateur. Conséquence, l’espace et le temps ne sont plus absolus
+   et doivent être repensés en termes d’un nouveau concept,
+   l’espace-temps. Les longueurs et les durées ne sont plus absolues. Les
+   règles se contractent et les horloges ralentissent lorsqu’elles sont en
+   mouvement ! Le concept de masse doit également être redéfini à la
+   lumière de la fameuse relation E=mc^2 qui pose l’équivalence entre
+   masse et énergie.
+
+   (BUTTON)
+
+   IFRAME:
+   https://www.youtube.com/embed/H6zHe0F7OR4?wmode=transparent&start=0
+
+La naissance du concept de photon
+
+   En 1900, la solution au problème du corps noir est apportée par Planck
+   moyennant une hypothèse déconcertante : la lumière est émise de façon
+   discontinue par grains d’énergie, les quanta. Dans la foulée, Einstein
+   s’attaque à l’effet photoélectrique. S’appuyant sur les travaux de
+   Planck, il interprète cet effet en considérant que la lumière est
+   composée de grains d’énergie hν (h est la constante de Planck et ν la
+   fréquence). C’est la naissance du concept de photon et avec lui une
+   nouvelle page du débat sur la nature de la lumière.
+
+   Comment concilier les ondes électromagnétiques de Maxwell et les
+   photons d’Einstein ? La solution apportée à cette question trouve ses
+   racines dès le XVIIe siècle. Fermat formule le principe « du temps
+   minimum » qui lui permet de retrouver les lois de l’optique
+   géométrique. Ce principe est ensuite étendu à la mécanique par
+   Mauperthuis pour donner le principe de « moindre action » : La
+   trajectoire d’un point matériel est toujours celle qui minimise
+   l’action, grandeur obtenue en multipliant la quantité de mouvement et
+   le chemin parcouru. On peut voir dans ces deux principes une forme de
+   similitude entre le traitement de la lumière et celui de la matière,
+   similitude qui sera formalisée par Hamilton dans une nouvelle écriture
+   des lois de la mécanique. Il faudra ensuite attendre les travaux de
+   Planck et l’introduction du quantum d’action h, d’Einstein qui
+   quantifie la lumière, pour qu’en 1924 de Broglie apporte la solution
+   inattendue qui réconciliera définitivement onde et photon : la lumière
+   se comporte tantôt comme une onde, tantôt comme des corpuscules, tout
+   dépend des conditions de l’expérience. On parle de dualité
+   onde-corpuscule.
+
+   Encore plus déroutant, il généralise cette dualité à la matière : on
+   doit donc pouvoir transposer aux électrons, aux atomes, les expériences
+   de l’optique ondulatoire. C’est sur cette base que sera élaborée une
+   nouvelle mécanique, la mécanique quantique dont Schrödinger établit
+   l’équation centrale, l’équation d’onde pour une particule.
+
+Mécanique quantique
+
+   Ce nouveau cadre théorique bouleverse à son tour notre représentation
+   de la matière et des interactions. La notion de trajectoire d’une
+   particule doit être repensée à lumière de l’amplitude de probabilité de
+   la fonction d’onde dont le module au carré représente la probabilité de
+   trouver la particule en un point de l’espace. La prédictibilité
+   déterministe classique laisse alors la place à la prédictibilité
+   probabiliste quantique. Enfin les conditions de la mesure,
+   l’observateur, doivent être intégrées à la description du système
+   quantique. Dans ce cadre, h acquiert le statut de constante
+   fondamentale pour devenir le « quantum d’action » qui traduit la
+   discontinuité des interactions et représente la limite inférieure de
+   toute action. En 2019, h devient même une constante de référence fixée
+   pour définir l’unité de masse.
+
+   La prise en compte dans un même cadre théorique des constantes h et c
+   conduira ensuite au cours de la seconde moitié du XX^e siècle �
+   l’unification des théories relativiste et quantique pour aboutir aux
+   théories de l’interaction électromagnétique, de l’interaction faible et
+   de l’interaction forte. Le modèle standard rassemble ces trois théories
+   et définit aujourd’hui notre représentation de la physique des
+   particules élémentaires et des interactions. Au niveau ultime de cette
+   démarche unificatrice, la prise en compte de la constante de
+   gravitation G devrait permettre de formuler une théorie quantique et
+   relativiste de la gravitation. Cette théorie qui reste à ce jour encore
+   à construire ne manquera pas à son tour de bousculer notre
+   représentation du monde.
+     * histoire
+     * physique
+     * lumière
+     * épistémologie
+     * Fête de la science 2020
+     * Fête de la science
+
+Notre audience
+
+   Le réseau global The Conversation a une audience mensuelle de 18
+   millions de lecteurs et une audience globale de 42 millions à travers
+   les republications sous la licence Creative Commons.
+
+Vous voulez écrire ?
+
+   Écrivez un article et rejoignez une communauté de plus de 216 900
+   universitaires et chercheurs de 5 398 institutions.
+
+   Enregistrez-vous maintenant
+     * Ce que nous sommes
+     * Notre équipe
+     * Nos valeurs
+     * Charte éditoriale
+     * Règles de republication
+     * Recevoir nos newsletters
+     * Nos flux
+
+     * Faire un don
+     * Nos institutions membres
+     * Notre audience
+     * Notre impact
+     * Kit de communication pour les institutions membres
+     * Événements
+     * Transparence financière
+     * Contactez-nous
+
+     * ​
+     * ​
+     * ​
+     * ​
+     * ​
+
+   Politique de confidentialité Préférences de consentement Mentions
+   légales
+
+   Droits d'auteur © 2010–2025, The Conversation France (assoc. 1901)

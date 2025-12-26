@@ -1,0 +1,312 @@
+   #Energie Plus Le Site » Flux Energie Plus Le Site » Flux des
+   commentaires Energie Plus Le Site » Lumière : généralités Flux des
+   commentaires alternate alternate
+
+   Skip to content
+
+   (BUTTON)
+     * [1.icon-gerer.svg] Gérer
+     * [2.icon-evaluer.svg] Évaluer
+     * [3.icon-ameliorer.svg] Améliorer
+     * [4.icon-concevoir.svg] Concevoir
+     * [5.icon_techniques.svg] Techniques
+     * [6.icon-theories.svg] Théories
+     * [7.icon-calculs.svg] Calculs
+     * [8.icon-reglementations.svg] Réglementations
+     * [9.icon-etudesdecas.svg] Études de cas
+     * [10.icon-mesures.svg] Mesures
+     * [11.icon-donnees.svg] Données
+     * [12.icon-diagnosis.svg] Diagnostic
+     * [13.icon-dossierthematique.svg] Dossier thématique
+     *
+
+   (BUTTON)
+     * Retour
+
+   Energie Plus Le Site Logo Energie Plus Le Site Logo Energie Plus Le
+   Site Logo
+   (BUTTON) menu (BUTTON)
+   Que cherchez- vous ?
+   ____________________ ____________________ Submit
+
+   Filtres general
+
+   [ ] Hidden label
+   Terme exact
+   [X] Hidden label
+   Par le titre
+   [X] Hidden label
+   Dans le contenu
+   [X] Hidden label
+   Tout sauf
+
+   [X] [X]
+
+   Filter by Catégories
+
+   [X] Hidden label
+   Gérer
+   [X] Hidden label
+   Évaluer
+   [X] Hidden label
+   Améliorer
+   [X] Hidden label
+   Concevoir
+   [X] Hidden label
+   Techniques
+   [X] Hidden label
+   Théories
+   [X] Hidden label
+   Calculs
+   [X] Hidden label
+   Réglementations
+   [X] Hidden label
+   Études de cas
+   [X] Hidden label
+   Mesures
+   [X] Hidden label
+   Données
+
+   Appel à dons
+   [6.icon-theories.svg]
+
+Lumière : généralités
+
+   Home/Théories/Eclairage/Physique de la lumière/Lumière : généralités
+
+Lumière : généralités
+
+   Sommaire
+
+     * La lumière naturelle
+     * Lumière blanche artificielle
+     * Diagramme de chromaticité
+
+   Lumière : généralités
+     __________________________________________________________________
+
+La lumière naturelle
+
+Onde et particule
+
+   Lorsqu’on parle de lumière, on considère qu’elle est à la fois une
+   particule élémentaire (photon) et une onde électromagnétique.
+
+   L’onde électromagnétique est caractérisée par :
+     * Une amplitude ;
+     * Une longueur d’onde (ou fréquence) ;
+     * Une vitesse de propagation.
+
+   La relation suivant unit la longueur d’onde et la vitesse de
+   propagation :
+
+   λ = C / F
+
+   où :
+     * λ : longueur d’onde en nanomètre ;
+     * C : est la vitesse en m.s-1 ;
+     * F : fréquence en Hz.
+
+   Pour une vitesse de la lumière de 299,792,458 m.s^-1 et une longueur
+   d’onde de 380 nm (bleu) la fréquence de propagation est de :
+
+   F = 299,792,458 / 450 x 10-9 = 780 THz
+
+   À titre comparatif, le tableau suivant donne une idée des longueurs
+   d’onde de différents types de rayonnement :
+   Longueur d’onde (dans le vide) Domaine Fréquence Commentaire
+   Plus de 10 m radio inférieure à 30 MHz
+   de 1 mm à 30 cm micro-onde (Wifi, téléphones portables, radar, etc.) de
+   1 GHz à 300 GHz incluse dans les ondes radio
+   de 780 nm à 500 µm infrarouge norme NF/en 1836
+   de 380 nm à 780 nm lumière visible de 350 THz à 750 THz rouge
+   (620-780 nm)
+   orange (592-620 nm)
+   jaune (578-592 nm)
+   vert (500-578 nm)
+   bleu (446-500 nm)
+   violet (380-446 nm)
+   de 10 nm à 380 nm ultraviolet de 750 THz à 30 PHz
+   de 10^-11 m à 10^-8 m rayon X de 30 PHz à 30 EHz
+   < à 5 x 10^-12 m Rayon γ (gamma) supérieure à 30 EHz
+
+   Remarque : le spectre de la lumière naturelle est changeant suivant
+   l’état du ciel : en fonction de la présence ou pas de nuage, leur
+   densité, leur forme, … le spectre lumineux évolue.
+
+   Spectre lumière naturelle.
+     __________________________________________________________________
+
+Lumière blanche artificielle
+
+   En éclairage artificiel, on tente toujours de se rapprocher de la
+   lumière naturelle qui est, par définition, une lumière blanche. C’est
+   indispensable de s’en rapprocher pour une question principalement de
+   confort visuel. On imagine difficilement pour des occupants de
+   bâtiments tertiaires de travailler dans une ambiance de couleur jaune
+   comme c’est le cas, par exemple, chez certains fabricants de
+   téléviseur.
+
+   Spectre lampe à incandescence.
+
+   Lampe à incandescence : bon exemple de lumière blanche.
+
+   La lumière blanche artificielle qui se rapproche le plus de la lumière
+   naturelle est donnée par la lampe à incandescence. Indépendamment des
+   considérations énergétiques (cette lampe est amenée à disparaître �
+   terme), la lampe à incandescence reste, sans conteste, la source de
+   référence par rapport à la qualité visuelle d’une lampe artificielle.
+     __________________________________________________________________
+
+Diagramme de chromaticité
+
+   Toutes les couleurs du spectre visible peuvent être représentées dans
+   un diagramme de chromaticité de la Commission Internationale de
+   l’Éclairage (CIE).
+
+   Diagramme de chromaticité
+
+   Quelques paramètres caractéristiques :
+     * La courbe du fer à cheval représente les couleurs pures (teintes)
+       de tout le spectre visible depuis le rouge (λ= 700 nm) jusqu’au
+       violet (λ= 420 nm) ;
+     * Le segment de droite qui joint les extrémités du fer à cheval
+       représente les pourpres ;
+     * le point de coordonnées (x=1/3 ;y = 1/3) est le blanc ;
+     * la température de couleur pour le blanc est de 6 000 K ;
+     * Le centre du fer à cheval focalise les différentes couleurs
+       blanches. L’arc de cercle gradué de 10 000 à 1 500 K représente les
+       températures de couleur qui caractérisent les différences sources
+       lumineuses entre elles par rapport à la lumière blanche.
+
+   2020-01-20T15:44:20+01:0015 octobre, 2012|Physique de la lumière|
+
+Partagez ce contenu !
+
+   TwitterLinkedInWhatsappEmail
+
+Related Posts
+
+     * Simuler l’éclairage
+       Simuler l’éclairage
+       Gallery
+
+Simuler l’éclairage
+       18 octobre, 2016 | 1 Comment
+     * Ombres
+       Ombres
+       Gallery
+
+Ombres
+       13 novembre, 2012 | 1 Comment
+     * Eblouissement
+       Eblouissement
+       Gallery
+
+Eblouissement
+       13 novembre, 2012 | 1 Comment
+     * Température de couleur
+       Température de couleur
+       Gallery
+
+Température de couleur
+       13 novembre, 2012 | 2 Comments
+     * Autonomie en lumière du jour
+       Autonomie en lumière du jour
+       Gallery
+
+Autonomie en lumière du jour
+       12 novembre, 2012 | 1 Comment
+     * Eclairage naturel et ses variations
+       Eclairage naturel et ses variations
+       Gallery
+
+Eclairage naturel et ses variations
+       31 octobre, 2007 | 3 Comments
+
+One Comment
+
+    1. Sylvie Rouche 20 janvier 2020 at 15 h 39 min Connectez-vous pour
+       répondre
+
+       Date : création 15/10_2012
+
+   Auteur : Didier, relecture Olivier.
+   Notes :4/03/2013 : actualisation Didier D. et Olivier
+
+Leave A Comment Annuler la réponse
+
+   You must be logged in to post a comment.
+   Print Friendly, PDF & Email télécharger en PDF ou imprimer cet article
+
+| Partenaires
+
+| Infos et Contact
+
+     * Énergie+
+     * Intervenants
+          + Architecture et climat – UCL
+          + Département de l’Énergie et Bâtiment durable – SPW
+          + Réseau des Facilitateurs wallons
+          + Portail européen BUILD UP
+     * Navigation
+          + Mode d’emploi du site
+          + Structure de l’information
+          + Pour s’y retrouver, un tableau d’aide sur la structure de
+            l’information dans Énergie+
+          + Détails d’une page type
+     * Copyright
+     * Contact
+     * RGPD
+     * Votre avis sur le site ?
+
+| S’inscrire
+
+   Newsletter
+
+| SUIVEZ-NOUS !
+
+   Copyright 2021 - Architecture et Climat
+
+   (BUTTON) Préférences de confidentialité (BUTTON) J’approuve
+
+Centre de préférences de confidentialité
+
+   (BUTTON) Options
+     * (BUTTON) Gestion du consentement
+     * (BUTTON) Réglages de cookie
+          + (BUTTON) Necessary
+          + (BUTTON) Advertising
+          + (BUTTON) Analytics
+          + (BUTTON) Other
+
+Gestion du consentement
+
+Necessary
+
+Advertising
+
+Analytics
+
+Other
+
+   Enregistrer les préférences
+
+   (BUTTON) OK
+
+     * Partager
+       LinkedIN Twitter WhatsApp
+     * Message
+
+       Comment
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       [ ] RGPD. *
+       Poster un commentaire
+     * Imprimer
