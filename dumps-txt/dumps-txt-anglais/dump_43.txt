@@ -1,7 +1,0 @@
-   REFRESH(0 sec):
-   [1]https://www.accessdata.fda.gov/apology_objects/abuse-detection-apolo
-   gy.html
-
-References
-
-   1. https://www.accessdata.fda.gov/apology_objects/abuse-detection-apology.html
