@@ -5,6 +5,7 @@ DOSSIER_ASPIRATION="/home/benoitcf/Documents/cours/PPE/projet_groupe_PPE/PPE-pro
 DOSSIER_DUMP="/home/benoitcf/Documents/cours/PPE/projet_groupe_PPE/PPE-projet/dumps-txt/dumps-txt-anglais"
 DOSSIER_CONCORDANCES="/home/benoitcf/Documents/cours/PPE/projet_groupe_PPE/PPE-projet/concordances/concordances_anglais"
 DOSSIER_CONTEXTES="/home/benoitcf/Documents/cours/PPE/projet_groupe_PPE/PPE-projet/contextes/contextes_anglais"
+DOSSIER_BIGRAMMES="/home/benoitcf/Documents/cours/PPE/projet_groupe_PPE/PPE-projet/bigrammes/bigrammes_anglais"
 TABLEAU="/home/benoitcf/Documents/cours/PPE/projet_groupe_PPE/PPE-projet/tableaux/tableau_anglais.html"
 
 mkdir -p "$DOSSIER_ASPIRATION" "$DOSSIER_DUMP" "$DOSSIER_CONCORDANCES" "$DOSSIER_CONTEXTES" "$(dirname "$TABLEAU")"
@@ -26,7 +27,7 @@ echo "<!DOCTYPE html>
                 <tr>
                     <th>ID</th><th>Code HTTP</th><th>URL</th><th>Encodage</th>
                     <th>Aspiration</th><th>Dump</th><th>Occurences</th>
-                    <th>Contextes</th><th>Concordances</th>
+                    <th>Contextes</th><th>Concordances</th><th>Bigrammes</th>
                 </tr>
             </thead>
             <tbody>" > "$TABLEAU"
@@ -68,6 +69,7 @@ while IFS= read -r URL; do
     <td>$OCCURENCES</td>
     <td><a href=\"../contextes/contextes_anglais/contextes_$NOM_BASE.txt\">Contextes</a></td>
     <td><a href=\"../concordances/concordances_anglais/concordance_$NOM_BASE.html\">Concordance</a></td>
+    <td><a href=\"../bigrammes/bigrammes_anglais/bigrammes-contextes_$NOM_BASE.html\">Bigramme</a></td>
     </tr>" >> "$TABLEAU"
 
     ((COMPTEUR++))

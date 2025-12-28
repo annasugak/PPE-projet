@@ -94,63 +94,65 @@
    illustration of spacecraft nearing a green comet
    Space Exploration Interstellar comet 3I/ATLAS is rapidly moving away
    from us. Can we 'intercept' it before it leaves us forever?
-   An artist&#039;s illustration of a satellite burning up on reentry
-   Space That was the week in science: Farewell comet 3I/ATLAS | Starlink
-   tumbles from orbit | AI’s giant carbon footprint
+   An artist&#039;s concept of the exoplanet PSR J2322-2650b (at left)
+   orbiting a pulsar (right)
+   Astronomy 'What the heck is this?' James Webb telescope spots
+   inexplicable planet with diamonds and soot in its atmosphere
+   Science news this week Dec. 20
+   Technology Japan laser weapon trial, comet 3I/ATLAS bids farewell, and
+   AI solves 'impossible' math problems
+   Composite of the first four images in this list.
+   Space Best space photos of 2025
+   An artist&#039;s impression of GRB 250702B, a bright white orb with
+   rays of light coming out among a white and pink cloud surrounded by the
+   blackness of space.
+   Astronomy Strange, 7-hour explosion from deep space is unlike anything
+   scientists have seen — Space photo of the week
+   Mathematical, scientific formulas and expressions
+   Physics & Mathematics Crack these scientific numbers and constants and
+   top the leaderboard
    A photograph of the Atacama Cosmology Telescope in Chile overlaid with
    a figure from its final data release. The figure shows the direction of
    magnetic polarization in microwaves from some of the earliest epochs of
    the universe.
    Cosmology 30 models of the universe proved wrong by final data from
    groundbreaking telescope
+   An artist&#039;s illustration of a satellite burning up on reentry
+   Space That was the week in science: Farewell comet 3I/ATLAS | Starlink
+   tumbles from orbit | AI’s giant carbon footprint
    This artist illustration shows the Local Bubble surrounding the Sun.
    Astronomy Mysterious, irradiated 'scar' in our galaxy may finally have
    an explanation
-   Science news this week Dec. 20
-   Technology Japan laser weapon trial, comet 3I/ATLAS bids farewell, and
-   AI solves 'impossible' math problems
-   An artist&#039;s impression of GRB 250702B, a bright white orb with
-   rays of light coming out among a white and pink cloud surrounded by the
-   blackness of space.
-   Astronomy Strange, 7-hour explosion from deep space is unlike anything
-   scientists have seen — Space photo of the week
    A composite image of Earth next to Mars in space
    Mars Time moves faster on Mars, posing new challenges to crewed
    missions
-   Composite of the first four images in this list.
-   Space Best space photos of 2025
+   Rainbow colored iridescent semiconductor wafer extreme close-up studio
+   shot.
+   Electronics 'Rainbow-on-a-chip' could help keep AI energy demands in
+   check — and it was created by accident
+   Illustration showing a bright yellow ring with rays of orange yellow
+   light coming out of it, all surrounded by petals of blue and white
+   light against a black background.
+   Astronomy NASA's Parker Solar Probe mapped an unseen part of the sun at
+   its most active moment
    One night in 1952, five transient objects (blue circles) appeared and
    disappeared within an hour, archival sky surveys show. Scientists are
    digging into the decades-old mystery.
    Extraterrestrial Life Scientists are debating a 70-year-old UFO mystery
    as new images come to light
-   Rainbow colored iridescent semiconductor wafer extreme close-up studio
-   shot.
-   Electronics 'Rainbow-on-a-chip' could help keep AI energy demands in
-   check — and it was created by accident
-   A photo of the Geminid meteor shower in the Kubuqi Desert of Inner
-   Mongolia, China.
-   Space That was the week in science: Second earthquake hits Japan |
-   Geminids to peak | NASA loses contact with Mars probe
    an illustration of a brain in a futuristic, digital style
    Computing Scientists say they've eliminated a major AI bottleneck — now
    they can process calculations 'at the speed of light'
    A colorful simulation of galaxies connected by tendrils of gas
    Particle Physics Historic search for 'huge missing piece' of the
    universe reveals new secrets of particle physics
-   A blurry image of a blue comet streaking through outer space
-   Extraterrestrial Life Is it aliens? Here's why that's the least
-   important question about 3I/ATLAS.
-   An optical illusion that appears to be moving
-   Human Behavior Time may be a psychological projection, philosopher
-   argues
 
    Trending
+     * Christmas crossword puzzle
+     * Guess the number quiz
      * Reliquary of the Holy Crib
+     * Cats meow at men
      * Christmas skywatching
-     * New EV motor invention
-     * 'Lucy' may not be our direct ancestor
-     * Japan 100-kilowatt laser
 
     1. Physics & Mathematics
 
@@ -465,6 +467,16 @@ Bibliography
 
 
    Latest in Physics & Mathematics
+   Mathematical, scientific formulas and expressions
+   Crack these scientific numbers and constants and top the leaderboard
+
+
+   Marie and Pierre Curie (center and right) in their lab with another
+   unidentified man.
+   Science history: Marie Curie discovers a strange radioactive substance
+   that would eventually kill her — Dec. 26, 1898
+
+
    A colorful simulation of galaxies connected by tendrils of gas
    Historic search for 'huge missing piece' of the universe reveals new
    secrets of particle physics
@@ -485,15 +497,6 @@ Bibliography
    galaxy.
    Did a NASA telescope really 'see' dark matter? Strange gamma-rays spark
    bold claims, but scientists urge caution
-
-
-   A white sphere deep underground
-   World's largest neutrino detector starts up — with incredible results
-
-
-   Two stars blazing within a wispy gas cloud in space
-   Two stars spiraling toward catastrophe are putting Einstein's gravity
-   to the test
 
 
    Latest in References
@@ -526,19 +529,26 @@ Bibliography
 
 
    LATEST ARTICLES
-    1. Montane tropical rainforest on the slopes of Mount Elgon.
+    1. A large fish-eating dinosaur died beside a river 125 million years
+       ago in Cretaceous Thailand. Now, the remains of this ancient
+       predator are helping researchers better understand Asia's enigmatic
+       spinosaurids.
        1
-       Earth's seasons vary wildly, even at the same latitude, new
-       research finds
+       Spinosaurus relative longer than a pickup truck stalked Thailand's
+       rivers 125 million years ago
     2. 2
-       18,000 years ago, ice age humans built dwellings out of mammoth
-       bones in Ukraine
+       New electrochemical method splits water with electricity to produce
+       hydrogen fuel — and cuts energy costs in the process
     3. 3
-       Tiny implant 'speaks' to the brain with LED light
+       Uranus and Neptune may be 'rock giants,' not 'ice giants,' new
+       model of their cores suggests
     4. 4
-       Cats meow more at men to get their attention, study suggests
+       Diagnostic dilemma quiz: Can you guess the diagnosis in these
+       strange medical cases?
     5. 5
-       NASA spacecraft takes milestone 100,000th image of Mars (photo)
+       1.5 million-year-old Homo erectus face was just reconstructed — and
+       its mix of old and new traits is complicating the picture of human
+       evolution
 
    Live Science is part of Future US Inc, an international media group and
    leading digital publisher. Visit our corporate site.

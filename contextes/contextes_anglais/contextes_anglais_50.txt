@@ -15,7 +15,7 @@ An-Nur Meaning:
    light of all the worlds. His light illuminates the heart and provides
    clarity and guidance. Anyone who turns their back to the true light
    will be in darkness.
-   [section-divide.png]
+   [svg%3E] [section-divide.png]
 --
    Arabic Root:
    From the root nun-waw-ra (ن و ر), which has the following classical

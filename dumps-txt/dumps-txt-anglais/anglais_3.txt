@@ -388,7 +388,7 @@ Sign up to receive the latest dietitian-approved recipes and expert advice!
           + [X] Tuesday: Low-cost meals and healthy eating on a budget
           + [X] Thursday: Family favourites ready in a flash!
           + [X] Saturday: Most popular recipes and articles of the week
-     * Phone
+     * Name
        ____________________
        This field is for validation purposes and should be left unchanged.
 
@@ -425,17 +425,17 @@ Canned vegetables: How to keep the salt in...
 
 Recipes you may like
 
-   Spinach, pea, salmon and ricotta quiche
+   Fresh bean salad with zingy lemon dressing
 
-Spinach, pea, salmon and ricotta quiche
+Fresh bean salad with zingy lemon dressing
 
-   Pasta e fagioli
+   Quick blueberry tiramisu
 
-Pasta e fagioli
+Quick blueberry tiramisu
 
-   Corn and zucchini fritters with tomatoes
+   Mushroom soup
 
-Corn and zucchini fritters with tomatoes
+Mushroom soup
 
    Advertisement
 
@@ -503,7 +503,7 @@ Corn and zucchini fritters with tomatoes
           + [X] Tuesday: Low-cost meals and healthy eating on a budget
           + [X] Thursday: Family favourites ready in a flash!
           + [X] Saturday: Most popular recipes and articles of the week
-     * Email
+     * Comments
        ____________________
        This field is for validation purposes and should be left unchanged.
 

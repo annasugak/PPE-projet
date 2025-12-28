@@ -159,21 +159,16 @@
      * Why is light important for life on Earth?
 
    (BUTTON)
+   Britannica AI Icon
    (BUTTON)
    Science Physics
-
-optics
-
-   (BUTTON) Quick Summary
-   (BUTTON) Ask the Chatbot
    (BUTTON)
-   (BUTTON) Print
    print Print
    Please select which sections you would like to print:
      * [ ] Table Of Contents
 
    Print
-   (BUTTON) Cite
+   (BUTTON) CITE
    verifiedCite
    While every effort has been made to follow citation style rules, there
    may be some discrepancies. Please refer to the appropriate style manual
@@ -181,6 +176,7 @@ optics
    Select Citation Style
    [MLA____________________]
    (BUTTON) Copy Citation
+   (BUTTON)
    (BUTTON) Share
    Share
    Share to social media
@@ -226,13 +222,15 @@ optics
      * optics - Children's Encyclopedia (Ages 8-11)
      * optics - Student Encyclopedia (Ages 11 and up)
 
-   (BUTTON) Quick Summary (BUTTON) Ask the Chatbot a Question
+optics
+
+   (BUTTON) Ask Anything (BUTTON) Quick Summary (BUTTON) Homework Help
    Written by
-   Brian J. Thompson
-   Provost Emeritus, Distinguished University Professor, and Professor of
-   Optics, University of Rochester, New York. Author of Physical Optics
-   Notebook.
-   Brian J. ThompsonAll
+   Rudolf Kingslake
+   Emeritus Professor of Optics, University of Rochester. Director of
+   Optical Design, Eastman Kodak Company, Rochester, New York, 1939–69.
+   Author of Optical System Design and others; editor of Applied...
+   Rudolf KingslakeAll
    Fact-checked by
    Britannica Editors
    Encyclopaedia Britannica's editors oversee subject areas in which they
@@ -240,9 +238,14 @@ optics
    working on that content or via study for an advanced degree....
    Britannica Editors
    History
+   (BUTTON) Britannica AI Icon Britannica AI
+   (BUTTON) Ask Anything (BUTTON) Quick Summary (BUTTON) Homework Help
+   (BUTTON) optics (BUTTON) Basic Concepts (BUTTON) Refraction and
+   Reflection (BUTTON) Lens and Mirrors (BUTTON) Wave Optics (BUTTON)
+   Optical Instruments (BUTTON) Light and Electromagnetic Spectrum
+   (BUTTON) Applications of Optics
    (BUTTON) Table of Contents
-   (BUTTON) Table of Contents (BUTTON) Quick Summary (BUTTON) Ask the
-   Chatbot a Question
+   (BUTTON) Table of Contents (BUTTON) Quick Summary (BUTTON) Ask Anything
    Top Questions
      * What is optics?
      * What is light and how does it help us see things?
@@ -1505,10 +1508,10 @@ Visual brightness
 
    Related Topics:
           footcandle
+          quantum optics
+          Lambert’s law
           catoptrics
           optical system
-          quantum optics
-          Standard Candle
 
    (BUTTON) (Show more)
    See all related content

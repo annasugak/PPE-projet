@@ -124,7 +124,7 @@ More
    Join our email list to get the latest news from DarkSky International,
    including our monthly newsletter. Emails go out twice per month and
    follow a strict privacy policy.
-     * Facebook
+     * Company
        ____________________
        This field is for validation purposes and should be left unchanged.
      * Email(Required)
@@ -138,7 +138,7 @@ Stay up to date
    and more. Emails go out about 2x per month. We follow a strict privacy
    policy.
 
-     * Phone
+     * Company
        ____________________
        This field is for validation purposes and should be left unchanged.
      * Email(Required)
