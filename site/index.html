@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Lumière - Projet PPE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <style>
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=1500') center/cover;
+        }
+        .footer { background-color: #f5f5f5; padding: 3rem 1.5rem 6rem; }
+        .content h2 { color: #3273dc; padding-bottom: 0.5rem; }
+        .wordcloud-container {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .wordcloud-img {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 100%;
+            height: auto;
+            transition: transform 0.3s;
+        }
+        .wordcloud-img:hover { transform: scale(1.02); }
+        .authors-list { list-style: none !important; margin-left: 0 !important; }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="index.html"><strong>PPE - Lumière</strong></a>
+        </div>
+        <div id="navbarMenu" class="navbar-menu is-active">
+            <div class="navbar-start">
+                <a class="navbar-item" href="index.html">Accueil</a>
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link">Scripts</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" href="scripts_concordances.html">Concordanciers (En, Fr, Ru)</a>
+                        <a class="navbar-item" href="scripts_contextes.html">Contextes (En, Fr, Ru)</a>
+                        <a class="navbar-item" href="scripts_aspirations.html">Aspiration HTML (En, Fr, Ru)</a>
+                        <a class="navbar-item" href="scripts_textes.html">Dumping Texte (En, Fr, Ru)</a>
+                    </div>
+                </div>
+                <a class="navbar-item" href="tableaux.html">Tableaux</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero is-info is-large">
+        <div class="hero-body has-text-centered">
+            <div class="container">
+                <h1 class="title is-1" style="color: white;">Lumière | Свет | Light</h1>
+                <p class="subtitle is-3" style="color: white;">Exploration du Traitement Automatique des Langues via le projet PPE</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+
+            <div class="content is-medium block">
+                <h2 class="title">À la découverte de la vie multilingue des mots</h2>
+                <p>
+                    Ce projet s'inscrit dans le cadre du module <strong>PPE</strong> (Projet de Programmation Encadré). Notre démarche consiste à analyser comment un concept unique — ici, la <strong>Lumière</strong> — s'articule et se diffuse à travers différents types de discours dans trois langues majeures : le français, le russe et l'anglais.
+                </p>
+            </div>
+
+            <div class="content is-medium block has-background-light p-5" style="border-radius: 8px;">
+                <h2 class="title is-4">Équipe du projet</h2>
+                <p>Ce travail a été réalisé par les étudiants du <strong>Master 1 Traitement Automatique des Langues (TAL)</strong> :</p>
+                <ul class="authors-list">
+                    <li><strong>Anna Sugak</strong> - Université Paris-Nanterre</li>
+                    <li><strong>Benoit Chan-Fook</strong> - Université Sorbonne-Nouvelle</li>
+                    <li><strong>Houssaynatou Diallo</strong> - Inalco</li>
+                </ul>
+            </div>
+
+            <div class="content is-medium block">
+                <h2 class="title">Nuages de mots</h2>
+                <div class="columns is-multiline">
+                    <div class="column is-4 wordcloud-container">
+                        <p><strong>Français</strong></p>
+                        <img src="../tableaux/nuage_mots_fra.png" alt="Nuage de mots Français" class="wordcloud-img">
+                    </div>
+                    <div class="column is-4 wordcloud-container">
+                        <p><strong>Anglais</strong></p>
+                        <img src="../tableaux/nuage_mots_anglais.png" alt="Nuage de mots Anglais" class="wordcloud-img">
+                    </div>
+                    <div class="column is-4 wordcloud-container">
+                        <p><strong>Russe</strong></p>
+                        <img src="../tableaux/nuage_mots_russe.png" alt="Nuage de mots Russe" class="wordcloud-img">
+                    </div>
+                </div>
+            </div>
+
+            <div class="content is-medium block">
+                <h2 class="title">Méthodologie et Traitement des données</h2>
+                <p>Le flux de travail repose sur l'automatisation via des scripts Bash (Shell) :</p>
+                <ul>
+                    <li><strong>Constitution du corpus :</strong> Collecte d'URLs variés pour chaque langue.</li>
+                    <li><strong>Aspiration et Nettoyage :</strong> Récupération du code HTML source et conversion en texte brut via l'outil Lynx.</li>
+                    <li><strong>Analyse :</strong> Utilisation d'expressions régulières (Grep) pour extraire les occurrences du mot cible et ses contextes linguistiques.</li>
+                    <li><strong>Visualisation :</strong> Génération de tableaux de synthèse et de nuages de mots.</li>
+                </ul>
+            </div>
+
+            <div class="content is-medium block">
+                <h2 class="title">Choix du mot : Lumière</h2>
+                <p>
+                    Le choix du mot <strong>Lumière</strong> permet d'explorer une polysémie riche. En français, il évoque la clarté intellectuelle. En russe, le mot <strong>"Свет"</strong> lie le phénomène physique à une dimension spirituelle. En anglais, <strong>"Light"</strong> balance entre les notions de luminosité et de légèreté.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>
+                <strong>Projet PPE - 2025-2026</strong><br>
+                Master 1 Traitement Automatique des Langues (TAL)<br>
+                <em>Université Paris-Nanterre | Université Sorbonne-Nouvelle | Inalco</em>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Scripts Aspiration - PPE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <style>
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=1500') center/cover;
+            padding: 2rem 0;
+        }
+        pre {
+            background-color: #2d2d2d;
+            color: #f8f8f2;
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.85rem;
+            line-height: 1.2;
+        }
+        .language-title {
+            margin-top: 3rem;
+            border-bottom: 2px solid #ffdd57;
+            padding-bottom: 0.5rem;
+            color: #ffdd57;
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-warning">
+        <div class="hero-body has-text-centered">
+            <h1 class="title is-2" style="color: white;">Scripts d'Aspiration HTML</h1>
+            <p class="subtitle" style="color: white;">Récupération automatisée des pages web (En, Fr, Ru)</p>
+            <a href="index.html" class="button is-light is-outlined mt-3">Retour à l'accueil</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+
+            <div class="block">
+                <h2 class="title is-4 language-title">1 - Script pour l'Anglais (Wget)</h2>
+                <pre><code>#!/bin/bash
+
+FICHIER_URLS="./URLs/urls_anglais.txt"
+DOSSIER_DESTINATION="./aspirations"
+
+mkdir -p "$DOSSIER_DESTINATION"
+
+compteur=1
+
+while read -r url || [ -n "$url" ]; do
+    if [ -n "$url" ]; then
+        nom_fichier="anglais_${compteur}.html"
+        echo "Téléchargement ($compteur): $url"
+        wget -q -U "Mozilla/5.0" "$url" -O "$DOSSIER_DESTINATION/$nom_fichier.html"
+        sleep 1
+        compteur=$((compteur+1))
+    fi
+done < "$FICHIER_URLS"</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">2 - Script pour le Français (Curl)</h2>
+                <pre><code>#!/bin/bash
+
+INPUT="./URLs/urls_francais.txt"
+OUTPUT_DIR="./aspirations/aspiration_fra"
+
+mkdir -p "$OUTPUT_DIR"
+
+while IFS= read -r url
+do
+    filename=$(echo "$url" | sed 's/[^a-zA-Z0-9]/_/g').html
+    echo "Aspirer : $url"
+    curl -Ls "$url" -o "$OUTPUT_DIR/$filename"
+    echo "→ Enregistré dans : $OUTPUT_DIR/$filename"
+done < "$INPUT"
+
+echo "Aspiration terminée !"</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">3 - Script pour le Russe (Wget)</h2>
+                <pre><code>#!/bin/bash
+
+FICHIER_LIENS="./URLs/urls_russe.txt"
+DOSSIER_RESULTATS="./aspirations/aspiration_russe"
+
+mkdir -p "$DOSSIER_RESULTATS"
+
+compteur=1
+
+while read -r line || [ -n "$line" ]; do
+    if [ -n "$line" ]; then
+        nom_fichier="russe_${compteur}.html"
+        echo "Téléchargement ($compteur): $line"
+        wget -q --show-progress -O "$DOSSIER_RESULTATS/$nom_fichier" "$line"
+        compteur=$((compteur+1))
+        sleep 1
+    fi
+done < "$FICHIER_LIENS"</code></pre>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>Projet PPE - 2025-2026 | Master TAL</p>
+        </div>
+    </footer>
+</body>
+</html>

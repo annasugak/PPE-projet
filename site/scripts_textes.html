@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Scripts Dumping - PPE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <style>
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=1500') center/cover;
+            padding: 2rem 0;
+        }
+        pre {
+            background-color: #2d2d2d;
+            color: #f8f8f2;
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: monospace;
+            font-size: 0.85rem;
+            line-height: 1.2;
+        }
+        .language-title {
+            margin-top: 3rem;
+            border-bottom: 2px solid #ff3860;
+            padding-bottom: 0.5rem;
+            color: #ff3860;
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-danger">
+        <div class="hero-body has-text-centered">
+            <h1 class="title is-2" style="color: white;">Scripts de Dumping Texte</h1>
+            <p class="subtitle" style="color: white;">Conversion du HTML en texte brut (En, Fr, Ru)</p>
+            <a href="index.html" class="button is-light is-outlined mt-3">Retour à l'accueil</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+
+            <div class="block">
+                <h2 class="title is-4 language-title">1 - Script pour l'Anglais (Lynx)</h2>
+                <pre><code>#!/bin/bash
+FICHIER_URLS="./URLs/urls_anglais.txt"
+DOSSIER_DESTINATION="./dumps-txt"
+mkdir -p "$DOSSIER_DESTINATION"
+compteur=1
+while read -r url || [ -n "$url" ]; do
+    if [ -n "$url" ]; then
+        echo "Traitement de l'URL $compteur: $url"
+        lynx -dump "$url" > "$DOSSIER_DESTINATION/dump_${compteur}.txt" 2>/dev/null
+    else
+        echo "Erreur sur l'URL : $url"
+    fi
+    compteur=$((compteur + 1))
+done < "$FICHIER_URLS"</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">2 - Script pour le Français (Sed)</h2>
+                <pre><code>#!/bin/bash
+INPUT="./URLs/urls_francais.txt"
+OUTPUT_DIR="./dumps-txt/dumps-txt-fra"
+
+mkdir -p "$OUTPUT_DIR"
+
+while IFS= read -r url
+do
+    filename=$(echo "$url" | sed 's/[^a-zA-Z0-9]/_/g').txt
+    echo "Téléchargement de : $url"
+    html=$(curl -Ls "$url")
+    echo "$html" | sed 's/&lt;[^&gt;]*&gt;//g' > "$OUTPUT_DIR/$filename"
+    echo "→ Enregistré : $OUTPUT_DIR/$filename"
+done < "$INPUT"
+
+echo "Conversion terminée !"</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">3 - Script pour le Russe (Wget & Lynx)</h2>
+                <pre><code>#!/bin/bash
+URL_FILE="./URLs/urls_russe.txt"
+OUTPUT_DIR="./dumps-txt/dumps-txt-russe"
+TEMP_FILE="./temp_html_content.html"
+mkdir -p "$OUTPUT_DIR"
+COUNTER=1
+while IFS= read -r url || [[ -n "$url" ]]; do
+    if [[ -n "$url" && ! "$url" =~ ^[[:space:]]*# ]]; then
+        OUTPUT_PATH="$OUTPUT_DIR/russe_${COUNTER}.txt"
+        wget -q --tries=1 --timeout=15 -O "$TEMP_FILE" "$url"
+        if [ $? -eq 0 ]; then
+            cat "$TEMP_FILE" | \
+            sed 's/&lt;script[^&gt;]*&gt;.*&lt;\/script&gt;//gI;s/&lt;style[^&gt;]*&gt;.*&lt;\/style&gt;//gI' | \
+            lynx -stdin -dump -nolist -display_charset=utf-8 | \
+            iconv -f UTF-8 -t UTF-8 -c > "$OUTPUT_PATH"
+        fi
+        COUNTER=$((COUNTER + 1))
+    fi
+done < "$URL_FILE"
+rm -f "$TEMP_FILE"</code></pre>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>Projet PPE - 2025-2026 | Master TAL</p>
+        </div>
+    </footer>
+</body>
+</html>

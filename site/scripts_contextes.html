@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Scripts Contextes - PPE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=1500') center/cover;
+            padding: 2rem 0;
+        }
+        pre {
+            background-color: #2d2d2d;
+            color: #f8f8f2;
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.85rem;
+            line-height: 1.2;
+        }
+        .language-title {
+            margin-top: 3rem;
+            border-bottom: 2px solid #23d160;
+            padding-bottom: 0.5rem;
+            color: #23d160;
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-success">
+        <div class="hero-body has-text-centered">
+            <h1 class="title is-2" style="color: white;">Scripts d'Extraction de Contextes</h1>
+            <p class="subtitle" style="color: white;">Analyse de l'environnement lexical (En, Fr, Ru)</p>
+            <a href="index.html" class="button is-light is-outlined mt-3">
+                <span class="icon"><i class="fas fa-home"></i></span>
+                <span>Retour à l'accueil</span>
+            </a>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+
+            <div class="block">
+                <h2 class="title is-4 language-title">1 - Script pour l'Anglais (Light)</h2>
+                <pre><code>#!/bin/bash
+
+DOSSIER_SOURCE="./dumps-txt/dumps-txt-anglais"
+DOSSIER_CIBLE="./contextes/contextes_anglais"
+MOTIF="[Ll]ight"
+
+mkdir -p "$DOSSIER_CIBLE"
+
+for fichier_txt in "$DOSSIER_SOURCE"/*.txt; do
+    [ -e "$fichier_txt" ] || continue
+
+    nom_fichier=$(basename "$fichier_txt" .txt)
+    fichier_contextes="$DOSSIER_CIBLE/contextes_${nom_fichier}.txt"
+
+    grep -Pio "(\S+\s+){0,15}$MOTIF(\S*)?(\s+\S+){0,15}" "$fichier_txt" | sed 's/$/\n\n/' > "$fichier_contextes"
+done</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">2 - Script pour le Français (Lumière)</h2>
+                <pre><code>#!/bin/bash
+
+DOSSIER_SOURCE="./dumps-txt/dumps-txt-fra"
+DOSSIER_CIBLE="./contextes/contextes_fra"
+
+MOTIF="[Ll]umi[eè]re"
+
+mkdir -p "$DOSSIER_CIBLE"
+
+for fichier_txt in "$DOSSIER_SOURCE"/*.txt; do
+    [ -e "$fichier_txt" ] || continue
+
+    nom_base=$(basename "$fichier_txt" .txt | cut -c1-50)
+    fichier_contextes="$DOSSIER_CIBLE/contextes_${nom_base}.txt"
+
+    grep -Eoi "(\S+\s+){0,15}$MOTIF(\S*){0,1}(\s+\S+){0,15}" "$fichier_txt" \
+    | sed 's/$/\n----------------------------/' \
+    > "$fichier_contextes"
+done</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">3 - Script pour le Russe (Свет)</h2>
+                <pre><code>#!/bin/bash
+
+DOSSIER_SOURCE="./dumps-txt/dumps-txt-russe"
+DOSSIER_CIBLE="./contextes/contextes_russe"
+MOTIF="[Сс]вет"
+
+mkdir -p "$DOSSIER_CIBLE"
+
+for fichier_txt in "$DOSSIER_SOURCE"/*.txt; do
+    [ -e "$fichier_txt" ] || continue
+
+    nom_base=$(basename "$fichier_txt" .txt)
+    fichier_contextes="$DOSSIER_CIBLE/contextes_${nom_base}.txt"
+
+    grep -Pio "(\S+\s+){0,15}$MOTIF(\S*){0,1}(\s+\S+){0,15}" "$fichier_txt" | sed 's/$/\n----------------------------/' > "$fichier_contextes"
+done</code></pre>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>Projet PPE - 2025-2026 | Master TAL | Université Paris-Nanterre | Université Sorbonne-Nouvelle | Inalco</p>
+        </div>
+    </footer>
+
+</body>
+</html>

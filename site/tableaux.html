@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Tableaux des résultats - PPE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <style>
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=1500') center/cover;
+            padding: 2rem 0;
+        }
+        .lang-card {
+            transition: transform 0.3s;
+            text-align: center;
+            padding: 2rem;
+        }
+        .lang-card:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-link">
+        <div class="hero-body has-text-centered">
+            <h1 class="title is-2" style="color: white;">Tableaux des Résultats</h1>
+            <p class="subtitle" style="color: white;">Sélectionnez la langue pour voir l'analyse détaillée</p>
+            <a href="index.html" class="button is-light is-outlined mt-3">Retour à l'accueil</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-centered">
+                <div class="column is-4">
+                    <div class="box lang-card">
+                        <h2 class="title is-4">Anglais</h2>
+                        <p class="subtitle is-6">Mot : Light</p>
+                        <a href="../tableaux/tableau_anglais.html" class="button is-info is-fullwidth">Voir le tableau</a>
+                    </div>
+                </div>
+
+                <div class="column is-4">
+                    <div class="box lang-card">
+                        <h2 class="title is-4">Français</h2>
+                        <p class="subtitle is-6">Mot : Lumière</p>
+                        <a href="../tableaux/tableau_francais.html" class="button is-info is-fullwidth">Voir le tableau</a>
+                    </div>
+                </div>
+
+                <div class="column is-4">
+                    <div class="box lang-card">
+                        <h2 class="title is-4">Russe</h2>
+                        <p class="subtitle is-6">Mot : Свет</p>
+                        <a href="../tableaux/tableau_russe.html" class="button is-info is-fullwidth">Voir le tableau</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>Projet PPE - 2025-2026 | Master TAL</p>
+        </div>
+    </footer>
+</body>
+</html>
