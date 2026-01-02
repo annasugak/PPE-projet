@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Scripts Bigrammes - PPE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <style>
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=1500') center/cover;
+            padding: 2rem 0;
+        }
+        pre {
+            background-color: #2d2d2d;
+            color: #f8f8f2;
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: monospace;
+            font-size: 0.85rem;
+            line-height: 1.2;
+        }
+        .language-title {
+            margin-top: 3rem;
+            border-bottom: 2px solid #8c67ef;
+            padding-bottom: 0.5rem;
+            color: #8c67ef;
+        }
+    </style>
+</head>
+<body>
+
+    <section class="hero is-primary">
+        <div class="hero-body has-text-centered">
+            <h1 class="title is-2" style="color: white;">Scripts des Bigrammes</h1>
+            <p class="subtitle" style="color: white;">Extraction des paires de mots fréquentes (En, Fr, Ru)</p>
+            <a href="index.html" class="button is-light is-outlined mt-3">Retour à l'accueil</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+
+            <div class="block">
+                <h2 class="title is-4 language-title">1 - Script pour l'Anglais</h2>
+                <pre><code>#!/bin/bash
+mkdir -p ./bigrammes/bigrammes_anglais
+
+for fichier in ./contextes/contextes_anglais/*.txt
+do
+    [ -e "$fichier" ] || continue
+    nom_base=$(basename "$fichier" .txt)
+    fichier_sortie="./bigrammes/bigrammes_anglais/bigrammes-${nom_base}.html"
+
+    echo "<html><head><meta charset='UTF-8'></head><body>" > "$fichier_sortie"
+    echo "<h2 style='text-align: center;'>Bigrammes pour : $nom_base</h2>" >> "$fichier_sortie"
+    echo "<table border='1' style='width: 100%; text-align: center; border-collapse: collapse;'>" >> "$fichier_sortie"
+    echo "<tr style='background-color: #f2f2f2;'><th>Fréquence</th><th>Bigramme</th></tr>" >> "$fichier_sortie"
+
+    tr -cs "[:alpha:]" "\n" < "$fichier" > contexte_au_propre.txt
+
+    paste -d " " contexte_au_propre.txt <(tail -n +2 contexte_au_propre.txt) | \
+    sort | uniq -c | sort -nr | head -n 20 | \
+    awk '{print "<tr><td>" $1 "</td><td>" $2 " " $3 "</td></tr>"}' >> "$fichier_sortie"
+
+    echo "</table></body></html>" >> "$fichier_sortie"
+done
+rm contexte_au_propre.txt</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">2 - Script pour le Français</h2>
+                <pre><code>#!/bin/bash
+mkdir -p ./bigrammes/bigrammes_fra
+
+for fichier in ./contextes/contextes_fra/*.txt
+do
+    [ -e "$fichier" ] || continue
+    nom_base=$(basename "$fichier" .txt)
+    fichier_sortie="./bigrammes/bigrammes_fra/bigrammes-${nom_base}.html"
+
+    echo "<html><head><meta charset='UTF-8'></head><body>" > "$fichier_sortie"
+    echo "<h2 style='text-align: center;'>Bigrammes pour : $nom_base</h2>" >> "$fichier_sortie"
+    echo "<table border='1' style='width: 100%; text-align: center; border-collapse: collapse;'>" >> "$fichier_sortie"
+    echo "<tr style='background-color: #f2f2f2;'><th>Fréquence</th><th>Bigramme</th></tr>" >> "$fichier_sortie"
+
+    LC_ALL=C tr -cs "[:alpha:]" "\n" < "$fichier" > contexte_au_propre.txt
+
+    paste -d " " contexte_au_propre.txt <(tail -n +2 contexte_au_propre.txt) | \
+    sort | uniq -c | sort -nr | head -n 20 | \
+    awk '{print "<tr><td>" $1 "</td><td>" $2 " " $3 "</td></tr>"}' >> "$fichier_sortie"
+
+    echo "</table></body></html>" >> "$fichier_sortie"
+done
+rm -f contexte_au_propre.txt</code></pre>
+            </div>
+
+            <div class="block">
+                <h2 class="title is-4 language-title">3 - Script pour le Russe</h2>
+                <pre><code>#!/bin/bash
+mkdir -p ./bigrammes/bigrammes_russe
+compteur=1
+
+for fichier in ./contextes/contextes_russe/*.txt
+do
+    [ -e "$fichier" ] || continue
+    nom_base=$(basename "$fichier" .txt)
+    fichier_sortie="./bigrammes/bigrammes_russe/bigrammes_contextes_russe_${compteur}.html"
+
+    echo "<html><head><meta charset='UTF-8'></head><body>" > "$fichier_sortie"
+    echo "<h2 style='text-align: center;'>Bigrammes pour le mot 'свет' : $nom_base</h2>" >> "$fichier_sortie"
+    echo "<table border='1' style='width: 100%; text-align: center; border-collapse: collapse;'>" >> "$fichier_sortie"
+    echo "<tr style='background-color: #f2f2f2;'><th>Fréquence</th><th>Bigramme</th></tr>" >> "$fichier_sortie"
+
+    grep -oE "[а-яА-ЯёЁa-zA-Z]+" "$fichier" > contexte_au_propre.txt
+
+    paste -d " " contexte_au_propre.txt <(tail -n +2 contexte_au_propre.txt) | \
+    grep -i "свет" | \
+    sort | uniq -c | sort -nr | head -n 20 | \
+    awk '{print "<tr><td>" $1 "</td><td>" $2 " " $3 "</td></tr>"}' >> "$fichier_sortie"
+
+    echo "</table></body></html>" >> "$fichier_sortie"
+    ((compteur++))
+done
+rm -f contexte_au_propre.txt</code></pre>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>Projet PPE - 2025-2026 | Master TAL</p>
+        </div>
+    </footer>
+</body>
+</html>
