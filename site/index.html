@@ -26,6 +26,7 @@
         }
         .wordcloud-img:hover { transform: scale(1.02); }
         .authors-list { list-style: none !important; margin-left: 0 !important; }
+        .analysis-box { border-left: 5px solid #3273dc; padding-left: 1.5rem; background-color: #f9f9f9; padding: 20px; border-radius: 0 8px 8px 0; }
     </style>
 </head>
 <body>
@@ -82,6 +83,17 @@
             </div>
 
             <div class="content is-medium block">
+                <h2 class="title">Méthodologie et Traitement des données</h2>
+                <p>Le flux de travail repose sur l'automatisation via des scripts Bash (Shell) :</p>
+                <ul>
+                    <li><strong>Constitution du corpus :</strong> Collecte d'URLs variés pour chaque langue.</li>
+                    <li><strong>Aspiration et Nettoyage :</strong> Récupération du code HTML source et conversion en texte brut via l'outil Lynx.</li>
+                    <li><strong>Analyse :</strong> Utilisation d'expressions régulières (Grep) pour extraire les occurrences du mot cible, ses contextes linguistiques et l'analyse de bigrammes.</li>
+                    <li><strong>Visualisation :</strong> Génération de tableaux de synthèse et de nuages de mots.</li>
+                </ul>
+            </div>
+
+            <div class="content is-medium block">
                 <h2 class="title">Nuages de mots</h2>
                 <div class="columns is-multiline">
                     <div class="column is-4 wordcloud-container">
@@ -99,22 +111,25 @@
                 </div>
             </div>
 
-            <div class="content is-medium block">
-                <h2 class="title">Méthodologie et Traitement des données</h2>
-                <p>Le flux de travail repose sur l'automatisation via des scripts Bash (Shell) :</p>
-                <ul>
-                    <li><strong>Constitution du corpus :</strong> Collecte d'URLs variés pour chaque langue.</li>
-                    <li><strong>Aspiration et Nettoyage :</strong> Récupération du code HTML source et conversion en texte brut via l'outil Lynx.</li>
-                    <li><strong>Analyse :</strong> Utilisation d'expressions régulières (Grep) pour extraire les occurrences du mot cible, ses contextes linguistiques et l'analyse de bigrammes.</li>
-                    <li><strong>Visualisation :</strong> Génération de tableaux de synthèse et de nuages de mots.</li>
-                </ul>
-            </div>
-
-            <div class="content is-medium block">
-                <h2 class="title">Choix du mot : Lumière</h2>
+            <div class="content is-medium block analysis-box">
+                <h2 class="title is-3">Analyse de l'usage des mots</h2>
                 <p>
-                    Le choix du mot <strong>Lumière</strong> permet d'explorer une polysémie riche. En français, il évoque la clarté intellectuelle. En russe, le mot <strong>"Свет"</strong> lie le phénomène physique à une dimension spirituelle. En anglais, <strong>"Light"</strong> balance entre les notions de luminosité et de légèreté.
+                    Notre corpus révèle que le terme « Lumière » transcende sa simple définition physique. Il sert de carrefour à diverses expériences humaines :
                 </p>
+                <div class="columns">
+                    <div class="column">
+                        <ul>
+                            <li><strong>Physique et Technologie :</strong> Des sources naturelles (soleil, étoiles) à l'éclairage artificiel, en passant par l'héritage technique des <strong>Frères Lumière</strong> dans le cinéma.</li>
+                            <li><strong>Historique et Intellectuel :</strong> Symbole central du siècle des <strong>Lumières</strong>, représentant la raison, le savoir et le progrès face à l'obscurantisme.</li>
+                        </ul>
+                    </div>
+                    <div class="column">
+                        <ul>
+                            <li><strong>Artistique et Métaphorique :</strong> Omniprésent dans la littérature comme métaphore de l'espoir ou de la vérité, et intrinsèquement lié à la théorie des <strong>Couleurs</strong>.</li>
+                            <li><strong>Spirituel et Symbolique :</strong> Particulièrement dans le contexte slave (Свет), où le mot porte souvent une dimension spirituelle, divine ou renvoie à l'idée du « monde ».</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
 
         </div>
